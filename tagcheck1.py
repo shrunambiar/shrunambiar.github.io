@@ -19,6 +19,8 @@ filename = sys.argv[1]
 f = open(filename, "r")
 
 data = BeautifulSoup(f.read(), "lxml")
-
+l =[]
 for a in data.find_all('n'):
-    print a.string
+    l.append(a.string)
+
+print l
