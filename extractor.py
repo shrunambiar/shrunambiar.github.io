@@ -8,21 +8,25 @@ def words(data):
         for word in line.split():
             yield word
 
-list_of_one_gram=[]
-list_of_two_gram=[]
+list=[]
+
 for filename in glob.iglob('*.txt'):
      with open(filename, 'r') as myself:
          for word in words(myself):
-             list_of_one_gram.append(word)
+             list.append(word)
+
 i=0
-n=len(list_of_one_gram)-1
+n=len(list)-1
+
 while(i<n):
-    list_of_two_gram.append(list_of_one_gram[i]+ " " +list_of_one_gram[i+1])
+    list.append(list[i]+ " " +list[i+1])
+    i=i+1
+
+i=0
+while(i<n-1):
+    list.append(list[i]+ " " +list[i+1]+" " +list[i+2])
     i=i+1
 
 
-df = pandas.DataFrame(data={"1-gram": list_of_one_gram})
-df.to_csv("list_one.csv", sep=',',index=False)
-
-df = pandas.DataFrame(data={"2-gram": list_of_two_gram})
-df.to_csv("list_two.csv", sep=',',index=False)
+df = pandas.DataFrame(data={"All-Words": list})
+df.to_csv("list.csv", sep=',',index=False)
