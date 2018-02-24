@@ -7,6 +7,7 @@ df.insert(len(df.columns), "PRE_DIST_STOPWORD",100)
 df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
 df.insert(len(df.columns), "PrecedingTitle", False)
 df.insert(len(df.columns), "Apostrophe", False)
+df.insert(len(df.columns), "PRE_DIST_FROM_THE", 100)
 f = open('verbs4.txt')
 g = open('stopwords.txt')
 
@@ -31,6 +32,9 @@ def checkSucceedingApostrophe(instance):
 
     return False
 
+#------------------------------
+
+
 verbs = f.read().split()
 stopwords = g.read().split()
 
@@ -49,13 +53,21 @@ for j in range(len(df)):
         postring = ls[end+1:end + 5]
     else:
         postring = ls[end+1:len(ls)-1]
+
     for i in postring:
         if i in verbs:
             df.at[j,"POST_DIST_VERB"]=postring.index(i)
             break
+
+    for each in prestring:
+        if each=="the" or each=="The":
+            df.at[j,"PRE_DIST_FROM_THE"]=postring.index(each)
+            break
+
     for k in prestring:
         if k in verbs:
             df.at[j,"PRE_DIST_VERB"]=prestring.index(k)
+
     for i in postring:
         if i in stopwords:
             df.at[j, "POST_DIST_STOPWORD"] = postring.index(i)
@@ -71,4 +83,3 @@ for j in range(len(df)):
 print "Writing feature DIST_VERB to file"
 
 df.to_csv("distance to verb.csv", sep=',', index=False)
-
