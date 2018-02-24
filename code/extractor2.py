@@ -8,17 +8,21 @@ def words(data):
         for word in line.split():
             yield word
 
-def get_all_list():
+def get_all_list(typeoffile):
     list=[]
     filename_list=[]
     n_gram=[]
     start=[]
     end=[]
 
-    for filename in glob.iglob('./cleanfiles/*.txt'):
+    for filename in glob.iglob("./" + typeoffile + '/*.txt'):
          with open(filename, 'r') as myself:
              index=0
              for word in words(myself):
+                 if word[-1] == ",":
+                     word = word[:-1]
+                 if len(word) == 0:
+                     continue
                  list.append(word)
                  filename_list.append(filename)
                  n_gram.append(1)
@@ -47,15 +51,16 @@ def get_all_list():
     return list,filename_list,n_gram,start,end
 
 
-def print_to_csv():
+def print_to_csv(typeoffile):
     list=[]
     filename_list=[]
     n_gram=[]
     start=[]
     end=[]
-    list,filename_list,n_gram,start,end=get_all_list()
+    list,filename_list,n_gram,start,end=get_all_list(typeoffile)
     df = pandas.DataFrame(data={"All-Words": list, "filename": filename_list,"n-gram": n_gram, "start": start, "end":end})
-    df.to_csv("list.csv", sep=',',index=False)
+    df.to_csv("list" + typeoffile + ".csv", sep=',',index=False)
 
 if __name__ == '__main__':
-    print_to_csv()
+    # print_to_csv("cleanfiles")
+    print_to_csv("markedupfiles")
