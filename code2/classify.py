@@ -27,6 +27,13 @@ print scipy.stats.pearsonr(df['POST_DIST_STOPWORD'], target)
 # make predictions
 expected = target
 predicted = model.predict(data)
+
+n = len(expected)
+
+for i in range(n):
+    if expected[i] == True and predicted[i] == False:
+        print df.iloc(i, 'All-Words')
+
 # summarize the fit of the model
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
