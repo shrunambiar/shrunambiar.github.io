@@ -83,7 +83,7 @@ for j in range(len(df)):
             break
 
 
-    if preword=="the" or preword=="The":
+    if preword=="the" or preword=="The" or preword=="a" or preword=="A":
         df.at[j,"PRE_DIST_FROM_THE"]= True
         break
 
