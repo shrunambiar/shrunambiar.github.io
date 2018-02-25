@@ -9,8 +9,8 @@ df.insert(len(df.columns), "PrecedingTitle", False)
 df.insert(len(df.columns), "Apostrophe", False)
 df.insert(len(df.columns), "PRE_DIST_FROM_THE", 100)
 df.insert(len(df.columns), "PRE_DIST_FROM_POSITION", 100)
-f = open('verbs4.txt')
-g = open('stopwords.txt')
+f = open('./other_text_files/verbs4.txt')
+g = open('./other_text_files/stopwords.txt')
 
 def checkPrecedingPrefix(instance):
     l = instance.split(" ")

@@ -19,7 +19,7 @@ def get_all_list(typeoffile):
          with open(filename, 'r') as myself:
              index=0
              for word in words(myself):
-                 if word[-1] == ",":
+                 if word[-1] == "," or word[-1] == ":":
                      word = word[:-1]
                  if len(word) == 0:
                      continue
