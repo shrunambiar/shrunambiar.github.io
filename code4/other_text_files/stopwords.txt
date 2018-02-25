@@ -54,7 +54,9 @@ doing
 a
 an
 the
+The
 and
+And
 but
 if
 or
@@ -125,3 +127,6 @@ just
 don
 should
 now
+This
+These
+Some
