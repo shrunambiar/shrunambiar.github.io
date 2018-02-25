@@ -1,0 +1,402 @@
+All-Words,end,filename,n-gram,start,classtype
+Hewitt,0,./cleanfiles/003.txt,1,0,True
+'career,2,./cleanfiles/003.txt,1,2,False
+Plans,4,./cleanfiles/003.txt,1,4,False
+Labour's,17,./cleanfiles/003.txt,1,17,False
+Trade,21,./cleanfiles/003.txt,1,21,False
+Industry,23,./cleanfiles/003.txt,1,23,False
+Secretary,24,./cleanfiles/003.txt,1,24,False
+Patricia,27,./cleanfiles/003.txt,1,27,False
+Hewitt,28,./cleanfiles/003.txt,1,28,True
+"""increasingly",42,./cleanfiles/003.txt,1,42,False
+"""shared",47,./cleanfiles/003.txt,1,47,False
+Hewitt,52,./cleanfiles/003.txt,1,52,True
+Equal,64,./cleanfiles/003.txt,1,64,False
+Opportunities,65,./cleanfiles/003.txt,1,65,False
+Commission,66,./cleanfiles/003.txt,1,66,False
+Mothers,68,./cleanfiles/003.txt,1,68,False
+Hewitt,83,./cleanfiles/003.txt,1,83,True
+"""We",119,./cleanfiles/003.txt,1,119,False
+Hewitt,147,./cleanfiles/003.txt,1,147,True
+Plans,176,./cleanfiles/003.txt,1,176,False
+"""taster",191,./cleanfiles/003.txt,1,191,False
+Women,200,./cleanfiles/003.txt,1,200,False
+Equal,212,./cleanfiles/003.txt,1,212,False
+Opportunities,213,./cleanfiles/003.txt,1,213,False
+Commission,214,./cleanfiles/003.txt,1,214,False
+The,216,./cleanfiles/003.txt,1,216,False
+"""career",224,./cleanfiles/003.txt,1,224,False
+"""Career",234,./cleanfiles/003.txt,1,234,False
+"""It",251,./cleanfiles/003.txt,1,251,False
+BBC,273,./cleanfiles/003.txt,1,273,False
+Radio,274,./cleanfiles/003.txt,1,274,False
+Today,276,./cleanfiles/003.txt,1,276,False
+"""What",278,./cleanfiles/003.txt,1,278,False
+"""Career",333,./cleanfiles/003.txt,1,333,False
+Construction,354,./cleanfiles/003.txt,1,354,False
+"""But",358,./cleanfiles/003.txt,1,358,False
+Career,376,./cleanfiles/003.txt,1,376,False
+She,381,./cleanfiles/003.txt,1,381,False
+"""The",397,./cleanfiles/003.txt,1,397,False
+For,414,./cleanfiles/003.txt,1,414,False
+The,421,./cleanfiles/003.txt,1,421,False
+Department,422,./cleanfiles/003.txt,1,422,False
+Trade,424,./cleanfiles/003.txt,1,424,False
+Industry,426,./cleanfiles/003.txt,1,426,False
+TUC.,441,./cleanfiles/003.txt,1,441,False
+Research,456,./cleanfiles/003.txt,1,456,False
+EOC,460,./cleanfiles/003.txt,1,460,False
+Britons,466,./cleanfiles/003.txt,1,466,False
+"""natural",479,./cleanfiles/003.txt,1,479,False
+Women,484,./cleanfiles/003.txt,1,484,False
+FTSE,494,./cleanfiles/003.txt,1,494,False
+And,508,./cleanfiles/003.txt,1,508,False
+Watchdog,0,./cleanfiles/002.txt,1,0,False
+The,4,./cleanfiles/002.txt,1,4,False
+Cabinet,15,./cleanfiles/002.txt,1,15,False
+Office,16,./cleanfiles/002.txt,1,16,False
+Richard,28,./cleanfiles/002.txt,1,28,False
+Thomas,29,./cleanfiles/002.txt,1,29,False
+"""totally",30,./cleanfiles/002.txt,1,30,False
+January.,50,./cleanfiles/002.txt,1,50,False
+Government,51,./cleanfiles/002.txt,1,51,False
+"""no",62,./cleanfiles/002.txt,1,62,False
+Thomas,66,./cleanfiles/002.txt,1,66,False
+The,68,./cleanfiles/002.txt,1,68,False
+Tories,69,./cleanfiles/002.txt,1,69,False
+Lib,72,./cleanfiles/002.txt,1,72,False
+Dems,73,./cleanfiles/002.txt,1,73,False
+Tory,82,./cleanfiles/002.txt,1,82,False
+Michael,84,./cleanfiles/002.txt,1,84,False
+Howard,85,./cleanfiles/002.txt,1,85,False
+Tony,89,./cleanfiles/002.txt,1,89,False
+Blair,90,./cleanfiles/002.txt,1,90,False
+Monday,102,./cleanfiles/002.txt,1,102,False
+Lib,103,./cleanfiles/002.txt,1,103,False
+Dem,104,./cleanfiles/002.txt,1,104,False
+Alan,109,./cleanfiles/002.txt,1,109,False
+Beith,110,./cleanfiles/002.txt,1,110,False
+Hutton,129,./cleanfiles/002.txt,1,129,False
+Inquiry.,130,./cleanfiles/002.txt,1,130,False
+The,131,./cleanfiles/002.txt,1,131,False
+Freedom,140,./cleanfiles/002.txt,1,140,False
+Information,142,./cleanfiles/002.txt,1,142,False
+Act,143,./cleanfiles/002.txt,1,143,False
+"""too",148,./cleanfiles/002.txt,1,148,False
+Beith,156,./cleanfiles/002.txt,1,156,False
+But,158,./cleanfiles/002.txt,1,158,False
+Cabinet,160,./cleanfiles/002.txt,1,160,False
+Office,161,./cleanfiles/002.txt,1,161,False
+"""the",173,./cleanfiles/002.txt,1,173,False
+Beith,179,./cleanfiles/002.txt,1,179,False
+"""e-mail",189,./cleanfiles/002.txt,1,189,False
+"""support",192,./cleanfiles/002.txt,1,192,False
+Thomas,199,./cleanfiles/002.txt,1,199,False
+"""The",201,./cleanfiles/002.txt,1,201,False
+Act,203,./cleanfiles/002.txt,1,203,False
+Parliament,205,./cleanfiles/002.txt,1,205,False
+All,246,./cleanfiles/002.txt,1,246,False
+Thomas.,268,./cleanfiles/002.txt,1,268,False
+"""If",269,./cleanfiles/002.txt,1,269,False
+It's,286,./cleanfiles/002.txt,1,286,False
+"""But",306,./cleanfiles/002.txt,1,306,False
+The,322,./cleanfiles/002.txt,1,322,False
+Freedom,323,./cleanfiles/002.txt,1,323,False
+Information,325,./cleanfiles/002.txt,1,325,False
+Act,326,./cleanfiles/002.txt,1,326,False
+Wales,330,./cleanfiles/002.txt,1,330,False
+Northern,332,./cleanfiles/002.txt,1,332,False
+Ireland,333,./cleanfiles/002.txt,1,333,False
+Similar,337,./cleanfiles/002.txt,1,337,False
+Scotland.,348,./cleanfiles/002.txt,1,348,False
+Its,370,./cleanfiles/002.txt,1,370,False
+Labour,0,./cleanfiles/001.txt,1,0,False
+Maternity,5,./cleanfiles/001.txt,1,5,False
+Trade,23,./cleanfiles/001.txt,1,23,False
+Industry,25,./cleanfiles/001.txt,1,25,False
+Secretary,26,./cleanfiles/001.txt,1,26,False
+Patricia,27,./cleanfiles/001.txt,1,27,False
+Hewitt.,28,./cleanfiles/001.txt,1,28,False
+Hewitt,43,./cleanfiles/001.txt,1,43,True
+GMTV's,45,./cleanfiles/001.txt,1,45,False
+Sunday,46,./cleanfiles/001.txt,1,46,False
+Other,48,./cleanfiles/001.txt,1,48,False
+The,66,./cleanfiles/001.txt,1,66,False
+Tories,67,./cleanfiles/001.txt,1,67,False
+Liberal,77,./cleanfiles/001.txt,1,77,False
+Democrats,78,./cleanfiles/001.txt,1,78,False
+Hewitt,84,./cleanfiles/001.txt,1,84,True
+"""We",86,./cleanfiles/001.txt,1,86,False
+"""We",112,./cleanfiles/001.txt,1,112,False
+"Parliament.""",144,./cleanfiles/001.txt,1,144,False
+She,145,./cleanfiles/001.txt,1,145,False
+"""We",172,./cleanfiles/001.txt,1,172,False
+She,200,./cleanfiles/001.txt,1,200,False
+The,239,./cleanfiles/001.txt,1,239,False
+Shadow,240,./cleanfiles/001.txt,1,240,False
+Secretary,241,./cleanfiles/001.txt,1,241,False
+State,243,./cleanfiles/001.txt,1,243,False
+Theresa,247,./cleanfiles/001.txt,1,247,False
+"""These",250,./cleanfiles/001.txt,1,250,False
+Gordon,255,./cleanfiles/001.txt,1,255,False
+Brown,256,./cleanfiles/001.txt,1,256,True
+December,262,./cleanfiles/001.txt,1,262,False
+Tony,264,./cleanfiles/001.txt,1,264,False
+Blair,265,./cleanfiles/001.txt,1,265,False
+She,279,./cleanfiles/001.txt,1,279,False
+Conservatives,282,./cleanfiles/001.txt,1,282,False
+General,290,./cleanfiles/001.txt,1,290,False
+Election.,291,./cleanfiles/001.txt,1,291,False
+Liberal,292,./cleanfiles/001.txt,1,292,False
+Democrat,293,./cleanfiles/001.txt,1,293,False
+Sandra,297,./cleanfiles/001.txt,1,297,False
+Gidley,298,./cleanfiles/001.txt,1,298,False
+"""While",300,./cleanfiles/001.txt,1,300,False
+Liberal,309,./cleanfiles/001.txt,1,309,False
+Democrats,310,./cleanfiles/001.txt,1,310,False
+She,317,./cleanfiles/001.txt,1,317,False
+Hewitt,342,./cleanfiles/001.txt,1,342,True
+But,355,./cleanfiles/001.txt,1,355,False
+David,356,./cleanfiles/001.txt,1,356,False
+British,362,./cleanfiles/001.txt,1,362,False
+Chambers,363,./cleanfiles/001.txt,1,363,False
+"""crippled""",373,./cleanfiles/001.txt,1,373,False
+"""While",377,./cleanfiles/001.txt,1,377,False
+Further,409,./cleanfiles/001.txt,1,409,False
+Monday.,419,./cleanfiles/001.txt,1,419,False
+New,420,./cleanfiles/001.txt,1,420,False
+Brown,0,./cleanfiles/005.txt,1,0,True
+Budget,3,./cleanfiles/005.txt,1,3,False
+Chancellor,5,./cleanfiles/005.txt,1,5,False
+Gordon,6,./cleanfiles/005.txt,1,6,False
+Brown's,7,./cleanfiles/005.txt,1,7,False
+Budget,17,./cleanfiles/005.txt,1,17,False
+March.,21,./cleanfiles/005.txt,1,21,False
+But,40,./cleanfiles/005.txt,1,40,False
+Labour,45,./cleanfiles/005.txt,1,45,False
+Sir,62,./cleanfiles/005.txt,1,62,False
+Digby,63,./cleanfiles/005.txt,1,63,False
+CBI,65,./cleanfiles/005.txt,1,65,False
+Brown,70,./cleanfiles/005.txt,1,70,True
+Treasury,90,./cleanfiles/005.txt,1,90,False
+Labour,96,./cleanfiles/005.txt,1,96,False
+Brown,105,./cleanfiles/005.txt,1,105,True
+"""with",113,./cleanfiles/005.txt,1,113,False
+May,144,./cleanfiles/005.txt,1,144,False
+Labour,150,./cleanfiles/005.txt,1,150,False
+Party's,151,./cleanfiles/005.txt,1,151,False
+Expectations,155,./cleanfiles/005.txt,1,155,False
+Consumer,171,./cleanfiles/005.txt,1,171,False
+January.,179,./cleanfiles/005.txt,1,179,False
+"""If",180,./cleanfiles/005.txt,1,180,False
+MPC,182,./cleanfiles/005.txt,1,182,False
+Bank,184,./cleanfiles/005.txt,1,184,False
+England's,186,./cleanfiles/005.txt,1,186,False
+Monetary,187,./cleanfiles/005.txt,1,187,False
+Policy,188,./cleanfiles/005.txt,1,188,False
+I'm,211,./cleanfiles/005.txt,1,211,False
+Britain,231,./cleanfiles/005.txt,1,231,False
+Parliamentary,237,./cleanfiles/005.txt,1,237,False
+"""This",239,./cleanfiles/005.txt,1,239,False
+During,248,./cleanfiles/005.txt,1,248,False
+BBC,252,./cleanfiles/005.txt,1,252,False
+Radio,253,./cleanfiles/005.txt,1,253,False
+Today,255,./cleanfiles/005.txt,1,255,False
+Balls,258,./cleanfiles/005.txt,1,258,False
+Brown's,264,./cleanfiles/005.txt,1,264,False
+Budget,265,./cleanfiles/005.txt,1,265,False
+His,296,./cleanfiles/005.txt,1,296,False
+Sir,300,./cleanfiles/005.txt,1,300,False
+Digby,301,./cleanfiles/005.txt,1,301,False
+Jones,302,./cleanfiles/005.txt,1,302,False
+His,319,./cleanfiles/005.txt,1,319,False
+"""Please",325,./cleanfiles/005.txt,1,325,False
+Sir,335,./cleanfiles/005.txt,1,335,False
+Digby,336,./cleanfiles/005.txt,1,336,False
+Stability,357,./cleanfiles/005.txt,1,357,False
+British,363,./cleanfiles/005.txt,1,363,False
+"""We",371,./cleanfiles/005.txt,1,371,False
+'don't,376,./cleanfiles/005.txt,1,376,False
+But,385,./cleanfiles/005.txt,1,385,False
+"""That",406,./cleanfiles/005.txt,1,406,False
+Balls,417,./cleanfiles/005.txt,1,417,False
+Brown,423,./cleanfiles/005.txt,1,423,True
+Foreign,440,./cleanfiles/005.txt,1,440,False
+Secretary.,441,./cleanfiles/005.txt,1,441,False
+Gordon,445,./cleanfiles/005.txt,1,445,False
+Brown,446,./cleanfiles/005.txt,1,446,True
+Labour,454,./cleanfiles/005.txt,1,454,False
+Conservative,472,./cleanfiles/005.txt,1,472,False
+Party,473,./cleanfiles/005.txt,1,473,False
+Britain,477,./cleanfiles/005.txt,1,477,False
+Balls,480,./cleanfiles/005.txt,1,480,False
+Today.,482,./cleanfiles/005.txt,1,482,False
+Prime,483,./cleanfiles/005.txt,1,483,False
+Minister,484,./cleanfiles/005.txt,1,484,False
+Tony,485,./cleanfiles/005.txt,1,485,False
+Blair,486,./cleanfiles/005.txt,1,486,False
+May.,503,./cleanfiles/005.txt,1,503,False
+Labour,0,./cleanfiles/004.txt,1,0,False
+Manchester,2,./cleanfiles/004.txt,1,2,False
+The,3,./cleanfiles/004.txt,1,3,False
+Labour,4,./cleanfiles/004.txt,1,4,False
+Party,5,./cleanfiles/004.txt,1,5,False
+Manchester,13,./cleanfiles/004.txt,1,13,False
+The,21,./cleanfiles/004.txt,1,21,False
+Labour's,28,./cleanfiles/004.txt,1,28,False
+National,30,./cleanfiles/004.txt,1,30,False
+Executive,31,./cleanfiles/004.txt,1,31,False
+Committee,32,./cleanfiles/004.txt,1,32,False
+Manchester,57,./cleanfiles/004.txt,1,57,False
+Blackpool,63,./cleanfiles/004.txt,1,63,False
+February,69,./cleanfiles/004.txt,1,69,False
+For,82,./cleanfiles/004.txt,1,82,False
+Bournemouth,92,./cleanfiles/004.txt,1,92,False
+Brighton.,94,./cleanfiles/004.txt,1,94,False
+And,95,./cleanfiles/004.txt,1,95,False
+Blackpool,108,./cleanfiles/004.txt,1,108,False
+Blackpool,129,./cleanfiles/004.txt,1,129,False
+The,135,./cleanfiles/004.txt,1,135,False
+Bournemouth,138,./cleanfiles/004.txt,1,138,False
+Brighton,151,./cleanfiles/004.txt,1,151,False
+Colin,157,./cleanfiles/004.txt,1,157,False
+Blackpool,159,./cleanfiles/004.txt,1,159,False
+Hotel,160,./cleanfiles/004.txt,1,160,False
+Association,161,./cleanfiles/004.txt,1,161,False
+"""We",163,./cleanfiles/004.txt,1,163,False
+Blackpool.,175,./cleanfiles/004.txt,1,175,False
+"""Obviously",176,./cleanfiles/004.txt,1,176,False
+Manchester,185,./cleanfiles/004.txt,1,185,False
+"""It",190,./cleanfiles/004.txt,1,190,False
+Labour,195,./cleanfiles/004.txt,1,195,False
+The,216,./cleanfiles/004.txt,1,216,False
+Blackpool,220,./cleanfiles/004.txt,1,220,False
+Manchester,246,./cleanfiles/004.txt,1,246,False
+Industry Secretary,24,./cleanfiles/003.txt,2,23,False
+Patricia Hewitt,28,./cleanfiles/003.txt,2,27,True
+Ms Hewitt,52,./cleanfiles/003.txt,2,51,True
+Equal Opportunities,65,./cleanfiles/003.txt,2,64,False
+Opportunities Commission,66,./cleanfiles/003.txt,2,65,False
+Ms Hewitt,83,./cleanfiles/003.txt,2,82,True
+Ms Hewitt,147,./cleanfiles/003.txt,2,146,True
+Equal Opportunities,213,./cleanfiles/003.txt,2,212,False
+Opportunities Commission,214,./cleanfiles/003.txt,2,213,False
+BBC Radio,274,./cleanfiles/003.txt,2,273,False
+The Department,422,./cleanfiles/003.txt,2,421,False
+TUC. It,442,./cleanfiles/003.txt,2,441,False
+Cabinet Office,16,./cleanfiles/002.txt,2,15,False
+Richard Thomas,29,./cleanfiles/002.txt,2,28,True
+"Thomas ""totally",30,./cleanfiles/002.txt,2,29,False
+January. Government,51,./cleanfiles/002.txt,2,50,False
+Mr Thomas,66,./cleanfiles/002.txt,2,65,True
+The Tories,69,./cleanfiles/002.txt,2,68,False
+Lib Dems,73,./cleanfiles/002.txt,2,72,False
+Michael Howard,85,./cleanfiles/002.txt,2,84,True
+Tony Blair,90,./cleanfiles/002.txt,2,89,True
+On Monday,102,./cleanfiles/002.txt,2,101,False
+Monday Lib,103,./cleanfiles/002.txt,2,102,False
+Lib Dem,104,./cleanfiles/002.txt,2,103,False
+Alan Beith,110,./cleanfiles/002.txt,2,109,True
+Hutton Inquiry.,130,./cleanfiles/002.txt,2,129,False
+Inquiry. The,131,./cleanfiles/002.txt,2,130,False
+Information Act,143,./cleanfiles/002.txt,2,142,False
+Mr Beith,156,./cleanfiles/002.txt,2,155,True
+Cabinet Office,161,./cleanfiles/002.txt,2,160,False
+Mr Beith,179,./cleanfiles/002.txt,2,178,True
+Mr Thomas,199,./cleanfiles/002.txt,2,198,True
+Mr Thomas.,268,./cleanfiles/002.txt,2,267,False
+"Thomas. ""If",269,./cleanfiles/002.txt,2,268,False
+The Freedom,323,./cleanfiles/002.txt,2,322,False
+Information Act,326,./cleanfiles/002.txt,2,325,False
+Northern Ireland,333,./cleanfiles/002.txt,2,332,False
+Scotland. It,349,./cleanfiles/002.txt,2,348,False
+Industry Secretary,26,./cleanfiles/001.txt,2,25,False
+Secretary Patricia,27,./cleanfiles/001.txt,2,26,False
+Patricia Hewitt.,28,./cleanfiles/001.txt,2,27,False
+Hewitt. It,29,./cleanfiles/001.txt,2,28,False
+Ms Hewitt,43,./cleanfiles/001.txt,2,42,True
+GMTV's Sunday,46,./cleanfiles/001.txt,2,45,False
+The Tories,67,./cleanfiles/001.txt,2,66,False
+Liberal Democrats,78,./cleanfiles/001.txt,2,77,False
+Ms Hewitt,84,./cleanfiles/001.txt,2,83,True
+"Parliament."" She",145,./cleanfiles/001.txt,2,144,False
+The Shadow,240,./cleanfiles/001.txt,2,239,False
+Shadow Secretary,241,./cleanfiles/001.txt,2,240,False
+Gordon Brown,256,./cleanfiles/001.txt,2,255,True
+Tony Blair,265,./cleanfiles/001.txt,2,264,True
+General Election.,291,./cleanfiles/001.txt,2,290,False
+Election. Liberal,292,./cleanfiles/001.txt,2,291,False
+Liberal Democrat,293,./cleanfiles/001.txt,2,292,False
+Sandra Gidley,298,./cleanfiles/001.txt,2,297,True
+Liberal Democrats,310,./cleanfiles/001.txt,2,309,False
+Ms Hewitt,342,./cleanfiles/001.txt,2,341,True
+But David,356,./cleanfiles/001.txt,2,355,False
+British Chambers,363,./cleanfiles/001.txt,2,362,False
+Monday. New,420,./cleanfiles/001.txt,2,419,False
+Chancellor Gordon,6,./cleanfiles/005.txt,2,5,False
+Gordon Brown's,7,./cleanfiles/005.txt,2,6,True
+March. Ed,22,./cleanfiles/005.txt,2,21,False
+But Mr,41,./cleanfiles/005.txt,2,40,False
+Sir Digby,63,./cleanfiles/005.txt,2,62,True
+Mr Brown,70,./cleanfiles/005.txt,2,69,True
+Mr Brown,105,./cleanfiles/005.txt,2,104,True
+"- ""with",113,./cleanfiles/005.txt,2,112,False
+Labour Party's,151,./cleanfiles/005.txt,2,150,False
+"January. ""If",180,./cleanfiles/005.txt,2,179,False
+England's Monetary,187,./cleanfiles/005.txt,2,186,False
+Monetary Policy,188,./cleanfiles/005.txt,2,187,False
+- I,218,./cleanfiles/005.txt,2,217,False
+BBC Radio,253,./cleanfiles/005.txt,2,252,False
+Mr Balls,258,./cleanfiles/005.txt,2,257,True
+Mr Brown's,264,./cleanfiles/005.txt,2,263,True
+Brown's Budget,265,./cleanfiles/005.txt,2,264,False
+Sir Digby,301,./cleanfiles/005.txt,2,300,True
+Digby Jones,302,./cleanfiles/005.txt,2,301,False
+Sir Digby,336,./cleanfiles/005.txt,2,335,True
+- British,363,./cleanfiles/005.txt,2,362,False
+Mr Balls,417,./cleanfiles/005.txt,2,416,True
+Mr Brown,423,./cleanfiles/005.txt,2,422,True
+Foreign Secretary.,441,./cleanfiles/005.txt,2,440,False
+"Secretary. ""I",442,./cleanfiles/005.txt,2,441,False
+Gordon Brown,446,./cleanfiles/005.txt,2,445,True
+Conservative Party,473,./cleanfiles/005.txt,2,472,False
+Mr Balls,480,./cleanfiles/005.txt,2,479,True
+Today. Prime,483,./cleanfiles/005.txt,2,482,False
+Prime Minister,484,./cleanfiles/005.txt,2,483,False
+Minister Tony,485,./cleanfiles/005.txt,2,484,False
+Tony Blair,486,./cleanfiles/005.txt,2,485,True
+May. Labour,504,./cleanfiles/005.txt,2,503,False
+Manchester The,3,./cleanfiles/004.txt,2,2,False
+The Labour,4,./cleanfiles/004.txt,2,3,False
+Labour Party,5,./cleanfiles/004.txt,2,4,False
+National Executive,31,./cleanfiles/004.txt,2,30,False
+Executive Committee,32,./cleanfiles/004.txt,2,31,False
+Brighton. And,95,./cleanfiles/004.txt,2,94,False
+Blackpool Hotel,160,./cleanfiles/004.txt,2,159,False
+Hotel Association,161,./cleanfiles/004.txt,2,160,False
+"Blackpool. ""Obviously",176,./cleanfiles/004.txt,2,175,False
+Equal Opportunities Commission,66,./cleanfiles/003.txt,3,64,False
+Equal Opportunities Commission,214,./cleanfiles/003.txt,3,212,False
+"Richard Thomas ""totally",30,./cleanfiles/002.txt,3,28,False
+On Monday Lib,103,./cleanfiles/002.txt,3,101,False
+Monday Lib Dem,104,./cleanfiles/002.txt,3,102,False
+Hutton Inquiry. The,131,./cleanfiles/002.txt,3,129,False
+"Mr Thomas. ""If",269,./cleanfiles/002.txt,3,267,False
+Industry Secretary Patricia,27,./cleanfiles/001.txt,3,25,False
+Secretary Patricia Hewitt.,28,./cleanfiles/001.txt,3,26,False
+Patricia Hewitt. It,29,./cleanfiles/001.txt,3,27,False
+The Shadow Secretary,241,./cleanfiles/001.txt,3,239,False
+General Election. Liberal,292,./cleanfiles/001.txt,3,290,False
+Election. Liberal Democrat,293,./cleanfiles/001.txt,3,291,False
+Chancellor Gordon Brown's,7,./cleanfiles/005.txt,3,5,False
+England's Monetary Policy,188,./cleanfiles/005.txt,3,186,False
+Mr Brown's Budget,265,./cleanfiles/005.txt,3,263,False
+Sir Digby Jones,302,./cleanfiles/005.txt,3,300,True
+"Foreign Secretary. ""I",442,./cleanfiles/005.txt,3,440,False
+Today. Prime Minister,484,./cleanfiles/005.txt,3,482,False
+Prime Minister Tony,485,./cleanfiles/005.txt,3,483,False
+Minister Tony Blair,486,./cleanfiles/005.txt,3,484,False
+Manchester The Labour,4,./cleanfiles/004.txt,3,2,False
+The Labour Party,5,./cleanfiles/004.txt,3,3,False
+National Executive Committee,32,./cleanfiles/004.txt,3,30,False
+Blackpool Hotel Association,161,./cleanfiles/004.txt,3,159,False

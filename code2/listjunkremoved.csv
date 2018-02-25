@@ -1,0 +1,1719 @@
+All-Words,end,filename,n-gram,start,classtype
+Hewitt,0,./markedupfiles/003.txt,1,0,True
+decries,1,./markedupfiles/003.txt,1,1,False
+'career,2,./markedupfiles/003.txt,1,2,False
+sexism',3,./markedupfiles/003.txt,1,3,False
+Plans,4,./markedupfiles/003.txt,1,4,False
+maternity,8,./markedupfiles/003.txt,1,8,False
+beyond,10,./markedupfiles/003.txt,1,10,False
+six,11,./markedupfiles/003.txt,1,11,False
+months,12,./markedupfiles/003.txt,1,12,False
+prominent,15,./markedupfiles/003.txt,1,15,False
+Labour's,17,./markedupfiles/003.txt,1,17,False
+election,18,./markedupfiles/003.txt,1,18,False
+manifesto,19,./markedupfiles/003.txt,1,19,False
+Trade,21,./markedupfiles/003.txt,1,21,False
+Industry,23,./markedupfiles/003.txt,1,23,False
+Secretary,24,./markedupfiles/003.txt,1,24,False
+said.,26,./markedupfiles/003.txt,1,26,False
+Patricia,27,./markedupfiles/003.txt,1,27,False
+Hewitt,28,./markedupfiles/003.txt,1,28,False
+proposals,34,./markedupfiles/003.txt,1,34,False
+"""increasingly",42,./markedupfiles/003.txt,1,42,False
+high,43,./markedupfiles/003.txt,1,43,False
+"priority""",44,./markedupfiles/003.txt,1,44,False
+"""shared",47,./markedupfiles/003.txt,1,47,False
+goal,48,./markedupfiles/003.txt,1,48,False
+across,49,./markedupfiles/003.txt,1,49,False
+"government"".",50,./markedupfiles/003.txt,1,50,False
+Ms,51,./markedupfiles/003.txt,1,51,False
+Hewitt,52,./markedupfiles/003.txt,1,52,False
+speaking,54,./markedupfiles/003.txt,1,54,False
+gender,57,./markedupfiles/003.txt,1,57,False
+productivity,59,./markedupfiles/003.txt,1,59,False
+seminar,60,./markedupfiles/003.txt,1,60,False
+organised,61,./markedupfiles/003.txt,1,61,False
+Equal,64,./markedupfiles/003.txt,1,64,False
+Opportunities,65,./markedupfiles/003.txt,1,65,False
+Commission,66,./markedupfiles/003.txt,1,66,False
+Mothers,68,./markedupfiles/003.txt,1,68,False
+currently,70,./markedupfiles/003.txt,1,70,False
+six,74,./markedupfiles/003.txt,1,74,False
+months',75,./markedupfiles/003.txt,1,75,False
+-,78,./markedupfiles/003.txt,1,78,False
+six,80,./markedupfiles/003.txt,1,80,False
+unpaid.,81,./markedupfiles/003.txt,1,81,False
+Ms,82,./markedupfiles/003.txt,1,82,False
+Hewitt,83,./markedupfiles/003.txt,1,83,False
+"""Clearly",87,./markedupfiles/003.txt,1,87,False
+one,88,./markedupfiles/003.txt,1,88,False
+things,91,./markedupfiles/003.txt,1,91,False
+future,98,./markedupfiles/003.txt,1,98,False
+period,103,./markedupfiles/003.txt,1,103,False
+payment,105,./markedupfiles/003.txt,1,105,False
+maternity,107,./markedupfiles/003.txt,1,107,False
+beyond,109,./markedupfiles/003.txt,1,109,False
+first,111,./markedupfiles/003.txt,1,111,False
+six,112,./markedupfiles/003.txt,1,112,False
+months,113,./markedupfiles/003.txt,1,113,False
+second,116,./markedupfiles/003.txt,1,116,False
+six,117,./markedupfiles/003.txt,1,117,False
+months.,118,./markedupfiles/003.txt,1,118,False
+"""We",119,./markedupfiles/003.txt,1,119,False
+looking,121,./markedupfiles/003.txt,1,121,False
+quickly,124,./markedupfiles/003.txt,1,124,False
+obviously,130,./markedupfiles/003.txt,1,130,False
+implications,134,./markedupfiles/003.txt,1,134,False
+taxpayer,137,./markedupfiles/003.txt,1,137,False
+reimburses,138,./markedupfiles/003.txt,1,138,False
+employers,140,./markedupfiles/003.txt,1,140,False
+"that.""",145,./markedupfiles/003.txt,1,145,False
+Ms,146,./markedupfiles/003.txt,1,146,False
+Hewitt,147,./markedupfiles/003.txt,1,147,False
+also,148,./markedupfiles/003.txt,1,148,False
+new,151,./markedupfiles/003.txt,1,151,False
+women,155,./markedupfiles/003.txt,1,155,False
+male,161,./markedupfiles/003.txt,1,161,False
+dominated,162,./markedupfiles/003.txt,1,162,False
+sectors,163,./markedupfiles/003.txt,1,163,False
+saying,164,./markedupfiles/003.txt,1,164,False
+sexism,165,./markedupfiles/003.txt,1,165,False
+still,169,./markedupfiles/003.txt,1,169,False
+preventing,170,./markedupfiles/003.txt,1,170,False
+women,171,./markedupfiles/003.txt,1,171,False
+reaching,172,./markedupfiles/003.txt,1,172,False
+full,174,./markedupfiles/003.txt,1,174,False
+potential.,175,./markedupfiles/003.txt,1,175,False
+Plans,176,./markedupfiles/003.txt,1,176,False
+funding,178,./markedupfiles/003.txt,1,178,False
+universities,180,./markedupfiles/003.txt,1,180,False
+female,183,./markedupfiles/003.txt,1,183,False
+science,184,./markedupfiles/003.txt,1,184,False
+engineering,186,./markedupfiles/003.txt,1,186,False
+graduates,187,./markedupfiles/003.txt,1,187,False
+jobs,189,./markedupfiles/003.txt,1,189,False
+"""taster",191,./markedupfiles/003.txt,1,191,False
+"courses""",192,./markedupfiles/003.txt,1,192,False
+men,194,./markedupfiles/003.txt,1,194,False
+women,196,./markedupfiles/003.txt,1,196,False
+non-traditional,198,./markedupfiles/003.txt,1,198,False
+jobs.,199,./markedupfiles/003.txt,1,199,False
+Women,200,./markedupfiles/003.txt,1,200,False
+full-time,202,./markedupfiles/003.txt,1,202,False
+less,206,./markedupfiles/003.txt,1,206,False
+men,208,./markedupfiles/003.txt,1,208,False
+according,209,./markedupfiles/003.txt,1,209,False
+Equal,212,./markedupfiles/003.txt,1,212,False
+Opportunities,213,./markedupfiles/003.txt,1,213,False
+Commission,214,./markedupfiles/003.txt,1,214,False
+The,216,./markedupfiles/003.txt,1,216,False
+minister,217,./markedupfiles/003.txt,1,217,False
+delegates,219,./markedupfiles/003.txt,1,219,False
+getting,221,./markedupfiles/003.txt,1,221,False
+"""career",224,./markedupfiles/003.txt,1,224,False
+"sexism""",225,./markedupfiles/003.txt,1,225,False
+vital,227,./markedupfiles/003.txt,1,227,False
+closing,229,./markedupfiles/003.txt,1,229,False
+gender,231,./markedupfiles/003.txt,1,231,False
+gap.,233,./markedupfiles/003.txt,1,233,False
+"""Career",234,./markedupfiles/003.txt,1,234,False
+sexism,235,./markedupfiles/003.txt,1,235,False
+limits,236,./markedupfiles/003.txt,1,236,False
+opportunities,237,./markedupfiles/003.txt,1,237,False
+women,239,./markedupfiles/003.txt,1,239,False
+ages,242,./markedupfiles/003.txt,1,242,False
+prevents,244,./markedupfiles/003.txt,1,244,False
+achieving,247,./markedupfiles/003.txt,1,247,False
+full,249,./markedupfiles/003.txt,1,249,False
+potential.,250,./markedupfiles/003.txt,1,250,False
+"""It",251,./markedupfiles/003.txt,1,251,False
+simply,253,./markedupfiles/003.txt,1,253,False
+wrong,254,./markedupfiles/003.txt,1,254,False
+assume,256,./markedupfiles/003.txt,1,256,False
+someone,257,./markedupfiles/003.txt,1,257,False
+cannot,258,./markedupfiles/003.txt,1,258,False
+job,261,./markedupfiles/003.txt,1,261,False
+said.,269,./markedupfiles/003.txt,1,269,False
+Earlier,270,./markedupfiles/003.txt,1,270,False
+BBC,273,./markedupfiles/003.txt,1,273,False
+Radio,274,./markedupfiles/003.txt,1,274,False
+Today,276,./markedupfiles/003.txt,1,276,False
+"""What",278,./markedupfiles/003.txt,1,278,False
+talking,281,./markedupfiles/003.txt,1,281,False
+fact,286,./markedupfiles/003.txt,1,286,False
+six,289,./markedupfiles/003.txt,1,289,False
+women,293,./markedupfiles/003.txt,1,293,False
+jobs,296,./markedupfiles/003.txt,1,296,False
+low-paid,299,./markedupfiles/003.txt,1,299,False
+typically,301,./markedupfiles/003.txt,1,301,False
+dominated,302,./markedupfiles/003.txt,1,302,False
+women,304,./markedupfiles/003.txt,1,304,False
+segregated,310,./markedupfiles/003.txt,1,310,False
+employment.,311,./markedupfiles/003.txt,1,311,False
+"""Unfortunately",312,./markedupfiles/003.txt,1,312,False
+cases,315,./markedupfiles/003.txt,1,315,False
+reflects,317,./markedupfiles/003.txt,1,317,False
+old-fashioned,319,./markedupfiles/003.txt,1,319,False
+stereotypical,321,./markedupfiles/003.txt,1,321,False
+ideas,322,./markedupfiles/003.txt,1,322,False
+appropriate,325,./markedupfiles/003.txt,1,325,False
+jobs,326,./markedupfiles/003.txt,1,326,False
+women,328,./markedupfiles/003.txt,1,328,False
+indeed,330,./markedupfiles/003.txt,1,330,False
+men.,332,./markedupfiles/003.txt,1,332,False
+"""Career",333,./markedupfiles/003.txt,1,333,False
+sexism,334,./markedupfiles/003.txt,1,334,False
+saying,337,./markedupfiles/003.txt,1,337,False
+engineering,339,./markedupfiles/003.txt,1,339,False
+instance,341,./markedupfiles/003.txt,1,341,False
+employees,346,./markedupfiles/003.txt,1,346,False
+women,348,./markedupfiles/003.txt,1,348,False
+really,350,./markedupfiles/003.txt,1,350,False
+male-dominated,352,./markedupfiles/003.txt,1,352,False
+industry.,353,./markedupfiles/003.txt,1,353,False
+Construction,354,./markedupfiles/003.txt,1,354,False
+even,356,./markedupfiles/003.txt,1,356,False
+worse.,357,./markedupfiles/003.txt,1,357,False
+"""But",358,./markedupfiles/003.txt,1,358,False
+also,361,./markedupfiles/003.txt,1,361,False
+saying,363,./markedupfiles/003.txt,1,363,False
+childcare,364,./markedupfiles/003.txt,1,364,False
+jobs,365,./markedupfiles/003.txt,1,365,False
+really,367,./markedupfiles/003.txt,1,367,False
+women,370,./markedupfiles/003.txt,1,370,False
+suitable,373,./markedupfiles/003.txt,1,373,False
+men.,375,./markedupfiles/003.txt,1,375,False
+Career,376,./markedupfiles/003.txt,1,376,False
+sexism,377,./markedupfiles/003.txt,1,377,False
+"ways.""",380,./markedupfiles/003.txt,1,380,False
+She,381,./markedupfiles/003.txt,1,381,False
+added,382,./markedupfiles/003.txt,1,382,False
+still,391,./markedupfiles/003.txt,1,391,False
+gap,393,./markedupfiles/003.txt,1,393,False
+figures.,396,./markedupfiles/003.txt,1,396,False
+"""The",397,./markedupfiles/003.txt,1,397,False
+average,398,./markedupfiles/003.txt,1,398,False
+woman,399,./markedupfiles/003.txt,1,399,False
+working,400,./markedupfiles/003.txt,1,400,False
+full-time,401,./markedupfiles/003.txt,1,401,False
+every,408,./markedupfiles/003.txt,1,408,False
+pound,409,./markedupfiles/003.txt,1,409,False
+earning.,413,./markedupfiles/003.txt,1,413,False
+For,414,./markedupfiles/003.txt,1,414,False
+women,415,./markedupfiles/003.txt,1,415,False
+working,416,./markedupfiles/003.txt,1,416,False
+part-time,417,./markedupfiles/003.txt,1,417,False
+The,421,./markedupfiles/003.txt,1,421,False
+Department,422,./markedupfiles/003.txt,1,422,False
+Trade,424,./markedupfiles/003.txt,1,424,False
+Industry,426,./markedupfiles/003.txt,1,426,False
+also,428,./markedupfiles/003.txt,1,428,False
+funding,430,./markedupfiles/003.txt,1,430,False
+new,434,./markedupfiles/003.txt,1,434,False
+experts,436,./markedupfiles/003.txt,1,436,False
+panel,437,./markedupfiles/003.txt,1,437,False
+TUC.,441,./markedupfiles/003.txt,1,441,False
+It,442,./markedupfiles/003.txt,1,442,False
+hundreds,449,./markedupfiles/003.txt,1,449,False
+companies,451,./markedupfiles/003.txt,1,451,False
+equal,453,./markedupfiles/003.txt,1,453,False
+wage,454,./markedupfiles/003.txt,1,454,False
+policies.,455,./markedupfiles/003.txt,1,455,False
+Research,456,./markedupfiles/003.txt,1,456,False
+conducted,457,./markedupfiles/003.txt,1,457,False
+EOC,460,./markedupfiles/003.txt,1,460,False
+year,462,./markedupfiles/003.txt,1,462,False
+revealed,463,./markedupfiles/003.txt,1,463,False
+many,465,./markedupfiles/003.txt,1,465,False
+Britons,466,./markedupfiles/003.txt,1,466,False
+gap,470,./markedupfiles/003.txt,1,470,False
+men,472,./markedupfiles/003.txt,1,472,False
+women,474,./markedupfiles/003.txt,1,474,False
+result,477,./markedupfiles/003.txt,1,477,False
+"""natural",479,./markedupfiles/003.txt,1,479,False
+"differences""",480,./markedupfiles/003.txt,1,480,False
+sexes.,483,./markedupfiles/003.txt,1,483,False
+Women,484,./markedupfiles/003.txt,1,484,False
+less,486,./markedupfiles/003.txt,1,486,False
+top,491,./markedupfiles/003.txt,1,491,False
+positions,492,./markedupfiles/003.txt,1,492,False
+FTSE,494,./markedupfiles/003.txt,1,494,False
+companies,496,./markedupfiles/003.txt,1,496,False
+police,498,./markedupfiles/003.txt,1,498,False
+judiciary,500,./markedupfiles/003.txt,1,500,False
+unions,503,./markedupfiles/003.txt,1,503,False
+according,504,./markedupfiles/003.txt,1,504,False
+figures.,507,./markedupfiles/003.txt,1,507,False
+And,508,./markedupfiles/003.txt,1,508,False
+women,510,./markedupfiles/003.txt,1,510,False
+half,514,./markedupfiles/003.txt,1,514,False
+income,516,./markedupfiles/003.txt,1,516,False
+male,519,./markedupfiles/003.txt,1,519,False
+counterparts,520,./markedupfiles/003.txt,1,520,False
+average.,522,./markedupfiles/003.txt,1,522,False
+Watchdog,0,./markedupfiles/002.txt,1,0,False
+probes,1,./markedupfiles/002.txt,1,1,False
+e-mail,2,./markedupfiles/002.txt,1,2,False
+deletions,3,./markedupfiles/002.txt,1,3,False
+The,4,./markedupfiles/002.txt,1,4,False
+information,5,./markedupfiles/002.txt,1,5,False
+commissioner,6,./markedupfiles/002.txt,1,6,False
+urgently,10,./markedupfiles/002.txt,1,10,False
+asking,11,./markedupfiles/002.txt,1,11,False
+details,13,./markedupfiles/002.txt,1,13,False
+Cabinet,15,./markedupfiles/002.txt,1,15,False
+Office,16,./markedupfiles/002.txt,1,16,False
+telling,18,./markedupfiles/002.txt,1,18,False
+staff,19,./markedupfiles/002.txt,1,19,False
+delete,21,./markedupfiles/002.txt,1,21,False
+e-mails,22,./markedupfiles/002.txt,1,22,False
+three,25,./markedupfiles/002.txt,1,25,False
+months,26,./markedupfiles/002.txt,1,26,False
+old.,27,./markedupfiles/002.txt,1,27,False
+Richard,28,./markedupfiles/002.txt,1,28,False
+Thomas,29,./markedupfiles/002.txt,1,29,False
+"""totally",30,./markedupfiles/002.txt,1,30,False
+"condemned""",31,./markedupfiles/002.txt,1,31,False
+deletion,33,./markedupfiles/002.txt,1,33,False
+e-mails,35,./markedupfiles/002.txt,1,35,False
+disclosure,39,./markedupfiles/002.txt,1,39,False
+freedom,41,./markedupfiles/002.txt,1,41,False
+information,43,./markedupfiles/002.txt,1,43,False
+laws,44,./markedupfiles/002.txt,1,44,False
+coming,45,./markedupfiles/002.txt,1,45,False
+January.,50,./markedupfiles/002.txt,1,50,False
+Government,51,./markedupfiles/002.txt,1,51,False
+guidance,52,./markedupfiles/002.txt,1,52,False
+e-mails,54,./markedupfiles/002.txt,1,54,False
+deleted,58,./markedupfiles/002.txt,1,58,False
+"""no",62,./markedupfiles/002.txt,1,62,False
+current,63,./markedupfiles/002.txt,1,63,False
+"purpose""",64,./markedupfiles/002.txt,1,64,False
+Mr,65,./markedupfiles/002.txt,1,65,False
+Thomas,66,./markedupfiles/002.txt,1,66,False
+said.,67,./markedupfiles/002.txt,1,67,False
+The,68,./markedupfiles/002.txt,1,68,False
+Tories,69,./markedupfiles/002.txt,1,69,False
+Lib,72,./markedupfiles/002.txt,1,72,False
+Dems,73,./markedupfiles/002.txt,1,73,False
+questioned,75,./markedupfiles/002.txt,1,75,False
+timing,77,./markedupfiles/002.txt,1,77,False
+new,80,./markedupfiles/002.txt,1,80,False
+rules.,81,./markedupfiles/002.txt,1,81,False
+Tory,82,./markedupfiles/002.txt,1,82,False
+leader,83,./markedupfiles/002.txt,1,83,False
+Michael,84,./markedupfiles/002.txt,1,84,False
+Howard,85,./markedupfiles/002.txt,1,85,False
+Tony,89,./markedupfiles/002.txt,1,89,False
+Blair,90,./markedupfiles/002.txt,1,90,False
+demanding,91,./markedupfiles/002.txt,1,91,False
+explanation,93,./markedupfiles/002.txt,1,93,False
+new,96,./markedupfiles/002.txt,1,96,False
+rules,97,./markedupfiles/002.txt,1,97,False
+e-mail,99,./markedupfiles/002.txt,1,99,False
+retention.,100,./markedupfiles/002.txt,1,100,False
+On,101,./markedupfiles/002.txt,1,101,False
+Monday,102,./markedupfiles/002.txt,1,102,False
+Lib,103,./markedupfiles/002.txt,1,103,False
+Dem,104,./markedupfiles/002.txt,1,104,False
+constitutional,105,./markedupfiles/002.txt,1,105,False
+affairs,106,./markedupfiles/002.txt,1,106,False
+committee,107,./markedupfiles/002.txt,1,107,False
+chairman,108,./markedupfiles/002.txt,1,108,False
+Alan,109,./markedupfiles/002.txt,1,109,False
+Beith,110,./markedupfiles/002.txt,1,110,False
+deletion,114,./markedupfiles/002.txt,1,114,False
+millions,116,./markedupfiles/002.txt,1,116,False
+government,118,./markedupfiles/002.txt,1,118,False
+e-mails,119,./markedupfiles/002.txt,1,119,False
+ability,123,./markedupfiles/002.txt,1,123,False
+key,125,./markedupfiles/002.txt,1,125,False
+probes,126,./markedupfiles/002.txt,1,126,False
+Hutton,129,./markedupfiles/002.txt,1,129,False
+Inquiry.,130,./markedupfiles/002.txt,1,130,False
+The,131,./markedupfiles/002.txt,1,131,False
+timing,132,./markedupfiles/002.txt,1,132,False
+new,135,./markedupfiles/002.txt,1,135,False
+rules,136,./markedupfiles/002.txt,1,136,False
+Freedom,140,./markedupfiles/002.txt,1,140,False
+Information,142,./markedupfiles/002.txt,1,142,False
+Act,143,./markedupfiles/002.txt,1,143,False
+forces,146,./markedupfiles/002.txt,1,146,False
+"""too",148,./markedupfiles/002.txt,1,148,False
+unlikely,149,./markedupfiles/002.txt,1,149,False
+"coincidence""",154,./markedupfiles/002.txt,1,154,False
+Mr,155,./markedupfiles/002.txt,1,155,False
+Beith,156,./markedupfiles/002.txt,1,156,False
+said.,157,./markedupfiles/002.txt,1,157,False
+But,158,./markedupfiles/002.txt,1,158,False
+Cabinet,160,./markedupfiles/002.txt,1,160,False
+Office,161,./markedupfiles/002.txt,1,161,False
+spokeswoman,162,./markedupfiles/002.txt,1,162,False
+new,170,./markedupfiles/002.txt,1,170,False
+laws,171,./markedupfiles/002.txt,1,171,False
+"""the",173,./markedupfiles/002.txt,1,173,False
+destruction,174,./markedupfiles/002.txt,1,174,False
+important,176,./markedupfiles/002.txt,1,176,False
+"records"".",177,./markedupfiles/002.txt,1,177,False
+Mr,178,./markedupfiles/002.txt,1,178,False
+Beith,179,./markedupfiles/002.txt,1,179,False
+urged,180,./markedupfiles/002.txt,1,180,False
+information,182,./markedupfiles/002.txt,1,182,False
+commissioner,183,./markedupfiles/002.txt,1,183,False
+"""e-mail",189,./markedupfiles/002.txt,1,189,False
+"regime""",190,./markedupfiles/002.txt,1,190,False
+"""support",192,./markedupfiles/002.txt,1,192,False
+freedom,194,./markedupfiles/002.txt,1,194,False
+information,196,./markedupfiles/002.txt,1,196,False
+"regime"".",197,./markedupfiles/002.txt,1,197,False
+Mr,198,./markedupfiles/002.txt,1,198,False
+Thomas,199,./markedupfiles/002.txt,1,199,False
+"""The",201,./markedupfiles/002.txt,1,201,False
+new,202,./markedupfiles/002.txt,1,202,False
+Act,203,./markedupfiles/002.txt,1,203,False
+Parliament,205,./markedupfiles/002.txt,1,205,False
+records,213,./markedupfiles/002.txt,1,213,False
+disclosure,219,./markedupfiles/002.txt,1,219,False
+criminal,222,./markedupfiles/002.txt,1,222,False
+"offence.""",223,./markedupfiles/002.txt,1,223,False
+He,224,./markedupfiles/002.txt,1,224,False
+already,228,./markedupfiles/002.txt,1,228,False
+guidance,230,./markedupfiles/002.txt,1,230,False
+retention,233,./markedupfiles/002.txt,1,233,False
+e-mails,235,./markedupfiles/002.txt,1,235,False
+code,239,./markedupfiles/002.txt,1,239,False
+lord,244,./markedupfiles/002.txt,1,244,False
+chancellor.,245,./markedupfiles/002.txt,1,245,False
+All,246,./markedupfiles/002.txt,1,246,False
+e-mails,247,./markedupfiles/002.txt,1,247,False
+subject,249,./markedupfiles/002.txt,1,249,False
+freedom,252,./markedupfiles/002.txt,1,252,False
+information,254,./markedupfiles/002.txt,1,254,False
+laws,255,./markedupfiles/002.txt,1,255,False
+important,258,./markedupfiles/002.txt,1,258,False
+thing,259,./markedupfiles/002.txt,1,259,False
+content,262,./markedupfiles/002.txt,1,262,False
+e-mail,265,./markedupfiles/002.txt,1,265,False
+Mr,267,./markedupfiles/002.txt,1,267,False
+Thomas,268,./markedupfiles/002.txt,1,268,False
+.,269,./markedupfiles/002.txt,1,269,False
+"""If",270,./markedupfiles/002.txt,1,270,False
+retain,273,./markedupfiles/002.txt,1,273,False
+long-standing,278,./markedupfiles/002.txt,1,278,False
+principle,279,./markedupfiles/002.txt,1,279,False
+civil,282,./markedupfiles/002.txt,1,282,False
+public,285,./markedupfiles/002.txt,1,285,False
+authorities.,286,./markedupfiles/002.txt,1,286,False
+It's,287,./markedupfiles/002.txt,1,287,False
+you've,290,./markedupfiles/002.txt,1,290,False
+particular,297,./markedupfiles/002.txt,1,297,False
+legitimate,303,./markedupfiles/002.txt,1,303,False
+it.,306,./markedupfiles/002.txt,1,306,False
+"""But",307,./markedupfiles/002.txt,1,307,False
+deliberate,309,./markedupfiles/002.txt,1,309,False
+destruction,310,./markedupfiles/002.txt,1,310,False
+possibility,314,./markedupfiles/002.txt,1,314,False
+later,316,./markedupfiles/002.txt,1,316,False
+disclosure,317,./markedupfiles/002.txt,1,317,False
+totally,321,./markedupfiles/002.txt,1,321,False
+"condemned.""",322,./markedupfiles/002.txt,1,322,False
+The,323,./markedupfiles/002.txt,1,323,False
+Freedom,324,./markedupfiles/002.txt,1,324,False
+Information,326,./markedupfiles/002.txt,1,326,False
+Act,327,./markedupfiles/002.txt,1,327,False
+England,330,./markedupfiles/002.txt,1,330,False
+Wales,331,./markedupfiles/002.txt,1,331,False
+Northern,333,./markedupfiles/002.txt,1,333,False
+Ireland,334,./markedupfiles/002.txt,1,334,False
+next,336,./markedupfiles/002.txt,1,336,False
+year.,337,./markedupfiles/002.txt,1,337,False
+Similar,338,./markedupfiles/002.txt,1,338,False
+Scotland.,349,./markedupfiles/002.txt,1,349,False
+It,350,./markedupfiles/002.txt,1,350,False
+public,353,./markedupfiles/002.txt,1,353,False
+right,356,./markedupfiles/002.txt,1,356,False
+access,358,./markedupfiles/002.txt,1,358,False
+information,360,./markedupfiles/002.txt,1,360,False
+public,365,./markedupfiles/002.txt,1,365,False
+bodies,366,./markedupfiles/002.txt,1,366,False
+subject,367,./markedupfiles/002.txt,1,367,False
+various,369,./markedupfiles/002.txt,1,369,False
+exemptions.,370,./markedupfiles/002.txt,1,370,False
+Its,371,./markedupfiles/002.txt,1,371,False
+implementation,372,./markedupfiles/002.txt,1,372,False
+monitored,375,./markedupfiles/002.txt,1,375,False
+information,378,./markedupfiles/002.txt,1,378,False
+commissioner.,379,./markedupfiles/002.txt,1,379,False
+Labour,0,./markedupfiles/001.txt,1,0,False
+maternity,2,./markedupfiles/001.txt,1,2,False
+Maternity,5,./markedupfiles/001.txt,1,5,False
+new,8,./markedupfiles/001.txt,1,8,False
+mothers,9,./markedupfiles/001.txt,1,9,False
+new,18,./markedupfiles/001.txt,1,18,False
+proposals,19,./markedupfiles/001.txt,1,19,False
+Trade,23,./markedupfiles/001.txt,1,23,False
+Industry,25,./markedupfiles/001.txt,1,25,False
+Secretary,26,./markedupfiles/001.txt,1,26,False
+Patricia,27,./markedupfiles/001.txt,1,27,False
+Hewitt.,28,./markedupfiles/001.txt,1,28,False
+It,29,./markedupfiles/001.txt,1,29,False
+nine,38,./markedupfiles/001.txt,1,38,False
+months,39,./markedupfiles/001.txt,1,39,False
+Ms,42,./markedupfiles/001.txt,1,42,False
+Hewitt,43,./markedupfiles/001.txt,1,43,False
+GMTV's,45,./markedupfiles/001.txt,1,45,False
+Sunday,46,./markedupfiles/001.txt,1,46,False
+programme.,47,./markedupfiles/001.txt,1,47,False
+Other,48,./markedupfiles/001.txt,1,48,False
+letting,51,./markedupfiles/001.txt,1,51,False
+maternity,52,./markedupfiles/001.txt,1,52,False
+fathers,57,./markedupfiles/001.txt,1,57,False
+extending,59,./markedupfiles/001.txt,1,59,False
+rights,60,./markedupfiles/001.txt,1,60,False
+parents,62,./markedupfiles/001.txt,1,62,False
+older,64,./markedupfiles/001.txt,1,64,False
+children.,65,./markedupfiles/001.txt,1,65,False
+The,66,./markedupfiles/001.txt,1,66,False
+Tories,67,./markedupfiles/001.txt,1,67,False
+dismissed,68,./markedupfiles/001.txt,1,68,False
+maternity,70,./markedupfiles/001.txt,1,70,False
+"""desperate""",74,./markedupfiles/001.txt,1,74,False
+Liberal,77,./markedupfiles/001.txt,1,77,False
+Democrats,78,./markedupfiles/001.txt,1,78,False
+misdirected.,82,./markedupfiles/001.txt,1,82,False
+Ms,83,./markedupfiles/001.txt,1,83,False
+Hewitt,84,./markedupfiles/001.txt,1,84,False
+"""We",86,./markedupfiles/001.txt,1,86,False
+already,88,./markedupfiles/001.txt,1,88,False
+length,91,./markedupfiles/001.txt,1,91,False
+maternity,93,./markedupfiles/001.txt,1,93,False
+weeks,98,./markedupfiles/001.txt,1,98,False
+elected,102,./markedupfiles/001.txt,1,102,False
+already,105,./markedupfiles/001.txt,1,105,False
+weeks.,111,./markedupfiles/001.txt,1,111,False
+"""We",112,./markedupfiles/001.txt,1,112,False
+going,114,./markedupfiles/001.txt,1,114,False
+nine,120,./markedupfiles/001.txt,1,120,False
+months,121,./markedupfiles/001.txt,1,121,False
+aim,126,./markedupfiles/001.txt,1,126,False
+right,131,./markedupfiles/001.txt,1,131,False
+full,135,./markedupfiles/001.txt,1,135,False
+months,137,./markedupfiles/001.txt,1,137,False
+next,143,./markedupfiles/001.txt,1,143,False
+"Parliament.""",144,./markedupfiles/001.txt,1,144,False
+She,145,./markedupfiles/001.txt,1,145,False
+new,147,./markedupfiles/001.txt,1,147,False
+mothers,148,./markedupfiles/001.txt,1,148,False
+already,150,./markedupfiles/001.txt,1,150,False
+entitled,151,./markedupfiles/001.txt,1,151,False
+months,154,./markedupfiles/001.txt,1,154,False
+many,158,./markedupfiles/001.txt,1,158,False
+women,159,./markedupfiles/001.txt,1,159,False
+six,166,./markedupfiles/001.txt,1,166,False
+months,169,./markedupfiles/001.txt,1,169,False
+paid.,171,./markedupfiles/001.txt,1,171,False
+"""We",172,./markedupfiles/001.txt,1,172,False
+firm,176,./markedupfiles/001.txt,1,176,False
+commitment.,177,./markedupfiles/001.txt,1,177,False
+We,178,./markedupfiles/001.txt,1,178,False
+definitely,180,./markedupfiles/001.txt,1,180,False
+maternity,183,./markedupfiles/001.txt,1,183,False
+six,187,./markedupfiles/001.txt,1,187,False
+months,188,./markedupfiles/001.txt,1,188,False
+nine,194,./markedupfiles/001.txt,1,194,False
+months,195,./markedupfiles/001.txt,1,195,False
+that's,196,./markedupfiles/001.txt,1,196,False
+extra,198,./markedupfiles/001.txt,1,198,False
+She,200,./markedupfiles/001.txt,1,200,False
+ministers,202,./markedupfiles/001.txt,1,202,False
+proposals,207,./markedupfiles/001.txt,1,207,False
+fathers,211,./markedupfiles/001.txt,1,211,False
+partner's,219,./markedupfiles/001.txt,1,219,False
+maternity,220,./markedupfiles/001.txt,1,220,False
+period,224,./markedupfiles/001.txt,1,224,False
+extending,226,./markedupfiles/001.txt,1,226,False
+rights,228,./markedupfiles/001.txt,1,228,False
+flexible,230,./markedupfiles/001.txt,1,230,False
+working,231,./markedupfiles/001.txt,1,231,False
+carers,233,./markedupfiles/001.txt,1,233,False
+parents,235,./markedupfiles/001.txt,1,235,False
+older,237,./markedupfiles/001.txt,1,237,False
+children.,238,./markedupfiles/001.txt,1,238,False
+The,239,./markedupfiles/001.txt,1,239,False
+Shadow,240,./markedupfiles/001.txt,1,240,False
+Secretary,241,./markedupfiles/001.txt,1,241,False
+State,243,./markedupfiles/001.txt,1,243,False
+Family,246,./markedupfiles/001.txt,1,246,False
+Theresa,247,./markedupfiles/001.txt,1,247,False
+May,248,./markedupfiles/001.txt,1,248,False
+"""These",250,./markedupfiles/001.txt,1,250,False
+Gordon,255,./markedupfiles/001.txt,1,255,False
+Brown,256,./markedupfiles/001.txt,1,256,False
+pre-budget,259,./markedupfiles/001.txt,1,259,False
+December,262,./markedupfiles/001.txt,1,262,False
+Tony,264,./markedupfiles/001.txt,1,264,False
+Blair,265,./markedupfiles/001.txt,1,265,False
+recycling,268,./markedupfiles/001.txt,1,268,False
+desperate,272,./markedupfiles/001.txt,1,272,False
+women,277,./markedupfiles/001.txt,1,277,False
+"voters.""",278,./markedupfiles/001.txt,1,278,False
+She,279,./markedupfiles/001.txt,1,279,False
+Conservatives,282,./markedupfiles/001.txt,1,282,False
+proposals,286,./markedupfiles/001.txt,1,286,False
+closer,287,./markedupfiles/001.txt,1,287,False
+General,290,./markedupfiles/001.txt,1,290,False
+Election.,291,./markedupfiles/001.txt,1,291,False
+Liberal,292,./markedupfiles/001.txt,1,292,False
+Democrat,293,./markedupfiles/001.txt,1,293,False
+spokeswoman,294,./markedupfiles/001.txt,1,294,False
+women,296,./markedupfiles/001.txt,1,296,False
+Sandra,297,./markedupfiles/001.txt,1,297,False
+Gidley,298,./markedupfiles/001.txt,1,298,False
+"""While",300,./markedupfiles/001.txt,1,300,False
+mothers,301,./markedupfiles/001.txt,1,301,False
+extra,305,./markedupfiles/001.txt,1,305,False
+maternity,306,./markedupfiles/001.txt,1,306,False
+Liberal,309,./markedupfiles/001.txt,1,309,False
+Democrats,310,./markedupfiles/001.txt,1,310,False
+money,313,./markedupfiles/001.txt,1,313,False
+"misdirected.""",316,./markedupfiles/001.txt,1,316,False
+She,317,./markedupfiles/001.txt,1,317,False
+party,320,./markedupfiles/001.txt,1,320,False
+boost,322,./markedupfiles/001.txt,1,322,False
+maternity,323,./markedupfiles/001.txt,1,323,False
+first,327,./markedupfiles/001.txt,1,327,False
+six,328,./markedupfiles/001.txt,1,328,False
+months,329,./markedupfiles/001.txt,1,329,False
+women,333,./markedupfiles/001.txt,1,333,False
+home,337,./markedupfiles/001.txt,1,337,False
+time.,340,./markedupfiles/001.txt,1,340,False
+Ms,341,./markedupfiles/001.txt,1,341,False
+Hewitt,342,./markedupfiles/001.txt,1,342,False
+also,343,./markedupfiles/001.txt,1,343,False
+taxpayers,352,./markedupfiles/001.txt,1,352,False
+employers.,354,./markedupfiles/001.txt,1,354,False
+But,355,./markedupfiles/001.txt,1,355,False
+David,356,./markedupfiles/001.txt,1,356,False
+Frost,357,./markedupfiles/001.txt,1,357,False
+director,358,./markedupfiles/001.txt,1,358,False
+general,359,./markedupfiles/001.txt,1,359,False
+British,362,./markedupfiles/001.txt,1,362,False
+Chambers,363,./markedupfiles/001.txt,1,363,False
+Commerce,365,./markedupfiles/001.txt,1,365,False
+many,368,./markedupfiles/001.txt,1,368,False
+small,369,./markedupfiles/001.txt,1,369,False
+firms,370,./markedupfiles/001.txt,1,370,False
+"""crippled""",373,./markedupfiles/001.txt,1,373,False
+move.,376,./markedupfiles/001.txt,1,376,False
+"""While",377,./markedupfiles/001.txt,1,377,False
+majority,379,./markedupfiles/001.txt,1,379,False
+salary,382,./markedupfiles/001.txt,1,382,False
+covered,386,./markedupfiles/001.txt,1,386,False
+government's,389,./markedupfiles/001.txt,1,389,False
+statutory,390,./markedupfiles/001.txt,1,390,False
+recruitment,392,./markedupfiles/001.txt,1,392,False
+advertising,394,./markedupfiles/001.txt,1,394,False
+retraining,396,./markedupfiles/001.txt,1,396,False
+strain,400,./markedupfiles/001.txt,1,400,False
+company,403,./markedupfiles/001.txt,1,403,False
+said.,408,./markedupfiles/001.txt,1,408,False
+Further,409,./markedupfiles/001.txt,1,409,False
+details,410,./markedupfiles/001.txt,1,410,False
+government's,413,./markedupfiles/001.txt,1,413,False
+outlined,417,./markedupfiles/001.txt,1,417,False
+Monday.,419,./markedupfiles/001.txt,1,419,False
+New,420,./markedupfiles/001.txt,1,420,False
+mothers,421,./markedupfiles/001.txt,1,421,False
+currently,423,./markedupfiles/001.txt,1,423,False
+entitled,424,./markedupfiles/001.txt,1,424,False
+average,428,./markedupfiles/001.txt,1,428,False
+earnings,429,./markedupfiles/001.txt,1,429,False
+first,432,./markedupfiles/001.txt,1,432,False
+six,433,./markedupfiles/001.txt,1,433,False
+weeks,434,./markedupfiles/001.txt,1,434,False
+giving,436,./markedupfiles/001.txt,1,436,False
+birth,437,./markedupfiles/001.txt,1,437,False
+week,442,./markedupfiles/001.txt,1,442,False
+baby,445,./markedupfiles/001.txt,1,445,False
+six,447,./markedupfiles/001.txt,1,447,False
+months,448,./markedupfiles/001.txt,1,448,False
+old.,449,./markedupfiles/001.txt,1,449,False
+Brown,0,./markedupfiles/005.txt,1,0,True
+ally,1,./markedupfiles/005.txt,1,1,False
+rejects,2,./markedupfiles/005.txt,1,2,False
+Budget,3,./markedupfiles/005.txt,1,3,False
+spree,4,./markedupfiles/005.txt,1,4,False
+Chancellor,5,./markedupfiles/005.txt,1,5,False
+Gordon,6,./markedupfiles/005.txt,1,6,False
+Brown's,7,./markedupfiles/005.txt,1,7,False
+closest,8,./markedupfiles/005.txt,1,8,False
+ally,9,./markedupfiles/005.txt,1,9,False
+denied,11,./markedupfiles/005.txt,1,11,False
+suggestions,12,./markedupfiles/005.txt,1,12,False
+Budget,17,./markedupfiles/005.txt,1,17,False
+giveaway,18,./markedupfiles/005.txt,1,18,False
+March.,21,./markedupfiles/005.txt,1,21,False
+Ed,22,./markedupfiles/005.txt,1,22,False
+Balls,23,./markedupfiles/005.txt,1,23,False
+ex-chief,24,./markedupfiles/005.txt,1,24,False
+economic,25,./markedupfiles/005.txt,1,25,False
+adviser,26,./markedupfiles/005.txt,1,26,False
+Treasury,29,./markedupfiles/005.txt,1,29,False
+spending,35,./markedupfiles/005.txt,1,35,False
+spree,36,./markedupfiles/005.txt,1,36,False
+polling,38,./markedupfiles/005.txt,1,38,False
+day.,39,./markedupfiles/005.txt,1,39,False
+But,40,./markedupfiles/005.txt,1,40,False
+Mr,41,./markedupfiles/005.txt,1,41,False
+Balls,42,./markedupfiles/005.txt,1,42,False
+prospective,44,./markedupfiles/005.txt,1,44,False
+Labour,45,./markedupfiles/005.txt,1,45,False
+MP,46,./markedupfiles/005.txt,1,46,False
+confident,50,./markedupfiles/005.txt,1,50,False
+chancellor,52,./markedupfiles/005.txt,1,52,False
+fiscal,56,./markedupfiles/005.txt,1,56,False
+rules.,57,./markedupfiles/005.txt,1,57,False
+He,58,./markedupfiles/005.txt,1,58,False
+speaking,60,./markedupfiles/005.txt,1,60,False
+Sir,62,./markedupfiles/005.txt,1,62,False
+Digby,63,./markedupfiles/005.txt,1,63,False
+Jones,64,./markedupfiles/005.txt,1,64,False
+CBI,65,./markedupfiles/005.txt,1,65,False
+director,66,./markedupfiles/005.txt,1,66,False
+general,67,./markedupfiles/005.txt,1,67,False
+Mr,69,./markedupfiles/005.txt,1,69,False
+Brown,70,./markedupfiles/005.txt,1,70,False
+tempted,74,./markedupfiles/005.txt,1,74,False
+extra,78,./markedupfiles/005.txt,1,78,False
+cash,79,./markedupfiles/005.txt,1,79,False
+pre-election,81,./markedupfiles/005.txt,1,81,False
+bribes.,82,./markedupfiles/005.txt,1,82,False
+Mr,83,./markedupfiles/005.txt,1,83,False
+Balls,84,./markedupfiles/005.txt,1,84,False
+Treasury,90,./markedupfiles/005.txt,1,90,False
+Labour,96,./markedupfiles/005.txt,1,96,False
+candidate,97,./markedupfiles/005.txt,1,97,False
+election,100,./markedupfiles/005.txt,1,100,False
+Mr,104,./markedupfiles/005.txt,1,104,False
+Brown,105,./markedupfiles/005.txt,1,105,False
+golden,109,./markedupfiles/005.txt,1,109,False
+economic,110,./markedupfiles/005.txt,1,110,False
+-,112,./markedupfiles/005.txt,1,112,False
+"""with",113,./markedupfiles/005.txt,1,113,False
+margin,115,./markedupfiles/005.txt,1,115,False
+"spare"".",117,./markedupfiles/005.txt,1,117,False
+He,118,./markedupfiles/005.txt,1,118,False
+current,129,./markedupfiles/005.txt,1,129,False
+tax,130,./markedupfiles/005.txt,1,130,False
+credit,131,./markedupfiles/005.txt,1,131,False
+rules.,132,./markedupfiles/005.txt,1,132,False
+He,133,./markedupfiles/005.txt,1,133,False
+also,134,./markedupfiles/005.txt,1,134,False
+rates,139,./markedupfiles/005.txt,1,139,False
+ahead,140,./markedupfiles/005.txt,1,140,False
+May,144,./markedupfiles/005.txt,1,144,False
+election,145,./markedupfiles/005.txt,1,145,False
+Labour,150,./markedupfiles/005.txt,1,150,False
+Party's,151,./markedupfiles/005.txt,1,151,False
+chances,152,./markedupfiles/005.txt,1,152,False
+winning.,154,./markedupfiles/005.txt,1,154,False
+Expectations,155,./markedupfiles/005.txt,1,155,False
+gathered,161,./markedupfiles/005.txt,1,161,False
+pace,162,./markedupfiles/005.txt,1,162,False
+figures,164,./markedupfiles/005.txt,1,164,False
+house,166,./markedupfiles/005.txt,1,166,False
+prices,167,./markedupfiles/005.txt,1,167,False
+still,169,./markedupfiles/005.txt,1,169,False
+rising.,170,./markedupfiles/005.txt,1,170,False
+Consumer,171,./markedupfiles/005.txt,1,171,False
+borrowing,172,./markedupfiles/005.txt,1,172,False
+near-record,176,./markedupfiles/005.txt,1,176,False
+pace,177,./markedupfiles/005.txt,1,177,False
+January.,179,./markedupfiles/005.txt,1,179,False
+"""If",180,./markedupfiles/005.txt,1,180,False
+MPC,182,./markedupfiles/005.txt,1,182,False
+Bank,184,./markedupfiles/005.txt,1,184,False
+England's,186,./markedupfiles/005.txt,1,186,False
+Monetary,187,./markedupfiles/005.txt,1,187,False
+Policy,188,./markedupfiles/005.txt,1,188,False
+justified,198,./markedupfiles/005.txt,1,198,False
+election,201,./markedupfiles/005.txt,1,201,False
+strength,205,./markedupfiles/005.txt,1,205,False
+economy,208,./markedupfiles/005.txt,1,208,False
+-,209,./markedupfiles/005.txt,1,209,False
+I'm,211,./markedupfiles/005.txt,1,211,False
+predicting,213,./markedupfiles/005.txt,1,213,False
+-,217,./markedupfiles/005.txt,1,217,False
+I,218,./markedupfiles/005.txt,1,218,False
+big,227,./markedupfiles/005.txt,1,227,False
+election,228,./markedupfiles/005.txt,1,228,False
+issue,229,./markedupfiles/005.txt,1,229,False
+Britain,231,./markedupfiles/005.txt,1,231,False
+Parliamentary,237,./markedupfiles/005.txt,1,237,False
+lunch.,238,./markedupfiles/005.txt,1,238,False
+"""This",239,./markedupfiles/005.txt,1,239,False
+big,242,./markedupfiles/005.txt,1,242,False
+political,246,./markedupfiles/005.txt,1,246,False
+"culture.""",247,./markedupfiles/005.txt,1,247,False
+During,248,./markedupfiles/005.txt,1,248,False
+BBC,252,./markedupfiles/005.txt,1,252,False
+Radio,253,./markedupfiles/005.txt,1,253,False
+Today,255,./markedupfiles/005.txt,1,255,False
+programme,256,./markedupfiles/005.txt,1,256,False
+Mr,257,./markedupfiles/005.txt,1,257,False
+Balls,258,./markedupfiles/005.txt,1,258,False
+sure,262,./markedupfiles/005.txt,1,262,False
+Mr,263,./markedupfiles/005.txt,1,263,False
+Brown's,264,./markedupfiles/005.txt,1,264,False
+Budget,265,./markedupfiles/005.txt,1,265,False
+stability,272,./markedupfiles/005.txt,1,272,False
+economy.,275,./markedupfiles/005.txt,1,275,False
+"""I",276,./markedupfiles/005.txt,1,276,False
+don't,277,./markedupfiles/005.txt,1,277,False
+we'll,279,./markedupfiles/005.txt,1,279,False
+pre-election,282,./markedupfiles/005.txt,1,282,False
+spending,283,./markedupfiles/005.txt,1,283,False
+spree,284,./markedupfiles/005.txt,1,284,False
+-,285,./markedupfiles/005.txt,1,285,False
+certainly,287,./markedupfiles/005.txt,1,287,False
+said.,295,./markedupfiles/005.txt,1,295,False
+His,296,./markedupfiles/005.txt,1,296,False
+assurances,297,./markedupfiles/005.txt,1,297,False
+Sir,300,./markedupfiles/005.txt,1,300,False
+Digby,301,./markedupfiles/005.txt,1,301,False
+Jones,302,./markedupfiles/005.txt,1,302,False
+stability,304,./markedupfiles/005.txt,1,304,False
+important,307,./markedupfiles/005.txt,1,307,False
+extra,310,./markedupfiles/005.txt,1,310,False
+cash,311,./markedupfiles/005.txt,1,311,False
+improving,316,./markedupfiles/005.txt,1,316,False
+workers',317,./markedupfiles/005.txt,1,317,False
+skills.,318,./markedupfiles/005.txt,1,318,False
+His,319,./markedupfiles/005.txt,1,319,False
+message,320,./markedupfiles/005.txt,1,320,False
+chancellor,323,./markedupfiles/005.txt,1,323,False
+"""Please",325,./markedupfiles/005.txt,1,325,False
+don't,326,./markedupfiles/005.txt,1,326,False
+away,329,./markedupfiles/005.txt,1,329,False
+"electioneering.""",334,./markedupfiles/005.txt,1,334,False
+Sir,335,./markedupfiles/005.txt,1,335,False
+Digby,336,./markedupfiles/005.txt,1,336,False
+"""I",338,./markedupfiles/005.txt,1,338,False
+don't,339,./markedupfiles/005.txt,1,339,False
+will.,342,./markedupfiles/005.txt,1,342,False
+I,343,./markedupfiles/005.txt,1,343,False
+prudent,351,./markedupfiles/005.txt,1,351,False
+chancellor,352,./markedupfiles/005.txt,1,352,False
+right,353,./markedupfiles/005.txt,1,353,False
+way,355,./markedupfiles/005.txt,1,355,False
+through.,356,./markedupfiles/005.txt,1,356,False
+Stability,357,./markedupfiles/005.txt,1,357,False
+key,360,./markedupfiles/005.txt,1,360,False
+word,361,./markedupfiles/005.txt,1,361,False
+-,362,./markedupfiles/005.txt,1,362,False
+British,363,./markedupfiles/005.txt,1,363,False
+business,364,./markedupfiles/005.txt,1,364,False
+boring,366,./markedupfiles/005.txt,1,366,False
+stability,367,./markedupfiles/005.txt,1,367,False
+anything.,370,./markedupfiles/005.txt,1,370,False
+"""We",371,./markedupfiles/005.txt,1,371,False
+'don't,376,./markedupfiles/005.txt,1,376,False
+public,379,./markedupfiles/005.txt,1,379,False
+spending,380,./markedupfiles/005.txt,1,380,False
+don't,381,./markedupfiles/005.txt,1,381,False
+away.,384,./markedupfiles/005.txt,1,384,False
+But,385,./markedupfiles/005.txt,1,385,False
+going,389,./markedupfiles/005.txt,1,389,False
+anywhere,391,./markedupfiles/005.txt,1,391,False
+something,394,./markedupfiles/005.txt,1,394,False
+competitiveness,397,./markedupfiles/005.txt,1,397,False
+Britain,399,./markedupfiles/005.txt,1,399,False
+skilling,403,./markedupfiles/005.txt,1,403,False
+people'.,405,./markedupfiles/005.txt,1,405,False
+"""That",406,./markedupfiles/005.txt,1,406,False
+good,410,./markedupfiles/005.txt,1,410,False
+way,411,./markedupfiles/005.txt,1,411,False
+"excess.""",415,./markedupfiles/005.txt,1,415,False
+Mr,416,./markedupfiles/005.txt,1,416,False
+Balls,417,./markedupfiles/005.txt,1,417,False
+whether,421,./markedupfiles/005.txt,1,421,False
+Mr,422,./markedupfiles/005.txt,1,422,False
+Brown,423,./markedupfiles/005.txt,1,423,False
+chancellor,427,./markedupfiles/005.txt,1,427,False
+election,430,./markedupfiles/005.txt,1,430,False
+amid,431,./markedupfiles/005.txt,1,431,False
+speculation,432,./markedupfiles/005.txt,1,432,False
+job,438,./markedupfiles/005.txt,1,438,False
+Foreign,440,./markedupfiles/005.txt,1,440,False
+Secretary.,441,./markedupfiles/005.txt,1,441,False
+"""I",442,./markedupfiles/005.txt,1,442,False
+Gordon,445,./markedupfiles/005.txt,1,445,False
+Brown,446,./markedupfiles/005.txt,1,446,False
+successful,453,./markedupfiles/005.txt,1,453,False
+Labour,454,./markedupfiles/005.txt,1,454,False
+government,455,./markedupfiles/005.txt,1,455,False
+third,460,./markedupfiles/005.txt,1,460,False
+term,461,./markedupfiles/005.txt,1,461,False
+priorities,464,./markedupfiles/005.txt,1,464,False
+people,467,./markedupfiles/005.txt,1,467,False
+Conservative,472,./markedupfiles/005.txt,1,472,False
+Party,473,./markedupfiles/005.txt,1,473,False
+Britain,477,./markedupfiles/005.txt,1,477,False
+Mr,479,./markedupfiles/005.txt,1,479,False
+Balls,480,./markedupfiles/005.txt,1,480,False
+Today.,482,./markedupfiles/005.txt,1,482,False
+Prime,483,./markedupfiles/005.txt,1,483,False
+Minister,484,./markedupfiles/005.txt,1,484,False
+Tony,485,./markedupfiles/005.txt,1,485,False
+Blair,486,./markedupfiles/005.txt,1,486,False
+yet,488,./markedupfiles/005.txt,1,488,False
+election,495,./markedupfiles/005.txt,1,495,False
+pundits,498,./markedupfiles/005.txt,1,498,False
+betting,500,./markedupfiles/005.txt,1,500,False
+May.,503,./markedupfiles/005.txt,1,503,False
+Labour,0,./markedupfiles/004.txt,1,0,False
+Manchester,2,./markedupfiles/004.txt,1,2,False
+The,3,./markedupfiles/004.txt,1,3,False
+Labour,4,./markedupfiles/004.txt,1,4,False
+Party,5,./markedupfiles/004.txt,1,5,False
+autumn,10,./markedupfiles/004.txt,1,10,False
+conference,11,./markedupfiles/004.txt,1,11,False
+Manchester,13,./markedupfiles/004.txt,1,13,False
+Blackpool,16,./markedupfiles/004.txt,1,16,False
+confirmed.,20,./markedupfiles/004.txt,1,20,False
+The,21,./markedupfiles/004.txt,1,21,False
+much,22,./markedupfiles/004.txt,1,22,False
+trailed,23,./markedupfiles/004.txt,1,23,False
+decision,24,./markedupfiles/004.txt,1,24,False
+ratified,26,./markedupfiles/004.txt,1,26,False
+Labour's,28,./markedupfiles/004.txt,1,28,False
+ruling,29,./markedupfiles/004.txt,1,29,False
+National,30,./markedupfiles/004.txt,1,30,False
+Executive,31,./markedupfiles/004.txt,1,31,False
+Committee,32,./markedupfiles/004.txt,1,32,False
+traditional,38,./markedupfiles/004.txt,1,38,False
+choice,39,./markedupfiles/004.txt,1,39,False
+seaside,42,./markedupfiles/004.txt,1,42,False
+venue.,43,./markedupfiles/004.txt,1,43,False
+It,44,./markedupfiles/004.txt,1,44,False
+first,48,./markedupfiles/004.txt,1,48,False
+since,50,./markedupfiles/004.txt,1,50,False
+party,54,./markedupfiles/004.txt,1,54,False
+Manchester,57,./markedupfiles/004.txt,1,57,False
+host,59,./markedupfiles/004.txt,1,59,False
+annual,61,./markedupfiles/004.txt,1,61,False
+event.,62,./markedupfiles/004.txt,1,62,False
+Blackpool,63,./markedupfiles/004.txt,1,63,False
+much,67,./markedupfiles/004.txt,1,67,False
+smaller,68,./markedupfiles/004.txt,1,68,False
+February,69,./markedupfiles/004.txt,1,69,False
+spring,70,./markedupfiles/004.txt,1,70,False
+conference,71,./markedupfiles/004.txt,1,71,False
+instead,72,./markedupfiles/004.txt,1,72,False
+placatory,80,./markedupfiles/004.txt,1,80,False
+move.,81,./markedupfiles/004.txt,1,81,False
+For,82,./markedupfiles/004.txt,1,82,False
+years,83,./markedupfiles/004.txt,1,83,False
+main,85,./markedupfiles/004.txt,1,85,False
+political,86,./markedupfiles/004.txt,1,86,False
+parties,87,./markedupfiles/004.txt,1,87,False
+rotated,89,./markedupfiles/004.txt,1,89,False
+Blackpool,91,./markedupfiles/004.txt,1,91,False
+Bournemouth,92,./markedupfiles/004.txt,1,92,False
+Brighton.,94,./markedupfiles/004.txt,1,94,False
+And,95,./markedupfiles/004.txt,1,95,False
+news,97,./markedupfiles/004.txt,1,97,False
+much,99,./markedupfiles/004.txt,1,99,False
+larger,100,./markedupfiles/004.txt,1,100,False
+annual,101,./markedupfiles/004.txt,1,101,False
+conference,102,./markedupfiles/004.txt,1,102,False
+Blackpool,108,./markedupfiles/004.txt,1,108,False
+coastal,117,./markedupfiles/004.txt,1,117,False
+resort.,118,./markedupfiles/004.txt,1,118,False
+In,119,./markedupfiles/004.txt,1,119,False
+party,122,./markedupfiles/004.txt,1,122,False
+Blackpool,129,./markedupfiles/004.txt,1,129,False
+The,135,./markedupfiles/004.txt,1,135,False
+following,136,./markedupfiles/004.txt,1,136,False
+year,137,./markedupfiles/004.txt,1,137,False
+Bournemouth,138,./markedupfiles/004.txt,1,138,False
+hosted,139,./markedupfiles/004.txt,1,139,False
+event,141,./markedupfiles/004.txt,1,141,False
+party,144,./markedupfiles/004.txt,1,144,False
+signed,145,./markedupfiles/004.txt,1,145,False
+two,147,./markedupfiles/004.txt,1,147,False
+year,148,./markedupfiles/004.txt,1,148,False
+Brighton,151,./markedupfiles/004.txt,1,151,False
+host,153,./markedupfiles/004.txt,1,153,False
+autumn,155,./markedupfiles/004.txt,1,155,False
+conference.,156,./markedupfiles/004.txt,1,156,False
+Colin,157,./markedupfiles/004.txt,1,157,False
+Asplin,158,./markedupfiles/004.txt,1,158,False
+Blackpool,159,./markedupfiles/004.txt,1,159,False
+Hotel,160,./markedupfiles/004.txt,1,160,False
+Association,161,./markedupfiles/004.txt,1,161,False
+"""We",163,./markedupfiles/004.txt,1,163,False
+hard,167,./markedupfiles/004.txt,1,167,False
+sure,170,./markedupfiles/004.txt,1,170,False
+Blackpool.,175,./markedupfiles/004.txt,1,175,False
+"""Obviously",176,./markedupfiles/004.txt,1,176,False
+failed,179,./markedupfiles/004.txt,1,179,False
+that.,181,./markedupfiles/004.txt,1,181,False
+I,182,./markedupfiles/004.txt,1,182,False
+Manchester,185,./markedupfiles/004.txt,1,185,False
+crowds.,189,./markedupfiles/004.txt,1,189,False
+"""It",190,./markedupfiles/004.txt,1,190,False
+Labour,195,./markedupfiles/004.txt,1,195,False
+Party,196,./markedupfiles/004.txt,1,196,False
+working,200,./markedupfiles/004.txt,1,200,False
+class,201,./markedupfiles/004.txt,1,201,False
+party,202,./markedupfiles/004.txt,1,202,False
+doesn't,203,./markedupfiles/004.txt,1,203,False
+main,209,./markedupfiles/004.txt,1,209,False
+working,210,./markedupfiles/004.txt,1,210,False
+class,211,./markedupfiles/004.txt,1,211,False
+resort,212,./markedupfiles/004.txt,1,212,False
+"country.""",215,./markedupfiles/004.txt,1,215,False
+The,216,./markedupfiles/004.txt,1,216,False
+exact,217,./markedupfiles/004.txt,1,217,False
+Blackpool,220,./markedupfiles/004.txt,1,220,False
+terms,222,./markedupfiles/004.txt,1,222,False
+revenue,225,./markedupfiles/004.txt,1,225,False
+hotel,227,./markedupfiles/004.txt,1,227,False
+accommodation,228,./markedupfiles/004.txt,1,228,False
+yet,231,./markedupfiles/004.txt,1,231,False
+block,238,./markedupfiles/004.txt,1,238,False
+bookings,239,./markedupfiles/004.txt,1,239,False
+major,245,./markedupfiles/004.txt,1,245,False
+Manchester,246,./markedupfiles/004.txt,1,246,False
+hotels,247,./markedupfiles/004.txt,1,247,False
+official,250,./markedupfiles/004.txt,1,250,False
+announcement.,251,./markedupfiles/004.txt,1,251,False
+Hewitt decries,1,./markedupfiles/003.txt,2,0,False
+decries 'career,2,./markedupfiles/003.txt,2,1,False
+'career sexism',3,./markedupfiles/003.txt,2,2,False
+sexism' Plans,4,./markedupfiles/003.txt,2,3,False
+beyond six,11,./markedupfiles/003.txt,2,10,False
+six months,12,./markedupfiles/003.txt,2,11,False
+Labour's election,18,./markedupfiles/003.txt,2,17,False
+election manifesto,19,./markedupfiles/003.txt,2,18,False
+Industry Secretary,24,./markedupfiles/003.txt,2,23,False
+said. Patricia,27,./markedupfiles/003.txt,2,26,False
+Patricia Hewitt,28,./markedupfiles/003.txt,2,27,True
+"""increasingly high",43,./markedupfiles/003.txt,2,42,False
+"high priority""",44,./markedupfiles/003.txt,2,43,False
+"""shared goal",48,./markedupfiles/003.txt,2,47,False
+goal across,49,./markedupfiles/003.txt,2,48,False
+"across government"".",50,./markedupfiles/003.txt,2,49,False
+"government"". Ms",51,./markedupfiles/003.txt,2,50,False
+Ms Hewitt,52,./markedupfiles/003.txt,2,51,True
+productivity seminar,60,./markedupfiles/003.txt,2,59,False
+seminar organised,61,./markedupfiles/003.txt,2,60,False
+Equal Opportunities,65,./markedupfiles/003.txt,2,64,False
+Opportunities Commission,66,./markedupfiles/003.txt,2,65,False
+six months',75,./markedupfiles/003.txt,2,74,False
+six unpaid.,81,./markedupfiles/003.txt,2,80,False
+unpaid. Ms,82,./markedupfiles/003.txt,2,81,False
+Ms Hewitt,83,./markedupfiles/003.txt,2,82,True
+"""Clearly one",88,./markedupfiles/003.txt,2,87,False
+first six,112,./markedupfiles/003.txt,2,111,False
+six months,113,./markedupfiles/003.txt,2,112,False
+second six,117,./markedupfiles/003.txt,2,116,False
+six months.,118,./markedupfiles/003.txt,2,117,False
+"months. ""We",119,./markedupfiles/003.txt,2,118,False
+taxpayer reimburses,138,./markedupfiles/003.txt,2,137,False
+"that."" Ms",146,./markedupfiles/003.txt,2,145,False
+Ms Hewitt,147,./markedupfiles/003.txt,2,146,True
+Hewitt also,148,./markedupfiles/003.txt,2,147,False
+male dominated,162,./markedupfiles/003.txt,2,161,False
+dominated sectors,163,./markedupfiles/003.txt,2,162,False
+sectors saying,164,./markedupfiles/003.txt,2,163,False
+saying sexism,165,./markedupfiles/003.txt,2,164,False
+still preventing,170,./markedupfiles/003.txt,2,169,False
+preventing women,171,./markedupfiles/003.txt,2,170,False
+women reaching,172,./markedupfiles/003.txt,2,171,False
+full potential.,175,./markedupfiles/003.txt,2,174,False
+potential. Plans,176,./markedupfiles/003.txt,2,175,False
+female science,184,./markedupfiles/003.txt,2,183,False
+engineering graduates,187,./markedupfiles/003.txt,2,186,False
+"""taster courses""",192,./markedupfiles/003.txt,2,191,False
+non-traditional jobs.,199,./markedupfiles/003.txt,2,198,False
+jobs. Women,200,./markedupfiles/003.txt,2,199,False
+men according,209,./markedupfiles/003.txt,2,208,False
+Equal Opportunities,213,./markedupfiles/003.txt,2,212,False
+Opportunities Commission,214,./markedupfiles/003.txt,2,213,False
+The minister,217,./markedupfiles/003.txt,2,216,False
+"""career sexism""",225,./markedupfiles/003.txt,2,224,False
+"gap. ""Career",234,./markedupfiles/003.txt,2,233,False
+"""Career sexism",235,./markedupfiles/003.txt,2,234,False
+sexism limits,236,./markedupfiles/003.txt,2,235,False
+limits opportunities,237,./markedupfiles/003.txt,2,236,False
+full potential.,250,./markedupfiles/003.txt,2,249,False
+"potential. ""It",251,./markedupfiles/003.txt,2,250,False
+simply wrong,254,./markedupfiles/003.txt,2,253,False
+assume someone,257,./markedupfiles/003.txt,2,256,False
+someone cannot,258,./markedupfiles/003.txt,2,257,False
+said. Earlier,270,./markedupfiles/003.txt,2,269,False
+BBC Radio,274,./markedupfiles/003.txt,2,273,False
+typically dominated,302,./markedupfiles/003.txt,2,301,False
+segregated employment.,311,./markedupfiles/003.txt,2,310,False
+"employment. ""Unfortunately",312,./markedupfiles/003.txt,2,311,False
+stereotypical ideas,322,./markedupfiles/003.txt,2,321,False
+appropriate jobs,326,./markedupfiles/003.txt,2,325,False
+"men. ""Career",333,./markedupfiles/003.txt,2,332,False
+"""Career sexism",334,./markedupfiles/003.txt,2,333,False
+male-dominated industry.,353,./markedupfiles/003.txt,2,352,False
+industry. Construction,354,./markedupfiles/003.txt,2,353,False
+even worse.,357,./markedupfiles/003.txt,2,356,False
+"worse. ""But",358,./markedupfiles/003.txt,2,357,False
+saying childcare,364,./markedupfiles/003.txt,2,363,False
+childcare jobs,365,./markedupfiles/003.txt,2,364,False
+men. Career,376,./markedupfiles/003.txt,2,375,False
+Career sexism,377,./markedupfiles/003.txt,2,376,False
+"ways."" She",381,./markedupfiles/003.txt,2,380,False
+She added,382,./markedupfiles/003.txt,2,381,False
+"figures. ""The",397,./markedupfiles/003.txt,2,396,False
+"""The average",398,./markedupfiles/003.txt,2,397,False
+average woman,399,./markedupfiles/003.txt,2,398,False
+woman working,400,./markedupfiles/003.txt,2,399,False
+working full-time,401,./markedupfiles/003.txt,2,400,False
+every pound,409,./markedupfiles/003.txt,2,408,False
+earning. For,414,./markedupfiles/003.txt,2,413,False
+For women,415,./markedupfiles/003.txt,2,414,False
+women working,416,./markedupfiles/003.txt,2,415,False
+working part-time,417,./markedupfiles/003.txt,2,416,False
+The Department,422,./markedupfiles/003.txt,2,421,False
+experts panel,437,./markedupfiles/003.txt,2,436,False
+TUC. It,442,./markedupfiles/003.txt,2,441,False
+equal wage,454,./markedupfiles/003.txt,2,453,False
+wage policies.,455,./markedupfiles/003.txt,2,454,False
+policies. Research,456,./markedupfiles/003.txt,2,455,False
+Research conducted,457,./markedupfiles/003.txt,2,456,False
+year revealed,463,./markedupfiles/003.txt,2,462,False
+many Britons,466,./markedupfiles/003.txt,2,465,False
+"""natural differences""",480,./markedupfiles/003.txt,2,479,False
+sexes. Women,484,./markedupfiles/003.txt,2,483,False
+top positions,492,./markedupfiles/003.txt,2,491,False
+unions according,504,./markedupfiles/003.txt,2,503,False
+figures. And,508,./markedupfiles/003.txt,2,507,False
+male counterparts,520,./markedupfiles/003.txt,2,519,False
+average. Watchdog,523,./markedupfiles/003.txt,2,522,False
+Watchdog probes,1,./markedupfiles/002.txt,2,0,False
+probes e-mail,2,./markedupfiles/002.txt,2,1,False
+e-mail deletions,3,./markedupfiles/002.txt,2,2,False
+deletions The,4,./markedupfiles/002.txt,2,3,False
+The information,5,./markedupfiles/002.txt,2,4,False
+information commissioner,6,./markedupfiles/002.txt,2,5,False
+urgently asking,11,./markedupfiles/002.txt,2,10,False
+Cabinet Office,16,./markedupfiles/002.txt,2,15,False
+telling staff,19,./markedupfiles/002.txt,2,18,False
+delete e-mails,22,./markedupfiles/002.txt,2,21,False
+three months,26,./markedupfiles/002.txt,2,25,False
+months old.,27,./markedupfiles/002.txt,2,26,False
+old. Richard,28,./markedupfiles/002.txt,2,27,False
+Richard Thomas,29,./markedupfiles/002.txt,2,28,True
+"Thomas ""totally",30,./markedupfiles/002.txt,2,29,False
+"""totally condemned""",31,./markedupfiles/002.txt,2,30,False
+information laws,44,./markedupfiles/002.txt,2,43,False
+laws coming,45,./markedupfiles/002.txt,2,44,False
+January. Government,51,./markedupfiles/002.txt,2,50,False
+Government guidance,52,./markedupfiles/002.txt,2,51,False
+"""no current",63,./markedupfiles/002.txt,2,62,False
+"current purpose""",64,./markedupfiles/002.txt,2,63,False
+"purpose"" Mr",65,./markedupfiles/002.txt,2,64,False
+Mr Thomas,66,./markedupfiles/002.txt,2,65,True
+Thomas said.,67,./markedupfiles/002.txt,2,66,False
+said. The,68,./markedupfiles/002.txt,2,67,False
+The Tories,69,./markedupfiles/002.txt,2,68,False
+Lib Dems,73,./markedupfiles/002.txt,2,72,False
+new rules.,81,./markedupfiles/002.txt,2,80,False
+rules. Tory,82,./markedupfiles/002.txt,2,81,False
+Tory leader,83,./markedupfiles/002.txt,2,82,False
+leader Michael,84,./markedupfiles/002.txt,2,83,False
+Michael Howard,85,./markedupfiles/002.txt,2,84,True
+Tony Blair,90,./markedupfiles/002.txt,2,89,True
+Blair demanding,91,./markedupfiles/002.txt,2,90,False
+new rules,97,./markedupfiles/002.txt,2,96,False
+e-mail retention.,100,./markedupfiles/002.txt,2,99,False
+retention. On,101,./markedupfiles/002.txt,2,100,False
+On Monday,102,./markedupfiles/002.txt,2,101,False
+Monday Lib,103,./markedupfiles/002.txt,2,102,False
+Lib Dem,104,./markedupfiles/002.txt,2,103,False
+Dem constitutional,105,./markedupfiles/002.txt,2,104,False
+constitutional affairs,106,./markedupfiles/002.txt,2,105,False
+affairs committee,107,./markedupfiles/002.txt,2,106,False
+committee chairman,108,./markedupfiles/002.txt,2,107,False
+chairman Alan,109,./markedupfiles/002.txt,2,108,False
+Alan Beith,110,./markedupfiles/002.txt,2,109,True
+government e-mails,119,./markedupfiles/002.txt,2,118,False
+key probes,126,./markedupfiles/002.txt,2,125,False
+Hutton Inquiry.,130,./markedupfiles/002.txt,2,129,False
+Inquiry. The,131,./markedupfiles/002.txt,2,130,False
+The timing,132,./markedupfiles/002.txt,2,131,False
+new rules,136,./markedupfiles/002.txt,2,135,False
+Information Act,143,./markedupfiles/002.txt,2,142,False
+"""too unlikely",149,./markedupfiles/002.txt,2,148,False
+"coincidence"" Mr",155,./markedupfiles/002.txt,2,154,False
+Mr Beith,156,./markedupfiles/002.txt,2,155,True
+Beith said.,157,./markedupfiles/002.txt,2,156,False
+said. But,158,./markedupfiles/002.txt,2,157,False
+Cabinet Office,161,./markedupfiles/002.txt,2,160,False
+Office spokeswoman,162,./markedupfiles/002.txt,2,161,False
+new laws,171,./markedupfiles/002.txt,2,170,False
+"""the destruction",174,./markedupfiles/002.txt,2,173,False
+"important records"".",177,./markedupfiles/002.txt,2,176,False
+"records"". Mr",178,./markedupfiles/002.txt,2,177,False
+Mr Beith,179,./markedupfiles/002.txt,2,178,True
+Beith urged,180,./markedupfiles/002.txt,2,179,False
+information commissioner,183,./markedupfiles/002.txt,2,182,False
+"""e-mail regime""",190,./markedupfiles/002.txt,2,189,False
+"information regime"".",197,./markedupfiles/002.txt,2,196,False
+"regime"". Mr",198,./markedupfiles/002.txt,2,197,False
+Mr Thomas,199,./markedupfiles/002.txt,2,198,True
+"""The new",202,./markedupfiles/002.txt,2,201,False
+new Act,203,./markedupfiles/002.txt,2,202,False
+"criminal offence.""",223,./markedupfiles/002.txt,2,222,False
+"offence."" He",224,./markedupfiles/002.txt,2,223,False
+lord chancellor.,245,./markedupfiles/002.txt,2,244,False
+chancellor. All,246,./markedupfiles/002.txt,2,245,False
+All e-mails,247,./markedupfiles/002.txt,2,246,False
+information laws,255,./markedupfiles/002.txt,2,254,False
+important thing,259,./markedupfiles/002.txt,2,258,False
+Mr Thomas,268,./markedupfiles/002.txt,2,267,True
+Thomas .,269,./markedupfiles/002.txt,2,268,False
+". ""If",270,./markedupfiles/002.txt,2,269,False
+long-standing principle,279,./markedupfiles/002.txt,2,278,False
+public authorities.,286,./markedupfiles/002.txt,2,285,False
+authorities. It's,287,./markedupfiles/002.txt,2,286,False
+"it. ""But",307,./markedupfiles/002.txt,2,306,False
+deliberate destruction,310,./markedupfiles/002.txt,2,309,False
+later disclosure,317,./markedupfiles/002.txt,2,316,False
+"totally condemned.""",322,./markedupfiles/002.txt,2,321,False
+"condemned."" The",323,./markedupfiles/002.txt,2,322,False
+The Freedom,324,./markedupfiles/002.txt,2,323,False
+Information Act,327,./markedupfiles/002.txt,2,326,False
+England Wales,331,./markedupfiles/002.txt,2,330,False
+Northern Ireland,334,./markedupfiles/002.txt,2,333,False
+next year.,337,./markedupfiles/002.txt,2,336,False
+year. Similar,338,./markedupfiles/002.txt,2,337,False
+Scotland. It,350,./markedupfiles/002.txt,2,349,False
+public bodies,366,./markedupfiles/002.txt,2,365,False
+bodies subject,367,./markedupfiles/002.txt,2,366,False
+various exemptions.,370,./markedupfiles/002.txt,2,369,False
+exemptions. Its,371,./markedupfiles/002.txt,2,370,False
+Its implementation,372,./markedupfiles/002.txt,2,371,False
+information commissioner.,379,./markedupfiles/002.txt,2,378,False
+commissioner. Labour,380,./markedupfiles/002.txt,2,379,False
+new mothers,9,./markedupfiles/001.txt,2,8,False
+new proposals,19,./markedupfiles/001.txt,2,18,False
+Industry Secretary,26,./markedupfiles/001.txt,2,25,False
+Secretary Patricia,27,./markedupfiles/001.txt,2,26,False
+Patricia Hewitt.,28,./markedupfiles/001.txt,2,27,False
+Hewitt. It,29,./markedupfiles/001.txt,2,28,False
+nine months,39,./markedupfiles/001.txt,2,38,False
+Ms Hewitt,43,./markedupfiles/001.txt,2,42,True
+GMTV's Sunday,46,./markedupfiles/001.txt,2,45,False
+Sunday programme.,47,./markedupfiles/001.txt,2,46,False
+programme. Other,48,./markedupfiles/001.txt,2,47,False
+letting maternity,52,./markedupfiles/001.txt,2,51,False
+extending rights,60,./markedupfiles/001.txt,2,59,False
+older children.,65,./markedupfiles/001.txt,2,64,False
+children. The,66,./markedupfiles/001.txt,2,65,False
+The Tories,67,./markedupfiles/001.txt,2,66,False
+Tories dismissed,68,./markedupfiles/001.txt,2,67,False
+Liberal Democrats,78,./markedupfiles/001.txt,2,77,False
+misdirected. Ms,83,./markedupfiles/001.txt,2,82,False
+Ms Hewitt,84,./markedupfiles/001.txt,2,83,True
+"weeks. ""We",112,./markedupfiles/001.txt,2,111,False
+nine months,121,./markedupfiles/001.txt,2,120,False
+"next Parliament.""",144,./markedupfiles/001.txt,2,143,False
+"Parliament."" She",145,./markedupfiles/001.txt,2,144,False
+new mothers,148,./markedupfiles/001.txt,2,147,False
+already entitled,151,./markedupfiles/001.txt,2,150,False
+many women,159,./markedupfiles/001.txt,2,158,False
+"paid. ""We",172,./markedupfiles/001.txt,2,171,False
+firm commitment.,177,./markedupfiles/001.txt,2,176,False
+commitment. We,178,./markedupfiles/001.txt,2,177,False
+six months,188,./markedupfiles/001.txt,2,187,False
+nine months,195,./markedupfiles/001.txt,2,194,False
+months that's,196,./markedupfiles/001.txt,2,195,False
+partner's maternity,220,./markedupfiles/001.txt,2,219,False
+flexible working,231,./markedupfiles/001.txt,2,230,False
+older children.,238,./markedupfiles/001.txt,2,237,False
+children. The,239,./markedupfiles/001.txt,2,238,False
+The Shadow,240,./markedupfiles/001.txt,2,239,False
+Shadow Secretary,241,./markedupfiles/001.txt,2,240,False
+Family Theresa,247,./markedupfiles/001.txt,2,246,False
+Theresa May,248,./markedupfiles/001.txt,2,247,True
+Gordon Brown,256,./markedupfiles/001.txt,2,255,True
+Tony Blair,265,./markedupfiles/001.txt,2,264,True
+"women voters.""",278,./markedupfiles/001.txt,2,277,False
+"voters."" She",279,./markedupfiles/001.txt,2,278,False
+proposals closer,287,./markedupfiles/001.txt,2,286,False
+General Election.,291,./markedupfiles/001.txt,2,290,False
+Election. Liberal,292,./markedupfiles/001.txt,2,291,False
+Liberal Democrat,293,./markedupfiles/001.txt,2,292,False
+Democrat spokeswoman,294,./markedupfiles/001.txt,2,293,False
+women Sandra,297,./markedupfiles/001.txt,2,296,False
+Sandra Gidley,298,./markedupfiles/001.txt,2,297,True
+"""While mothers",301,./markedupfiles/001.txt,2,300,False
+extra maternity,306,./markedupfiles/001.txt,2,305,False
+Liberal Democrats,310,./markedupfiles/001.txt,2,309,False
+"misdirected."" She",317,./markedupfiles/001.txt,2,316,False
+boost maternity,323,./markedupfiles/001.txt,2,322,False
+first six,328,./markedupfiles/001.txt,2,327,False
+six months,329,./markedupfiles/001.txt,2,328,False
+time. Ms,341,./markedupfiles/001.txt,2,340,False
+Ms Hewitt,342,./markedupfiles/001.txt,2,341,True
+Hewitt also,343,./markedupfiles/001.txt,2,342,False
+employers. But,355,./markedupfiles/001.txt,2,354,False
+But David,356,./markedupfiles/001.txt,2,355,False
+David Frost,357,./markedupfiles/001.txt,2,356,True
+Frost director,358,./markedupfiles/001.txt,2,357,False
+director general,359,./markedupfiles/001.txt,2,358,False
+British Chambers,363,./markedupfiles/001.txt,2,362,False
+many small,369,./markedupfiles/001.txt,2,368,False
+small firms,370,./markedupfiles/001.txt,2,369,False
+"move. ""While",377,./markedupfiles/001.txt,2,376,False
+government's statutory,390,./markedupfiles/001.txt,2,389,False
+said. Further,409,./markedupfiles/001.txt,2,408,False
+Further details,410,./markedupfiles/001.txt,2,409,False
+Monday. New,420,./markedupfiles/001.txt,2,419,False
+New mothers,421,./markedupfiles/001.txt,2,420,False
+currently entitled,424,./markedupfiles/001.txt,2,423,False
+average earnings,429,./markedupfiles/001.txt,2,428,False
+first six,433,./markedupfiles/001.txt,2,432,False
+six weeks,434,./markedupfiles/001.txt,2,433,False
+giving birth,437,./markedupfiles/001.txt,2,436,False
+six months,448,./markedupfiles/001.txt,2,447,False
+months old.,449,./markedupfiles/001.txt,2,448,False
+old. Brown,450,./markedupfiles/001.txt,2,449,False
+Brown ally,1,./markedupfiles/005.txt,2,0,False
+ally rejects,2,./markedupfiles/005.txt,2,1,False
+rejects Budget,3,./markedupfiles/005.txt,2,2,False
+Budget spree,4,./markedupfiles/005.txt,2,3,False
+spree Chancellor,5,./markedupfiles/005.txt,2,4,False
+Chancellor Gordon,6,./markedupfiles/005.txt,2,5,False
+Gordon Brown's,7,./markedupfiles/005.txt,2,6,True
+Brown's closest,8,./markedupfiles/005.txt,2,7,False
+closest ally,9,./markedupfiles/005.txt,2,8,False
+denied suggestions,12,./markedupfiles/005.txt,2,11,False
+Budget giveaway,18,./markedupfiles/005.txt,2,17,False
+March. Ed,22,./markedupfiles/005.txt,2,21,False
+Ed Balls,23,./markedupfiles/005.txt,2,22,True
+Balls ex-chief,24,./markedupfiles/005.txt,2,23,False
+ex-chief economic,25,./markedupfiles/005.txt,2,24,False
+economic adviser,26,./markedupfiles/005.txt,2,25,False
+spending spree,36,./markedupfiles/005.txt,2,35,False
+polling day.,39,./markedupfiles/005.txt,2,38,False
+day. But,40,./markedupfiles/005.txt,2,39,False
+But Mr,41,./markedupfiles/005.txt,2,40,False
+Mr Balls,42,./markedupfiles/005.txt,2,41,True
+prospective Labour,45,./markedupfiles/005.txt,2,44,False
+Labour MP,46,./markedupfiles/005.txt,2,45,False
+fiscal rules.,57,./markedupfiles/005.txt,2,56,False
+rules. He,58,./markedupfiles/005.txt,2,57,False
+Sir Digby,63,./markedupfiles/005.txt,2,62,False
+Digby Jones,64,./markedupfiles/005.txt,2,63,False
+Jones CBI,65,./markedupfiles/005.txt,2,64,False
+CBI director,66,./markedupfiles/005.txt,2,65,False
+director general,67,./markedupfiles/005.txt,2,66,False
+Mr Brown,70,./markedupfiles/005.txt,2,69,True
+extra cash,79,./markedupfiles/005.txt,2,78,False
+pre-election bribes.,82,./markedupfiles/005.txt,2,81,False
+bribes. Mr,83,./markedupfiles/005.txt,2,82,False
+Mr Balls,84,./markedupfiles/005.txt,2,83,True
+Labour candidate,97,./markedupfiles/005.txt,2,96,False
+Mr Brown,105,./markedupfiles/005.txt,2,104,True
+golden economic,110,./markedupfiles/005.txt,2,109,False
+"- ""with",113,./markedupfiles/005.txt,2,112,False
+"spare"". He",118,./markedupfiles/005.txt,2,117,False
+current tax,130,./markedupfiles/005.txt,2,129,False
+tax credit,131,./markedupfiles/005.txt,2,130,False
+credit rules.,132,./markedupfiles/005.txt,2,131,False
+rules. He,133,./markedupfiles/005.txt,2,132,False
+He also,134,./markedupfiles/005.txt,2,133,False
+rates ahead,140,./markedupfiles/005.txt,2,139,False
+May election,145,./markedupfiles/005.txt,2,144,False
+Labour Party's,151,./markedupfiles/005.txt,2,150,False
+Party's chances,152,./markedupfiles/005.txt,2,151,False
+winning. Expectations,155,./markedupfiles/005.txt,2,154,False
+gathered pace,162,./markedupfiles/005.txt,2,161,False
+house prices,167,./markedupfiles/005.txt,2,166,False
+still rising.,170,./markedupfiles/005.txt,2,169,False
+rising. Consumer,171,./markedupfiles/005.txt,2,170,False
+Consumer borrowing,172,./markedupfiles/005.txt,2,171,False
+near-record pace,177,./markedupfiles/005.txt,2,176,False
+"January. ""If",180,./markedupfiles/005.txt,2,179,False
+England's Monetary,187,./markedupfiles/005.txt,2,186,False
+Monetary Policy,188,./markedupfiles/005.txt,2,187,False
+economy -,209,./markedupfiles/005.txt,2,208,False
+- I,218,./markedupfiles/005.txt,2,217,False
+big election,228,./markedupfiles/005.txt,2,227,False
+election issue,229,./markedupfiles/005.txt,2,228,False
+Parliamentary lunch.,238,./markedupfiles/005.txt,2,237,False
+"lunch. ""This",239,./markedupfiles/005.txt,2,238,False
+"political culture.""",247,./markedupfiles/005.txt,2,246,False
+"culture."" During",248,./markedupfiles/005.txt,2,247,False
+BBC Radio,253,./markedupfiles/005.txt,2,252,False
+Today programme,256,./markedupfiles/005.txt,2,255,False
+programme Mr,257,./markedupfiles/005.txt,2,256,False
+Mr Balls,258,./markedupfiles/005.txt,2,257,True
+sure Mr,263,./markedupfiles/005.txt,2,262,False
+Mr Brown's,264,./markedupfiles/005.txt,2,263,True
+Brown's Budget,265,./markedupfiles/005.txt,2,264,False
+"economy. ""I",276,./markedupfiles/005.txt,2,275,False
+"""I don't",277,./markedupfiles/005.txt,2,276,False
+pre-election spending,283,./markedupfiles/005.txt,2,282,False
+spending spree,284,./markedupfiles/005.txt,2,283,False
+spree -,285,./markedupfiles/005.txt,2,284,False
+said. His,296,./markedupfiles/005.txt,2,295,False
+His assurances,297,./markedupfiles/005.txt,2,296,False
+Sir Digby,301,./markedupfiles/005.txt,2,300,False
+Digby Jones,302,./markedupfiles/005.txt,2,301,False
+extra cash,311,./markedupfiles/005.txt,2,310,False
+improving workers',317,./markedupfiles/005.txt,2,316,False
+workers' skills.,318,./markedupfiles/005.txt,2,317,False
+skills. His,319,./markedupfiles/005.txt,2,318,False
+His message,320,./markedupfiles/005.txt,2,319,False
+"""Please don't",326,./markedupfiles/005.txt,2,325,False
+"electioneering."" Sir",335,./markedupfiles/005.txt,2,334,False
+Sir Digby,336,./markedupfiles/005.txt,2,335,True
+"""I don't",339,./markedupfiles/005.txt,2,338,False
+will. I,343,./markedupfiles/005.txt,2,342,False
+prudent chancellor,352,./markedupfiles/005.txt,2,351,False
+chancellor right,353,./markedupfiles/005.txt,2,352,False
+way through.,356,./markedupfiles/005.txt,2,355,False
+through. Stability,357,./markedupfiles/005.txt,2,356,False
+key word,361,./markedupfiles/005.txt,2,360,False
+word -,362,./markedupfiles/005.txt,2,361,False
+- British,363,./markedupfiles/005.txt,2,362,False
+British business,364,./markedupfiles/005.txt,2,363,False
+boring stability,367,./markedupfiles/005.txt,2,366,False
+"anything. ""We",371,./markedupfiles/005.txt,2,370,False
+public spending,380,./markedupfiles/005.txt,2,379,False
+spending don't,381,./markedupfiles/005.txt,2,380,False
+away. But,385,./markedupfiles/005.txt,2,384,False
+"people'. ""That",406,./markedupfiles/005.txt,2,405,False
+good way,411,./markedupfiles/005.txt,2,410,False
+"excess."" Mr",416,./markedupfiles/005.txt,2,415,False
+Mr Balls,417,./markedupfiles/005.txt,2,416,True
+whether Mr,422,./markedupfiles/005.txt,2,421,False
+Mr Brown,423,./markedupfiles/005.txt,2,422,True
+election amid,431,./markedupfiles/005.txt,2,430,False
+amid speculation,432,./markedupfiles/005.txt,2,431,False
+Foreign Secretary.,441,./markedupfiles/005.txt,2,440,False
+"Secretary. ""I",442,./markedupfiles/005.txt,2,441,False
+Gordon Brown,446,./markedupfiles/005.txt,2,445,True
+successful Labour,454,./markedupfiles/005.txt,2,453,False
+Labour government,455,./markedupfiles/005.txt,2,454,False
+third term,461,./markedupfiles/005.txt,2,460,False
+Conservative Party,473,./markedupfiles/005.txt,2,472,False
+Mr Balls,480,./markedupfiles/005.txt,2,479,True
+Today. Prime,483,./markedupfiles/005.txt,2,482,False
+Prime Minister,484,./markedupfiles/005.txt,2,483,False
+Minister Tony,485,./markedupfiles/005.txt,2,484,False
+Tony Blair,486,./markedupfiles/005.txt,2,485,True
+May. Labour,504,./markedupfiles/005.txt,2,503,False
+Manchester The,3,./markedupfiles/004.txt,2,2,False
+The Labour,4,./markedupfiles/004.txt,2,3,False
+Labour Party,5,./markedupfiles/004.txt,2,4,False
+autumn conference,11,./markedupfiles/004.txt,2,10,False
+confirmed. The,21,./markedupfiles/004.txt,2,20,False
+The much,22,./markedupfiles/004.txt,2,21,False
+much trailed,23,./markedupfiles/004.txt,2,22,False
+trailed decision,24,./markedupfiles/004.txt,2,23,False
+Labour's ruling,29,./markedupfiles/004.txt,2,28,False
+ruling National,30,./markedupfiles/004.txt,2,29,False
+National Executive,31,./markedupfiles/004.txt,2,30,False
+Executive Committee,32,./markedupfiles/004.txt,2,31,False
+traditional choice,39,./markedupfiles/004.txt,2,38,False
+seaside venue.,43,./markedupfiles/004.txt,2,42,False
+venue. It,44,./markedupfiles/004.txt,2,43,False
+annual event.,62,./markedupfiles/004.txt,2,61,False
+event. Blackpool,63,./markedupfiles/004.txt,2,62,False
+much smaller,68,./markedupfiles/004.txt,2,67,False
+smaller February,69,./markedupfiles/004.txt,2,68,False
+February spring,70,./markedupfiles/004.txt,2,69,False
+spring conference,71,./markedupfiles/004.txt,2,70,False
+conference instead,72,./markedupfiles/004.txt,2,71,False
+placatory move.,81,./markedupfiles/004.txt,2,80,False
+move. For,82,./markedupfiles/004.txt,2,81,False
+For years,83,./markedupfiles/004.txt,2,82,False
+main political,86,./markedupfiles/004.txt,2,85,False
+political parties,87,./markedupfiles/004.txt,2,86,False
+Blackpool Bournemouth,92,./markedupfiles/004.txt,2,91,False
+Brighton. And,95,./markedupfiles/004.txt,2,94,False
+much larger,100,./markedupfiles/004.txt,2,99,False
+larger annual,101,./markedupfiles/004.txt,2,100,False
+annual conference,102,./markedupfiles/004.txt,2,101,False
+coastal resort.,118,./markedupfiles/004.txt,2,117,False
+resort. In,119,./markedupfiles/004.txt,2,118,False
+The following,136,./markedupfiles/004.txt,2,135,False
+following year,137,./markedupfiles/004.txt,2,136,False
+year Bournemouth,138,./markedupfiles/004.txt,2,137,False
+Bournemouth hosted,139,./markedupfiles/004.txt,2,138,False
+party signed,145,./markedupfiles/004.txt,2,144,False
+two year,148,./markedupfiles/004.txt,2,147,False
+autumn conference.,156,./markedupfiles/004.txt,2,155,False
+conference. Colin,157,./markedupfiles/004.txt,2,156,False
+Colin Asplin,158,./markedupfiles/004.txt,2,157,True
+Asplin Blackpool,159,./markedupfiles/004.txt,2,158,False
+Blackpool Hotel,160,./markedupfiles/004.txt,2,159,False
+Hotel Association,161,./markedupfiles/004.txt,2,160,False
+"Blackpool. ""Obviously",176,./markedupfiles/004.txt,2,175,False
+that. I,182,./markedupfiles/004.txt,2,181,False
+"crowds. ""It",190,./markedupfiles/004.txt,2,189,False
+Labour Party,196,./markedupfiles/004.txt,2,195,False
+working class,201,./markedupfiles/004.txt,2,200,False
+class party,202,./markedupfiles/004.txt,2,201,False
+party doesn't,203,./markedupfiles/004.txt,2,202,False
+main working,210,./markedupfiles/004.txt,2,209,False
+working class,211,./markedupfiles/004.txt,2,210,False
+class resort,212,./markedupfiles/004.txt,2,211,False
+"country."" The",216,./markedupfiles/004.txt,2,215,False
+The exact,217,./markedupfiles/004.txt,2,216,False
+hotel accommodation,228,./markedupfiles/004.txt,2,227,False
+block bookings,239,./markedupfiles/004.txt,2,238,False
+major Manchester,246,./markedupfiles/004.txt,2,245,False
+Manchester hotels,247,./markedupfiles/004.txt,2,246,False
+official announcement.,251,./markedupfiles/004.txt,2,250,False
+Hewitt decries 'career,2,./markedupfiles/003.txt,3,0,False
+decries 'career sexism',3,./markedupfiles/003.txt,3,1,False
+'career sexism' Plans,4,./markedupfiles/003.txt,3,2,False
+beyond six months,12,./markedupfiles/003.txt,3,10,False
+Labour's election manifesto,19,./markedupfiles/003.txt,3,17,False
+said. Patricia Hewitt,28,./markedupfiles/003.txt,3,26,False
+"""increasingly high priority""",44,./markedupfiles/003.txt,3,42,False
+"""shared goal across",49,./markedupfiles/003.txt,3,47,False
+"goal across government"".",50,./markedupfiles/003.txt,3,48,False
+"across government"". Ms",51,./markedupfiles/003.txt,3,49,False
+"government"". Ms Hewitt",52,./markedupfiles/003.txt,3,50,False
+productivity seminar organised,61,./markedupfiles/003.txt,3,59,False
+Equal Opportunities Commission,66,./markedupfiles/003.txt,3,64,False
+six unpaid. Ms,82,./markedupfiles/003.txt,3,80,False
+unpaid. Ms Hewitt,83,./markedupfiles/003.txt,3,81,False
+first six months,113,./markedupfiles/003.txt,3,111,False
+second six months.,118,./markedupfiles/003.txt,3,116,False
+"six months. ""We",119,./markedupfiles/003.txt,3,117,False
+"that."" Ms Hewitt",147,./markedupfiles/003.txt,3,145,False
+Ms Hewitt also,148,./markedupfiles/003.txt,3,146,False
+male dominated sectors,163,./markedupfiles/003.txt,3,161,False
+dominated sectors saying,164,./markedupfiles/003.txt,3,162,False
+sectors saying sexism,165,./markedupfiles/003.txt,3,163,False
+still preventing women,171,./markedupfiles/003.txt,3,169,False
+preventing women reaching,172,./markedupfiles/003.txt,3,170,False
+full potential. Plans,176,./markedupfiles/003.txt,3,174,False
+non-traditional jobs. Women,200,./markedupfiles/003.txt,3,198,False
+Equal Opportunities Commission,214,./markedupfiles/003.txt,3,212,False
+"gap. ""Career sexism",235,./markedupfiles/003.txt,3,233,False
+"""Career sexism limits",236,./markedupfiles/003.txt,3,234,False
+sexism limits opportunities,237,./markedupfiles/003.txt,3,235,False
+"full potential. ""It",251,./markedupfiles/003.txt,3,249,False
+assume someone cannot,258,./markedupfiles/003.txt,3,256,False
+"segregated employment. ""Unfortunately",312,./markedupfiles/003.txt,3,310,False
+"men. ""Career sexism",334,./markedupfiles/003.txt,3,332,False
+male-dominated industry. Construction,354,./markedupfiles/003.txt,3,352,False
+"even worse. ""But",358,./markedupfiles/003.txt,3,356,False
+saying childcare jobs,365,./markedupfiles/003.txt,3,363,False
+men. Career sexism,377,./markedupfiles/003.txt,3,375,False
+"ways."" She added",382,./markedupfiles/003.txt,3,380,False
+"figures. ""The average",398,./markedupfiles/003.txt,3,396,False
+"""The average woman",399,./markedupfiles/003.txt,3,397,False
+average woman working,400,./markedupfiles/003.txt,3,398,False
+woman working full-time,401,./markedupfiles/003.txt,3,399,False
+earning. For women,415,./markedupfiles/003.txt,3,413,False
+For women working,416,./markedupfiles/003.txt,3,414,False
+women working part-time,417,./markedupfiles/003.txt,3,415,False
+equal wage policies.,455,./markedupfiles/003.txt,3,453,False
+wage policies. Research,456,./markedupfiles/003.txt,3,454,False
+policies. Research conducted,457,./markedupfiles/003.txt,3,455,False
+average. Watchdog probes,524,./markedupfiles/003.txt,3,522,False
+Watchdog probes e-mail,2,./markedupfiles/002.txt,3,0,False
+probes e-mail deletions,3,./markedupfiles/002.txt,3,1,False
+e-mail deletions The,4,./markedupfiles/002.txt,3,2,False
+deletions The information,5,./markedupfiles/002.txt,3,3,False
+The information commissioner,6,./markedupfiles/002.txt,3,4,False
+three months old.,27,./markedupfiles/002.txt,3,25,False
+months old. Richard,28,./markedupfiles/002.txt,3,26,False
+old. Richard Thomas,29,./markedupfiles/002.txt,3,27,False
+"Richard Thomas ""totally",30,./markedupfiles/002.txt,3,28,False
+"Thomas ""totally condemned""",31,./markedupfiles/002.txt,3,29,False
+information laws coming,45,./markedupfiles/002.txt,3,43,False
+January. Government guidance,52,./markedupfiles/002.txt,3,50,False
+"""no current purpose""",64,./markedupfiles/002.txt,3,62,False
+"current purpose"" Mr",65,./markedupfiles/002.txt,3,63,False
+"purpose"" Mr Thomas",66,./markedupfiles/002.txt,3,64,False
+Mr Thomas said.,67,./markedupfiles/002.txt,3,65,False
+Thomas said. The,68,./markedupfiles/002.txt,3,66,False
+said. The Tories,69,./markedupfiles/002.txt,3,67,False
+new rules. Tory,82,./markedupfiles/002.txt,3,80,False
+rules. Tory leader,83,./markedupfiles/002.txt,3,81,False
+Tory leader Michael,84,./markedupfiles/002.txt,3,82,False
+leader Michael Howard,85,./markedupfiles/002.txt,3,83,False
+Tony Blair demanding,91,./markedupfiles/002.txt,3,89,False
+e-mail retention. On,101,./markedupfiles/002.txt,3,99,False
+retention. On Monday,102,./markedupfiles/002.txt,3,100,False
+On Monday Lib,103,./markedupfiles/002.txt,3,101,False
+Monday Lib Dem,104,./markedupfiles/002.txt,3,102,False
+Lib Dem constitutional,105,./markedupfiles/002.txt,3,103,False
+Dem constitutional affairs,106,./markedupfiles/002.txt,3,104,False
+constitutional affairs committee,107,./markedupfiles/002.txt,3,105,False
+affairs committee chairman,108,./markedupfiles/002.txt,3,106,False
+committee chairman Alan,109,./markedupfiles/002.txt,3,107,False
+chairman Alan Beith,110,./markedupfiles/002.txt,3,108,False
+Hutton Inquiry. The,131,./markedupfiles/002.txt,3,129,False
+Inquiry. The timing,132,./markedupfiles/002.txt,3,130,False
+"coincidence"" Mr Beith",156,./markedupfiles/002.txt,3,154,False
+Mr Beith said.,157,./markedupfiles/002.txt,3,155,False
+Beith said. But,158,./markedupfiles/002.txt,3,156,False
+Cabinet Office spokeswoman,162,./markedupfiles/002.txt,3,160,False
+"important records"". Mr",178,./markedupfiles/002.txt,3,176,False
+"records"". Mr Beith",179,./markedupfiles/002.txt,3,177,False
+Mr Beith urged,180,./markedupfiles/002.txt,3,178,False
+"information regime"". Mr",198,./markedupfiles/002.txt,3,196,False
+"regime"". Mr Thomas",199,./markedupfiles/002.txt,3,197,False
+"""The new Act",203,./markedupfiles/002.txt,3,201,False
+"criminal offence."" He",224,./markedupfiles/002.txt,3,222,False
+lord chancellor. All,246,./markedupfiles/002.txt,3,244,False
+chancellor. All e-mails,247,./markedupfiles/002.txt,3,245,False
+Mr Thomas .,269,./markedupfiles/002.txt,3,267,False
+"Thomas . ""If",270,./markedupfiles/002.txt,3,268,False
+public authorities. It's,287,./markedupfiles/002.txt,3,285,False
+"totally condemned."" The",323,./markedupfiles/002.txt,3,321,False
+"condemned."" The Freedom",324,./markedupfiles/002.txt,3,322,False
+next year. Similar,338,./markedupfiles/002.txt,3,336,False
+public bodies subject,367,./markedupfiles/002.txt,3,365,False
+various exemptions. Its,371,./markedupfiles/002.txt,3,369,False
+exemptions. Its implementation,372,./markedupfiles/002.txt,3,370,False
+information commissioner. Labour,380,./markedupfiles/002.txt,3,378,False
+Industry Secretary Patricia,27,./markedupfiles/001.txt,3,25,False
+Secretary Patricia Hewitt.,28,./markedupfiles/001.txt,3,26,False
+Patricia Hewitt. It,29,./markedupfiles/001.txt,3,27,False
+GMTV's Sunday programme.,47,./markedupfiles/001.txt,3,45,False
+Sunday programme. Other,48,./markedupfiles/001.txt,3,46,False
+older children. The,66,./markedupfiles/001.txt,3,64,False
+children. The Tories,67,./markedupfiles/001.txt,3,65,False
+The Tories dismissed,68,./markedupfiles/001.txt,3,66,False
+misdirected. Ms Hewitt,84,./markedupfiles/001.txt,3,82,False
+"next Parliament."" She",145,./markedupfiles/001.txt,3,143,False
+firm commitment. We,178,./markedupfiles/001.txt,3,176,False
+nine months that's,196,./markedupfiles/001.txt,3,194,False
+older children. The,239,./markedupfiles/001.txt,3,237,False
+children. The Shadow,240,./markedupfiles/001.txt,3,238,False
+The Shadow Secretary,241,./markedupfiles/001.txt,3,239,False
+Family Theresa May,248,./markedupfiles/001.txt,3,246,False
+"women voters."" She",279,./markedupfiles/001.txt,3,277,False
+General Election. Liberal,292,./markedupfiles/001.txt,3,290,False
+Election. Liberal Democrat,293,./markedupfiles/001.txt,3,291,False
+Liberal Democrat spokeswoman,294,./markedupfiles/001.txt,3,292,False
+women Sandra Gidley,298,./markedupfiles/001.txt,3,296,False
+first six months,329,./markedupfiles/001.txt,3,327,False
+time. Ms Hewitt,342,./markedupfiles/001.txt,3,340,False
+Ms Hewitt also,343,./markedupfiles/001.txt,3,341,False
+employers. But David,356,./markedupfiles/001.txt,3,354,False
+But David Frost,357,./markedupfiles/001.txt,3,355,False
+David Frost director,358,./markedupfiles/001.txt,3,356,False
+Frost director general,359,./markedupfiles/001.txt,3,357,False
+many small firms,370,./markedupfiles/001.txt,3,368,False
+said. Further details,410,./markedupfiles/001.txt,3,408,False
+Monday. New mothers,421,./markedupfiles/001.txt,3,419,False
+first six weeks,434,./markedupfiles/001.txt,3,432,False
+six months old.,449,./markedupfiles/001.txt,3,447,False
+months old. Brown,450,./markedupfiles/001.txt,3,448,False
+old. Brown ally,451,./markedupfiles/001.txt,3,449,False
+Brown ally rejects,2,./markedupfiles/005.txt,3,0,False
+ally rejects Budget,3,./markedupfiles/005.txt,3,1,False
+rejects Budget spree,4,./markedupfiles/005.txt,3,2,False
+Budget spree Chancellor,5,./markedupfiles/005.txt,3,3,False
+spree Chancellor Gordon,6,./markedupfiles/005.txt,3,4,False
+Chancellor Gordon Brown's,7,./markedupfiles/005.txt,3,5,False
+Gordon Brown's closest,8,./markedupfiles/005.txt,3,6,False
+Brown's closest ally,9,./markedupfiles/005.txt,3,7,False
+March. Ed Balls,23,./markedupfiles/005.txt,3,21,False
+Ed Balls ex-chief,24,./markedupfiles/005.txt,3,22,False
+Balls ex-chief economic,25,./markedupfiles/005.txt,3,23,False
+ex-chief economic adviser,26,./markedupfiles/005.txt,3,24,False
+polling day. But,40,./markedupfiles/005.txt,3,38,False
+day. But Mr,41,./markedupfiles/005.txt,3,39,False
+But Mr Balls,42,./markedupfiles/005.txt,3,40,False
+prospective Labour MP,46,./markedupfiles/005.txt,3,44,False
+fiscal rules. He,58,./markedupfiles/005.txt,3,56,False
+Sir Digby Jones,64,./markedupfiles/005.txt,3,62,True
+Digby Jones CBI,65,./markedupfiles/005.txt,3,63,False
+Jones CBI director,66,./markedupfiles/005.txt,3,64,False
+CBI director general,67,./markedupfiles/005.txt,3,65,False
+pre-election bribes. Mr,83,./markedupfiles/005.txt,3,81,False
+bribes. Mr Balls,84,./markedupfiles/005.txt,3,82,False
+current tax credit,131,./markedupfiles/005.txt,3,129,False
+tax credit rules.,132,./markedupfiles/005.txt,3,130,False
+credit rules. He,133,./markedupfiles/005.txt,3,131,False
+rules. He also,134,./markedupfiles/005.txt,3,132,False
+Labour Party's chances,152,./markedupfiles/005.txt,3,150,False
+still rising. Consumer,171,./markedupfiles/005.txt,3,169,False
+rising. Consumer borrowing,172,./markedupfiles/005.txt,3,170,False
+England's Monetary Policy,188,./markedupfiles/005.txt,3,186,False
+big election issue,229,./markedupfiles/005.txt,3,227,False
+"Parliamentary lunch. ""This",239,./markedupfiles/005.txt,3,237,False
+"political culture."" During",248,./markedupfiles/005.txt,3,246,False
+Today programme Mr,257,./markedupfiles/005.txt,3,255,False
+programme Mr Balls,258,./markedupfiles/005.txt,3,256,False
+sure Mr Brown's,264,./markedupfiles/005.txt,3,262,False
+Mr Brown's Budget,265,./markedupfiles/005.txt,3,263,False
+"economy. ""I don't",277,./markedupfiles/005.txt,3,275,False
+pre-election spending spree,284,./markedupfiles/005.txt,3,282,False
+spending spree -,285,./markedupfiles/005.txt,3,283,False
+said. His assurances,297,./markedupfiles/005.txt,3,295,False
+Sir Digby Jones,302,./markedupfiles/005.txt,3,300,True
+improving workers' skills.,318,./markedupfiles/005.txt,3,316,False
+workers' skills. His,319,./markedupfiles/005.txt,3,317,False
+skills. His message,320,./markedupfiles/005.txt,3,318,False
+"electioneering."" Sir Digby",336,./markedupfiles/005.txt,3,334,False
+prudent chancellor right,353,./markedupfiles/005.txt,3,351,False
+way through. Stability,357,./markedupfiles/005.txt,3,355,False
+key word -,362,./markedupfiles/005.txt,3,360,False
+word - British,363,./markedupfiles/005.txt,3,361,False
+- British business,364,./markedupfiles/005.txt,3,362,False
+public spending don't,381,./markedupfiles/005.txt,3,379,False
+"excess."" Mr Balls",417,./markedupfiles/005.txt,3,415,False
+whether Mr Brown,423,./markedupfiles/005.txt,3,421,False
+election amid speculation,432,./markedupfiles/005.txt,3,430,False
+"Foreign Secretary. ""I",442,./markedupfiles/005.txt,3,440,False
+successful Labour government,455,./markedupfiles/005.txt,3,453,False
+Today. Prime Minister,484,./markedupfiles/005.txt,3,482,False
+Prime Minister Tony,485,./markedupfiles/005.txt,3,483,False
+Minister Tony Blair,486,./markedupfiles/005.txt,3,484,False
+Manchester The Labour,4,./markedupfiles/004.txt,3,2,False
+The Labour Party,5,./markedupfiles/004.txt,3,3,False
+confirmed. The much,22,./markedupfiles/004.txt,3,20,False
+The much trailed,23,./markedupfiles/004.txt,3,21,False
+much trailed decision,24,./markedupfiles/004.txt,3,22,False
+Labour's ruling National,30,./markedupfiles/004.txt,3,28,False
+ruling National Executive,31,./markedupfiles/004.txt,3,29,False
+National Executive Committee,32,./markedupfiles/004.txt,3,30,False
+seaside venue. It,44,./markedupfiles/004.txt,3,42,False
+annual event. Blackpool,63,./markedupfiles/004.txt,3,61,False
+much smaller February,69,./markedupfiles/004.txt,3,67,False
+smaller February spring,70,./markedupfiles/004.txt,3,68,False
+February spring conference,71,./markedupfiles/004.txt,3,69,False
+spring conference instead,72,./markedupfiles/004.txt,3,70,False
+placatory move. For,82,./markedupfiles/004.txt,3,80,False
+move. For years,83,./markedupfiles/004.txt,3,81,False
+main political parties,87,./markedupfiles/004.txt,3,85,False
+much larger annual,101,./markedupfiles/004.txt,3,99,False
+larger annual conference,102,./markedupfiles/004.txt,3,100,False
+coastal resort. In,119,./markedupfiles/004.txt,3,117,False
+The following year,137,./markedupfiles/004.txt,3,135,False
+following year Bournemouth,138,./markedupfiles/004.txt,3,136,False
+year Bournemouth hosted,139,./markedupfiles/004.txt,3,137,False
+autumn conference. Colin,157,./markedupfiles/004.txt,3,155,False
+conference. Colin Asplin,158,./markedupfiles/004.txt,3,156,False
+Colin Asplin Blackpool,159,./markedupfiles/004.txt,3,157,False
+Asplin Blackpool Hotel,160,./markedupfiles/004.txt,3,158,False
+Blackpool Hotel Association,161,./markedupfiles/004.txt,3,159,False
+working class party,202,./markedupfiles/004.txt,3,200,False
+class party doesn't,203,./markedupfiles/004.txt,3,201,False
+main working class,211,./markedupfiles/004.txt,3,209,False
+working class resort,212,./markedupfiles/004.txt,3,210,False
+"country."" The exact",217,./markedupfiles/004.txt,3,215,False
+major Manchester hotels,247,./markedupfiles/004.txt,3,245,False
