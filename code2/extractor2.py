@@ -23,6 +23,7 @@ def get_all_list(typeoffile):
                      word = word[:-1]
                  if len(word) == 0:
                      continue
+                 word = word.replace("\"", "")
                  list.append(word)
                  filename_list.append(filename)
                  n_gram.append(1)

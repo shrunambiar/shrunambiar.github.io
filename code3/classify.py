@@ -21,7 +21,8 @@ target = df['classtype'].as_matrix()
 
 
 
-model = SVC()#LogisticRegression()
+model = DecisionTreeClassifier()#SVC()
+#LogisticRegression()
 model.fit(data, target)
 print(model)
 # print zip(features, model.coef_[0])
@@ -37,7 +38,7 @@ n = len(expected)
 
 for i in range(n):
     if expected[i] == True and predicted[i] == False:
-        print df.iloc[i]
+        print df.iloc[i]['All-Words']
 
 
 # summarize the fit of the model
