@@ -8,6 +8,7 @@ df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
 df.insert(len(df.columns), "PrecedingTitle", False)
 df.insert(len(df.columns), "Apostrophe", False)
 df.insert(len(df.columns), "PRE_DIST_FROM_THE", 100)
+df.insert(len(df.columns), "PRE_DIST_FROM_POSITION", 100)
 f = open('verbs4.txt')
 g = open('stopwords.txt')
 
@@ -16,6 +17,9 @@ def checkPrecedingPrefix(instance):
     # n = len(l)
 
     prefixes = ['Mr.', 'Mrs.', 'Dr.', 'Ms.', 'Sir.', 'Jr.', 'Sr.', 'Lord', 'Prince', 'Princess']
+
+    Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP', 'Officer','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel','Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister','Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller','Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar']
+
 
     if l[0] in prefixes or (l[0] + ".") in prefixes:
         return True
@@ -75,6 +79,13 @@ for j in range(len(df)):
     for k in prestring:
         if k in stopwords:
             df.at[j,"PRE_DIST_STOPWORD"]=prestring.index(k)
+
+    for k in prestring:
+        if k in Positions:
+            df.at[j,"PRE_DIST_FROM_POSITION"]=prestring.index(k)
+            break
+
+
     prefix = checkPrecedingPrefix(instance)
     df.at[j, "PrecedingTitle"] = prefix
     apostrophe = checkSucceedingApostrophe(instance)
