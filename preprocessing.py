@@ -28,7 +28,7 @@ for i in f.readlines():
 
 for i in range(len(dd)):
     for j in (dd.loc[i][0].split()):
-        if(j in stopwords):
+        if(j.lower() in stopwords):
             remove_list.append(i)
             continue
 de = dd.drop(dd.index[remove_list])
