@@ -104,7 +104,7 @@ for i in range(len(dh)):
     for j in (di.loc[i][0].split()):
         if (j in Positions):
             remove_list.append(i)
-        elif (j[:-2] in Positions:
+        elif (j[:-2] in Positions):
             remove_list.append(i)
 dj = di.drop(di.index[remove_list])
 del di
@@ -118,7 +118,7 @@ for i in range(len(dh)):
     for j in (dj.loc[i][0].split()):
         if (j in Countries):
             remove_list.append(i)
-        elif (j[:-2] in Countries:
+        elif (j[:-2] in Countries):
             remove_list.append(i)
 dk = dj.drop(di.index[remove_list])
 del dj
