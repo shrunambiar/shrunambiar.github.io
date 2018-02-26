@@ -1,9 +1,8 @@
 import pandas as pd
 import string
 import sys
-
 df = pd.read_csv(sys.argv[1])
-if sys.argv[1]=="preprocessed_data_train.csv":
+if sys.argv[1]=='preprocessed_data_train.csv':
     var="train"
 else:
     var="test"
@@ -16,14 +15,13 @@ df.insert(len(df.columns), "NEGATIVE_FEATURE", False)
 df.insert(len(df.columns), "POSITIVE_FEATURE", False)
 df.insert(len(df.columns), "Surrounding_Caps", False)
 df.insert(len(df.columns), "Apostrophe", False)
-
-#df.insert(len(df.columns), "PRE_DIST_STOPWORD",100)
-#df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
-#df.insert(len(df.columns), "POST_IS_PREPOSITION", False)
-#df.insert(len(df.columns), "RELATIONSHIP", False)
-#df.insert(len(df.columns), "POST_IS_SPEAK_VERB", False)
-#df.insert(len(df.columns), "PRE_IS_SPEAK_VERB", False)
-#df.insert(len(df.columns), "INSTANCE_IS_POSITION", False)
+##df.insert(len(df.columns), "PRE_DIST_STOPWORD",100)
+##df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
+df.insert(len(df.columns), "POST_IS_PREPOSITION", False)
+df.insert(len(df.columns), "RELATIONSHIP", False)
+df.insert(len(df.columns), "POST_IS_SPEAK_VERB", False)
+df.insert(len(df.columns), "PRE_IS_SPEAK_VERB", False)
+df.insert(len(df.columns), "INSTANCE_IS_POSITION", False)
 
 f = open('./other_text_files/verbs4.txt')
 g = open('./other_text_files/stopwords.txt')
@@ -62,7 +60,7 @@ prepositions=prep.read().split()
 
 
 for j in range(len(df)):
-    sfile = open(df.loc[j]['filename'])
+    sfile = open('./data/raw/' + df.loc[j]['filename'][-7:])
     ls = sfile.read().split()
     start = df.loc[j]['start']
     end = df.loc[j]['end']
@@ -87,16 +85,18 @@ for j in range(len(df)):
             postring = postring[0:postring.index('.')]
 
     if start>1:
-        preword = ls[start-1:start]
+        preword = ''.join(ls[start-1:start])
     else:
-        preword = ls[0:start]
+        preword = ''.join(ls[0:start])
 
     if end< len(ls)-1:
-        postword = ls[end+1:end]
+        postword = ''.join(ls[end+1:end+2])
 
     else:
-        postword = ls[end+1:len(ls)-1]
+        postword = ''.join(ls[end+1:len(ls)-1])
 
+#    print "Instance :" + instance + " Preword : " + preword
+#    print "Instance :" + instance + " Postword : " + postword
 
 
 
@@ -106,8 +106,8 @@ for j in range(len(df)):
             break
 
 
-    #if postword in prepositions:
-        #df.at[j,"POST_IS_PREPOSITION"]=True
+    if postword in prepositions:
+        df.at[j,"POST_IS_PREPOSITION"]=True
 
 
 
@@ -116,18 +116,18 @@ for j in range(len(df)):
         df.at[j,"PRE_DIST_FROM_THE"]= True
 
 
-    #speakwords = ['said', 'says', 'told', 'tells', 'commented', 'stated', 'reported','called', 'addressed','argued','exclaimed']
-    #if postword in speakwords:
-        #df.at[j,"POST_IS_SPEAK_VERB"]= True
+    speakwords = ['said', 'says', 'told', 'tells', 'commented', 'stated', 'reported','called', 'addressed','argued','exclaimed']
+    if postword.lower() in speakwords:
+        df.at[j,"POST_IS_SPEAK_VERB"]= True
 
 
-    #if preword in speakwords:
-        #df.at[j,"POST_IS_SPEAK_VERB"]= True
+    if preword.lower() in speakwords:
+        df.at[j,"POST_IS_SPEAK_VERB"]= True
 
 
-    #relationships = ['father', 'mother', 'son', 'daughter', 'child', 'nephew', 'niece','uncle', 'aunt','granfather','grandmother','lover','husband','wife','advisor','teacher']
-    #if postword in relationships:
-    #    df.at[j,"RELATIONSHIP"]= True
+    relationships = ['father', 'mother', 'son', 'daughter', 'child', 'nephew', 'niece','uncle', 'aunt','granfather','grandmother','lover','husband','wife','advisor','teacher']
+    if postword.lower() in relationships:
+        df.at[j,"RELATIONSHIP"]= True
 
 
 
@@ -135,10 +135,10 @@ for j in range(len(df)):
         if k in verbs:
             df.at[j,"PRE_DIST_VERB"]=len(prestring)- prestring.index(k)
 
-    #for i in postring:
-        #if i in stopwords:
-            #df.at[j, "POST_DIST_STOPWORD"] = postring.index(i)
-            #break
+##    for i in postring:
+##        if i in stopwords:
+##            df.at[j, "POST_DIST_STOPWORD"] = postring.index(i)
+##            break
 
     #for k in prestring:
         #if k in stopwords:
@@ -156,9 +156,8 @@ for j in range(len(df)):
             df.at[j,"PRE_DIST_FROM_POSITION"]=len(prestring)- prestring.index(k)
             break
 
-    #if instance in Positions:
-        #df.at[j,"INSTANCE_IS_POSITION"]=True
-        #break
+    if instance in Positions:
+        df.at[j,"INSTANCE_IS_POSITION"]=True
 
     loc_words = ['at', 'in', 'nearby', 'on', 'a']
     for k in prestring:

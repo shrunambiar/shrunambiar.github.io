@@ -1,0 +1,807 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+0,Brown,0,./data/train/005.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+1,Fox,0,./data/train/007.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+2,Blair's,2,./data/train/007.txt,1,2,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False
+3,Betty,218,./data/train/008.txt,1,218,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+4,Lovenduski,460,./data/train/008.txt,1,460,True,3,100,False,False,1,False,False,True,False,False,False,False,False,False
+5,Campbell,0,./data/train/009.txt,1,0,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+6,Campbell,347,./data/train/009.txt,1,347,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+7,Sandra,10,./data/train/011.txt,1,10,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+8,Michael,66,./data/train/011.txt,1,66,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+9,Sandra,182,./data/train/011.txt,1,182,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+10,Michael,188,./data/train/011.txt,1,188,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False
+11,Conlon,70,./data/train/012.txt,1,70,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+12,Maguire,72,./data/train/012.txt,1,72,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+13,Giuseppe,281,./data/train/012.txt,1,281,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+14,Giuseppe,317,./data/train/012.txt,1,317,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False
+15,Blair,0,./data/train/014.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+16,Straw,0,./data/train/018.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+17,Tomlinson,416,./data/train/020.txt,1,416,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+18,Tomlinson,460,./data/train/020.txt,1,460,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False
+19,Blair,0,./data/train/026.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+20,Kennedy,5,./data/train/036.txt,1,5,True,2,1,False,False,100,False,False,True,False,False,False,False,False,False
+21,Hitler's,67,./data/train/039.txt,1,67,True,1,100,False,False,100,True,False,True,True,False,False,False,False,False
+22,Bolshevik,263,./data/train/039.txt,1,263,True,1,100,False,False,100,False,False,True,False,False,False,False,False,False
+23,Hitler's,266,./data/train/039.txt,1,266,True,4,100,False,False,100,False,False,True,True,False,False,False,False,False
+24,Straw,5,./data/train/040.txt,1,5,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False
+25,Lucy,600,./data/train/041.txt,1,600,True,1,1,False,False,100,False,False,True,False,False,False,False,False,False
+26,Lucy,613,./data/train/041.txt,1,613,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+27,Sadie,619,./data/train/041.txt,1,619,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+28,Charles,171,./data/train/044.txt,1,171,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+29,William,173,./data/train/044.txt,1,173,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+30,Harry,175,./data/train/044.txt,1,175,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+31,Glenn,142,./data/train/045.txt,1,142,True,5,0,False,False,100,False,False,False,False,False,False,True,False,False
+32,Blair,0,./data/train/046.txt,1,0,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+33,Blunkett,2,./data/train/046.txt,1,2,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+34,Clarke,0,./data/train/049.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+35,Kelly,0,./data/train/055.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+36,Tomlinson,430,./data/train/055.txt,1,430,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+37,Tomlinson,468,./data/train/055.txt,1,468,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False
+38,Aynsley-Green,60,./data/train/057.txt,1,60,True,100,0,False,False,1,False,False,True,False,False,False,False,False,False
+39,Aynsley-Green,150,./data/train/057.txt,1,150,True,2,0,False,False,5,False,False,True,False,False,False,False,False,False
+40,Aynsley-Green,161,./data/train/057.txt,1,161,True,100,0,False,False,1,False,False,True,False,False,False,False,False,False
+41,Curtice,356,./data/train/062.txt,1,356,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False
+42,Curtice,453,./data/train/062.txt,1,453,True,100,0,False,False,1,False,False,True,False,False,False,True,False,False
+43,Karen,202,./data/train/063.txt,1,202,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False
+44,Blair,0,./data/train/064.txt,1,0,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+45,Scott-Joynt,381,./data/train/073.txt,1,381,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+46,Brown,0,./data/train/077.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+47,Howard,0,./data/train/086.txt,1,0,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+48,Howard,0,./data/train/087.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+49,David,572,./data/train/089.txt,1,572,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+50,Brown,0,./data/train/095.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+51,Blair,4,./data/train/095.txt,1,4,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False
+52,Jim,154,./data/train/098.txt,1,154,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+53,Blair,0,./data/train/099.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+54,Brown's,327,./data/train/099.txt,1,327,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False
+55,Blunkett,0,./data/train/102.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+56,Blair,5,./data/train/102.txt,1,5,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+57,David,215,./data/train/102.txt,1,215,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+58,Blair,0,./data/train/112.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+59,Blunkett,3,./data/train/112.txt,1,3,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+60,Blunkett,294,./data/train/112.txt,1,294,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+61,Lucy,34,./data/train/113.txt,1,34,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+62,Lucy's,74,./data/train/113.txt,1,74,True,100,1,False,False,100,True,False,True,True,False,True,False,False,False
+63,Lucy,98,./data/train/113.txt,1,98,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+64,Lucy's,187,./data/train/113.txt,1,187,True,100,2,False,False,100,False,False,False,True,False,False,False,False,False
+65,Lucy,218,./data/train/113.txt,1,218,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+66,Lucy,283,./data/train/113.txt,1,283,True,5,1,False,False,100,False,True,False,False,False,False,False,False,False
+67,Maggie,311,./data/train/113.txt,1,311,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False
+68,Emily,320,./data/train/113.txt,1,320,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+69,Pelham,323,./data/train/113.txt,1,323,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+70,Michelle,349,./data/train/116.txt,1,349,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+71,Harry,3,./data/train/120.txt,1,3,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+72,Harry,76,./data/train/120.txt,1,76,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False
+73,Harry,114,./data/train/120.txt,1,114,True,1,0,False,False,100,False,False,False,False,False,False,True,False,False
+74,Harry,165,./data/train/120.txt,1,165,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False
+75,Harry,290,./data/train/120.txt,1,290,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+76,Bush,1,./data/train/126.txt,1,1,True,1,2,False,False,100,False,False,True,False,False,False,False,False,False
+77,Blair,3,./data/train/126.txt,1,3,True,3,0,False,False,100,False,False,False,False,False,False,True,False,False
+78,Bush's,22,./data/train/126.txt,1,22,True,100,2,False,False,1,False,False,True,True,False,False,False,False,False
+79,Bush,248,./data/train/126.txt,1,248,True,100,0,False,False,1,False,False,True,False,False,False,False,False,False
+80,Bush,384,./data/train/126.txt,1,384,True,100,100,False,False,1,False,False,True,False,True,False,False,False,False
+81,Brown,0,./data/train/127.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+82,Brown,0,./data/train/128.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+83,Clarke,162,./data/train/131.txt,1,162,True,100,2,False,False,5,False,False,True,False,False,False,False,False,False
+84,Rix,164,./data/train/131.txt,1,164,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+85,Jowell,0,./data/train/133.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+86,Blair,0,./data/train/135.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False
+87,Straw,0,./data/train/136.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+88,Rwandan,3,./data/train/140.txt,1,3,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+89,Rwanda's,93,./data/train/140.txt,1,93,True,3,100,False,False,100,False,False,False,True,False,False,False,False,False
+90,Rwanda's,150,./data/train/140.txt,1,150,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+91,Howard,0,./data/train/141.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+92,Blair,0,./data/train/149.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+93,Clarke,0,./data/train/153.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+94,Musharraf,21,./data/train/155.txt,1,21,True,100,2,False,False,1,False,False,True,False,True,False,False,False,False
+95,Musharraf,65,./data/train/155.txt,1,65,True,2,1,False,False,1,False,False,True,False,False,False,False,False,False
+96,Musharraf,99,./data/train/155.txt,1,99,True,100,0,False,False,1,False,False,True,False,False,False,True,False,False
+97,Musharraf's,276,./data/train/155.txt,1,276,True,100,0,False,False,1,False,False,True,True,False,False,False,False,False
+98,Musharraf,323,./data/train/155.txt,1,323,True,100,0,False,False,1,True,False,True,False,False,False,True,False,False
+99,Brown,3,./data/train/158.txt,1,3,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False
+100,Kinnock,0,./data/train/163.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+101,McConnell,0,./data/train/164.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+102,Scots,2,./data/train/164.txt,1,2,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+103,Stephenson,272,./data/train/164.txt,1,272,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+104,Blunkett,0,./data/train/166.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False
+105,Napier,49,./data/train/173.txt,1,49,True,100,0,False,False,100,True,False,True,False,False,False,True,False,False
+106,Napier,142,./data/train/173.txt,1,142,True,3,100,False,False,100,True,False,False,False,False,False,False,False,False
+107,Napier,170,./data/train/173.txt,1,170,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+108,Ferguson,177,./data/train/174.txt,1,177,True,100,2,False,False,100,False,True,False,False,False,False,False,False,False
+109,Ferguson's,203,./data/train/174.txt,1,203,True,100,0,False,False,100,False,False,False,True,False,False,False,False,False
+110,Ferguson,334,./data/train/174.txt,1,334,True,1,3,False,False,100,False,False,False,False,False,False,True,False,False
+111,Ferguson,554,./data/train/174.txt,1,554,True,3,3,False,False,100,False,True,False,False,False,False,False,False,False
+112,Ferguson,611,./data/train/174.txt,1,611,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+113,Ferguson,660,./data/train/174.txt,1,660,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False
+114,Ferguson,669,./data/train/174.txt,1,669,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+115,Falconer,0,./data/train/180.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+116,Blair,0,./data/train/184.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+117,Blair,0,./data/train/186.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False
+118,Jowell,0,./data/train/187.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+119,Blair,0,./data/train/189.txt,1,0,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+120,Bush,2,./data/train/189.txt,1,2,True,100,1,False,False,100,False,False,False,False,True,False,False,False,False
+121,Bush,508,./data/train/189.txt,1,508,True,2,0,False,False,1,True,False,True,False,False,False,False,False,False
+122,Tories,0,./data/train/193.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+123,Blair,0,./data/train/197.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+124,Mallon,0,./data/train/200.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+125,Tory,357,./data/train/200.txt,1,357,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+126,Howard,0,./data/train/201.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+127,Tutu's,0,./data/train/205.txt,1,0,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False
+128,Tutu,83,./data/train/205.txt,1,83,True,100,0,False,False,1,True,False,True,False,False,False,True,False,False
+129,Tutu,322,./data/train/205.txt,1,322,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False
+130,Joseph,473,./data/train/214.txt,1,473,True,100,0,False,False,100,False,True,False,False,False,False,False,False,False
+131,Jamieson,0,./data/train/219.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+132,Clarke,0,./data/train/220.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+133,Frost,170,./data/train/220.txt,1,170,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False
+134,Clarke,0,./data/train/221.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+135,Clarke,0,./data/train/227.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+136,James,227,./data/train/228.txt,1,227,True,2,0,False,False,100,True,False,False,False,False,False,False,False,False
+137,Woolf,0,./data/train/231.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+138,Ken,3,./data/train/232.txt,1,3,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+139,Ken,239,./data/train/232.txt,1,239,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+140,Blunkett,0,./data/train/234.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+141,Blair,0,./data/train/252.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+142,Brown,296,./data/train/252.txt,1,296,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False
+143,Blair,0,./data/train/253.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+144,Brown,314,./data/train/253.txt,1,314,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False
+145,Frank,491,./data/train/253.txt,1,491,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+146,Gordon,554,./data/train/261.txt,1,554,True,4,1,False,False,100,False,False,False,False,False,False,False,False,False
+147,Blair,0,./data/train/264.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+148,Morris,41,./data/train/267.txt,1,41,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+149,Morris,105,./data/train/267.txt,1,105,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False
+150,Milburn,4,./data/train/268.txt,1,4,True,1,1,False,False,100,False,False,True,False,False,False,True,False,False
+151,Frost,118,./data/train/270.txt,1,118,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+152,Frost,112,./data/train/271.txt,1,112,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+153,Kennedy,0,./data/train/272.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+154,Howard,0,./data/train/275.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+155,Howard,0,./data/train/277.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+156,Blair,2,./data/train/277.txt,1,2,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+157,Blair,0,./data/train/282.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+158,Kennedy's,0,./data/train/284.txt,1,0,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+159,Hague,0,./data/train/285.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+160,Ffion,90,./data/train/285.txt,1,90,True,100,100,False,False,100,True,True,True,False,False,False,False,False,False
+161,Boothroyd,0,./data/train/287.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+162,Frost,137,./data/train/287.txt,1,137,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False
+163,Lewis,206,./data/train/289.txt,1,206,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+164,Glenys,233,./data/train/289.txt,1,233,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+165,Nigel,450,./data/train/292.txt,1,450,True,1,2,False,False,100,False,False,False,False,False,False,False,False,False
+166,Robert,634,./data/train/292.txt,1,634,True,4,0,False,False,100,False,False,True,False,False,False,False,False,False
+167,Kilroy,0,./data/train/293.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+168,Kilroy-Silk,610,./data/train/293.txt,1,610,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+169,Kilroy-Silk,697,./data/train/293.txt,1,697,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+170,Kilroy,803,./data/train/293.txt,1,803,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+171,Kilroy,870,./data/train/293.txt,1,870,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+172,Kilroy-Silk,936,./data/train/293.txt,1,936,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+173,Kilroy-Silk,986,./data/train/293.txt,1,986,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+174,Kilroy-Silk's,1081,./data/train/293.txt,1,1081,True,4,2,False,False,100,False,False,False,True,False,False,False,False,False
+175,Kilroy-Silk,1176,./data/train/293.txt,1,1176,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False
+176,Kilroy,1191,./data/train/293.txt,1,1191,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False
+177,Kilroy-Silk's,1414,./data/train/293.txt,1,1414,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False
+178,Kilroy,1484,./data/train/293.txt,1,1484,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+179,Kilroy,1542,./data/train/293.txt,1,1542,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False
+180,Robert,1609,./data/train/293.txt,1,1609,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+181,Kilroy-Silk,1658,./data/train/293.txt,1,1658,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+182,Kilroy-Silk,1663,./data/train/293.txt,1,1663,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+183,Kilroy-Silk,1696,./data/train/293.txt,1,1696,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False
+184,Kilroy,1742,./data/train/293.txt,1,1742,True,1,2,False,False,100,True,False,False,False,False,False,False,False,False
+185,Kilroy,1943,./data/train/293.txt,1,1943,True,4,0,False,False,100,False,False,False,False,True,False,False,False,False
+186,Kilroy-Silk,1976,./data/train/293.txt,1,1976,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False
+187,Kilroy-Silk,2060,./data/train/293.txt,1,2060,True,1,1,False,False,100,False,False,True,False,False,False,False,False,False
+188,Kilroy-Silk,2086,./data/train/293.txt,1,2086,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+189,Kilroy-Silk,2129,./data/train/293.txt,1,2129,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+190,Kilroy-Silk,2214,./data/train/293.txt,1,2214,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+191,Kilroy-Silk,2281,./data/train/293.txt,1,2281,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+192,Kilroy-Silk,2337,./data/train/293.txt,1,2337,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+193,Blair,0,./data/train/295.txt,1,0,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+194,Blairs',141,./data/train/295.txt,1,141,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+195,Archer,5,./data/train/296.txt,1,5,True,4,3,False,False,100,False,False,True,False,False,False,False,False,False
+196,Frost,36,./data/train/296.txt,1,36,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False
+197,Howard,0,./data/train/300.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+198,Blair,0,./data/train/401.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+199,Jennifer,514,./data/train/406.txt,1,514,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+200,John,540,./data/train/406.txt,1,540,True,4,100,False,False,100,True,False,False,False,False,False,False,False,False
+201,Howard,0,./data/train/408.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+202,Fagin,160,./data/train/408.txt,1,160,True,1,0,False,False,100,False,False,False,False,True,False,False,False,False
+203,Shylock,162,./data/train/408.txt,1,162,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False
+204,Richard Thomas,29,./data/train/002.txt,2,28,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+205,Michael Howard,85,./data/train/002.txt,2,84,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+206,Tony Blair,90,./data/train/002.txt,2,89,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+207,Alan Beith,110,./data/train/002.txt,2,109,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+208,Gordon Brown's,7,./data/train/005.txt,2,6,True,100,2,False,False,1,False,False,True,True,False,False,False,False,False
+209,Ed Balls,23,./data/train/005.txt,2,22,True,100,3,False,False,100,True,False,True,False,False,False,False,False,False
+210,Gordon Brown,446,./data/train/005.txt,2,445,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False
+211,John Prescott,137,./data/train/006.txt,2,136,True,100,0,False,False,3,False,False,True,False,False,False,True,False,False
+212,Tony Blair,6,./data/train/007.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+213,Liam Fox,31,./data/train/007.txt,2,30,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+214,Michael Howard,241,./data/train/007.txt,2,240,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+215,Mr Kennedy,244,./data/train/007.txt,2,243,True,4,1,True,False,100,False,False,False,False,False,False,False,False,False
+216,Lord Ashcroft,359,./data/train/007.txt,2,358,True,4,2,True,False,100,False,False,True,False,True,False,False,False,False
+217,Charles Kennedy,403,./data/train/007.txt,2,402,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+218,Yvette Cooper,47,./data/train/008.txt,2,46,True,3,0,False,False,100,False,False,True,False,False,False,True,False,False
+219,Barbara Follet,131,./data/train/008.txt,2,130,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+220,Gillian Shepherd,207,./data/train/008.txt,2,206,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+221,Harriet Harman,244,./data/train/008.txt,2,243,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+222,Sarah Teather,327,./data/train/008.txt,2,326,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+223,Margaret Moran,382,./data/train/008.txt,2,381,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+224,Alastair Campbell,10,./data/train/009.txt,2,9,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+225,Peter Mandelson,91,./data/train/009.txt,2,90,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+226,Michael Howard,150,./data/train/009.txt,2,149,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+227,Trevor Beattie,177,./data/train/009.txt,2,176,True,1,2,False,False,100,False,False,True,False,False,False,False,False,False
+228,Andrew McFadyen,241,./data/train/009.txt,2,240,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+229,Jeremy Paxman,259,./data/train/009.txt,2,258,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+230,Liam Fox,510,./data/train/009.txt,2,509,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+231,Michael Howard's,7,./data/train/011.txt,2,6,True,4,3,False,False,100,False,False,False,True,False,False,False,False,False
+232,Liam Fox,62,./data/train/011.txt,2,61,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+233,Tony Blair,102,./data/train/011.txt,2,101,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+234,Charles Kennedy,174,./data/train/011.txt,2,173,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+235,Tony Blair,5,./data/train/012.txt,2,4,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+236,Gerry Conlon,124,./data/train/012.txt,2,123,True,100,2,False,False,100,False,True,True,False,False,False,False,False,False
+237,Tony Blair,180,./data/train/012.txt,2,179,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+238,Gerry Conlon,277,./data/train/012.txt,2,276,True,1,100,False,False,100,True,False,True,False,False,False,False,False,False
+239,Anne Maguire,304,./data/train/012.txt,2,303,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+240,Daniel Day-Lewis,427,./data/train/012.txt,2,426,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+241,Tony Blair,6,./data/train/014.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+242,Mark Oaten,409,./data/train/014.txt,2,408,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+243,Jack Straw's,17,./data/train/015.txt,2,16,True,2,100,False,False,100,True,False,False,True,False,False,False,False,False
+244,Miguel Moratinos,54,./data/train/015.txt,2,53,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+245,Peter Caruana,84,./data/train/015.txt,2,83,True,5,0,False,False,2,False,False,True,False,False,False,False,False,False
+246,Marvin Hier,246,./data/train/018.txt,2,245,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+247,Jack Law,32,./data/train/019.txt,2,31,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+248,Jack McConnell's,41,./data/train/019.txt,2,40,True,1,1,False,False,100,False,False,False,True,False,False,True,False,False
+249,Nicola Sturgeon,503,./data/train/019.txt,2,502,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+250,Tony Blair,59,./data/train/020.txt,2,58,True,4,3,False,False,100,False,False,False,False,False,False,False,False,False
+251,Ruth Kelly,62,./data/train/020.txt,2,61,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+252,David Bell,341,./data/train/020.txt,2,340,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+253,Tony Blair,22,./data/train/026.txt,2,21,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+254,Bob Geldof,64,./data/train/026.txt,2,63,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+255,Bob Geldof,187,./data/train/026.txt,2,186,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False
+256,Richard Dodd,102,./data/train/032.txt,2,101,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+257,David Warcup,202,./data/train/032.txt,2,201,True,100,0,False,False,3,False,False,True,False,False,False,False,False,False
+258,Michael Howard,7,./data/train/034.txt,2,6,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+259,Tony Blair,11,./data/train/034.txt,2,10,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False
+260,Tony Martin,266,./data/train/034.txt,2,265,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+261,Patrick Mercer's,417,./data/train/034.txt,2,416,True,100,3,False,False,1,False,False,True,True,False,False,False,False,False
+262,Silvio Berlusconi,14,./data/train/035.txt,2,13,True,4,100,False,False,1,False,False,True,False,False,False,False,False,False
+263,Charles Kennedy,29,./data/train/036.txt,2,28,True,1,100,False,False,100,False,False,True,False,False,False,True,False,False
+264,Anne Borthwick,52,./data/train/038.txt,2,51,True,100,100,False,False,100,True,False,True,False,True,False,False,False,False
+265,Ms James,71,./data/train/039.txt,2,70,True,4,2,True,False,100,False,False,True,False,False,False,False,False,False
+266,Ms James,153,./data/train/039.txt,2,152,True,100,1,True,False,100,False,True,True,False,False,False,False,False,False
+267,Jack Straw,7,./data/train/040.txt,2,6,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+268,Charles Clarke's,256,./data/train/040.txt,2,255,True,2,100,False,False,100,True,False,False,True,False,False,False,False,False
+269,David Blunkett's,264,./data/train/040.txt,2,263,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+270,Gareth Pierce,552,./data/train/040.txt,2,551,True,100,100,False,False,100,False,True,True,False,False,False,False,False,False
+271,David Blunkett,2,./data/train/041.txt,2,1,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+272,David Blunkett,14,./data/train/041.txt,2,13,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+273,Beverly Hughes,140,./data/train/041.txt,2,139,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+274,Mr Blunkett,284,./data/train/041.txt,2,283,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+275,Mr Blunkett,420,./data/train/041.txt,2,419,True,2,100,True,False,100,False,True,True,False,False,False,False,False,False
+276,Mr Blunkett,458,./data/train/041.txt,2,457,True,1,1,True,False,100,True,False,True,False,False,False,False,False,False
+277,Tony Blair's,498,./data/train/041.txt,2,497,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False
+278,Mr Blunkett,502,./data/train/041.txt,2,501,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+279,David McLetchie,10,./data/train/045.txt,2,9,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+280,Kimberly Quinn,52,./data/train/046.txt,2,51,True,1,100,False,False,100,True,False,False,False,False,False,False,False,False
+281,Michael Howard,93,./data/train/046.txt,2,92,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+282,Jack Straw,153,./data/train/046.txt,2,152,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+283,Leoncia Casalme,366,./data/train/046.txt,2,365,True,5,0,False,False,100,False,False,False,False,True,False,False,False,False
+284,David Caldwell,188,./data/train/047.txt,2,187,True,3,0,False,False,100,False,False,True,False,False,False,True,False,False
+285,Michael Jack,399,./data/train/048.txt,2,398,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+286,Charles Kennedy,33,./data/train/049.txt,2,32,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+287,David Blunkett's,40,./data/train/049.txt,2,39,True,1,1,False,False,100,False,False,False,True,False,False,True,False,False
+288,Michael Howard,229,./data/train/049.txt,2,228,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+289,David Davis,278,./data/train/049.txt,2,277,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+290,Oliver Letwin,280,./data/train/049.txt,2,279,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+291,Tim Yeo,283,./data/train/049.txt,2,282,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+292,Guy Mansfield,291,./data/train/049.txt,2,290,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+293,Nicola Sturgeon,498,./data/train/050.txt,2,497,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+294,David McLetchie,588,./data/train/050.txt,2,587,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+295,Viktor Makarov,30,./data/train/053.txt,2,29,True,5,3,False,False,100,False,False,True,False,False,False,False,False,False
+296,Oleg Gordievsky,139,./data/train/053.txt,2,138,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+297,David Kahn,211,./data/train/053.txt,2,210,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False
+298,Victor Makarov,261,./data/train/053.txt,2,260,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+299,Vladimir Putin,301,./data/train/053.txt,2,300,True,1,100,False,False,100,True,False,True,False,False,False,False,False,False
+300,Vince Cable,32,./data/train/054.txt,2,31,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+301,Paul Boateng,203,./data/train/054.txt,2,202,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+302,Ruth Kelly,463,./data/train/055.txt,2,462,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+303,Al Aynsley-Green,22,./data/train/057.txt,2,21,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+304,John Bolton,387,./data/train/058.txt,2,386,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+305,Sam Younger,415,./data/train/059.txt,2,414,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+306,Tony Blair,433,./data/train/060.txt,2,432,True,4,1,False,False,100,False,False,True,False,False,False,False,False,False
+307,Oona King,403,./data/train/062.txt,2,402,True,5,1,False,False,1,False,True,True,False,False,False,False,False,False
+308,Lorna Fitzsimons,450,./data/train/062.txt,2,449,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+309,Karen Whitefield,63,./data/train/063.txt,2,62,True,5,1,False,False,100,False,False,True,False,False,False,False,False,False
+310,John Hannett,159,./data/train/063.txt,2,158,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+311,Recep Erdogan,98,./data/train/064.txt,2,97,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+312,Martin Mubanga,31,./data/train/065.txt,2,30,True,1,0,False,False,100,False,False,False,False,False,False,True,False,False
+313,Feroz Abbasi,80,./data/train/065.txt,2,79,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+314,Richard Belmar,104,./data/train/065.txt,2,103,True,4,100,False,False,100,True,False,False,False,False,False,False,False,False
+315,Moazzam Begg,107,./data/train/065.txt,2,106,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+316,Mark Oaten,258,./data/train/065.txt,2,257,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+317,Kate Allen,377,./data/train/065.txt,2,376,True,2,100,False,False,100,True,False,True,False,False,False,False,False,False
+318,Louise Christian,382,./data/train/065.txt,2,381,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+319,John Ison,335,./data/train/067.txt,2,334,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+320,Jim Parton,361,./data/train/067.txt,2,360,True,100,2,False,False,100,False,False,False,False,True,False,False,False,False
+321,Margaret Hodge,427,./data/train/067.txt,2,426,True,4,1,False,False,1,False,False,True,False,False,False,False,False,False
+322,Theresa May,468,./data/train/067.txt,2,467,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+323,Peter Saunders,251,./data/train/068.txt,2,250,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False
+324,Andrea Williams,304,./data/train/068.txt,2,303,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+325,Diane Pretty,527,./data/train/068.txt,2,526,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+326,Edward Leigh,89,./data/train/071.txt,2,88,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+327,Beverley Hughes,154,./data/train/071.txt,2,153,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+328,Mr Leigh,210,./data/train/071.txt,2,209,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+329,Lord Strathclyde,67,./data/train/072.txt,2,66,True,2,100,True,False,100,True,False,True,False,False,False,False,False,False
+330,Mark Oaten,419,./data/train/072.txt,2,418,True,3,100,False,False,100,False,False,True,False,True,False,False,False,False
+331,Andrew Marr,488,./data/train/072.txt,2,487,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+332,Lord Dubs',65,./data/train/073.txt,2,64,True,1,1,True,False,100,False,False,True,True,False,False,False,False,False
+333,Michael Scott-Joynt,353,./data/train/073.txt,2,352,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+334,Nick Griffin,3,./data/train/074.txt,2,2,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+335,Nick Griffin,33,./data/train/074.txt,2,32,True,1,0,False,False,100,False,False,False,False,False,False,True,False,False
+336,John Tyndall,65,./data/train/074.txt,2,64,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+337,Lord Bach,254,./data/train/076.txt,2,253,True,2,100,True,False,100,False,False,True,False,False,False,False,False,False
+338,Aidan O'Carroll,241,./data/train/077.txt,2,240,True,1,2,False,False,100,False,False,True,False,False,False,True,False,False
+339,Laura Brownlees,240,./data/train/078.txt,2,239,True,100,1,False,False,100,True,False,False,False,True,False,False,False,False
+340,Andrew Hogg,506,./data/train/078.txt,2,505,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+341,Ivan Lewis,384,./data/train/080.txt,2,383,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+342,Phil Willis,476,./data/train/080.txt,2,475,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+343,Mark Oaten,245,./data/train/081.txt,2,244,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+344,Michael Howard,254,./data/train/081.txt,2,253,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+345,Guy Mansfield,284,./data/train/081.txt,2,283,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+346,Margaret Thatcher,179,./data/train/082.txt,2,178,True,4,0,False,False,100,True,False,False,False,False,False,False,False,False
+347,George Bush,37,./data/train/086.txt,2,36,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+348,Christopher Reeve,368,./data/train/086.txt,2,367,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+349,Michael Howard,27,./data/train/087.txt,2,26,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+350,Tony Blair,85,./data/train/087.txt,2,84,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False
+351,Franco Frattini,498,./data/train/087.txt,2,497,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+352,Matthew Taylor,461,./data/train/088.txt,2,460,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+353,David McLetchie,6,./data/train/089.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+354,Christine May,289,./data/train/089.txt,2,288,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+355,Ken Hughes,418,./data/train/089.txt,2,417,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+356,Nicola Sturgeon,496,./data/train/089.txt,2,495,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+357,Peter Misselbrook,553,./data/train/089.txt,2,552,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False
+358,Gordon Brown,8,./data/train/095.txt,2,7,True,5,0,False,False,100,True,False,False,False,False,False,False,False,False
+359,Tony Blair,21,./data/train/095.txt,2,20,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+360,Jonathan Baume,29,./data/train/095.txt,2,28,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+361,Alan Milburn,269,./data/train/095.txt,2,268,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+362,Oliver Letwin,411,./data/train/095.txt,2,410,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+363,Tony Blair,430,./data/train/095.txt,2,429,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+364,Oliver Heald,214,./data/train/096.txt,2,213,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+365,Rhona Brankin,55,./data/train/098.txt,2,54,True,100,0,False,False,3,False,False,True,False,False,False,False,False,False
+366,Margaret Cuthbert,157,./data/train/098.txt,2,156,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+367,Gordon Brown,43,./data/train/099.txt,2,42,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+368,Michael Howard,264,./data/train/099.txt,2,263,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+369,John Redwood,268,./data/train/099.txt,2,267,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+370,Robert Preston,331,./data/train/099.txt,2,330,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+371,Martin Mubanga,24,./data/train/100.txt,2,23,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+372,Mr Mubanga,52,./data/train/100.txt,2,51,True,3,100,True,False,100,True,False,True,False,False,False,False,False,False
+373,Mr Mubanga,90,./data/train/100.txt,2,89,True,4,1,True,False,100,False,True,False,False,False,False,False,False,False
+374,Louise Christian,253,./data/train/100.txt,2,252,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+375,Menzies Campbell,282,./data/train/100.txt,2,281,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+376,David Blunkett,23,./data/train/102.txt,2,22,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+377,Mr Blunkett,82,./data/train/102.txt,2,81,True,4,1,True,False,100,False,False,False,False,False,False,False,False,False
+378,Kimberly Quinn's,106,./data/train/102.txt,2,105,True,2,1,False,False,100,True,False,False,True,False,False,False,False,False
+379,Michael Howard,263,./data/train/102.txt,2,262,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+380,Mr Blunkett's,273,./data/train/102.txt,2,272,True,1,100,True,False,100,True,False,False,True,False,False,True,False,False
+381,Mr Howard,339,./data/train/102.txt,2,338,True,4,2,True,False,100,False,False,True,False,False,False,False,False,False
+382,Mark Oaten,383,./data/train/102.txt,2,382,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+383,Margaret Hodge,52,./data/train/103.txt,2,51,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+384,Robert Tapsfield,216,./data/train/103.txt,2,215,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+385,Tony Hunter,316,./data/train/103.txt,2,315,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+386,Hazel Blears,31,./data/train/105.txt,2,30,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False
+387,Massoud Shadjareh,209,./data/train/105.txt,2,208,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+388,David Blunkett's,22,./data/train/112.txt,2,21,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+389,Kimberly Quinn,64,./data/train/112.txt,2,63,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+390,David Blunkett's,316,./data/train/112.txt,2,315,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+391,Mark Ballard,43,./data/train/114.txt,2,42,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+392,Professor Allsop,189,./data/train/115.txt,2,188,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+393,Andrew Howard,313,./data/train/115.txt,2,312,True,1,3,False,False,100,False,False,False,False,False,False,False,False,False
+394,John Thurso,367,./data/train/115.txt,2,366,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False
+395,Theresa May,413,./data/train/116.txt,2,412,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+396,Doug Smith,449,./data/train/116.txt,2,448,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+397,Lord Woolf,142,./data/train/119.txt,2,141,True,100,1,True,False,2,False,True,True,False,False,False,False,False,False
+398,Elizabeth Butler-Sloss,223,./data/train/119.txt,2,222,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+399,Trevor Phillips,352,./data/train/119.txt,2,351,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+400,Michael Howard,30,./data/train/120.txt,2,29,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+401,Lord Janner,178,./data/train/120.txt,2,177,True,100,1,True,False,1,False,True,True,False,False,False,False,False,False
+402,Dicky Arbiter,360,./data/train/120.txt,2,359,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False
+403,Jane Hutt,36,./data/train/124.txt,2,35,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+404,Kisrty Williams,522,./data/train/124.txt,2,521,True,100,100,False,False,100,True,False,True,False,True,False,False,False,False
+405,Tony Blair,7,./data/train/126.txt,2,6,True,2,0,False,False,100,False,False,True,False,False,False,False,False,False
+406,Gordon Brown,18,./data/train/127.txt,2,17,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+407,Barbara Stocking,407,./data/train/127.txt,2,406,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+408,Bob Geldof,510,./data/train/127.txt,2,509,True,100,2,False,False,100,False,False,False,False,True,False,False,False,False
+409,Alan Duncan,554,./data/train/127.txt,2,553,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+410,Gordon Brown,6,./data/train/128.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+411,Oliver Letwin,65,./data/train/128.txt,2,64,True,3,100,False,False,100,False,False,True,False,True,False,False,False,False
+412,Mr Brown's,85,./data/train/128.txt,2,84,True,1,2,True,False,100,False,False,False,True,False,False,True,False,False
+413,Vincent Cable,144,./data/train/128.txt,2,143,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+414,Peter Mandelson,281,./data/train/128.txt,2,280,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+415,Simon Sweetman,588,./data/train/128.txt,2,587,True,5,100,False,False,100,False,False,False,False,True,False,False,False,False
+416,Jacques Chirac,57,./data/train/129.txt,2,56,True,4,100,False,False,1,False,False,True,False,False,False,False,False,False
+417,Tony Blair's,103,./data/train/129.txt,2,102,True,100,100,False,False,1,False,False,True,True,False,False,False,False,False
+418,Craig Mackey,184,./data/train/131.txt,2,183,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+419,Alan Johnson,40,./data/train/132.txt,2,39,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+420,Tessa Jowell,15,./data/train/133.txt,2,14,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+421,Stephen Pound,46,./data/train/133.txt,2,45,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+422,Tony Blair,269,./data/train/133.txt,2,268,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+423,Simon Hart,92,./data/train/134.txt,2,91,True,4,100,False,False,100,False,False,True,False,True,False,False,False,False
+424,John Cooper,225,./data/train/134.txt,2,224,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+425,Tony Banks,376,./data/train/134.txt,2,375,True,100,100,False,False,5,False,False,True,False,False,False,False,False,False
+426,Tony Blair,8,./data/train/135.txt,2,7,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+427,George Bush,338,./data/train/135.txt,2,337,True,3,100,False,False,1,False,False,True,False,False,False,False,False,False
+428,Michael Howard,419,./data/train/135.txt,2,418,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+429,Brad Adams,155,./data/train/136.txt,2,154,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False
+430,Edward Leigh,218,./data/train/138.txt,2,217,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+431,Jorg Wojahn,363,./data/train/138.txt,2,362,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+432,David Davis,118,./data/train/141.txt,2,117,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+433,Oliver Letwin,120,./data/train/141.txt,2,119,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+434,Tim Yeo,123,./data/train/141.txt,2,122,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+435,Mark Oaten,392,./data/train/141.txt,2,391,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+436,Michael Howard,414,./data/train/141.txt,2,413,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+437,Quentin Davies,29,./data/train/144.txt,2,28,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+438,Mr Davies,90,./data/train/144.txt,2,89,True,4,1,True,False,100,True,False,False,False,False,False,False,False,False
+439,Mahmoud Abbas,42,./data/train/149.txt,2,41,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+440,Yasser Arafat,100,./data/train/149.txt,2,99,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+441,Paul Reynolds,139,./data/train/149.txt,2,138,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+442,Mahmoud Abbas,156,./data/train/149.txt,2,155,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+443,Andrew Marr,232,./data/train/149.txt,2,231,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+444,Mr Sharon,316,./data/train/149.txt,2,315,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+445,Margaret Hassan,18,./data/train/150.txt,2,17,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+446,Alun Michael,21,./data/train/152.txt,2,20,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+447,Penny Little,388,./data/train/152.txt,2,387,True,100,100,False,False,100,False,True,True,False,False,False,False,False,False
+448,Mike Hobday,427,./data/train/152.txt,2,426,True,5,100,False,False,100,False,False,False,False,True,False,False,False,False
+449,Mr Jackson,473,./data/train/152.txt,2,472,True,100,1,True,False,100,False,True,True,False,False,False,False,False,False
+450,Ken Livingstone,9,./data/train/154.txt,2,8,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+451,Mr Livingstone,25,./data/train/154.txt,2,24,True,5,1,True,False,100,True,True,True,False,False,False,False,False,False
+452,Oliver Finegold,454,./data/train/154.txt,2,453,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False
+453,Tony Blair,233,./data/train/155.txt,2,232,True,3,100,False,False,1,False,False,True,False,True,False,False,False,False
+454,David Blunkett,16,./data/train/156.txt,2,15,True,100,2,False,False,100,True,False,False,False,False,False,False,False,False
+455,Leoncia Casalme's,173,./data/train/156.txt,2,172,True,4,3,False,False,100,False,False,False,True,False,False,False,False,False
+456,Derek Wanless,362,./data/train/156.txt,2,361,True,4,100,False,False,100,False,True,False,False,False,False,False,False,False
+457,Ian MacDonald,28,./data/train/160.txt,2,27,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False
+458,Rick Scannell,284,./data/train/160.txt,2,283,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+459,Barry Hugill,341,./data/train/160.txt,2,340,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+460,Helena Kennedy,411,./data/train/160.txt,2,410,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+461,Ian McDonald,500,./data/train/160.txt,2,499,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+462,Tony Blair,29,./data/train/161.txt,2,28,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+463,Recep Erdogan,190,./data/train/161.txt,2,189,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+464,Neil Kinnock,7,./data/train/163.txt,2,6,True,5,0,False,False,100,True,False,True,False,False,False,False,False,False
+465,Jack McConnell,40,./data/train/164.txt,2,39,True,100,0,False,False,100,True,False,False,False,True,False,False,False,False
+466,Eileen Lee,301,./data/train/164.txt,2,300,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+467,David Blunkett,465,./data/train/165.txt,2,464,True,4,100,False,False,1,False,False,True,False,False,False,False,False,False
+468,John Prescott,61,./data/train/167.txt,2,60,True,100,0,False,False,3,False,False,True,False,False,False,True,False,False
+469,John Prescott's,168,./data/train/167.txt,2,167,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+470,Peter Ainsworth,183,./data/train/167.txt,2,182,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+471,Caroline Spelman,373,./data/train/167.txt,2,372,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+472,Giles Bradshaw,97,./data/train/169.txt,2,96,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+473,Andy Williams,141,./data/train/170.txt,2,140,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+474,David Rose,371,./data/train/170.txt,2,370,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+475,Robert Napier,27,./data/train/173.txt,2,26,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False
+476,Tony Kelly,296,./data/train/173.txt,2,295,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+477,Michael Ferguson,29,./data/train/174.txt,2,28,True,2,1,False,False,100,True,False,False,False,False,False,False,False,False
+478,Nicola Sturgeon,44,./data/train/174.txt,2,43,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+479,Rhona Brankin,101,./data/train/174.txt,2,100,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+480,Michael Ferguson,379,./data/train/174.txt,2,378,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+481,Annabella Holmes,575,./data/train/174.txt,2,574,True,3,3,False,False,100,False,False,False,False,False,False,False,False,False
+482,Yvette Cooper,60,./data/train/176.txt,2,59,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False
+483,Andrew Ryder,318,./data/train/176.txt,2,317,True,100,100,False,False,100,True,False,False,False,True,False,False,False,False
+484,Meibion Glyndwr.,43,./data/train/177.txt,2,42,True,2,100,False,False,100,True,False,True,False,False,False,False,False,False
+485,Elfyn Llwyd,47,./data/train/177.txt,2,46,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+486,Elfyn Llwyd,201,./data/train/177.txt,2,200,True,5,100,False,False,100,True,False,False,False,False,False,False,False,False
+487,Mr Llwyd,239,./data/train/177.txt,2,238,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+488,Meibion Glyndwr,260,./data/train/177.txt,2,259,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+489,Dafydd Wigley,430,./data/train/177.txt,2,429,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+490,Mike Hobday,155,./data/train/179.txt,2,154,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False
+491,Tony Bland,185,./data/train/180.txt,2,184,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+492,Tony Blair,7,./data/train/181.txt,2,6,True,2,0,False,False,100,False,False,True,False,False,False,False,False,False
+493,Hugh Robertson,312,./data/train/181.txt,2,311,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+494,Martin Ward,378,./data/train/181.txt,2,377,True,5,100,False,False,100,True,False,False,False,True,False,False,False,False
+495,Margaret Thatcher,53,./data/train/183.txt,2,52,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+496,Alan Clark,176,./data/train/183.txt,2,175,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+497,Tony Blair,6,./data/train/184.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+498,Michael Mates,50,./data/train/184.txt,2,49,True,100,100,False,False,5,False,False,True,False,False,False,False,False,False
+499,Peter Goldsmith,323,./data/train/184.txt,2,322,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+500,Tony Blair,359,./data/train/184.txt,2,358,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False
+501,Baroness Morgan,428,./data/train/184.txt,2,427,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+502,St Andrews,54,./data/train/185.txt,2,53,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+503,Taha Idris,70,./data/train/185.txt,2,69,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+504,Andy Richards,291,./data/train/185.txt,2,290,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False
+505,Tony Blair,6,./data/train/186.txt,2,5,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+506,Mr Livingstone,25,./data/train/186.txt,2,24,True,5,1,True,False,100,True,True,True,False,False,False,False,False,False
+507,Michael Howard,160,./data/train/186.txt,2,159,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+508,Ken Livingstone,229,./data/train/186.txt,2,228,True,2,2,False,False,100,False,False,False,False,False,False,False,False,False
+509,Oliver Finegold,267,./data/train/186.txt,2,266,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+510,Tessa Jowell,5,./data/train/187.txt,2,4,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+511,Jonathan Lomax,289,./data/train/187.txt,2,288,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+512,Gen Musharraf,155,./data/train/188.txt,2,154,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+513,Tony Blair,6,./data/train/189.txt,2,5,True,1,0,False,False,100,True,False,False,False,False,False,False,False,False
+514,John Kerry's,186,./data/train/189.txt,2,185,True,2,3,False,False,100,False,False,True,True,False,False,False,False,False
+515,Michael Howard,229,./data/train/189.txt,2,228,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+516,Charles Kennedy,264,./data/train/189.txt,2,263,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+517,Norman Baker,446,./data/train/189.txt,2,445,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+518,Moazzam Begg,33,./data/train/192.txt,2,32,True,5,100,False,False,100,True,False,True,False,True,False,False,False,False
+519,Martin Mubanga,38,./data/train/192.txt,2,37,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+520,Richard Belmar,40,./data/train/192.txt,2,39,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+521,Feroz Abbasi,43,./data/train/192.txt,2,42,True,100,2,False,False,100,False,False,False,False,True,False,False,False,False
+522,Michael Ancram,161,./data/train/192.txt,2,160,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+523,Azmat Begg,229,./data/train/192.txt,2,228,True,4,100,False,False,100,False,False,False,False,False,True,False,False,False
+524,Louise Christian,277,./data/train/192.txt,2,276,True,3,100,False,False,100,False,True,True,False,False,False,False,False,False
+525,Moazzam Begg's,341,./data/train/192.txt,2,340,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False
+526,Mr Godsiff,373,./data/train/192.txt,2,372,True,4,2,True,False,100,False,False,True,False,False,False,False,False,False
+527,Shami Chakrabarti,478,./data/train/192.txt,2,477,True,4,100,False,False,1,False,False,True,False,False,False,True,False,False
+528,Mamdouh Habib,532,./data/train/192.txt,2,531,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False
+529,David Blunkett,6,./data/train/193.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+530,Tony Blair,187,./data/train/193.txt,2,186,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+531,Mark Oaten,452,./data/train/193.txt,2,451,True,100,100,False,False,100,False,False,False,False,False,False,True,False,False
+532,Alastair Campbell,16,./data/train/196.txt,2,15,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+533,Peter Mandelson,18,./data/train/196.txt,2,17,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+534,Gavyn Davies,106,./data/train/196.txt,2,105,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+535,Greg Dyke,109,./data/train/196.txt,2,108,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+536,Andrew Gilligan,113,./data/train/196.txt,2,112,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False
+537,Michael Howard's,134,./data/train/196.txt,2,133,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+538,Alastair Campbell,159,./data/train/196.txt,2,158,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False
+539,Alastair Campbell,284,./data/train/196.txt,2,283,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+540,Mr Campbell's,314,./data/train/196.txt,2,313,True,1,100,True,False,100,False,False,False,True,False,False,True,False,False
+541,Tony Blair,6,./data/train/197.txt,2,5,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+542,John McCain,38,./data/train/197.txt,2,37,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+543,Andy Hayman,33,./data/train/198.txt,2,32,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+544,Andy Hayman,86,./data/train/198.txt,2,85,True,3,0,False,False,100,True,False,False,False,False,False,True,False,False
+545,Tony Blair,309,./data/train/198.txt,2,308,True,4,1,False,False,100,False,False,True,False,False,False,False,False,False
+546,Mark Oaten,389,./data/train/198.txt,2,388,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+547,Neil Herron,48,./data/train/200.txt,2,47,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+548,Michael Howard.,259,./data/train/200.txt,2,258,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+549,Graham Robb,361,./data/train/200.txt,2,360,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+550,Tony Blair,283,./data/train/202.txt,2,282,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+551,Edward Leigh,31,./data/train/203.txt,2,30,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+552,Martin Mubanga,134,./data/train/205.txt,2,133,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+553,Richard Belmar,136,./data/train/205.txt,2,135,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+554,Feroz Abbasi,139,./data/train/205.txt,2,138,True,100,2,False,False,100,False,False,False,False,True,False,False,False,False
+555,Shami Chakrabarti,341,./data/train/205.txt,2,340,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False
+556,Edward Heath,80,./data/train/207.txt,2,79,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+557,Harold Wilson,92,./data/train/207.txt,2,91,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+558,Alan Milburn,159,./data/train/207.txt,2,158,True,2,1,False,False,100,False,False,True,False,False,False,False,False,False
+559,Gordon Brown's,63,./data/train/210.txt,2,62,True,100,100,False,False,1,False,False,True,True,False,False,False,False,False
+560,Gordon Brown,121,./data/train/210.txt,2,120,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+561,Jeff Evans,252,./data/train/210.txt,2,251,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+562,Piers Freelove,323,./data/train/210.txt,2,322,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+563,David Kelly,79,./data/train/211.txt,2,78,True,100,100,False,False,100,False,True,True,False,False,False,False,False,False
+564,Charles Kennedy,24,./data/train/213.txt,2,23,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+565,Tim Collins,366,./data/train/213.txt,2,365,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+566,Michael Raftery,196,./data/train/217.txt,2,195,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+567,Mr Clarke,52,./data/train/220.txt,2,51,True,100,1,True,False,100,False,True,True,False,False,False,False,False,False
+568,Mark Oaten,316,./data/train/220.txt,2,315,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+569,Trevor Phillips,383,./data/train/220.txt,2,382,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+570,David Heath,147,./data/train/221.txt,2,146,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+571,Charles Clarke's,265,./data/train/221.txt,2,264,True,2,100,False,False,100,True,False,False,True,False,False,False,False,False
+572,David Blunkett's,275,./data/train/221.txt,2,274,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+573,Jack Straw,249,./data/train/222.txt,2,248,True,3,2,False,False,1,True,False,True,False,True,False,False,False,False
+574,Charles Clarke,95,./data/train/224.txt,2,94,True,100,100,False,False,100,True,False,False,False,True,False,False,False,False
+575,David Blunkett's,105,./data/train/224.txt,2,104,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+576,David Blunkett,134,./data/train/224.txt,2,133,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+577,Charles Clarke,6,./data/train/227.txt,2,5,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+578,David Blunkett,52,./data/train/227.txt,2,51,True,4,1,False,False,100,True,False,False,False,False,False,False,False,False
+579,Michael Howard,65,./data/train/227.txt,2,64,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+580,Charles Kennedy,342,./data/train/227.txt,2,341,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+581,Michael Howard,17,./data/train/228.txt,2,16,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+582,Andrew Mennear,34,./data/train/228.txt,2,33,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+583,Baha Mousa's,38,./data/train/229.txt,2,37,True,4,100,False,False,100,True,False,False,True,False,False,False,False,False
+584,Phil Shiner,94,./data/train/229.txt,2,93,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+585,Tony Blair's,353,./data/train/229.txt,2,352,True,4,100,False,False,1,False,False,True,True,False,False,False,False,False
+586,Bob Stewart,406,./data/train/229.txt,2,405,True,100,0,False,False,2,False,False,True,False,False,False,True,False,False
+587,Patrick Mercer,234,./data/train/230.txt,2,233,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+588,Charles Clarke,271,./data/train/230.txt,2,270,True,4,100,False,False,1,False,False,True,False,False,False,False,False,False
+589,Tony Martin,391,./data/train/230.txt,2,390,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+590,Fred Barras,401,./data/train/230.txt,2,400,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+591,Norman Brennan,156,./data/train/231.txt,2,155,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+592,Ken Livingstone,19,./data/train/232.txt,2,18,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+593,Bob Neill,107,./data/train/232.txt,2,106,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+594,Nicky Gavron,146,./data/train/232.txt,2,145,True,100,0,False,False,2,False,False,True,False,False,False,True,False,False
+595,Oliver Finegold,194,./data/train/232.txt,2,193,True,5,100,False,False,100,False,False,False,False,True,False,False,False,False
+596,David Blunkett,28,./data/train/234.txt,2,27,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+597,David Westwood,191,./data/train/234.txt,2,190,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False
+598,Ian Huntley,199,./data/train/234.txt,2,198,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+599,Tony Blair,340,./data/train/234.txt,2,339,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False
+600,Hazel Blears,187,./data/train/239.txt,2,186,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+601,Ross Finnie,55,./data/train/243.txt,2,54,True,3,100,False,False,1,False,False,True,False,False,False,False,False,False
+602,Ruth Kelly's,14,./data/train/244.txt,2,13,True,100,2,False,False,100,False,False,False,True,False,False,False,False,False
+603,Ms Kelly's,45,./data/train/244.txt,2,44,True,1,100,True,False,4,False,False,False,True,False,False,True,False,False
+604,Ruth Kelly,288,./data/train/244.txt,2,287,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+605,Eric Joyce,372,./data/train/245.txt,2,371,True,5,1,False,False,1,False,True,True,False,False,False,False,False,False
+606,Howard Newby,59,./data/train/246.txt,2,58,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+607,Kim Howells,387,./data/train/246.txt,2,386,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+608,Tim Collins,440,./data/train/246.txt,2,439,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+609,Tony Blair,221,./data/train/247.txt,2,220,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False
+610,Tony Blair,7,./data/train/249.txt,2,6,True,2,0,False,False,100,False,False,True,False,False,False,False,False,False
+611,William Hague,104,./data/train/249.txt,2,103,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+612,Charles Kennedy,107,./data/train/249.txt,2,106,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+613,John Major,118,./data/train/249.txt,2,117,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+614,Alun Michael,500,./data/train/250.txt,2,499,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+615,Tony Blair,564,./data/train/250.txt,2,563,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+616,Tony Blair,7,./data/train/252.txt,2,6,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+617,Tony Blair,69,./data/train/252.txt,2,68,True,1,0,False,False,100,False,False,False,False,False,False,True,False,False
+618,John Prescott,136,./data/train/252.txt,2,135,True,100,100,False,False,100,False,False,True,False,True,False,False,False,False
+619,Gordon Brown,152,./data/train/252.txt,2,151,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+620,David Cameron,463,./data/train/252.txt,2,462,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+621,Carol Walker,508,./data/train/252.txt,2,507,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+622,Gordon Brown,13,./data/train/253.txt,2,12,True,1,1,False,False,100,False,False,False,False,False,False,True,False,False
+623,Robert Peston,133,./data/train/253.txt,2,132,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+624,Tony Blair,153,./data/train/253.txt,2,152,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+625,Michael Howard,517,./data/train/253.txt,2,516,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+626,David Blunkett,615,./data/train/253.txt,2,614,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+627,Tony Blair,40,./data/train/258.txt,2,39,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False
+628,Gordon Brown,43,./data/train/258.txt,2,42,True,4,1,False,False,100,False,False,False,False,False,False,False,False,False
+629,Paul Flynn,168,./data/train/258.txt,2,167,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False
+630,Stephen Pound,228,./data/train/258.txt,2,227,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+631,Bernard Ingham,163,./data/train/259.txt,2,162,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+632,Bill Oddie,262,./data/train/259.txt,2,261,True,100,100,False,False,100,True,False,False,False,True,False,False,False,False
+633,John Sergeant,323,./data/train/259.txt,2,322,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+634,Lorraine Kelly,328,./data/train/259.txt,2,327,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+635,Nicki Chapman,332,./data/train/259.txt,2,331,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+636,Simon Cowell,347,./data/train/259.txt,2,346,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False
+637,Kevin Donnellon,381,./data/train/259.txt,2,380,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+638,Barry Lim,407,./data/train/259.txt,2,406,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+639,Mr Lim,430,./data/train/259.txt,2,429,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False
+640,Jonathan Maitland,524,./data/train/259.txt,2,523,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+641,Irfan Hanif,526,./data/train/259.txt,2,525,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+642,Dominic Carman,567,./data/train/259.txt,2,566,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+643,George Carman,575,./data/train/259.txt,2,574,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False
+644,Rodney Hylton-Potts,600,./data/train/259.txt,2,599,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+645,Tony Blair,23,./data/train/260.txt,2,22,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+646,Gordon Brown,26,./data/train/260.txt,2,25,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+647,John Prescott,41,./data/train/260.txt,2,40,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False
+648,Liam Fox,293,./data/train/260.txt,2,292,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+649,Paul Flynn,403,./data/train/260.txt,2,402,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+650,Gordon Brown,29,./data/train/261.txt,2,28,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+651,John Prescott,57,./data/train/261.txt,2,56,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False
+652,Gordon Brown,554,./data/train/264.txt,2,553,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+653,Paul Boateng,267,./data/train/265.txt,2,266,True,3,100,False,False,5,False,False,True,False,False,False,False,False,False
+654,Dick Morris,9,./data/train/267.txt,2,8,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+655,Bill Clinton's,35,./data/train/267.txt,2,34,True,5,100,False,False,100,False,False,False,True,False,False,False,False,False
+656,Viktor Yushchenko,96,./data/train/267.txt,2,95,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+657,Michael Howard,365,./data/train/267.txt,2,364,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+658,Robert Kilroy-Silk,460,./data/train/267.txt,2,459,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+659,Alan Milburn,25,./data/train/268.txt,2,24,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+660,Gordon Brown,253,./data/train/268.txt,2,252,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+661,Simon Hughes,493,./data/train/268.txt,2,492,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+662,Tony Blair,53,./data/train/269.txt,2,52,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False
+663,Michael Howard,62,./data/train/269.txt,2,61,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False
+664,Charles Kennedy,71,./data/train/269.txt,2,70,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+665,Robert Jackson,14,./data/train/270.txt,2,13,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+666,Michael Howard's,25,./data/train/270.txt,2,24,True,2,100,False,False,100,False,False,False,True,False,False,False,False,False
+667,Robert Jackson,353,./data/train/270.txt,2,352,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+668,Robert Jackson,367,./data/train/270.txt,2,366,True,4,100,False,False,100,True,False,False,False,False,False,False,False,False
+669,Robert Jackson,61,./data/train/271.txt,2,60,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+670,David James,311,./data/train/271.txt,2,310,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+671,Charles Kennedy,467,./data/train/271.txt,2,466,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+672,Michael Howard,64,./data/train/272.txt,2,63,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+673,Charles Kennedy,75,./data/train/272.txt,2,74,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+674,Robert Jackson,215,./data/train/272.txt,2,214,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False
+675,Christopher Leslie,68,./data/train/273.txt,2,67,True,3,100,False,False,100,True,False,True,False,False,False,False,False,False
+676,Dominic Grieve,278,./data/train/273.txt,2,277,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+677,Douglas Hogg,369,./data/train/273.txt,2,368,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+678,Michael Howard,6,./data/train/275.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+679,Oliver Letwin,109,./data/train/275.txt,2,108,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+680,Charles Kennedy,343,./data/train/275.txt,2,342,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+681,Vince Cable,367,./data/train/275.txt,2,366,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+682,Alan Milburn,391,./data/train/275.txt,2,390,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+683,David James,414,./data/train/275.txt,2,413,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+684,Tony Blair,9,./data/train/276.txt,2,8,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+685,Gordon Brown,12,./data/train/276.txt,2,11,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+686,Duncan Bannatyne,30,./data/train/276.txt,2,29,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False
+687,Gordon Brown,167,./data/train/276.txt,2,166,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+688,Robin Cook,321,./data/train/276.txt,2,320,True,2,0,False,False,100,True,False,False,False,False,False,False,False,False
+689,Dave Prentis,433,./data/train/276.txt,2,432,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False
+690,Tony Blair,7,./data/train/277.txt,2,6,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+691,Charles Kennedy,250,./data/train/277.txt,2,249,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+692,Alan Milburn,284,./data/train/277.txt,2,283,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+693,Irene Khan,41,./data/train/279.txt,2,40,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False
+694,Tony Blair,6,./data/train/282.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+695,Michael Howard,41,./data/train/282.txt,2,40,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+696,Gordon Brown,384,./data/train/282.txt,2,383,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+697,Oliver Letwin,486,./data/train/282.txt,2,485,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+698,Charles Kennedy,4,./data/train/284.txt,2,3,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+699,William Pitt,101,./data/train/285.txt,2,100,True,5,3,False,False,100,False,False,False,False,False,False,False,False,False
+700,Tim Collins,172,./data/train/285.txt,2,171,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+701,Mr Hague,191,./data/train/285.txt,2,190,True,4,1,True,False,100,False,False,False,False,False,False,False,False,False
+702,Betty Boothroyd,6,./data/train/287.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+703,Damian Hockney,30,./data/train/288.txt,2,29,True,3,0,False,False,100,True,False,True,False,False,False,True,False,False
+704,John Houston,123,./data/train/288.txt,2,122,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False
+705,Robert Kilroy-Silk,180,./data/train/288.txt,2,179,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+706,Mr Houston,205,./data/train/288.txt,2,204,True,100,1,True,False,100,False,True,True,False,False,False,False,False,False
+707,Baron Kinnock,1,./data/train/289.txt,2,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+708,Neil Kinnock,9,./data/train/289.txt,2,8,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+709,Baroness Royall,158,./data/train/289.txt,2,157,True,100,100,False,False,4,False,False,False,False,True,False,False,False,False
+710,James Callaghan's,295,./data/train/289.txt,2,294,True,2,100,False,False,100,True,False,False,True,False,False,False,False,False
+711,Margaret Thatcher,348,./data/train/289.txt,2,347,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False
+712,Mike Nattrass,30,./data/train/292.txt,2,29,True,2,3,False,False,100,True,False,True,False,False,False,False,False,False
+713,Roger Knapman,407,./data/train/292.txt,2,406,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+714,Petrina Holdsworth,211,./data/train/293.txt,2,210,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+715,Robert Kilroy-Silk,417,./data/train/293.txt,2,416,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False
+716,Robert Kilroy-Silk,467,./data/train/293.txt,2,466,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False
+717,Kilroy -Silk,584,./data/train/293.txt,2,583,True,5,100,False,False,100,True,False,False,False,False,False,False,False,False
+718,Robert Kilroy-Silk's,1059,./data/train/293.txt,2,1058,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+719,Michael Howard's,1240,./data/train/293.txt,2,1239,True,100,1,False,False,100,False,False,False,True,False,False,False,False,False
+720,Mark Serwotka,87,./data/train/294.txt,2,86,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+721,John Prescott,258,./data/train/294.txt,2,257,True,100,0,False,False,3,False,False,True,False,False,False,False,False,False
+722,Tony Blair,5,./data/train/295.txt,2,4,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False
+723,Harold Wilson's,31,./data/train/295.txt,2,30,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+724,Margaret Thatcher's,60,./data/train/295.txt,2,59,True,2,100,False,False,100,False,False,False,True,False,False,False,False,False
+725,Gordon Brown,219,./data/train/295.txt,2,218,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+726,Mr Blair,253,./data/train/295.txt,2,252,True,3,100,True,False,100,False,False,True,False,False,False,False,False,False
+727,Tony Blair,286,./data/train/295.txt,2,285,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+728,Sam Younger,415,./data/train/298.txt,2,414,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+729,David Davis,118,./data/train/300.txt,2,117,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False
+730,Oliver Letwin,120,./data/train/300.txt,2,119,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+731,Tim Yeo,123,./data/train/300.txt,2,122,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+732,Mark Oaten,392,./data/train/300.txt,2,391,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+733,Michael Howard,414,./data/train/300.txt,2,413,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False
+734,Andrew Marr,31,./data/train/401.txt,2,30,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False
+735,Tony Blair,226,./data/train/401.txt,2,225,True,5,3,False,False,100,False,False,True,False,False,False,False,False,False
+736,Tony Blair,83,./data/train/403.txt,2,82,True,2,100,False,False,100,True,False,False,False,True,False,False,False,False
+737,Michael Howard,264,./data/train/403.txt,2,263,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+738,Neil Hamilton,451,./data/train/403.txt,2,450,True,100,3,False,False,100,False,False,True,False,True,False,False,False,False
+739,Tony Blair,42,./data/train/404.txt,2,41,True,2,3,False,False,100,True,False,False,False,True,False,False,False,False
+740,Michael Howard,70,./data/train/404.txt,2,69,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+741,Alan Milburn,175,./data/train/404.txt,2,174,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+742,Gordon Brown,2,./data/train/406.txt,2,1,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+743,Gordon Brown,26,./data/train/406.txt,2,25,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+744,Gordon Brown,138,./data/train/406.txt,2,137,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+745,Michael Ancram,242,./data/train/406.txt,2,241,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+746,John Smith,313,./data/train/406.txt,2,312,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False
+747,Tony Blair,323,./data/train/406.txt,2,322,True,1,2,False,False,100,False,False,False,False,False,False,False,False,False
+748,Sarah Macaulay,496,./data/train/406.txt,2,495,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+749,Alan Milburn,832,./data/train/406.txt,2,831,True,4,1,False,False,100,False,False,True,False,False,False,False,False,False
+750,Michael Howard,7,./data/train/408.txt,2,6,True,4,0,False,False,100,True,False,False,False,False,False,False,False,False
+751,Peter Hain,14,./data/train/408.txt,2,13,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False
+752,Peter Hain,171,./data/train/408.txt,2,170,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False
+753,Margaret Beckett,200,./data/train/408.txt,2,199,True,4,100,False,False,1,False,False,True,False,False,False,False,False,False
+754,Margaret Dixon,318,./data/train/408.txt,2,317,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False
+755,Michael Howard,434,./data/train/408.txt,2,433,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+756,Alan Milburn,533,./data/train/408.txt,2,532,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+757,Michael Howard's,536,./data/train/408.txt,2,535,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False
+758,Michael Howard,580,./data/train/408.txt,2,579,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+759,Liam Fox,55,./data/train/409.txt,2,54,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+760,Tony Blair's,64,./data/train/409.txt,2,63,True,100,0,False,False,100,True,False,False,True,False,False,False,False,False
+761,Jonathan Sayeed,10,./data/train/410.txt,2,9,True,100,0,False,False,3,False,False,True,False,False,False,False,False,False
+762,Michael Howard,68,./data/train/410.txt,2,67,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+763,Sir Digby Jones,64,./data/train/005.txt,3,62,True,3,100,True,False,100,False,False,True,False,False,False,False,False,False
+764,Sir John Bourn,318,./data/train/006.txt,3,316,True,1,100,True,False,100,False,False,False,False,False,False,False,False,False
+765,Jose Maria Pons,116,./data/train/015.txt,3,114,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+766,Sir Mike Tomlinson,71,./data/train/020.txt,3,69,True,100,1,True,False,100,False,True,False,False,False,False,False,False,False
+767,Sir Anthony Greener,261,./data/train/020.txt,3,259,True,3,1,True,False,100,False,False,True,False,False,False,False,False,False
+768,Sir Mike Tomlinson's,498,./data/train/020.txt,3,496,True,1,100,True,False,100,False,False,False,True,False,False,False,False,False
+769,Sir John Stevens,76,./data/train/034.txt,3,74,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False
+770,Shani Rhys James,32,./data/train/039.txt,3,30,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False
+771,Camilla Parker Bowles,61,./data/train/044.txt,3,59,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False
+772,King Edward III,148,./data/train/044.txt,3,146,True,5,0,False,False,100,True,False,False,False,True,False,False,False,False
+773,Cardinal Cormac Murphy-O'Connor,27,./data/train/060.txt,3,25,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False
+774,Dr Rowan Williams,316,./data/train/060.txt,3,314,True,100,100,True,False,5,False,False,True,False,False,False,False,False,False
+775,Iain Duncan Smith,185,./data/train/068.txt,3,183,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False
+776,Tory Lord Campbell,341,./data/train/073.txt,3,339,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False
+777,Sir John Bourn,130,./data/train/080.txt,3,128,True,5,100,True,False,1,False,False,True,False,False,False,False,False,False
+778,Sir Alan Budd,312,./data/train/102.txt,3,310,True,1,100,True,False,100,False,False,False,False,False,False,False,False,False
+779,Sir Alan Budd's,118,./data/train/112.txt,3,116,True,3,2,True,False,100,False,False,False,True,False,False,False,False,False
+780,Sir Archy Kirkwood,67,./data/train/116.txt,3,65,True,4,100,True,False,1,False,False,True,False,False,False,False,False,False
+781,Ieuan Wyn Jones,491,./data/train/124.txt,3,489,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False
+782,Mr Justice Harrison,138,./data/train/131.txt,3,136,True,100,2,True,False,100,False,False,False,False,False,False,False,False,False
+783,Mary Kayitesi Blewitt,189,./data/train/140.txt,3,187,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+784,Guy Mansfield QC,429,./data/train/141.txt,3,427,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+785,Sir Alan Budd,208,./data/train/156.txt,3,206,True,100,1,True,False,100,False,True,True,False,False,False,False,False,False
+786,Nicholas Blake QC,275,./data/train/160.txt,3,273,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+787,Andrew Nicol QC,278,./data/train/160.txt,3,276,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False
+788,Rory O' Neill,210,./data/train/162.txt,3,208,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+789,Sir Alan Budd,94,./data/train/166.txt,3,92,True,2,100,True,False,100,False,False,True,False,False,False,False,False,False
+790,Sion Aubrey Roberts,180,./data/train/177.txt,3,178,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False
+791,Merionnydd Nant Conwy,232,./data/train/177.txt,3,230,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False
+792,Iain Duncan Smith,500,./data/train/180.txt,3,498,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+793,Kalan Kawa Karim,246,./data/train/185.txt,3,244,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False
+794,George W Bush,182,./data/train/188.txt,3,180,True,2,1,False,False,1,False,False,True,False,False,False,False,False,False
+795,Sir John Stevens,137,./data/train/198.txt,3,135,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False
+796,Charles Harris QC,445,./data/train/202.txt,3,443,True,3,0,False,False,1,False,False,True,False,False,False,False,False,False
+797,Tory Liam Fox,83,./data/train/220.txt,3,81,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False
+798,Sir John Stevens,230,./data/train/230.txt,3,228,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False
+799,Robert Kilroy Silk,584,./data/train/267.txt,3,582,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False
+800,Robert Kilroy Silk,1455,./data/train/293.txt,3,1453,True,2,2,False,False,100,False,False,False,False,True,False,False,False,False
+801,Lord John Russell,172,./data/train/295.txt,3,170,True,1,3,True,False,100,False,False,False,False,True,False,False,False,False
+802,Sir Teddy Taylor,221,./data/train/296.txt,3,219,True,100,3,True,False,1,False,False,True,False,False,False,False,False,False
+803,Guy Mansfield QC,429,./data/train/300.txt,3,427,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False
+804,David Lloyd George,56,./data/train/406.txt,3,54,True,1,1,False,False,100,False,True,False,False,False,False,False,False,False
+805,Sir Stanley Odell,174,./data/train/410.txt,3,172,True,100,0,True,False,100,False,False,False,False,True,False,False,False,False
