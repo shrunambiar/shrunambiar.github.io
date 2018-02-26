@@ -100,7 +100,7 @@ Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major',
                'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
                'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Cardinal', 'Chief', 'Gen', 'Chairman', 'Judge','Prof']
 remove_list = []
-for i in range(len(dh)):
+for i in range(len(di)):
     for j in (di.loc[i][0].split()):
         if (j in Positions):
             remove_list.append(i)
@@ -114,13 +114,13 @@ Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom
 'London']
 
 remove_list = []
-for i in range(len(dh)):
+for i in range(len(dj)):
     for j in (dj.loc[i][0].split()):
         if (j in Countries):
             remove_list.append(i)
         elif (j[:-2] in Countries):
             remove_list.append(i)
-dk = dj.drop(di.index[remove_list])
+dk = dj.drop(dj.index[remove_list])
 del dj
 dk = dk.reset_index(drop=True)
 print "Removing Countries"
