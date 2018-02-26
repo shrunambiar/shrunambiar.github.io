@@ -94,11 +94,13 @@ di = di.reset_index(drop=True)
 #di.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
 
 Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP',
-               'Officer','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
+               'Office','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
                'Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister',
                'Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller',
                'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
-               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Cardinal', 'Chief', 'Gen', 'Chairman', 'Judge','Prof']
+               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Chief', 'Gen', 'Chairman', 'Judge','Prof', 'Commission', 'Cabinet',
+               'Constable'
+               ]
 remove_list = []
 for i in range(len(di)):
     for j in (di.loc[i][0].split()):
@@ -106,12 +108,14 @@ for i in range(len(di)):
             remove_list.append(i)
         elif (j[:-2] in Positions):
             remove_list.append(i)
+        elif (j[:-1] in Positions)
+            remove_list.append(i)
 dj = di.drop(di.index[remove_list])
 del di
 dj = dj.reset_index(drop=True)
 
-Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia', 'European', 'Pakistan', 'Palestinian', 'Scottish','Taiwan'
-'London']
+Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia','American', 'Europe', 'European', 'Pakistan', 'Palestinian', 'Scottish','Taiwan'
+'London', 'Asian', 'Asia']
 
 remove_list = []
 for i in range(len(dj)):
