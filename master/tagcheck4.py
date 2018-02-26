@@ -4,19 +4,12 @@ def checktag(w):
     l = w.split(" ")
     fw = l[0]
     lw = l[-1]
-    # if "forsyth" in w.lower():
-    #     print w, l
     if w.count("<n>") > 1 or w.count("</n>") > 1:
-        if "forsyth" in w.lower():
-            print "returning F", w, l
         return False
 
     if fw[0:3] == "<n>" and lw[-4:] == "</n>":
         return True
     else:
-        if "forsyth" in w.lower():
-            print "returning F2", w, l
-            print fw, lw, fw[0:3], lw[-4:]
         return False
 
 
