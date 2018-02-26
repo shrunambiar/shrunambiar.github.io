@@ -24,7 +24,7 @@ def get_all_list(typeoffile):
                  if word[-1] == "," or word[-1] == ":" or word[-1] == ".":
                      word = word[:-1]
                  word = word.replace("\"", "")
-                 word = word.replace("\'", "")
+                 #word = word.replace("\'", "")
                  if len(word) == 0:
                      continue
                  list.append(word)
