@@ -1,0 +1,25 @@
+POSITION of </n> Blair</n>: ./262.txt
+MISMATCH COUNT ./101.txt
+POSITION of <n> "<n>Ken</n> ./075.txt
+MISMATCH COUNT ./075.txt
+POSITION of </n> </n>Ashfield ./111.txt
+POSITION of <n> [<n>Prince ./104.txt
+POSITION of </n> Charles</n>]," ./104.txt
+POSITION of <n> "<n>Paul</n> ./407.txt
+POSITION of <n> "<n>Mr ./407.txt
+MISMATCH COUNT ./407.txt
+POSITION of <n> M<n>r ./148.txt
+POSITION of </n> Blair</n>." ./159.txt
+POSITION of <n> Blunkett<n> ./206.txt
+MISMATCH COUNT ./206.txt
+POSITION of <n> "<n>Gordon ./402.txt
+POSITION of </n> Howard</n>: ./013.txt
+POSITION of <n> T<n>ony ./142.txt
+POSITION of </n> Kelly</n>." ./157.txt
+POSITION of <n> "<n>Mr ./226.txt
+POSITION of </n> </n>resignation ./145.txt
+POSITION of <n> "<n>Tony ./190.txt
+POSITION of <n> "<n>Dracula</n>" ./190.txt
+MISMATCH COUNT ./190.txt
+POSITION of </n> Boulton</n>: ./218.txt
+POSITION of <n> "<n>Michael ./122.txt
