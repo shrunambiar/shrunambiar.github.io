@@ -41,4 +41,4 @@ for fn in list_of_files:
         df.at[i, 'All-Words'] = cleanword(w)
 
 
-df.to_csv("labelled_data.csv", sep=',',index=False)
+df.to_csv("labelled_data_" + sys.argv[2] + ".csv", sep=',',index=False)

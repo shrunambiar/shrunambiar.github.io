@@ -66,7 +66,7 @@ def print_to_csv(typeoffile):
     list,filename_list,n_gram,start,end=get_all_list(typeoffile)
     df = pandas.DataFrame(data={"All-Words": list, "filename": filename_list,"n-gram": n_gram, "start": start, "end":end})
     print typeoffile
-    df.to_csv("tokenized" + typeoffile + ".csv", sep=',',index=False)
+    df.to_csv("Tokenized_" + typeoffile + ".csv", sep=',',index=False)
 
 # if __name__ == '__main__':
     # print_to_csv("cleanfiles")

@@ -1,7 +1,7 @@
 import pandas as pd
 import string
 import sys
-if sys.argv[1]=="labelled_data.csv":
+if sys.argv[1]=="labelled_data_train.csv":
     var="train"
 else:
     var="test"
