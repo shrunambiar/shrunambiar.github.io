@@ -17,14 +17,14 @@ def get_all_list(typeoffile):
     end=[]
     # print glob.iglob("./*.txt")
     for filename in glob.iglob("./*.txt"):
-         # print filename
+         print filename
          with open(filename, 'r') as myself:
              index=0
              for word in words(myself):
                  if word[-1] == "," or word[-1] == ":" or word[-1] == ".":
                      word = word[:-1]
                  word = word.replace("\"", "")
-                 word = word.replace("\'", "")
+                 #word = word.replace("\'", "")
                  if len(word) == 0:
                      continue
                  list.append(word)

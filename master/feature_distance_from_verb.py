@@ -5,16 +5,22 @@ import sys
 df = pd.read_csv('lowercase cropped.csv')
 df.insert(len(df.columns), "PRE_DIST_VERB", 100)
 df.insert(len(df.columns), "POST_DIST_VERB",100)
-df.insert(len(df.columns), "PRE_DIST_STOPWORD",100)
-df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
 df.insert(len(df.columns), "PrecedingTitle", False)
-df.insert(len(df.columns), "Apostrophe", False)
 df.insert(len(df.columns), "PRE_DIST_FROM_THE", False)
 df.insert(len(df.columns), "PRE_DIST_FROM_POSITION", 100)
 df.insert(len(df.columns), "NEGATIVE_FEATURE", False)
 df.insert(len(df.columns), "POSITIVE_FEATURE", False)
 df.insert(len(df.columns), "Surrounding_Caps", False)
-df.insert(len(df.columns), "POST_IS_PREPOSITION", False)
+df.insert(len(df.columns), "Apostrophe", False)
+
+#df.insert(len(df.columns), "PRE_DIST_STOPWORD",100)
+#df.insert(len(df.columns), "POST_DIST_STOPWORD",100)
+#df.insert(len(df.columns), "POST_IS_PREPOSITION", False)
+#df.insert(len(df.columns), "RELATIONSHIP", False)
+#df.insert(len(df.columns), "POST_IS_SPEAK_VERB", False)
+#df.insert(len(df.columns), "PRE_IS_SPEAK_VERB", False)
+#df.insert(len(df.columns), "INSTANCE_IS_POSITION", False)
+
 f = open('./other_text_files/verbs4.txt')
 g = open('./other_text_files/stopwords.txt')
 prep=open('./other_text_files/prepositions.txt')
@@ -83,12 +89,10 @@ for j in range(len(df)):
 
     if end< len(ls)-1:
         postword = ls[end+1:end]
-        if '.' in postword:
-            postword = postword[0:postring.index('.')]
+
     else:
         postword = ls[end+1:len(ls)-1]
-        if '.' in postword:
-            postword = postword[0:postring.index('.')]
+
 
 
 
@@ -98,40 +102,61 @@ for j in range(len(df)):
             break
 
 
-    if postword in prepositions:
-        df.at[j,"POST_IS_PREPOSITION"]=True
+    #if postword in prepositions:
+        #df.at[j,"POST_IS_PREPOSITION"]=True
+
 
 
     articles = ['The', 'the.', 'a', 'A', 'an', 'An']
     if preword in articles:
         df.at[j,"PRE_DIST_FROM_THE"]= True
-        break
+
+
+    #speakwords = ['said', 'says', 'told', 'tells', 'commented', 'stated', 'reported','called', 'addressed','argued','exclaimed']
+    #if postword in speakwords:
+        #df.at[j,"POST_IS_SPEAK_VERB"]= True
+
+
+    #if preword in speakwords:
+        #df.at[j,"POST_IS_SPEAK_VERB"]= True
+
+
+    #relationships = ['father', 'mother', 'son', 'daughter', 'child', 'nephew', 'niece','uncle', 'aunt','granfather','grandmother','lover','husband','wife','advisor','teacher']
+    #if postword in relationships:
+    #    df.at[j,"RELATIONSHIP"]= True
+
+
 
     for k in prestring:
         if k in verbs:
             df.at[j,"PRE_DIST_VERB"]=len(prestring)- prestring.index(k)
 
-    for i in postring:
-        if i in stopwords:
-            df.at[j, "POST_DIST_STOPWORD"] = postring.index(i)
-            break
-    for k in prestring:
-        if k in stopwords:
-            df.at[j,"PRE_DIST_STOPWORD"]=len(prestring)- prestring.index(k)
+    #for i in postring:
+        #if i in stopwords:
+            #df.at[j, "POST_DIST_STOPWORD"] = postring.index(i)
+            #break
+
+    #for k in prestring:
+        #if k in stopwords:
+            #df.at[j,"PRE_DIST_STOPWORD"]=len(prestring)- prestring.index(k)
+
+    Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP',
+               'Officer','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
+               'Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister',
+               'Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller',
+               'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
+               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Cardinal', 'Chief', 'Gen', 'Chairman', 'Judge','Prof']
 
     for k in prestring:
-        Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP',
-                   'Officer','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
-                   'Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister',
-                   'Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller',
-                   'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
-                   'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Cardinal', 'Chief', 'Gen', 'Chairman', 'Judge']
-
         if k in Positions:
             df.at[j,"PRE_DIST_FROM_POSITION"]=len(prestring)- prestring.index(k)
             break
-    loc_words = ['at', 'in', 'nearby', 'on', 'a']
 
+    #if instance in Positions:
+        #df.at[j,"INSTANCE_IS_POSITION"]=True
+        #break
+
+    loc_words = ['at', 'in', 'nearby', 'on', 'a']
     for k in prestring:
         if k in loc_words:
             df.at[j,"NEGATIVE_FEATURE"] = True
