@@ -122,7 +122,7 @@ for j in range(len(df)):
 
 
     if preword.lower() in speakwords:
-        df.at[j,"POST_IS_SPEAK_VERB"]= True
+        df.at[j,"PRE_IS_SPEAK_VERB"]= True
 
 
     relationships = ['father', 'mother', 'son', 'daughter', 'child', 'nephew', 'niece','uncle', 'aunt','granfather','grandmother','lover','husband','wife','advisor','teacher']
