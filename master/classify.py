@@ -31,8 +31,8 @@ import numpy as np
 # dftrain = pd.read_csv('distancetoverbtrain.csv')
 # dftest = pd.read_csv('distancetoverbtest.csv')
 
-dftest = pd.read_csv('distancetoverbtrain.csv')
-dftrain = pd.read_csv('distancetoverbtest.csv')
+dftest = pd.read_csv('classifier_input_train.csv')
+dftrain = pd.read_csv('classifier_input_test.csv')
 
 
 # features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PRE_DIST_STOPWORD', 'POST_DIST_STOPWORD', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION']
