@@ -34,7 +34,7 @@ import numpy as np
 dftrain = pd.read_csv('classifier_input_train.csv')
 dftest = pd.read_csv('classifier_input_test.csv')
 
-features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB', 'INSTANCE_IS_POSITION','INSTANCE_IS_COUNTRY']
+features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB']
 
 
 data = dftrain[features].as_matrix()

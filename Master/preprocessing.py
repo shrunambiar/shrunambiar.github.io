@@ -108,7 +108,7 @@ for i in range(len(di)):
             remove_list.append(i)
         elif (j[:-2] in Positions):
             remove_list.append(i)
-        elif (j[:-1] in Positions)
+        elif (j[:-1] in Positions):
             remove_list.append(i)
 dj = di.drop(di.index[remove_list])
 del di

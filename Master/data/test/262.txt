@@ -1,6 +1,6 @@
 <n>Howard</n> taunts <n>Blair</n> over splits
 
-<n>Tony Blair's</n> feud with Gordon Brown is damaging the way the UK is governed, Tory leader <n>Michael Howard</n> has claimed in a heated prime minister's questions.
+<n>Tony Blair's</n> feud with <n>Gordon Brown</n> is damaging the way the UK is governed, Tory leader <n>Michael Howard</n> has claimed in a heated prime minister's questions.
 
 <n>Mr Howard</n> asked: "How can they fight crime when they are fighting each other?" That question was later unveiled as the headline for new Tory campaign posters. But <n>Mr Blair</n> dismissed the talk of splits and said people's priorities at the next elections would be on the economic successes achieved by Labour. "He can stick up whatever he likes on billboards about something in a book but what the public will concentrate on are the low mortgages, low inflation, low unemployment that we delivered and that he failed to," he said. The chancellor is currently on a high-profile tour of Africa to highlight new anti-poverty plans. But before doing so, he insisted he still trusted <n>Mr Blair</n>, despite claims to the contrary in a new book.
 
