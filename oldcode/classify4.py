@@ -11,7 +11,6 @@ def shuffle_in_unison(a, b):
 
 # Logistic Regression
 from sklearn import datasets
-
 from sklearn import metrics
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
@@ -29,33 +28,36 @@ import scipy
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('distance to verb.csv')
+df = pd.read_csv('distancetoverb.csv')
 # features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PRE_DIST_STOPWORD', 'POST_DIST_STOPWORD', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION']
 
 # features = ['PrecedingTitle', 'n-gram']
 
 # features = ['PRE_DIST_VERB', 'POST_DIST_VERB', 'PRE_DIST_STOPWORD', 'POST_DIST_STOPWORD', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION']
 
-features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'Surrounding_Caps']
+features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE']
 
 data = df[features].as_matrix()
 target = df['classtype'].as_matrix()
 
-data, target = shuffle_in_unison(data, target)
+# data, target = shuffle_in_unison(data, target)
 
 fpl = []
 fnl = []
 
 X_train, X_test, y_train, y_test = train_test_split(data, target, test_size=0.1)
-model = LogisticRegression()
+model = DecisionTreeClassifier()
 #GaussianNB()#DecisionTreeClassifier()#SVC()
-# model = SVC()#LogisticRegression()
-model.fit(X_train, y_train)
-
+# # model = SVC()#LogisticRegression()
+# temp = X_train.transpose()
+# temp2 = temp[1:].transpose()
+model.fit(data, target)
 print(model)
 
-expected = y_test
-predicted = model.predict(X_test)
+expected = target
+# temp = X_test.transpose()
+# temp2 = temp[1:].transpose()
+predicted = model.predict(data)
 
 n = len(expected)
 
@@ -68,36 +70,51 @@ for i in range(n):
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
 
+#
+# skf = StratifiedKFold(n_splits=10)
+# skf.get_n_splits(data, target)
+# print(skf)
+#
+# for train_index, test_index in skf.split(data, target):
+#     print("TRAIN:", train_index, "TEST:", test_index)
+#     X_train, X_test = data[train_index], data[test_index]
+#     y_train, y_test = target[train_index], target[test_index]
+#
+#     model = DecisionTreeClassifier()
+#     #GaussianNB()#DecisionTreeClassifier()#SVC()
+#     #LogisticRegression()
+#     model.fit(X_train, y_train)
+#     print(model)
+#
+#     expected = y_test
+#     predicted = model.predict(X_test)
+#
+#     n = len(expected)
+#
+#     for i in range(n):
+#         if expected[i] == False and predicted[i] == True:
+#             fpl.append(X_test[i])
+#         elif expected[i] == True and predicted[i] == False:
+#             fnl.append(X_test[i])
+#
+#     print(metrics.classification_report(expected, predicted))
+#     print(metrics.confusion_matrix(expected, predicted))
 
-skf = StratifiedKFold(n_splits=10)
-skf.get_n_splits(data, target)
-print(skf)
-
-for train_index, test_index in skf.split(data, target):
-    print("TRAIN:", train_index, "TEST:", test_index)
-    X_train, X_test = data[train_index], data[test_index]
-    y_train, y_test = target[train_index], target[test_index]
-
-    model = LogisticRegression()
-    #GaussianNB()#DecisionTreeClassifier()#SVC()
-    #LogisticRegression()
-    model.fit(X_train, y_train)
-    print(model)
-
-    expected = y_test
-    predicted = model.predict(X_test)
-
-    n = len(expected)
-
-    for i in range(n):
-        if expected[i] == False and predicted[i] == True:
-            fpl.append(df.iloc[i]['All-Words'])
-        elif expected[i] == True and predicted[i] == False:
-            fnl.append(df.iloc[i]['All-Words'])
-
-    print(metrics.classification_report(expected, predicted))
-    print(metrics.confusion_matrix(expected, predicted))
-
+#
+# newmodel = SelectFromModel(model)
+#
+# clf = Pipeline([
+#   ('feature_selection', newmodel),
+#   ('classification', DecisionTreeClassifier())
+#   ])
+# clf.fit(temp2, y_train)
+#
+#
+# expected = y_test
+# predicted = clf.predict(X_test)
+# # summarize the fit of the model
+# print(metrics.classification_report(expected, predicted))
+# print(metrics.confusion_matrix(expected, predicted))
 
 df = pd.DataFrame(np.array(fpl))
 df.to_csv("fpl.csv")
