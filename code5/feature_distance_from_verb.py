@@ -96,8 +96,8 @@ for j in range(len(df)):
             break
 
 
-    if postword in prepositions
-        df.at[j,"POST_IS_PREPOSITION]=True
+    if postword in prepositions:
+        df.at[j,"POST_IS_PREPOSITION"]=True
 
 
     articles = ['The', 'the.', 'a', 'A', 'an', 'An']

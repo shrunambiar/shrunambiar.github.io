@@ -28,8 +28,13 @@ import scipy
 import pandas as pd
 import numpy as np
 
-dftrain = pd.read_csv('distancetoverbtrain.csv')
-dftest = pd.read_csv('distancetoverbtest.csv')
+# dftrain = pd.read_csv('distancetoverbtrain.csv')
+# dftest = pd.read_csv('distancetoverbtest.csv')
+
+dftest = pd.read_csv('distancetoverbtrain.csv')
+dftrain = pd.read_csv('distancetoverbtest.csv')
+
+
 # features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PRE_DIST_STOPWORD', 'POST_DIST_STOPWORD', 'PrecedingTitle', 'Apostrophe', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION']
 
 # features = ['PrecedingTitle', 'n-gram']
@@ -61,15 +66,36 @@ n = len(expected)
 
 for i in range(n):
     if expected[i] == False and predicted[i] == True:
-        fpl.append(dftest.iloc[i]['All-Words'])
+        fpl.append(dftest.iloc[i])
     elif expected[i] == True and predicted[i] == False:
-        fnl.append(dftest.iloc[i]['All-Words'])
+        fnl.append(dftest.iloc[i])
 
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
 
 df = pd.DataFrame(np.array(fpl))
-df.to_csv("fpl.csv")
+df.to_csv("fpl2.csv")
 
 df = pd.DataFrame(np.array(fnl))
-df.to_csv("fnl.csv")
+df.to_csv("fnl2.csv")
+
+
+newmodel = SelectFromModel(model)
+
+clf = Pipeline([
+  ('feature_selection', newmodel),
+  ('classification', DecisionTreeClassifier())
+  ])
+clf.fit(data, target)
+
+l = zip(features, model.feature_importances_)
+l.sort(key = lambda x:x[1], reverse=True)
+print l
+
+
+expected = dftest['classtype'].as_matrix()
+
+predicted = clf.predict(dftest[features].as_matrix())
+# summarize the fit of the model
+print(metrics.classification_report(expected, predicted))
+print(metrics.confusion_matrix(expected, predicted))
