@@ -1,0 +1,176 @@
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1757
+       True       0.87      0.55      0.68       199
+
+avg / total       0.94      0.95      0.94      1956
+
+[[1741   16]
+ [  89  110]]
+StratifiedKFold(n_splits=10, random_state=None, shuffle=False)
+('TRAIN:', array([ 1712,  1747,  1751, ..., 19556, 19557, 19558]), 'TEST:', array([   0,    1,    2, ..., 1990, 1992, 1993]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1743
+       True       0.90      0.54      0.67       213
+
+avg / total       0.94      0.94      0.94      1956
+
+[[1730   13]
+ [  98  115]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([1712, 1747, 1751, ..., 3934, 3935, 3939]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1743
+       True       0.90      0.54      0.67       213
+
+avg / total       0.94      0.94      0.94      1956
+
+[[1730   13]
+ [  98  115]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([3780, 3788, 3791, ..., 5887, 5889, 5890]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      1.00      0.97      1743
+       True       0.94      0.55      0.70       213
+
+avg / total       0.95      0.95      0.94      1956
+
+[[1735    8]
+ [  95  118]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([5726, 5728, 5730, ..., 7848, 7849, 7850]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      1.00      0.97      1743
+       True       0.94      0.53      0.67       213
+
+avg / total       0.94      0.94      0.94      1956
+
+[[1736    7]
+ [ 101  112]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([7550, 7553, 7557, ..., 9815, 9816, 9817]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      1.00      0.97      1743
+       True       0.94      0.56      0.70       213
+
+avg / total       0.95      0.95      0.94      1956
+
+[[1735    8]
+ [  94  119]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([ 9528,  9547,  9550, ..., 11755, 11756, 11757]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.94      0.99      0.97      1743
+       True       0.89      0.51      0.64       213
+
+avg / total       0.94      0.94      0.93      1956
+
+[[1729   14]
+ [ 105  108]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([11522, 11539, 11548, ..., 13722, 13723, 13724]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1743
+       True       0.90      0.54      0.67       213
+
+avg / total       0.94      0.94      0.94      1956
+
+[[1730   13]
+ [  98  115]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([13404, 13412, 13423, ..., 15666, 15667, 15668]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.94      0.99      0.96      1743
+       True       0.86      0.48      0.62       213
+
+avg / total       0.93      0.94      0.93      1956
+
+[[1726   17]
+ [ 110  103]]
+('TRAIN:', array([    0,     1,     2, ..., 19556, 19557, 19558]), 'TEST:', array([15455, 15459, 15471, ..., 17612, 17613, 17615]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1743
+       True       0.90      0.60      0.72       213
+
+avg / total       0.95      0.95      0.94      1956
+
+[[1728   15]
+ [  85  128]]
+('TRAIN:', array([    0,     1,     2, ..., 17612, 17613, 17615]), 'TEST:', array([17529, 17530, 17537, ..., 19556, 19557, 19558]))
+DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=None,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, presort=False, random_state=None,
+            splitter='best')
+             precision    recall  f1-score   support
+
+      False       0.95      0.99      0.97      1743
+       True       0.89      0.56      0.69       212
+
+avg / total       0.94      0.94      0.94      1955
+
+[[1728   15]
+ [  93  119]]

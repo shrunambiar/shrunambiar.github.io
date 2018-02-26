@@ -1,4 +1,5 @@
 import pandas as pd
+import string
 
 df = pd.read_csv('lowercase cropped.csv')
 df.insert(len(df.columns), "PRE_DIST_VERB", 100)
@@ -11,8 +12,11 @@ df.insert(len(df.columns), "PRE_DIST_FROM_THE", False)
 df.insert(len(df.columns), "PRE_DIST_FROM_POSITION", 100)
 df.insert(len(df.columns), "NEGATIVE_FEATURE", False)
 df.insert(len(df.columns), "POSITIVE_FEATURE", False)
+df.insert(len(df.columns), "Surrounding_Caps", False)
+df.insert(len(df.columns), "POST_IS_PREPOSITION", False)
 f = open('./other_text_files/verbs4.txt')
 g = open('./other_text_files/stopwords.txt')
+prep=open('./other_text_files/prepositions.txt')
 
 def checkPrecedingPrefix(instance):
     l = instance.split(" ")
@@ -43,15 +47,16 @@ def checkSucceedingApostrophe(instance):
 
 verbs = f.read().split()
 stopwords = g.read().split()
-
+prepositions=prep.read().split()
 
 
 for j in range(len(df)):
-    file = open(df.loc[j]['filename'])
-    ls = file.read().split()
+    sfile = open(df.loc[j]['filename'])
+    ls = sfile.read().split()
     start = df.loc[j]['start']
     end = df.loc[j]['end']
     instance = df.loc[j]["All-Words"]
+
 
     if start>5:
         prestring = ls[start-5:start]
@@ -75,6 +80,15 @@ for j in range(len(df)):
     else:
         preword = ls[0:start]
 
+    if end< len(ls)-1:
+        postword = ls[end+1:end]
+        if '.' in postword:
+            postword = postword[0:postring.index('.')]
+    else:
+        postword = ls[end+1:len(ls)-1]
+        if '.' in postword:
+            postword = postword[0:postring.index('.')]
+
 
 
     for i in postring:
@@ -83,7 +97,12 @@ for j in range(len(df)):
             break
 
 
-    if preword=="the" or preword=="The":
+    if postword in prepositions:
+        df.at[j,"POST_IS_PREPOSITION"]=True
+
+
+    articles = ['The', 'the.', 'a', 'A', 'an', 'An']
+    if preword in articles:
         df.at[j,"PRE_DIST_FROM_THE"]= True
         break
 
@@ -121,6 +140,13 @@ for j in range(len(df)):
         if k in positive_list:
             df.at[j, "POSITIVE_FEATURE"] = True
 
+    if(len(prestring)>0):
+        if prestring[len(prestring)-1][0] in string.ascii_uppercase:
+                df.at[j,"Surrounding_Caps"] = True
+    if(len(postring)>0):
+        if postring [0][0] in string.ascii_uppercase:
+                df.at[j, "Surrounding_Caps"] = True
+
     prefix = checkPrecedingPrefix(instance)
     df.at[j, "PrecedingTitle"] = prefix
     apostrophe = checkSucceedingApostrophe(instance)
@@ -128,4 +154,4 @@ for j in range(len(df)):
 
 print "Writing feature DIST_VERB to file"
 
-df.to_csv("distance to verb.csv", sep=',', index=False)
+df.to_csv("distancetoverb.csv", sep=',', index=False)
