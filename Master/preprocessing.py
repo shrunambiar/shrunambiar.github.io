@@ -85,10 +85,43 @@ for i in range(len(dh)):
         if j[0]=='\'':
             if not (i in remove_list):
                 remove_list.append(i)
-            
+
 di = dh.drop(dh.index[remove_list])
 del dh
 di = di.reset_index(drop=True)
 
-print "Removing lowercase"
-di.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
+#print "Removing lowercase"
+#di.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
+
+Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP',
+               'Officer','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
+               'Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister',
+               'Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller',
+               'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
+               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Cardinal', 'Chief', 'Gen', 'Chairman', 'Judge','Prof']
+remove_list = []
+for i in range(len(dh)):
+    for j in (di.loc[i][0].split()):
+        if (j in Positions):
+            remove_list.append(i)
+        elif (j[:-2] in Positions:
+            remove_list.append(i)
+dj = di.drop(di.index[remove_list])
+del di
+dj = dj.reset_index(drop=True)
+
+Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia', 'European', 'Pakistan', 'Palestinian', 'Scottish','Taiwan'
+'London']
+
+remove_list = []
+for i in range(len(dh)):
+    for j in (dj.loc[i][0].split()):
+        if (j in Countries):
+            remove_list.append(i)
+        elif (j[:-2] in Countries:
+            remove_list.append(i)
+dk = dj.drop(di.index[remove_list])
+del dj
+dk = dk.reset_index(drop=True)
+print "Removing Countries"
+dk.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
