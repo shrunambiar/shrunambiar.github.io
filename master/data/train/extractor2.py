@@ -17,7 +17,7 @@ def get_all_list(typeoffile):
     end=[]
     # print glob.iglob("./*.txt")
     for filename in glob.iglob("./*.txt"):
-         print filename
+         # print filename
          with open(filename, 'r') as myself:
              index=0
              for word in words(myself):
