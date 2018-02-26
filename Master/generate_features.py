@@ -22,7 +22,7 @@ df.insert(len(df.columns), "RELATIONSHIP", False)
 df.insert(len(df.columns), "POST_IS_SPEAK_VERB", False)
 df.insert(len(df.columns), "PRE_IS_SPEAK_VERB", False)
 df.insert(len(df.columns), "INSTANCE_IS_POSITION", False)
-
+df.insert(len(df.columns), "INSTANCE_IS_COUNTRY", False)
 f = open('./other_text_files/verbs4.txt')
 g = open('./other_text_files/stopwords.txt')
 prep=open('./other_text_files/prepositions.txt')
@@ -158,6 +158,11 @@ for j in range(len(df)):
 
     if instance in Positions:
         df.at[j,"INSTANCE_IS_POSITION"]=True
+
+    country_names=['British','Britain','United Kingdom','German','Russia','Soviet','European','Pakistan','Palestinian','Scottish','Taiwan','United states','London']
+
+    if instance in country_names:
+        df.at[j,"INSTANCE_IS_COUNTRY"]=True
 
     loc_words = ['at', 'in', 'nearby', 'on', 'a']
     for k in prestring:

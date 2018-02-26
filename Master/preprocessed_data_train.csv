@@ -33,7 +33,6 @@ Thomas,199,./data/train/002.txt,1,199,False
 Act,203,./data/train/002.txt,1,203,False
 Parliament,205,./data/train/002.txt,1,205,False
 Thomas,268,./data/train/002.txt,1,268,False
-It's,286,./data/train/002.txt,1,286,False
 Freedom,323,./data/train/002.txt,1,323,False
 Information,325,./data/train/002.txt,1,325,False
 Act,326,./data/train/002.txt,1,326,False
@@ -91,7 +90,6 @@ Sir,335,./data/train/005.txt,1,335,False
 Digby,336,./data/train/005.txt,1,336,False
 Stability,357,./data/train/005.txt,1,357,False
 British,363,./data/train/005.txt,1,363,False
-'don't,376,./data/train/005.txt,1,376,False
 Britain,399,./data/train/005.txt,1,399,False
 Balls,417,./data/train/005.txt,1,417,False
 Brown,423,./data/train/005.txt,1,423,False
@@ -110,7 +108,6 @@ Minister,484,./data/train/005.txt,1,484,False
 Tony,485,./data/train/005.txt,1,485,False
 Blair,486,./data/train/005.txt,1,486,False
 May,503,./data/train/005.txt,1,503,False
-'Errors',0,./data/train/006.txt,1,0,False
 Dome,3,./data/train/006.txt,1,3,False
 Millennium,11,./data/train/006.txt,1,11,False
 Dome,12,./data/train/006.txt,1,12,False
@@ -152,7 +149,6 @@ Partnerships,331,./data/train/006.txt,1,331,False
 Fox,0,./data/train/007.txt,1,0,True
 Blair's,2,./data/train/007.txt,1,2,True
 Tory,3,./data/train/007.txt,1,3,False
-'lies',4,./data/train/007.txt,1,4,False
 Tony,5,./data/train/007.txt,1,5,False
 Blair,6,./data/train/007.txt,1,6,False
 Tories,27,./data/train/007.txt,1,27,False
@@ -174,7 +170,6 @@ Sunday,150,./data/train/007.txt,1,150,False
 Blair,152,./data/train/007.txt,1,152,False
 Downing,171,./data/train/007.txt,1,171,False
 Street.,172,./data/train/007.txt,1,172,False
-It's,208,./data/train/007.txt,1,208,False
 Britain,222,./data/train/007.txt,1,222,False
 Britain,227,./data/train/007.txt,1,227,False
 Blair,233,./data/train/007.txt,1,233,False
@@ -259,7 +254,6 @@ Blair,136,./data/train/008.txt,1,136,False
 Babes,137,./data/train/008.txt,1,137,False
 Conservatives,146,./data/train/008.txt,1,146,False
 Labour,150,./data/train/008.txt,1,150,False
-'melons',173,./data/train/008.txt,1,173,False
 Former,177,./data/train/008.txt,1,177,False
 Liberal,178,./data/train/008.txt,1,178,False
 Democrat,179,./data/train/008.txt,1,179,False
@@ -268,9 +262,7 @@ Ballard,182,./data/train/008.txt,1,182,False
 Gillian,206,./data/train/008.txt,1,206,False
 Shepherd,207,./data/train/008.txt,1,207,False
 Betty,218,./data/train/008.txt,1,218,True
-'Look,222,./data/train/008.txt,1,222,False
 Betty',228,./data/train/008.txt,1,228,False
-'ah,231,./data/train/008.txt,1,231,False
 Betty'.,242,./data/train/008.txt,1,242,False
 Harriet,243,./data/train/008.txt,1,243,False
 Harman,244,./data/train/008.txt,1,244,False
@@ -302,7 +294,6 @@ British,530,./data/train/008.txt,1,530,False
 Library,531,./data/train/008.txt,1,531,False
 Campbell,0,./data/train/009.txt,1,0,True
 E-mail,1,./data/train/009.txt,1,1,False
-'silly,3,./data/train/009.txt,1,3,False
 Ex-No,5,./data/train/009.txt,1,5,False
 Alastair,9,./data/train/009.txt,1,9,False
 Campbell,10,./data/train/009.txt,1,10,False
@@ -398,7 +389,6 @@ Howard's,177,./data/train/011.txt,1,177,False
 Fox,180,./data/train/011.txt,1,180,False
 Sandra,182,./data/train/011.txt,1,182,True
 Michael,188,./data/train/011.txt,1,188,True
-It's,205,./data/train/011.txt,1,205,False
 Mrs,212,./data/train/011.txt,1,212,False
 Howard,213,./data/train/011.txt,1,213,False
 Conservative,220,./data/train/011.txt,1,220,False
@@ -434,7 +424,6 @@ Conlon,124,./data/train/012.txt,1,124,False
 Blair,146,./data/train/012.txt,1,146,False
 Tony,179,./data/train/012.txt,1,179,False
 Blair,180,./data/train/012.txt,1,180,False
-It's,190,./data/train/012.txt,1,190,False
 Ireland,205,./data/train/012.txt,1,205,False
 IRA,221,./data/train/012.txt,1,221,False
 Blair's,228,./data/train/012.txt,1,228,False
@@ -632,7 +621,6 @@ Simon,254,./data/train/018.txt,1,254,False
 Wiesenthal,255,./data/train/018.txt,1,255,False
 Center,256,./data/train/018.txt,1,256,False
 Drink,0,./data/train/019.txt,1,0,False
-'acts,2,./data/train/019.txt,1,2,False
 Jack,31,./data/train/019.txt,1,31,False
 Law,32,./data/train/019.txt,1,32,False
 Alcohol,36,./data/train/019.txt,1,36,False
@@ -680,7 +668,6 @@ Sturgeon,503,./data/train/019.txt,1,503,False
 McConnell,507,./data/train/019.txt,1,507,False
 Tuesday,509,./data/train/019.txt,1,509,False
 Sturgeon,552,./data/train/019.txt,1,552,False
-'should,570,./data/train/019.txt,1,570,False
 Perhaps,581,./data/train/019.txt,1,581,False
 Highland,609,./data/train/019.txt,1,609,False
 Council,610,./data/train/019.txt,1,610,False
@@ -740,7 +727,6 @@ Woodhead,506,./data/train/020.txt,1,506,False
 Conservative,520,./data/train/020.txt,1,520,False
 Party,521,./data/train/020.txt,1,521,False
 A-level,544,./data/train/020.txt,1,544,False
-'needs,1,./data/train/025.txt,1,1,False
 Home,7,./data/train/025.txt,1,7,False
 Office,8,./data/train/025.txt,1,8,False
 Barbara,24,./data/train/025.txt,1,24,False
@@ -782,7 +768,6 @@ Geldof,64,./data/train/026.txt,1,64,False
 London,67,./data/train/026.txt,1,67,False
 Africa,88,./data/train/026.txt,1,88,False
 Blair,90,./data/train/026.txt,1,90,False
-It's,120,./data/train/026.txt,1,120,False
 Blair,142,./data/train/026.txt,1,142,False
 Africa,147,./data/train/026.txt,1,147,False
 Bob,186,./data/train/026.txt,1,186,False
@@ -848,7 +833,6 @@ Countryside,309,./data/train/032.txt,1,309,False
 Alliance,310,./data/train/032.txt,1,310,False
 Animal,322,./data/train/032.txt,1,322,False
 Tories,0,./data/train/034.txt,1,0,False
-'U-turns',3,./data/train/034.txt,1,3,False
 Tory,4,./data/train/034.txt,1,4,False
 Michael,6,./data/train/034.txt,1,6,False
 Howard,7,./data/train/034.txt,1,7,False
@@ -880,10 +864,8 @@ Today,178,./data/train/034.txt,1,178,False
 Blair,181,./data/train/034.txt,1,181,False
 We've,202,./data/train/034.txt,1,202,False
 U-turns,212,./data/train/034.txt,1,212,False
-It's,213,./data/train/034.txt,1,213,False
 Gordon,216,./data/train/034.txt,1,216,False
 Brown,217,./data/train/034.txt,1,217,False
-'There's,220,./data/train/034.txt,1,220,False
 Howard,234,./data/train/034.txt,1,234,False
 Norfolk,263,./data/train/034.txt,1,263,False
 Tony,265,./data/train/034.txt,1,265,False
@@ -1032,7 +1014,6 @@ Coast,308,./data/train/038.txt,1,308,False
 Main,309,./data/train/038.txt,1,309,False
 Line,310,./data/train/038.txt,1,310,False
 Longtown,312,./data/train/038.txt,1,312,False
-'Hitler',0,./data/train/039.txt,1,0,False
 Welsh,3,./data/train/039.txt,1,3,False
 Welsh,10,./data/train/039.txt,1,10,False
 Russia,27,./data/train/039.txt,1,27,False
@@ -1075,7 +1056,6 @@ James,172,./data/train/039.txt,1,172,False
 BBC,174,./data/train/039.txt,1,174,False
 Radio,175,./data/train/039.txt,1,175,False
 Wales,176,./data/train/039.txt,1,176,False
-It's,177,./data/train/039.txt,1,177,False
 Free,197,./data/train/039.txt,1,197,False
 Good,241,./data/train/039.txt,1,241,False
 Morning,242,./data/train/039.txt,1,242,False
@@ -1084,7 +1064,6 @@ Bolshevik,263,./data/train/039.txt,1,263,True
 Russia,264,./data/train/039.txt,1,264,False
 Hitler's,266,./data/train/039.txt,1,266,True
 Germany,267,./data/train/039.txt,1,267,False
-'It,274,./data/train/039.txt,1,274,False
 European,296,./data/train/039.txt,1,296,False
 Russia,299,./data/train/039.txt,1,299,False
 Germany,301,./data/train/039.txt,1,301,False
@@ -1173,10 +1152,8 @@ Lord,462,./data/train/040.txt,1,462,False
 Nicholls,463,./data/train/040.txt,1,463,False
 Birkenhead,465,./data/train/040.txt,1,465,False
 Indefinite,470,./data/train/040.txt,1,470,False
-'A',491,./data/train/040.txt,1,491,False
 Woodhill,493,./data/train/040.txt,1,493,False
 Prison,494,./data/train/040.txt,1,494,False
-'law',510,./data/train/040.txt,1,510,False
 Solicitor,550,./data/train/040.txt,1,550,False
 Gareth,551,./data/train/040.txt,1,551,False
 Pierce,552,./data/train/040.txt,1,552,False
@@ -1296,7 +1273,6 @@ However,183,./data/train/044.txt,1,183,False
 Prince,185,./data/train/044.txt,1,185,False
 Wales,187,./data/train/044.txt,1,187,False
 Tory,0,./data/train/045.txt,1,0,False
-'cleared',2,./data/train/045.txt,1,2,False
 Scottish,5,./data/train/045.txt,1,5,False
 Conservative,6,./data/train/045.txt,1,6,False
 Party,7,./data/train/045.txt,1,7,False
@@ -1401,7 +1377,6 @@ Downing,428,./data/train/046.txt,1,428,False
 Street,429,./data/train/046.txt,1,429,False
 Blair's,433,./data/train/046.txt,1,433,False
 Student,0,./data/train/047.txt,1,0,False
-'fee,1,./data/train/047.txt,1,1,False
 Scotland,24,./data/train/047.txt,1,24,False
 However,25,./data/train/047.txt,1,25,False
 Lifelong,26,./data/train/047.txt,1,26,False
@@ -1454,7 +1429,6 @@ Scotland,444,./data/train/047.txt,1,444,False
 Scottish,458,./data/train/047.txt,1,458,False
 Scottish,464,./data/train/047.txt,1,464,False
 Anglers,0,./data/train/048.txt,1,0,False
-'could,1,./data/train/048.txt,1,1,False
 Anglers,4,./data/train/048.txt,1,4,False
 MPs,22,./data/train/048.txt,1,22,False
 Sloppy,25,./data/train/048.txt,1,25,False
@@ -1462,13 +1436,11 @@ MPs,50,./data/train/048.txt,1,50,False
 MPs,79,./data/train/048.txt,1,79,False
 One,208,./data/train/048.txt,1,208,False
 However,283,./data/train/048.txt,1,283,False
-'carte,303,./data/train/048.txt,1,303,False
 MPs,346,./data/train/048.txt,1,346,False
 Committee,396,./data/train/048.txt,1,396,False
 Michael,398,./data/train/048.txt,1,398,False
 Jack,399,./data/train/048.txt,1,399,False
 Jack,460,./data/train/048.txt,1,460,False
-'work,471,./data/train/048.txt,1,471,False
 Clarke,0,./data/train/049.txt,1,0,True
 New,7,./data/train/049.txt,1,7,False
 Home,8,./data/train/049.txt,1,8,False
@@ -1590,10 +1562,8 @@ Committee,26,./data/train/051.txt,1,26,False
 Courts,43,./data/train/051.txt,1,43,False
 MPs,62,./data/train/051.txt,1,62,False
 Currently,84,./data/train/051.txt,1,84,False
-'template',98,./data/train/051.txt,1,98,False
 MPs,121,./data/train/051.txt,1,121,False
 Delays,193,./data/train/051.txt,1,193,False
-'status,208,./data/train/051.txt,1,208,False
 Although,221,./data/train/051.txt,1,221,False
 Given,249,./data/train/051.txt,1,249,False
 Committee,282,./data/train/051.txt,1,282,False
@@ -1653,7 +1623,6 @@ Government,551,./data/train/053.txt,1,551,False
 BBC,555,./data/train/053.txt,1,555,False
 Lib,0,./data/train/054.txt,1,0,False
 Dems,1,./data/train/054.txt,1,1,False
-'to,2,./data/train/054.txt,1,2,False
 Liberal,7,./data/train/054.txt,1,7,False
 Democrats,8,./data/train/054.txt,1,8,False
 Vince,31,./data/train/054.txt,1,31,False
@@ -1765,7 +1734,6 @@ Wales,193,./data/train/057.txt,1,193,False
 Northern,195,./data/train/057.txt,1,195,False
 Ireland,196,./data/train/057.txt,1,196,False
 China,1,./data/train/058.txt,1,1,False
-'to,4,./data/train/058.txt,1,4,False
 China,14,./data/train/058.txt,1,14,False
 Foreign,29,./data/train/058.txt,1,29,False
 Secretary,30,./data/train/058.txt,1,30,False
@@ -1816,7 +1784,6 @@ State,385,./data/train/058.txt,1,385,False
 John,386,./data/train/058.txt,1,386,False
 Bolton,387,./data/train/058.txt,1,387,False
 British,390,./data/train/058.txt,1,390,False
-'Debate,0,./data/train/059.txt,1,0,False
 Fears,22,./data/train/059.txt,1,22,False
 Electoral,41,./data/train/059.txt,1,41,False
 Commission,42,./data/train/059.txt,1,42,False
@@ -1991,9 +1958,7 @@ Muslims,532,./data/train/062.txt,1,532,False
 Labour,540,./data/train/062.txt,1,540,False
 Tamimi,566,./data/train/062.txt,1,566,False
 Drive,0,./data/train/063.txt,1,0,False
-'save',2,./data/train/063.txt,1,2,False
 Efforts,5,./data/train/063.txt,1,5,False
-'protect',10,./data/train/063.txt,1,10,False
 Christmas,15,./data/train/063.txt,1,15,False
 Day,16,./data/train/063.txt,1,16,False
 New,18,./data/train/063.txt,1,18,False
@@ -2182,7 +2147,6 @@ Conservative,499,./data/train/067.txt,1,499,False
 Liberal,553,./data/train/067.txt,1,553,False
 Democrats,554,./data/train/067.txt,1,554,False
 MPs,0,./data/train/068.txt,1,0,False
-'euthanasia,3,./data/train/068.txt,1,3,False
 MPs,5,./data/train/068.txt,1,5,False
 Mental,45,./data/train/068.txt,1,45,False
 Capacity,46,./data/train/068.txt,1,46,False
@@ -2257,7 +2221,6 @@ Debate,508,./data/train/068.txt,1,508,False
 Diane,526,./data/train/068.txt,1,526,False
 Pretty,527,./data/train/068.txt,1,527,False
 Visa,0,./data/train/071.txt,1,0,False
-'every,2,./data/train/071.txt,1,2,False
 Visa,5,./data/train/071.txt,1,5,False
 MPs,19,./data/train/071.txt,1,19,False
 Pressure,22,./data/train/071.txt,1,22,False
@@ -2286,7 +2249,6 @@ Home,213,./data/train/071.txt,1,213,False
 Office,214,./data/train/071.txt,1,214,False
 Home,229,./data/train/071.txt,1,229,False
 Office,230,./data/train/071.txt,1,230,False
-'No,0,./data/train/072.txt,1,0,False
 Charles,5,./data/train/072.txt,1,5,False
 Clarke,6,./data/train/072.txt,1,6,False
 MPs,29,./data/train/072.txt,1,29,False
@@ -2345,7 +2307,6 @@ BBC,483,./data/train/072.txt,1,483,False
 News,484,./data/train/072.txt,1,484,False
 Andrew,487,./data/train/072.txt,1,487,False
 Marr,488,./data/train/072.txt,1,488,False
-It's,500,./data/train/072.txt,1,500,False
 House,505,./data/train/072.txt,1,505,False
 Commons,507,./data/train/072.txt,1,507,False
 March,525,./data/train/072.txt,1,525,False
@@ -2541,7 +2502,6 @@ Children,244,./data/train/078.txt,1,244,False
 Albania,264,./data/train/078.txt,1,264,False
 [to,297,./data/train/078.txt,1,297,False
 Albania],302,./data/train/078.txt,1,302,False
-'If,303,./data/train/078.txt,1,303,False
 Tuesday,340,./data/train/078.txt,1,340,False
 Home,360,./data/train/078.txt,1,360,False
 Office,361,./data/train/078.txt,1,361,False
@@ -2558,7 +2518,6 @@ Medical,571,./data/train/078.txt,1,571,False
 Foundation,572,./data/train/078.txt,1,572,False
 Albanian,611,./data/train/078.txt,1,611,False
 London,614,./data/train/078.txt,1,614,False
-'Fido',0,./data/train/079.txt,1,0,False
 Electoral,58,./data/train/079.txt,1,58,False
 Commission,59,./data/train/079.txt,1,59,False
 Voters,73,./data/train/079.txt,1,73,False
@@ -2593,7 +2552,6 @@ Ireland,424,./data/train/079.txt,1,424,False
 Currently,432,./data/train/079.txt,1,432,False
 British,433,./data/train/079.txt,1,433,False
 Younger,460,./data/train/079.txt,1,460,False
-'More,0,./data/train/080.txt,1,0,False
 National,30,./data/train/080.txt,1,30,False
 Audit,31,./data/train/080.txt,1,31,False
 Office,32,./data/train/080.txt,1,32,False
@@ -2672,7 +2630,6 @@ Mansfield,284,./data/train/081.txt,1,284,False
 Asian,314,./data/train/081.txt,1,314,False
 [ID,334,./data/train/081.txt,1,334,False
 Labour's,0,./data/train/082.txt,1,0,False
-'EU,1,./data/train/082.txt,1,1,False
 British,17,./data/train/082.txt,1,17,False
 Tories,27,./data/train/082.txt,1,27,False
 Shadow,28,./data/train/082.txt,1,28,False
@@ -2706,7 +2663,6 @@ Office,208,./data/train/082.txt,1,208,False
 Isn't,219,./data/train/082.txt,1,219,False
 Tory,256,./data/train/082.txt,1,256,False
 Europe,269,./data/train/082.txt,1,269,False
-'easy,290,./data/train/082.txt,1,290,False
 British,296,./data/train/082.txt,1,296,False
 United,316,./data/train/082.txt,1,316,False
 Kingdom,317,./data/train/082.txt,1,317,False
@@ -2791,7 +2747,6 @@ Conservatives,163,./data/train/087.txt,1,163,False
 London,187,./data/train/087.txt,1,187,False
 Monday,189,./data/train/087.txt,1,189,False
 Howard,191,./data/train/087.txt,1,191,False
-It's,193,./data/train/087.txt,1,193,False
 Withdrawing,233,./data/train/087.txt,1,233,False
 United,237,./data/train/087.txt,1,237,False
 Nations,238,./data/train/087.txt,1,238,False
@@ -2830,7 +2785,6 @@ Phillips,559,./data/train/087.txt,1,559,False
 Howard,577,./data/train/087.txt,1,577,False
 Howard,611,./data/train/087.txt,1,611,False
 Campaign,0,./data/train/088.txt,1,0,False
-'cold,1,./data/train/088.txt,1,1,False
 Labour,4,./data/train/088.txt,1,4,False
 Conservatives,7,./data/train/088.txt,1,7,False
 Lib,56,./data/train/088.txt,1,56,False
@@ -2938,7 +2892,6 @@ Murray,558,./data/train/089.txt,1,558,False
 McLetchie,561,./data/train/089.txt,1,561,False
 David,572,./data/train/089.txt,1,572,True
 New,0,./data/train/092.txt,1,0,False
-'yob',1,./data/train/092.txt,1,1,False
 Fifty,6,./data/train/092.txt,1,6,False
 England,17,./data/train/092.txt,1,17,False
 Wales,19,./data/train/092.txt,1,19,False
@@ -3017,7 +2970,6 @@ Royal,415,./data/train/095.txt,1,415,False
 Tony,429,./data/train/095.txt,1,429,False
 Blair,430,./data/train/095.txt,1,430,False
 Tories,0,./data/train/096.txt,1,0,False
-'would,1,./data/train/096.txt,1,1,False
 MPs',5,./data/train/096.txt,1,5,False
 Conservative,7,./data/train/096.txt,1,7,False
 Party,8,./data/train/096.txt,1,8,False
@@ -3067,7 +3019,6 @@ Howard,331,./data/train/096.txt,1,331,False
 House,364,./data/train/096.txt,1,364,False
 Lords,366,./data/train/096.txt,1,366,False
 Ministers,0,./data/train/098.txt,1,0,False
-'wrong',4,./data/train/098.txt,1,4,False
 Ministers,5,./data/train/098.txt,1,5,False
 Fraser,32,./data/train/098.txt,1,32,False
 Allander,34,./data/train/098.txt,1,34,False
@@ -3162,7 +3113,6 @@ Brown,412,./data/train/099.txt,1,412,False
 Africa,421,./data/train/099.txt,1,421,False
 Tuesday,423,./data/train/099.txt,1,423,False
 Guantanamo,0,./data/train/100.txt,1,0,False
-'suing,2,./data/train/100.txt,1,2,False
 British,5,./data/train/100.txt,1,5,False
 Guantanamo,10,./data/train/100.txt,1,10,False
 Bay,11,./data/train/100.txt,1,11,False
@@ -3199,7 +3149,6 @@ Guantanamo,248,./data/train/100.txt,1,248,False
 Bay,249,./data/train/100.txt,1,249,False
 Louise,252,./data/train/100.txt,1,252,False
 Christian,253,./data/train/100.txt,1,253,False
-'We,255,./data/train/100.txt,1,255,False
 Americans,270,./data/train/100.txt,1,270,False
 Guantanamo.,279,./data/train/100.txt,1,279,False
 Menzies,281,./data/train/100.txt,1,281,False
@@ -3331,7 +3280,6 @@ Hunter,316,./data/train/103.txt,1,316,False
 Government's,332,./data/train/103.txt,1,332,False
 ADSS,335,./data/train/103.txt,1,335,False
 Muslim,0,./data/train/105.txt,1,0,False
-'more,3,./data/train/105.txt,1,3,False
 Muslims,6,./data/train/105.txt,1,6,False
 Islamic,12,./data/train/105.txt,1,12,False
 Home,25,./data/train/105.txt,1,25,False
@@ -3377,7 +3325,6 @@ July,502,./data/train/105.txt,1,502,False
 Islamophobia,508,./data/train/105.txt,1,508,False
 Muslim,510,./data/train/105.txt,1,510,False
 Asians,521,./data/train/105.txt,1,521,False
-'Super,0,./data/train/108.txt,1,0,False
 Two,5,./data/train/108.txt,1,5,False
 Britain's,7,./data/train/108.txt,1,7,False
 Amicus,25,./data/train/108.txt,1,25,False
@@ -3402,7 +3349,6 @@ Wednesday,162,./data/train/108.txt,1,162,False
 Amicus's,163,./data/train/108.txt,1,163,False
 TGWU,174,./data/train/108.txt,1,174,False
 Blair,0,./data/train/112.txt,1,0,True
-'damaged',1,./data/train/112.txt,1,1,False
 Blunkett,3,./data/train/112.txt,1,3,True
 David,21,./data/train/112.txt,1,21,False
 Blunkett's,22,./data/train/112.txt,1,22,False
@@ -3517,7 +3463,6 @@ Towards,265,./data/train/114.txt,1,265,False
 February,269,./data/train/114.txt,1,269,False
 Scottish,283,./data/train/114.txt,1,283,False
 New,0,./data/train/115.txt,1,0,False
-'would,3,./data/train/115.txt,1,3,False
 University,24,./data/train/115.txt,1,24,False
 College,25,./data/train/115.txt,1,25,False
 London,26,./data/train/115.txt,1,26,False
@@ -3567,7 +3512,6 @@ Select,535,./data/train/115.txt,1,535,False
 Committee,536,./data/train/115.txt,1,536,False
 Slight,538,./data/train/115.txt,1,538,False
 CSA,0,./data/train/116.txt,1,0,False
-'could,1,./data/train/116.txt,1,1,False
 Ministers,5,./data/train/116.txt,1,5,False
 Child,12,./data/train/116.txt,1,12,False
 Support,13,./data/train/116.txt,1,13,False
@@ -3735,7 +3679,6 @@ Dicky,359,./data/train/120.txt,1,359,False
 Arbiter,360,./data/train/120.txt,1,360,False
 Clarke,371,./data/train/120.txt,1,371,False
 Wales,0,./data/train/124.txt,1,0,False
-'must,1,./data/train/124.txt,1,1,False
 Wales,10,./data/train/124.txt,1,10,False
 England,18,./data/train/124.txt,1,18,False
 Brian,24,./data/train/124.txt,1,24,False
@@ -3819,7 +3762,6 @@ Assembly,600,./data/train/124.txt,1,600,False
 Government,601,./data/train/124.txt,1,601,False
 End,0,./data/train/126.txt,1,0,False
 Bush,1,./data/train/126.txt,1,1,True
-'denial',2,./data/train/126.txt,1,2,False
 Blair,3,./data/train/126.txt,1,3,True
 Tony,6,./data/train/126.txt,1,6,False
 Blair,7,./data/train/126.txt,1,7,False
@@ -4086,7 +4028,6 @@ Generalised,179,./data/train/132.txt,1,179,False
 We're,220,./data/train/132.txt,1,220,False
 Johnson,287,./data/train/132.txt,1,287,False
 Jowell,0,./data/train/133.txt,1,0,True
-'Las,2,./data/train/133.txt,1,2,False
 Vegas',3,./data/train/133.txt,1,3,False
 Secretary,6,./data/train/133.txt,1,6,False
 State,8,./data/train/133.txt,1,8,False
@@ -4386,7 +4327,6 @@ Letwin,120,./data/train/141.txt,1,120,False
 Tim,122,./data/train/141.txt,1,122,False
 Yeo,123,./data/train/141.txt,1,123,False
 Howard,126,./data/train/141.txt,1,126,False
-Yeo,129,./data/train/141.txt,1,129,False
 Davis,149,./data/train/141.txt,1,149,False
 Howard,168,./data/train/141.txt,1,168,False
 Cabinet,218,./data/train/141.txt,1,218,False
@@ -4680,7 +4620,6 @@ Jewish,467,./data/train/154.txt,1,467,False
 German,471,./data/train/154.txt,1,471,False
 I'm,474,./data/train/154.txt,1,474,False
 Pakistani,0,./data/train/155.txt,1,0,False
-'must,2,./data/train/155.txt,1,2,False
 Hiding,5,./data/train/155.txt,1,5,False
 Islam,19,./data/train/155.txt,1,19,False
 President,20,./data/train/155.txt,1,20,False
@@ -4906,7 +4845,6 @@ Without,484,./data/train/160.txt,1,484,False
 Ian,499,./data/train/160.txt,1,499,False
 McDonald,500,./data/train/160.txt,1,500,False
 Turkey,0,./data/train/161.txt,1,0,False
-'to,2,./data/train/161.txt,1,2,False
 Turkey,9,./data/train/161.txt,1,9,False
 Tony,28,./data/train/161.txt,1,28,False
 Blair,29,./data/train/161.txt,1,29,False
@@ -5054,7 +4992,6 @@ Saturday,142,./data/train/165.txt,1,142,False
 Sunday,165,./data/train/165.txt,1,165,False
 Acpo's,188,./data/train/165.txt,1,188,False
 Fox,226,./data/train/165.txt,1,226,False
-It's,236,./data/train/165.txt,1,236,False
 Fox,262,./data/train/165.txt,1,262,False
 Staggering,290,./data/train/165.txt,1,290,False
 Acpo,350,./data/train/165.txt,1,350,False
@@ -5175,7 +5112,6 @@ Spelman,373,./data/train/167.txt,1,373,False
 John,381,./data/train/167.txt,1,381,False
 Prescott's,382,./data/train/167.txt,1,382,False
 England.,397,./data/train/167.txt,1,397,False
-'No-one,0,./data/train/169.txt,1,0,False
 MPs,23,./data/train/169.txt,1,23,False
 Devon,32,./data/train/169.txt,1,32,False
 Lib,65,./data/train/169.txt,1,65,False
@@ -5206,7 +5142,6 @@ Hunting,235,./data/train/169.txt,1,235,False
 Hunting,245,./data/train/169.txt,1,245,False
 Act,246,./data/train/169.txt,1,246,False
 Defra,248,./data/train/169.txt,1,248,False
-'chasing,259,./data/train/169.txt,1,259,False
 Act,267,./data/train/169.txt,1,267,False
 However,268,./data/train/169.txt,1,268,False
 Tory,314,./data/train/169.txt,1,314,False
@@ -5222,7 +5157,6 @@ Cruel,370,./data/train/169.txt,1,370,False
 Sports,371,./data/train/169.txt,1,371,False
 Bradshaw,387,./data/train/169.txt,1,387,False
 Hospital,0,./data/train/170.txt,1,0,False
-'no,2,./data/train/170.txt,1,2,False
 Welsh',3,./data/train/170.txt,1,3,False
 English,6,./data/train/170.txt,1,6,False
 Welsh,14,./data/train/170.txt,1,14,False
@@ -5431,7 +5365,6 @@ Sergeant,672,./data/train/174.txt,1,672,False
 Keith,673,./data/train/174.txt,1,673,False
 McDonald,674,./data/train/174.txt,1,674,False
 Councils,0,./data/train/176.txt,1,0,False
-'must,1,./data/train/176.txt,1,1,False
 Gypsy,3,./data/train/176.txt,1,3,False
 Ministers,5,./data/train/176.txt,1,5,False
 Councils,24,./data/train/176.txt,1,24,False
@@ -5603,7 +5536,6 @@ Police,394,./data/train/179.txt,1,394,False
 Officers,395,./data/train/179.txt,1,395,False
 Basically,412,./data/train/179.txt,1,412,False
 Falconer,0,./data/train/180.txt,1,0,True
-'charade',2,./data/train/180.txt,1,2,False
 Concessions,4,./data/train/180.txt,1,4,False
 Ministers,28,./data/train/180.txt,1,28,False
 Mental,41,./data/train/180.txt,1,41,False
@@ -5654,11 +5586,9 @@ Iain,498,./data/train/180.txt,1,498,False
 Duncan,499,./data/train/180.txt,1,499,False
 Smith,500,./data/train/180.txt,1,500,False
 School,0,./data/train/181.txt,1,0,False
-'is,2,./data/train/181.txt,1,2,False
 Tony,6,./data/train/181.txt,1,6,False
 Blair,7,./data/train/181.txt,1,7,False
 England,32,./data/train/181.txt,1,32,False
-It's,46,./data/train/181.txt,1,46,False
 Blair,60,./data/train/181.txt,1,60,False
 Conservatives,64,./data/train/181.txt,1,64,False
 Tai,102,./data/train/181.txt,1,102,False
@@ -5671,8 +5601,6 @@ College,126,./data/train/181.txt,1,126,False
 Southwark,128,./data/train/181.txt,1,128,False
 London,130,./data/train/181.txt,1,130,False
 You've,133,./data/train/181.txt,1,133,False
-It's,140,./data/train/181.txt,1,140,False
-It's,154,./data/train/181.txt,1,154,False
 Earlier,159,./data/train/181.txt,1,159,False
 Education,160,./data/train/181.txt,1,160,False
 Secretary,161,./data/train/181.txt,1,161,False
@@ -5898,7 +5826,6 @@ Road,337,./data/train/185.txt,1,337,False
 Idris,343,./data/train/185.txt,1,343,False
 Swansea,361,./data/train/185.txt,1,361,False
 Muslim,390,./data/train/185.txt,1,390,False
-It's,393,./data/train/185.txt,1,393,False
 Muslims,417,./data/train/185.txt,1,417,False
 Llanelli,422,./data/train/185.txt,1,422,False
 Blair,0,./data/train/186.txt,1,0,True
@@ -5931,7 +5858,6 @@ Tory,157,./data/train/186.txt,1,157,False
 Michael,159,./data/train/186.txt,1,159,False
 Howard,160,./data/train/186.txt,1,160,False
 Livingstone's,164,./data/train/186.txt,1,164,False
-It's,182,./data/train/186.txt,1,182,False
 Labour,223,./data/train/186.txt,1,223,False
 Party,224,./data/train/186.txt,1,224,False
 Ken,228,./data/train/186.txt,1,228,False
@@ -6013,7 +5939,6 @@ Talk,376,./data/train/187.txt,1,376,False
 High,382,./data/train/187.txt,1,382,False
 Street,383,./data/train/187.txt,1,383,False
 Security,0,./data/train/188.txt,1,0,False
-'found,2,./data/train/188.txt,1,2,False
 Pakistani,17,./data/train/188.txt,1,17,False
 London,21,./data/train/188.txt,1,21,False
 Gen,40,./data/train/188.txt,1,40,False
@@ -6022,7 +5947,7 @@ Musharraf's,42,./data/train/188.txt,1,42,False
 Scotland,49,./data/train/188.txt,1,49,False
 Yard,50,./data/train/188.txt,1,50,False
 President,61,./data/train/188.txt,1,61,False
-<nav></nav>>Musharraf's,62,./data/train/188.txt,1,62,False
+Musharraf's,62,./data/train/188.txt,1,62,True
 Mayfair,117,./data/train/188.txt,1,117,False
 Mirror,122,./data/train/188.txt,1,122,False
 Monday,135,./data/train/188.txt,1,135,False
@@ -6299,7 +6224,6 @@ Kennedy,377,./data/train/196.txt,1,377,False
 Power,382,./data/train/196.txt,1,382,False
 Inquiry,383,./data/train/196.txt,1,383,False
 Blair,0,./data/train/197.txt,1,0,True
-'pressing,1,./data/train/197.txt,1,1,False
 Tony,5,./data/train/197.txt,1,5,False
 Blair,6,./data/train/197.txt,1,6,False
 Kyoto,21,./data/train/197.txt,1,21,False
@@ -6353,7 +6277,6 @@ Stevens,137,./data/train/198.txt,1,137,False
 Metropolitan,139,./data/train/198.txt,1,139,False
 However,160,./data/train/198.txt,1,160,False
 Hayman,162,./data/train/198.txt,1,162,False
-'I'm,178,./data/train/198.txt,1,178,False
 However,220,./data/train/198.txt,1,220,False
 Prime,306,./data/train/198.txt,1,306,False
 Minister,307,./data/train/198.txt,1,307,False
@@ -6466,7 +6389,6 @@ Radio,90,./data/train/201.txt,1,90,False
 Today,92,./data/train/201.txt,1,92,False
 Tories,112,./data/train/201.txt,1,112,False
 Britain,125,./data/train/201.txt,1,125,False
-It's,129,./data/train/201.txt,1,129,False
 May,157,./data/train/201.txt,1,157,False
 Labour,158,./data/train/201.txt,1,158,False
 Liberal,186,./data/train/201.txt,1,186,False
@@ -6566,7 +6488,6 @@ Service,26,./data/train/204.txt,1,26,False
 National,36,./data/train/204.txt,1,36,False
 Correctional,37,./data/train/204.txt,1,37,False
 Agency,38,./data/train/204.txt,1,38,False
-'one-stop',43,./data/train/204.txt,1,43,False
 Instead,56,./data/train/204.txt,1,56,False
 Scottish,57,./data/train/204.txt,1,57,False
 Scotland's,105,./data/train/204.txt,1,105,False
@@ -6655,7 +6576,6 @@ Liberty,347,./data/train/205.txt,1,347,False
 Home,368,./data/train/205.txt,1,368,False
 Office,369,./data/train/205.txt,1,369,False
 February,0,./data/train/207.txt,1,0,False
-'speculation',3,./data/train/207.txt,1,3,False
 Reports,4,./data/train/207.txt,1,4,False
 Tony,6,./data/train/207.txt,1,6,False
 Blair,7,./data/train/207.txt,1,7,False
@@ -6919,7 +6839,6 @@ West,570,./data/train/213.txt,1,570,False
 Westmorland,571,./data/train/213.txt,1,571,False
 Lonsdale,573,./data/train/213.txt,1,573,False
 Custody,0,./data/train/214.txt,1,0,False
-'shocks',3,./data/train/214.txt,1,3,False
 MPs,4,./data/train/214.txt,1,4,False
 Deaths,5,./data/train/214.txt,1,5,False
 MPs,15,./data/train/214.txt,1,15,False
@@ -7131,7 +7050,6 @@ Human,458,./data/train/221.txt,1,458,False
 Rights,459,./data/train/221.txt,1,459,False
 September,479,./data/train/221.txt,1,479,False
 Voters,0,./data/train/222.txt,1,0,False
-'reject,1,./data/train/222.txt,1,1,False
 British,7,./data/train/222.txt,1,7,False
 European,12,./data/train/222.txt,1,12,False
 Daily,33,./data/train/222.txt,1,33,False
@@ -7212,10 +7130,8 @@ Hoffmann,354,./data/train/224.txt,1,354,False
 Lord,392,./data/train/224.txt,1,392,False
 Walker,393,./data/train/224.txt,1,393,False
 Gestingthorpe,395,./data/train/224.txt,1,395,False
-'A',417,./data/train/224.txt,1,417,False
 Woodhill,419,./data/train/224.txt,1,419,False
 Prison,420,./data/train/224.txt,1,420,False
-'law',436,./data/train/224.txt,1,436,False
 Ben,476,./data/train/224.txt,1,476,False
 Emmerson,477,./data/train/224.txt,1,477,False
 Special,540,./data/train/224.txt,1,540,False
@@ -7276,7 +7192,6 @@ Year?,413,./data/train/227.txt,1,413,False
 Blunkett,461,./data/train/227.txt,1,461,False
 Parliament,463,./data/train/227.txt,1,463,False
 Labour,0,./data/train/228.txt,1,0,False
-'anti-Semitic',3,./data/train/228.txt,1,3,False
 Labour,5,./data/train/228.txt,1,5,False
 Party,6,./data/train/228.txt,1,6,False
 Michael,16,./data/train/228.txt,1,16,False
@@ -7371,7 +7286,6 @@ Bob,405,./data/train/229.txt,1,405,False
 Stewart,406,./data/train/229.txt,1,406,False
 Anyone,408,./data/train/229.txt,1,408,False
 [of,412,./data/train/229.txt,1,412,False
-'If,428,./data/train/229.txt,1,428,False
 British,445,./data/train/229.txt,1,445,False
 Ministry,458,./data/train/229.txt,1,458,False
 Defence,460,./data/train/229.txt,1,460,False
@@ -7401,7 +7315,6 @@ Home,268,./data/train/230.txt,1,268,False
 Secretary,269,./data/train/230.txt,1,269,False
 Charles,270,./data/train/230.txt,1,270,False
 Clarke,271,./data/train/230.txt,1,271,False
-'an,279,./data/train/230.txt,1,279,False
 Englishman's,280,./data/train/230.txt,1,280,False
 That's,285,./data/train/230.txt,1,285,False
 CPS,304,./data/train/230.txt,1,304,False
@@ -7566,7 +7479,6 @@ Dem,61,./data/train/235.txt,1,61,False
 Walkington,64,./data/train/235.txt,1,64,False
 Walkington's,165,./data/train/235.txt,1,165,False
 Row,0,./data/train/239.txt,1,0,False
-'police',2,./data/train/239.txt,1,2,False
 CSOs,5,./data/train/239.txt,1,5,False
 Police,7,./data/train/239.txt,1,7,False
 Federation,8,./data/train/239.txt,1,8,False
@@ -7781,7 +7693,6 @@ Speaking,404,./data/train/245.txt,1,404,False
 Scotland,406,./data/train/245.txt,1,406,False
 Blair,410,./data/train/245.txt,1,410,False
 Student,0,./data/train/246.txt,1,0,False
-'inequality',1,./data/train/246.txt,1,1,False
 Teenagers,3,./data/train/246.txt,1,3,False
 Higher,27,./data/train/246.txt,1,27,False
 Education,28,./data/train/246.txt,1,28,False
@@ -7900,7 +7811,6 @@ We've,47,./data/train/250.txt,1,47,False
 That's,66,./data/train/250.txt,1,66,False
 Many,71,./data/train/250.txt,1,71,False
 We've,104,./data/train/250.txt,1,104,False
-It's,157,./data/train/250.txt,1,157,False
 Conservative,207,./data/train/250.txt,1,207,False
 Labour,214,./data/train/250.txt,1,214,False
 Labour,225,./data/train/250.txt,1,225,False
@@ -7928,7 +7838,6 @@ Alun,499,./data/train/250.txt,1,499,False
 Michael,500,./data/train/250.txt,1,500,False
 Tony,563,./data/train/250.txt,1,563,False
 Blair,564,./data/train/250.txt,1,564,False
-It's,568,./data/train/250.txt,1,568,False
 People,588,./data/train/250.txt,1,588,False
 MPs,664,./data/train/250.txt,1,664,False
 MPs,667,./data/train/250.txt,1,667,False
@@ -7937,13 +7846,11 @@ MPs,712,./data/train/250.txt,1,712,False
 Whether,736,./data/train/250.txt,1,736,False
 Everything,754,./data/train/250.txt,1,754,False
 Choice,798,./data/train/250.txt,1,798,False
-It's,811,./data/train/250.txt,1,811,False
 Choice,830,./data/train/250.txt,1,830,False
 Firstly,889,./data/train/250.txt,1,889,False
 Secondly,902,./data/train/250.txt,1,902,False
 Thirdly,911,./data/train/250.txt,1,911,False
 MPs,933,./data/train/250.txt,1,933,False
-It's,959,./data/train/250.txt,1,959,False
 Politicians,971,./data/train/250.txt,1,971,False
 Fuel,992,./data/train/250.txt,1,992,False
 Gordon,1018,./data/train/250.txt,1,1018,False
@@ -7952,7 +7859,6 @@ Tuppence,1025,./data/train/250.txt,1,1025,False
 Regrettably,1121,./data/train/250.txt,1,1121,False
 Whatever,1138,./data/train/250.txt,1,1138,False
 Blair,0,./data/train/252.txt,1,0,True
-'said,1,./data/train/252.txt,1,1,False
 Tony,6,./data/train/252.txt,1,6,False
 Blair,7,./data/train/252.txt,1,7,False
 Gordon,9,./data/train/252.txt,1,9,False
@@ -7980,7 +7886,6 @@ Prescott,136,./data/train/252.txt,1,136,False
 November,138,./data/train/252.txt,1,138,False
 Gordon,151,./data/train/252.txt,1,151,False
 Brown,152,./data/train/252.txt,1,152,False
-'look,155,./data/train/252.txt,1,155,False
 Peston,177,./data/train/252.txt,1,177,False
 I'm,183,./data/train/252.txt,1,183,False
 June,213,./data/train/252.txt,1,213,False
@@ -8141,7 +8046,6 @@ None,541,./data/train/258.txt,1,541,False
 Brown,564,./data/train/258.txt,1,564,False
 Brownite,576,./data/train/258.txt,1,576,False
 Mind,621,./data/train/258.txt,1,621,False
-'Poll,0,./data/train/259.txt,1,0,False
 Idols',1,./data/train/259.txt,1,1,False
 Vote,5,./data/train/259.txt,1,5,False
 Pop,10,./data/train/259.txt,1,10,False
@@ -8396,7 +8300,6 @@ Tory,270,./data/train/265.txt,1,270,False
 Conservatives,273,./data/train/265.txt,1,273,False
 Labour's,278,./data/train/265.txt,1,278,False
 Cuts,289,./data/train/265.txt,1,289,False
-'bureaucracy',298,./data/train/265.txt,1,298,False
 Liberal,316,./data/train/265.txt,1,316,False
 Democrats,317,./data/train/265.txt,1,317,False
 Whitehall,326,./data/train/265.txt,1,326,False
@@ -8452,8 +8355,6 @@ Tory,341,./data/train/267.txt,1,341,False
 Europe,346,./data/train/267.txt,1,346,False
 Michael,364,./data/train/267.txt,1,364,False
 Howard,365,./data/train/267.txt,1,365,False
-It's,370,./data/train/267.txt,1,370,False
-'before,385,./data/train/267.txt,1,385,False
 Possibly,404,./data/train/267.txt,1,404,False
 American,407,./data/train/267.txt,1,407,False
 Britain,433,./data/train/267.txt,1,433,False
@@ -8543,7 +8444,6 @@ Brown,297,./data/train/268.txt,1,297,False
 Milburn,328,./data/train/268.txt,1,328,False
 New,341,./data/train/268.txt,1,341,False
 Labour,342,./data/train/268.txt,1,342,False
-'one,345,./data/train/268.txt,1,345,False
 Voters,393,./data/train/268.txt,1,393,False
 Oliver,413,./data/train/268.txt,1,413,False
 Letwin,414,./data/train/268.txt,1,414,False
@@ -8556,7 +8456,6 @@ Hughes,493,./data/train/268.txt,1,493,False
 New,527,./data/train/268.txt,1,527,False
 Labour,528,./data/train/268.txt,1,528,False
 Teens,0,./data/train/269.txt,1,0,False
-'know,1,./data/train/269.txt,1,1,False
 Teenagers,5,./data/train/269.txt,1,5,False
 Labour,30,./data/train/269.txt,1,30,False
 Tories,35,./data/train/269.txt,1,35,False
@@ -8741,7 +8640,6 @@ Lib,490,./data/train/272.txt,1,490,False
 Dems,491,./data/train/272.txt,1,491,False
 Iraq,507,./data/train/272.txt,1,507,False
 Kennedy,510,./data/train/272.txt,1,510,False
-'Best,0,./data/train/273.txt,1,0,False
 MPs,29,./data/train/273.txt,1,29,False
 Secretary,56,./data/train/273.txt,1,56,False
 Health,58,./data/train/273.txt,1,58,False
@@ -8853,7 +8751,6 @@ Tony,431,./data/train/275.txt,1,431,False
 Blair,432,./data/train/275.txt,1,432,False
 Donor,0,./data/train/276.txt,1,0,False
 Blair-Brown,2,./data/train/276.txt,1,2,False
-'feud',3,./data/train/276.txt,1,3,False
 Tony,8,./data/train/276.txt,1,8,False
 Blair,9,./data/train/276.txt,1,9,False
 Gordon,11,./data/train/276.txt,1,11,False
@@ -9002,7 +8899,6 @@ Blair,117,./data/train/282.txt,1,117,False
 Conservative,120,./data/train/282.txt,1,120,False
 Britain's,130,./data/train/282.txt,1,130,False
 Tory,154,./data/train/282.txt,1,154,False
-It's,173,./data/train/282.txt,1,173,False
 Conservative,197,./data/train/282.txt,1,197,False
 Blair,200,./data/train/282.txt,1,200,False
 Conservatives,204,./data/train/282.txt,1,204,False
@@ -9072,7 +8968,6 @@ Tories,632,./data/train/284.txt,1,632,False
 Perhaps,653,./data/train/284.txt,1,653,False
 Kennedy,656,./data/train/284.txt,1,656,False
 Hague,0,./data/train/285.txt,1,0,True
-'given,1,./data/train/285.txt,1,1,False
 Former,6,./data/train/285.txt,1,6,False
 Conservative,7,./data/train/285.txt,1,7,False
 William,9,./data/train/285.txt,1,9,False
@@ -9141,7 +9036,6 @@ Lords,259,./data/train/287.txt,1,259,False
 House,271,./data/train/287.txt,1,271,False
 New,0,./data/train/288.txt,1,0,False
 UKIP,1,./data/train/288.txt,1,1,False
-'Veritas',4,./data/train/288.txt,1,4,False
 Independence,7,./data/train/288.txt,1,7,False
 Party,8,./data/train/288.txt,1,8,False
 London,15,./data/train/288.txt,1,15,False
@@ -9267,7 +9161,6 @@ Kinnock,407,./data/train/289.txt,1,407,False
 British,415,./data/train/289.txt,1,415,False
 Council,416,./data/train/289.txt,1,416,False
 UK's,420,./data/train/289.txt,1,420,False
-'Super,0,./data/train/291.txt,1,0,False
 Two,5,./data/train/291.txt,1,5,False
 Britain's,7,./data/train/291.txt,1,7,False
 Amicus,25,./data/train/291.txt,1,25,False
@@ -9294,12 +9187,10 @@ TGWU,174,./data/train/291.txt,1,174,False
 UKIP,0,./data/train/292.txt,1,0,False
 MEP,1,./data/train/292.txt,1,1,False
 German,3,./data/train/292.txt,1,3,False
-'empire',4,./data/train/292.txt,1,4,False
 Independence,7,./data/train/292.txt,1,7,False
 Party,8,./data/train/292.txt,1,8,False
 MEP,9,./data/train/292.txt,1,9,False
 Germany,11,./data/train/292.txt,1,11,False
-'empire',17,./data/train/292.txt,1,17,False
 Mike,29,./data/train/292.txt,1,29,False
 Nattrass,30,./data/train/292.txt,1,30,False
 UKIP's,31,./data/train/292.txt,1,31,False
@@ -9316,7 +9207,6 @@ Robert,95,./data/train/292.txt,1,95,False
 Kilroy-Silk,96,./data/train/292.txt,1,96,False
 Nattrass,116,./data/train/292.txt,1,116,False
 Germans,126,./data/train/292.txt,1,126,False
-It's,143,./data/train/292.txt,1,143,False
 Germany,155,./data/train/292.txt,1,155,False
 Hungary,157,./data/train/292.txt,1,157,False
 Sudetenland,163,./data/train/292.txt,1,163,False
@@ -9335,7 +9225,6 @@ Germany,254,./data/train/292.txt,1,254,False
 Britain,260,./data/train/292.txt,1,260,False
 I'm,261,./data/train/292.txt,1,261,False
 German-bashing,265,./data/train/292.txt,1,265,False
-It's,266,./data/train/292.txt,1,266,False
 UKIP,270,./data/train/292.txt,1,270,False
 Mike,273,./data/train/292.txt,1,273,False
 Kilroy-Silk,298,./data/train/292.txt,1,298,False
@@ -9391,7 +9280,6 @@ Veritas,669,./data/train/292.txt,1,669,False
 Westminster,671,./data/train/292.txt,1,671,False
 Wednesday,673,./data/train/292.txt,1,673,False
 Kilroy,0,./data/train/293.txt,1,0,True
-'Veritas',2,./data/train/293.txt,1,2,False
 Ex-BBC,4,./data/train/293.txt,1,4,False
 East,9,./data/train/293.txt,1,9,False
 Midlands,10,./data/train/293.txt,1,10,False
@@ -9461,13 +9349,9 @@ Party,423,./data/train/293.txt,1,423,False
 UKIP,434,./data/train/293.txt,1,434,False
 Kilroy-Silk,439,./data/train/293.txt,1,439,False
 Veritas?,453,./data/train/293.txt,1,453,False
-It's,454,./data/train/293.txt,1,454,False
 BNP,456,./data/train/293.txt,1,456,False
-It's,461,./data/train/293.txt,1,461,False
 Robert,466,./data/train/293.txt,1,466,False
 Kilroy-Silk,467,./data/train/293.txt,1,467,False
-'Veritas',470,./data/train/293.txt,1,470,False
-'Veritas',500,./data/train/293.txt,1,500,False
 Ashfield,574,./data/train/293.txt,1,574,False
 Kilroy,583,./data/train/293.txt,1,583,False
 -Silk,584,./data/train/293.txt,1,584,False
@@ -9532,7 +9416,6 @@ Howard's,1240,./data/train/293.txt,1,1240,False
 Euro-Sceptic,1290,./data/train/293.txt,1,1290,False
 Kilroy-Silk,1291,./data/train/293.txt,1,1291,False
 Latin,1295,./data/train/293.txt,1,1295,False
-'good,1304,./data/train/293.txt,1,1304,False
 British',1306,./data/train/293.txt,1,1306,False
 Kilroy-Silk,1322,./data/train/293.txt,1,1322,False
 British,1329,./data/train/293.txt,1,1329,False
@@ -9554,7 +9437,6 @@ Kilroy,1484,./data/train/293.txt,1,1484,True
 UKIP,1500,./data/train/293.txt,1,1500,False
 Kilroy,1542,./data/train/293.txt,1,1542,True
 Good,1543,./data/train/293.txt,1,1543,False
-'Eurosceptic',1572,./data/train/293.txt,1,1572,False
 Europe,1595,./data/train/293.txt,1,1595,False
 Union,1596,./data/train/293.txt,1,1596,False
 Future,1597,./data/train/293.txt,1,1597,False
@@ -9620,7 +9502,6 @@ Recruit,2288,./data/train/293.txt,1,2288,False
 Robert,2292,./data/train/293.txt,1,2292,False
 Well,2299,./data/train/293.txt,1,2299,False
 Party,2318,./data/train/293.txt,1,2318,False
-It's,2319,./data/train/293.txt,1,2319,False
 Let's,2327,./data/train/293.txt,1,2327,False
 UKIP,2335,./data/train/293.txt,1,2335,False
 Kilroy-Silk,2337,./data/train/293.txt,1,2337,True
@@ -9757,7 +9638,6 @@ Tory,275,./data/train/296.txt,1,275,False
 House,289,./data/train/296.txt,1,289,False
 Lords,291,./data/train/296.txt,1,291,False
 July,298,./data/train/296.txt,1,298,False
-'Debate,0,./data/train/298.txt,1,0,False
 Fears,22,./data/train/298.txt,1,22,False
 Electoral,41,./data/train/298.txt,1,41,False
 Commission,42,./data/train/298.txt,1,42,False
@@ -9869,7 +9749,6 @@ Parliament,237,./data/train/401.txt,1,237,False
 Labour,243,./data/train/401.txt,1,243,False
 June,248,./data/train/401.txt,1,248,False
 Voters,0,./data/train/403.txt,1,0,False
-'don't,1,./data/train/403.txt,1,1,False
 Eight,4,./data/train/403.txt,1,4,False
 BBC,23,./data/train/403.txt,1,23,False
 ICM,33,./data/train/403.txt,1,33,False
@@ -10137,7 +10016,6 @@ Michael,579,./data/train/408.txt,1,579,False
 Howard,580,./data/train/408.txt,1,580,False
 Britain,598,./data/train/408.txt,1,598,False
 Tories,0,./data/train/409.txt,1,0,False
-'change,2,./data/train/409.txt,1,2,False
 Tory,6,./data/train/409.txt,1,6,False
 Britain,24,./data/train/409.txt,1,24,False
 Labour,51,./data/train/409.txt,1,51,False
@@ -10269,7 +10147,6 @@ Today Prime,483,./data/train/005.txt,2,482,False
 Prime Minister,484,./data/train/005.txt,2,483,False
 Minister Tony,485,./data/train/005.txt,2,484,False
 Tony Blair,486,./data/train/005.txt,2,485,True
-May 'Errors',504,./data/train/005.txt,2,503,False
 Millennium Dome,12,./data/train/006.txt,2,11,False
 National Audit,52,./data/train/006.txt,2,51,False
 Audit Office,53,./data/train/006.txt,2,52,False
@@ -10286,8 +10163,6 @@ Sir John,317,./data/train/006.txt,2,316,False
 John Bourn,318,./data/train/006.txt,2,317,False
 English Partnerships,331,./data/train/006.txt,2,330,False
 Blair's Tory,3,./data/train/007.txt,2,2,False
-Tory 'lies',4,./data/train/007.txt,2,3,False
-'lies' Tony,5,./data/train/007.txt,2,4,False
 Tony Blair,6,./data/train/007.txt,2,5,True
 Tories Tory,28,./data/train/007.txt,2,27,False
 Liam Fox,31,./data/train/007.txt,2,30,True
@@ -10556,7 +10431,6 @@ Mike Tomlinson's,498,./data/train/020.txt,2,497,False
 Professor Chris,505,./data/train/020.txt,2,504,False
 Chris Woodhead,506,./data/train/020.txt,2,505,True
 Conservative Party,521,./data/train/020.txt,2,520,False
-UK 'needs,1,./data/train/025.txt,2,0,False
 Home Office,8,./data/train/025.txt,2,7,False
 Barbara Roche,25,./data/train/025.txt,2,24,True
 Migration Watch,49,./data/train/025.txt,2,48,False
@@ -10600,7 +10474,6 @@ High Court,276,./data/train/032.txt,2,275,False
 London's High,304,./data/train/032.txt,2,303,False
 High Court,305,./data/train/032.txt,2,304,False
 Countryside Alliance,310,./data/train/032.txt,2,309,False
-'U-turns' Tory,4,./data/train/034.txt,2,3,False
 Michael Howard,7,./data/train/034.txt,2,6,True
 Tony Blair,11,./data/train/034.txt,2,10,True
 Mr Howard,39,./data/train/034.txt,2,38,True
@@ -10618,7 +10491,6 @@ Thursday Mr,172,./data/train/034.txt,2,171,False
 Mr Howard,173,./data/train/034.txt,2,172,True
 BBC Radio,176,./data/train/034.txt,2,175,False
 Mr Blair,181,./data/train/034.txt,2,180,True
-U-turns It's,213,./data/train/034.txt,2,212,False
 Gordon Brown,217,./data/train/034.txt,2,216,True
 Mr Howard,234,./data/train/034.txt,2,233,True
 Tony Martin,266,./data/train/034.txt,2,265,True
@@ -10706,7 +10578,6 @@ Ms James,153,./data/train/039.txt,2,152,True
 Ms James,172,./data/train/039.txt,2,171,True
 BBC Radio,175,./data/train/039.txt,2,174,False
 Radio Wales,176,./data/train/039.txt,2,175,False
-Wales It's,177,./data/train/039.txt,2,176,False
 Good Morning,242,./data/train/039.txt,2,241,False
 Morning Wales,243,./data/train/039.txt,2,242,False
 Bolshevik Russia,264,./data/train/039.txt,2,263,False
@@ -10851,7 +10722,6 @@ Mr Blunkett,394,./data/train/046.txt,2,393,True
 High Court,411,./data/train/046.txt,2,410,False
 Downing Street,429,./data/train/046.txt,2,428,False
 Mr Blair's,433,./data/train/046.txt,2,432,True
-Student 'fee,1,./data/train/047.txt,2,0,False
 Scotland However,25,./data/train/047.txt,2,24,False
 However Lifelong,26,./data/train/047.txt,2,25,False
 Lifelong Learning,27,./data/train/047.txt,2,26,False
@@ -10870,7 +10740,6 @@ Good Morning,222,./data/train/047.txt,2,221,False
 Morning Scotland,223,./data/train/047.txt,2,222,False
 Mr Wallace,322,./data/train/047.txt,2,321,True
 Mr Wallace,383,./data/train/047.txt,2,382,True
-Anglers 'could,1,./data/train/048.txt,2,0,False
 Michael Jack,399,./data/train/048.txt,2,398,True
 Mr Jack,460,./data/train/048.txt,2,459,True
 New Home,8,./data/train/049.txt,2,7,False
@@ -10948,7 +10817,6 @@ Mr Kahn,276,./data/train/053.txt,2,275,True
 Mr Makarov,279,./data/train/053.txt,2,278,True
 Vladimir Putin,301,./data/train/053.txt,2,300,True
 Lib Dems,1,./data/train/054.txt,2,0,False
-Dems 'to,2,./data/train/054.txt,2,1,False
 Liberal Democrats,8,./data/train/054.txt,2,7,False
 Vince Cable,32,./data/train/054.txt,2,31,True
 Liberal Democrats,70,./data/train/054.txt,2,69,False
@@ -11304,7 +11172,6 @@ Aidan O'Carroll,241,./data/train/077.txt,2,240,True
 Home Office,62,./data/train/078.txt,2,61,False
 Children Act,221,./data/train/078.txt,2,220,False
 Laura Brownlees,240,./data/train/078.txt,2,239,True
-Albania] 'If,303,./data/train/078.txt,2,302,False
 Home Office,361,./data/train/078.txt,2,360,False
 Andrew Hogg,506,./data/train/078.txt,2,505,True
 Medical Foundation,511,./data/train/078.txt,2,510,False
@@ -11356,7 +11223,6 @@ Bar Council,282,./data/train/081.txt,2,281,False
 Council Guy,283,./data/train/081.txt,2,282,False
 Guy Mansfield,284,./data/train/081.txt,2,283,True
 Mansfield QC,285,./data/train/081.txt,2,284,False
-Labour's 'EU,1,./data/train/082.txt,2,0,False
 Tories Shadow,28,./data/train/082.txt,2,27,False
 Michael Ancram,32,./data/train/082.txt,2,31,True
 White Paper,38,./data/train/082.txt,2,37,False
@@ -11441,7 +11307,6 @@ Racial Equality,556,./data/train/087.txt,2,555,False
 Trevor Phillips,559,./data/train/087.txt,2,558,True
 Mr Howard,577,./data/train/087.txt,2,576,True
 Mr Howard,611,./data/train/087.txt,2,610,True
-Campaign 'cold,1,./data/train/088.txt,2,0,False
 Lib Dems,57,./data/train/088.txt,2,56,False
 Telephone Preference,121,./data/train/088.txt,2,120,False
 Preference Service,122,./data/train/088.txt,2,121,False
@@ -11494,7 +11359,6 @@ Mr McLetchie,521,./data/train/089.txt,2,520,True
 Peter Misselbrook,553,./data/train/089.txt,2,552,True
 Tods Murray,558,./data/train/089.txt,2,557,False
 Mr McLetchie,561,./data/train/089.txt,2,560,True
-New 'yob',1,./data/train/092.txt,2,0,False
 Thursday Ten,25,./data/train/092.txt,2,24,False
 Prime Minister,184,./data/train/092.txt,2,183,False
 Minister Tony,185,./data/train/092.txt,2,184,False
@@ -11529,7 +11393,6 @@ Mr Brown,406,./data/train/095.txt,2,405,True
 Brown Tory,407,./data/train/095.txt,2,406,False
 Oliver Letwin,411,./data/train/095.txt,2,410,True
 Tony Blair,430,./data/train/095.txt,2,429,True
-Tories 'would,1,./data/train/096.txt,2,0,False
 Conservative Party,8,./data/train/096.txt,2,7,False
 Michael Howard,25,./data/train/096.txt,2,24,True
 Mr Howard,45,./data/train/096.txt,2,44,True
@@ -11550,7 +11413,6 @@ Northern Ireland,283,./data/train/096.txt,2,282,False
 Welsh MPs,302,./data/train/096.txt,2,301,False
 United Kingdom,324,./data/train/096.txt,2,323,False
 Mr Howard,331,./data/train/096.txt,2,330,True
-'wrong' Ministers,5,./data/train/098.txt,2,4,False
 Allander Institute,35,./data/train/098.txt,2,34,False
 Deputy Health,52,./data/train/098.txt,2,51,False
 Health Minister,53,./data/train/098.txt,2,52,False
@@ -11645,7 +11507,7 @@ Mr Blunkett's,45,./data/train/102.txt,2,44,True
 Sir Alan,49,./data/train/102.txt,2,48,False
 Alan Budd,50,./data/train/102.txt,2,49,False
 Mr Blunkett,58,./data/train/102.txt,2,57,True
-Leoncia Casalme's,61,./data/train/102.txt,2,60,False
+Leoncia Casalme's,61,./data/train/102.txt,2,60,True
 Middle East,73,./data/train/102.txt,2,72,False
 Mr Blair,76,./data/train/102.txt,2,75,False
 Mr Blunkett,82,./data/train/102.txt,2,81,True
@@ -11695,7 +11557,6 @@ Workers Union,32,./data/train/108.txt,2,31,False
 Warwick Agreement,121,./data/train/108.txt,2,120,False
 BBC News,139,./data/train/108.txt,2,138,False
 Wednesday Amicus's,163,./data/train/108.txt,2,162,False
-Blair 'damaged',1,./data/train/112.txt,2,0,False
 David Blunkett's,22,./data/train/112.txt,2,21,True
 Mr Blunkett,38,./data/train/112.txt,2,37,True
 Sunday Times,56,./data/train/112.txt,2,55,False
@@ -11768,7 +11629,6 @@ Gwyneth Dunwoody,499,./data/train/115.txt,2,498,True
 Ms Dunwoody,530,./data/train/115.txt,2,529,True
 Transport Select,535,./data/train/115.txt,2,534,False
 Select Committee,536,./data/train/115.txt,2,535,False
-CSA 'could,1,./data/train/116.txt,2,0,False
 Child Support,13,./data/train/116.txt,2,12,False
 Support Agency,14,./data/train/116.txt,2,13,False
 Pensions Secretary,23,./data/train/116.txt,2,22,False
@@ -11843,7 +11703,6 @@ Mr Howard,343,./data/train/120.txt,2,342,True
 Buckingham Palace,356,./data/train/120.txt,2,355,False
 Dicky Arbiter,360,./data/train/120.txt,2,359,True
 Mr Clarke,371,./data/train/120.txt,2,370,True
-Wales 'must,1,./data/train/124.txt,2,0,False
 Dr Brian,24,./data/train/124.txt,2,23,False
 Brian Gibbons,25,./data/train/124.txt,2,24,False
 Jane Hutt,36,./data/train/124.txt,2,35,True
@@ -11888,8 +11747,6 @@ Ms Hutt,556,./data/train/124.txt,2,555,True
 Welsh Assembly,600,./data/train/124.txt,2,599,False
 Assembly Government,601,./data/train/124.txt,2,600,False
 End Bush,1,./data/train/126.txt,2,0,False
-Bush 'denial',2,./data/train/126.txt,2,1,False
-'denial' Blair,3,./data/train/126.txt,2,2,False
 EU Tony,6,./data/train/126.txt,2,5,False
 Tony Blair,7,./data/train/126.txt,2,6,True
 President Bush's,22,./data/train/126.txt,2,21,False
@@ -12011,7 +11868,6 @@ Age Agenda,85,./data/train/132.txt,2,84,False
 Lib Dems,111,./data/train/132.txt,2,110,False
 Mr Johnson's,131,./data/train/132.txt,2,130,True
 Mr Johnson,287,./data/train/132.txt,2,286,True
-'Las Vegas',3,./data/train/133.txt,2,2,False
 Culture Media,11,./data/train/133.txt,2,10,False
 Sport Tessa,14,./data/train/133.txt,2,13,False
 Tessa Jowell,15,./data/train/133.txt,2,14,True
@@ -12137,7 +11993,6 @@ Davis Oliver,119,./data/train/141.txt,2,118,False
 Oliver Letwin,120,./data/train/141.txt,2,119,True
 Tim Yeo,123,./data/train/141.txt,2,122,True
 Mr Howard,126,./data/train/141.txt,2,125,True
-Mr Yeo,129,./data/train/141.txt,2,128,True
 Mr Davis,149,./data/train/141.txt,2,148,True
 Mr Howard,168,./data/train/141.txt,2,167,False
 BBC Mr,286,./data/train/141.txt,2,285,False
@@ -12471,7 +12326,6 @@ Prime Minister,310,./data/train/167.txt,2,309,False
 - Measures,320,./data/train/167.txt,2,319,False
 Caroline Spelman,373,./data/train/167.txt,2,372,True
 John Prescott's,382,./data/train/167.txt,2,381,True
-England. 'No-one,398,./data/train/167.txt,2,397,False
 Lib Dem,66,./data/train/169.txt,2,65,False
 Dem MP,67,./data/train/169.txt,2,66,False
 MP Lembit,68,./data/train/169.txt,2,67,False
@@ -12490,7 +12344,6 @@ Mr Bradshaw,200,./data/train/169.txt,2,199,True
 Hunting Act,222,./data/train/169.txt,2,221,False
 Mr Opik,233,./data/train/169.txt,2,232,True
 Hunting Act,246,./data/train/169.txt,2,245,False
-- 'chasing,259,./data/train/169.txt,2,258,False
 Act However,268,./data/train/169.txt,2,267,False
 Tory MP,315,./data/train/169.txt,2,314,False
 MP Peter,316,./data/train/169.txt,2,315,False
@@ -12499,7 +12352,6 @@ Middle Way,322,./data/train/169.txt,2,321,False
 Mike Hobday,365,./data/train/169.txt,2,364,False
 Cruel Sports,371,./data/train/169.txt,2,370,False
 Mr Bradshaw,387,./data/train/169.txt,2,386,True
-'no Welsh',3,./data/train/170.txt,2,2,False
 Hereford County,24,./data/train/170.txt,2,23,False
 County Hospital,25,./data/train/170.txt,2,24,False
 Powys Health,70,./data/train/170.txt,2,69,False
@@ -12587,7 +12439,6 @@ Monday Strathclyde,663,./data/train/174.txt,2,662,False
 Strathclyde Police,664,./data/train/174.txt,2,663,False
 Sergeant Keith,673,./data/train/174.txt,2,672,False
 Keith McDonald,674,./data/train/174.txt,2,673,False
-Councils 'must,1,./data/train/176.txt,2,0,False
 Yvette Cooper,60,./data/train/176.txt,2,59,True
 November MPs,63,./data/train/176.txt,2,62,False
 Ms Cooper,80,./data/train/176.txt,2,79,True
@@ -12848,7 +12699,7 @@ High Street,383,./data/train/187.txt,2,382,False
 Gen Pervez,41,./data/train/188.txt,2,40,False
 Pervez Musharraf's,42,./data/train/188.txt,2,41,True
 Scotland Yard,50,./data/train/188.txt,2,49,False
-President <nav></nav>>Musharraf's,62,./data/train/188.txt,2,61,False
+President Musharraf's,62,./data/train/188.txt,2,61,False
 Professional Standards,141,./data/train/188.txt,2,140,False
 Gen Musharraf,155,./data/train/188.txt,2,154,True
 Tony Blair,160,./data/train/188.txt,2,159,True
@@ -12976,8 +12827,6 @@ Howard -,323,./data/train/196.txt,2,322,False
 Sunday Labour,374,./data/train/196.txt,2,373,False
 Baroness Kennedy,377,./data/train/196.txt,2,376,True
 Power Inquiry,383,./data/train/196.txt,2,382,False
-Blair 'pressing,1,./data/train/197.txt,2,0,False
-'pressing US,2,./data/train/197.txt,2,1,False
 Tony Blair,6,./data/train/197.txt,2,5,True
 Kyoto Protocol,22,./data/train/197.txt,2,21,False
 Protocol Downing,23,./data/train/197.txt,2,22,False
@@ -13127,7 +12976,6 @@ Archbishop Tutu,322,./data/train/205.txt,2,321,False
 Britain. Shami,340,./data/train/205.txt,2,339,False
 Shami Chakrabarti,341,./data/train/205.txt,2,340,True
 Home Office,369,./data/train/205.txt,2,368,False
-'speculation' Reports,4,./data/train/207.txt,2,3,False
 Tony Blair,7,./data/train/207.txt,2,6,True
 Downing Street,25,./data/train/207.txt,2,24,False
 Sunday Times,39,./data/train/207.txt,2,38,False
@@ -13250,7 +13098,6 @@ Westminster Bournemouth,569,./data/train/213.txt,2,568,False
 Bournemouth West,570,./data/train/213.txt,2,569,False
 West Westmorland,571,./data/train/213.txt,2,570,False
 Lonsdale Custody,574,./data/train/213.txt,2,573,False
-'shocks' MPs,4,./data/train/214.txt,2,3,False
 MPs Deaths,5,./data/train/214.txt,2,4,False
 Labour MP,187,./data/train/214.txt,2,186,False
 MP Jean,188,./data/train/214.txt,2,187,False
@@ -13343,8 +13190,6 @@ Home Office's,438,./data/train/221.txt,2,437,False
 European Convention,456,./data/train/221.txt,2,455,False
 Human Rights,459,./data/train/221.txt,2,458,False
 US Voters,484,./data/train/221.txt,2,483,False
-Voters 'reject,1,./data/train/222.txt,2,0,False
-'reject EU,2,./data/train/222.txt,2,1,False
 Daily Telegraph,34,./data/train/222.txt,2,33,False
 United Kingdom,144,./data/train/222.txt,2,143,False
 European Union?,154,./data/train/222.txt,2,153,False
@@ -13451,7 +13296,6 @@ Patrick Mercer,234,./data/train/230.txt,2,233,True
 Home Secretary,269,./data/train/230.txt,2,268,False
 Secretary Charles,270,./data/train/230.txt,2,269,False
 Charles Clarke,271,./data/train/230.txt,2,270,True
-'an Englishman's,280,./data/train/230.txt,2,279,False
 Tony Martin,391,./data/train/230.txt,2,390,True
 Fred Barras,401,./data/train/230.txt,2,400,True
 Mr Martin,421,./data/train/230.txt,2,420,True
@@ -13624,7 +13468,6 @@ Labour MP,370,./data/train/245.txt,2,369,False
 MP Eric,371,./data/train/245.txt,2,370,False
 Eric Joyce,372,./data/train/245.txt,2,371,True
 Mr Blair,410,./data/train/245.txt,2,409,True
-Student 'inequality',1,./data/train/246.txt,2,0,False
 Higher Education,28,./data/train/246.txt,2,27,False
 Education Funding,29,./data/train/246.txt,2,28,False
 Funding Council,30,./data/train/246.txt,2,29,False
@@ -13688,7 +13531,6 @@ European Court,452,./data/train/250.txt,2,451,False
 Alun Michael,500,./data/train/250.txt,2,499,True
 Tony Blair,564,./data/train/250.txt,2,563,True
 Gordon Brown,1019,./data/train/250.txt,2,1018,False
-Blair 'said,1,./data/train/252.txt,2,0,False
 Tony Blair,7,./data/train/252.txt,2,6,True
 Gordon Brown,10,./data/train/252.txt,2,9,False
 Sunday Telegraph,48,./data/train/252.txt,2,47,False
@@ -13786,7 +13628,6 @@ Mr Blair,393,./data/train/258.txt,2,392,True
 Mr Brown,396,./data/train/258.txt,2,395,True
 Mr Brown,465,./data/train/258.txt,2,464,True
 New Labour,504,./data/train/258.txt,2,503,False
-'Poll Idols',1,./data/train/259.txt,2,0,False
 Pop Idol,11,./data/train/259.txt,2,10,False
 MP Martin,102,./data/train/259.txt,2,101,False
 Martin Bell,103,./data/train/259.txt,2,102,False
@@ -13970,7 +13811,6 @@ Lib Dems,491,./data/train/268.txt,2,490,False
 Dems Simon,492,./data/train/268.txt,2,491,False
 Simon Hughes,493,./data/train/268.txt,2,492,True
 New Labour,528,./data/train/268.txt,2,527,False
-Teens 'know,1,./data/train/269.txt,2,0,False
 Lib Dems,43,./data/train/269.txt,2,42,False
 Tony Blair,53,./data/train/269.txt,2,52,True
 Michael Howard,62,./data/train/269.txt,2,61,True
@@ -14079,7 +13919,6 @@ Alan Milburn,391,./data/train/275.txt,2,390,True
 Mr Howard,394,./data/train/275.txt,2,393,True
 David James,414,./data/train/275.txt,2,413,True
 Tony Blair,432,./data/train/275.txt,2,431,False
-Blair-Brown 'feud',3,./data/train/276.txt,2,2,False
 Tony Blair,9,./data/train/276.txt,2,8,True
 Gordon Brown,12,./data/train/276.txt,2,11,True
 Duncan Bannatyne,30,./data/train/276.txt,2,29,True
@@ -14160,7 +13999,6 @@ Britain Mr,340,./data/train/284.txt,2,339,False
 Mr Kennedy,341,./data/train/284.txt,2,340,True
 Old Labour,445,./data/train/284.txt,2,444,False
 Mr Kennedy,656,./data/train/284.txt,2,655,True
-Hague 'given,1,./data/train/285.txt,2,0,False
 Former Conservative,7,./data/train/285.txt,2,6,False
 William Hague,10,./data/train/285.txt,2,9,True
 Mr Hague,30,./data/train/285.txt,2,29,True
@@ -14251,7 +14089,6 @@ Warwick Agreement,121,./data/train/291.txt,2,120,False
 BBC News,139,./data/train/291.txt,2,138,False
 Wednesday Amicus's,163,./data/train/291.txt,2,162,False
 UKIP MEP,1,./data/train/292.txt,2,0,False
-German 'empire',4,./data/train/292.txt,2,3,False
 UK Independence,7,./data/train/292.txt,2,6,False
 Independence Party,8,./data/train/292.txt,2,7,False
 Party MEP,9,./data/train/292.txt,2,8,False
@@ -14269,7 +14106,6 @@ European Parliament,211,./data/train/292.txt,2,210,False
 Europe Mr,244,./data/train/292.txt,2,243,False
 Mr Nattrass,245,./data/train/292.txt,2,244,False
 Britain I'm,261,./data/train/292.txt,2,260,False
-German-bashing It's,266,./data/train/292.txt,2,265,False
 Mr Kilroy-Silk,298,./data/train/292.txt,2,297,True
 BBC One's,326,./data/train/292.txt,2,325,False
 One's Breakfast,327,./data/train/292.txt,2,326,False
@@ -14334,7 +14170,6 @@ Kilroy-Silk Party,418,./data/train/293.txt,2,417,False
 UK Independence,422,./data/train/293.txt,2,421,False
 Independence Party,423,./data/train/293.txt,2,422,False
 Mr Kilroy-Silk,439,./data/train/293.txt,2,438,True
-Veritas? It's,454,./data/train/293.txt,2,453,False
 Robert Kilroy-Silk,467,./data/train/293.txt,2,466,True
 Kilroy -Silk,584,./data/train/293.txt,2,583,True
 Kilroy-Silk UKIP,611,./data/train/293.txt,2,610,False
@@ -14368,7 +14203,6 @@ UKIP Robert,2012,./data/train/293.txt,2,2011,False
 Robert Kilroy-Silk,2013,./data/train/293.txt,2,2012,True
 English Democrats,2102,./data/train/293.txt,2,2101,False
 New Party,2106,./data/train/293.txt,2,2105,False
-Party It's,2319,./data/train/293.txt,2,2318,False
 Commercial Services,35,./data/train/294.txt,2,34,False
 Services Union,36,./data/train/294.txt,2,35,False
 Mark Serwotka,87,./data/train/294.txt,2,86,True
@@ -14476,7 +14310,6 @@ Mr Marrsaid,181,./data/train/401.txt,2,180,False
 Wednesday's Today,184,./data/train/401.txt,2,183,False
 Tony Blair,226,./data/train/401.txt,2,225,True
 Parliament ..,238,./data/train/401.txt,2,237,False
-Voters 'don't,1,./data/train/403.txt,2,0,False
 BBC News,36,./data/train/403.txt,2,35,False
 Foreign Secretary,51,./data/train/403.txt,2,50,False
 Secretary Jack,52,./data/train/403.txt,2,51,False
@@ -14648,9 +14481,6 @@ Deputy Prime Minister,135,./data/train/006.txt,3,133,False
 Prime Minister John,136,./data/train/006.txt,3,134,False
 Minister John Prescott,137,./data/train/006.txt,3,135,False
 Sir John Bourn,318,./data/train/006.txt,3,316,True
-Blair's Tory 'lies',4,./data/train/007.txt,3,2,False
-Tory 'lies' Tony,5,./data/train/007.txt,3,3,False
-'lies' Tony Blair,6,./data/train/007.txt,3,4,False
 Sunday Mr Blair,152,./data/train/007.txt,3,150,False
 Tory Treasurer Lord,358,./data/train/007.txt,3,356,False
 Treasurer Lord Ashcroft,359,./data/train/007.txt,3,357,False
@@ -14790,7 +14620,6 @@ Minister Alun Pugh,53,./data/train/039.txt,3,51,False
 Wales Tourist Board,121,./data/train/039.txt,3,119,False
 Welsh Development Agency,126,./data/train/039.txt,3,124,False
 BBC Radio Wales,176,./data/train/039.txt,3,174,False
-Radio Wales It's,177,./data/train/039.txt,3,175,False
 Good Morning Wales,243,./data/train/039.txt,3,241,False
 Welsh Assembly Government,462,./data/train/039.txt,3,460,False
 - Straw Jack,6,./data/train/040.txt,3,4,False
@@ -14854,7 +14683,6 @@ Affairs Select Committee,26,./data/train/051.txt,3,24,False
 Downing Street Viktor,29,./data/train/053.txt,3,27,False
 Street Viktor Makarov,30,./data/train/053.txt,3,28,False
 David Kahn -,212,./data/train/053.txt,3,210,False
-Lib Dems 'to,2,./data/train/054.txt,3,0,False
 Mr Cable First,123,./data/train/054.txt,3,121,False
 Paul Boateng MP,204,./data/train/054.txt,3,202,False
 Boateng MP Labour's,205,./data/train/054.txt,3,203,False
@@ -15131,8 +14959,6 @@ Ieuan Wyn Jones,491,./data/train/124.txt,3,489,True
 Titanic. Kisrty Williams,522,./data/train/124.txt,3,520,False
 Meanwhile Ms Hutt,556,./data/train/124.txt,3,554,False
 Welsh Assembly Government,601,./data/train/124.txt,3,599,False
-End Bush 'denial',2,./data/train/126.txt,3,0,False
-Bush 'denial' Blair,3,./data/train/126.txt,3,1,False
 EU Tony Blair,7,./data/train/126.txt,3,5,False
 Friday Mr Blair,49,./data/train/126.txt,3,47,False
 French President Jacques,70,./data/train/126.txt,3,68,False
@@ -15448,7 +15274,6 @@ Campbell Peter Mandelson,18,./data/train/196.txt,3,16,False
 Andrew Gilligan Labour,114,./data/train/196.txt,3,112,False
 Alastair Campbell -,285,./data/train/196.txt,3,283,False
 Mr Howard -,323,./data/train/196.txt,3,321,False
-Blair 'pressing US,2,./data/train/197.txt,3,0,False
 Kyoto Protocol Downing,23,./data/train/197.txt,3,21,False
 Protocol Downing Street,24,./data/train/197.txt,3,22,False
 Mr Blair Climate,43,./data/train/197.txt,3,41,False
@@ -15543,7 +15368,6 @@ East Wells Canterbury,563,./data/train/213.txt,3,561,False
 Wells Canterbury Cities,564,./data/train/213.txt,3,562,False
 Westminster Bournemouth West,570,./data/train/213.txt,3,568,False
 Bournemouth West Westmorland,571,./data/train/213.txt,3,569,False
-'shocks' MPs Deaths,5,./data/train/214.txt,3,3,False
 Labour MP Jean,188,./data/train/214.txt,3,186,False
 MP Jean Corston,189,./data/train/214.txt,3,187,False
 Stoke Heath Young,394,./data/train/214.txt,3,392,False
@@ -15575,8 +15399,6 @@ David Heath Mr,148,./data/train/221.txt,3,146,False
 Heath Mr Heath,149,./data/train/221.txt,3,147,False
 Lord Bingham -,349,./data/train/221.txt,3,347,False
 Britons Lord Nicholls,396,./data/train/221.txt,3,394,False
-US Voters 'reject,485,./data/train/221.txt,3,483,False
-Voters 'reject EU,2,./data/train/222.txt,3,0,False
 Foreign Secretary Jack,248,./data/train/222.txt,3,246,False
 Secretary Jack Straw,249,./data/train/222.txt,3,247,False
 David Blunkett Belmarsh,135,./data/train/224.txt,3,133,False

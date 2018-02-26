@@ -3,6 +3,8 @@ me
 my
 myself
 we
+It's
+it's
 our
 ours
 ourselves

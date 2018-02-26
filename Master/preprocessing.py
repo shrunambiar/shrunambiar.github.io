@@ -82,7 +82,10 @@ for i in range(len(dh)):
         if (j[0] in string.ascii_lowercase):
             if not (i in remove_list):
                 remove_list.append(i)
-            continue
+        if j[0]=='\'':
+            if not (i in remove_list):
+                remove_list.append(i)
+            
 di = dh.drop(dh.index[remove_list])
 del dh
 di = di.reset_index(drop=True)
