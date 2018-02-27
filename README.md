@@ -1,4 +1,4 @@
-Sequence of run commands:
+Sequence of run commands for code:
 
 python run-all.py
 python run_feature_generation.py
