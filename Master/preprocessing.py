@@ -115,7 +115,10 @@ del di
 dj = dj.reset_index(drop=True)
 
 Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia','American', 'Europe', 'European', 'Pakistan', 'Palestinian', 'Scottish','Taiwan'
-'London', 'Asian', 'Asia']
+'London', 'Asian', 'Asia', 'African', 'Wales']
+
+Days_n_months = ['Sunday', 'Monday', 'Wednesday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'January', 'February',
+'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
 remove_list = []
 for i in range(len(dj)):
@@ -128,4 +131,19 @@ dk = dj.drop(dj.index[remove_list])
 del dj
 dk = dk.reset_index(drop=True)
 print "Removing Countries"
-dk.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
+
+remove_list = []
+for i in range(len(dk)):
+    for j in (dk.loc[i][0].split()):
+        if (j in Days_n_months):
+            remove_list.append(i)
+        elif (j[:-2] in Days_n_months):
+            remove_list.append(i)
+        elif (j[:-1] in Days_n_months):
+            remove_list.append(i)
+dl = dk.drop(dk.index[remove_list])
+del dk
+dl = dl.reset_index(drop=True)
+
+print "Removing Days and Months"
+dl.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
