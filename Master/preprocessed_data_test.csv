@@ -4375,7 +4375,7 @@ Like,3813,./data/test/.\290.txt,1,3813,False
 Forsyth,3824,./data/test/.\290.txt,1,3824,False
 Charles,3837,./data/test/.\290.txt,1,3837,False
 Clark's,3838,./data/test/.\290.txt,1,3838,False
-Forsyth/,3848,./data/test/.\290.txt,1,3848,False
+Forsyth,3848,./data/test/.\290.txt,1,3848,False
 Forsyth,3853,./data/test/.\290.txt,1,3853,False
 Forsyth,3923,./data/test/.\290.txt,1,3923,False
 Zimbabwe,3962,./data/test/.\290.txt,1,3962,False
@@ -6145,7 +6145,7 @@ Alan Milburn,140,./data/test/.\225.txt,2,139,True
 Mr Blair,143,./data/test/.\225.txt,2,142,True
 Mr Brown,189,./data/test/.\225.txt,2,188,True
 Tanzania Mozambique,194,./data/test/.\225.txt,2,193,False
-Mr Blair,214,./data/test/.\225.txt,2,213,False
+Mr Blair,214,./data/test/.\225.txt,2,213,True
 Parliamentary Labour,234,./data/test/.\225.txt,2,233,False
 Labour Party,235,./data/test/.\225.txt,2,234,False
 Robert Peston's,242,./data/test/.\225.txt,2,241,True
@@ -6371,7 +6371,7 @@ Mr Brown,416,./data/test/.\256.txt,2,415,True
 Mr Blair,425,./data/test/.\256.txt,2,424,True
 Mr Peston,435,./data/test/.\256.txt,2,434,True
 Mr Blair,445,./data/test/.\256.txt,2,444,True
-Mr Brown,491,./data/test/.\256.txt,2,490,False
+Mr Brown,491,./data/test/.\256.txt,2,490,True
 Mr Blair,501,./data/test/.\256.txt,2,500,True
 Liam Fox,507,./data/test/.\256.txt,2,506,True
 Liberal Democrat,516,./data/test/.\256.txt,2,515,False
@@ -6432,7 +6432,7 @@ Mr Blair,523,./data/test/.\257.txt,2,522,True
 Mr Brown,536,./data/test/.\257.txt,2,535,True
 Liberal Democrats,565,./data/test/.\257.txt,2,564,False
 Tony Blair's,6,./data/test/.\262.txt,2,5,True
-Gordon Brown,10,./data/test/.\262.txt,2,9,False
+Gordon Brown,10,./data/test/.\262.txt,2,9,True
 Michael Howard,22,./data/test/.\262.txt,2,21,True
 Mr Howard,32,./data/test/.\262.txt,2,31,True
 Mr Blair,60,./data/test/.\262.txt,2,59,True
@@ -6643,7 +6643,7 @@ Human Rights,3791,./data/test/.\290.txt,2,3790,False
 Burma Like,3813,./data/test/.\290.txt,2,3812,False
 Mr Forsyth,3824,./data/test/.\290.txt,2,3823,True
 Charles Clark's,3838,./data/test/.\290.txt,2,3837,True
-Mr Forsyth/,3848,./data/test/.\290.txt,2,3847,False
+Mr Forsyth,3848,./data/test/.\290.txt,2,3847,True
 Mr Forsyth,3853,./data/test/.\290.txt,2,3852,True
 Mr Forsyth,3923,./data/test/.\290.txt,2,3922,True
 Mr Forsyth,3988,./data/test/.\290.txt,2,3987,True
@@ -6786,7 +6786,7 @@ Anne Weyman,506,./data/test/.\405.txt,2,505,True
 Family Planning,512,./data/test/.\405.txt,2,511,False
 Planning Association,513,./data/test/.\405.txt,2,512,False
 Pro-Life Alliance,538,./data/test/.\405.txt,2,537,False
-Mr Howard,541,./data/test/.\405.txt,2,540,False
+Mr Howard,541,./data/test/.\405.txt,2,540,True
 Paul Boateng,7,./data/test/.\407.txt,2,6,True
 Mr Boateng,27,./data/test/.\407.txt,2,26,True
 South Africa,38,./data/test/.\407.txt,2,37,False

@@ -4375,7 +4375,7 @@ Like,3813,./data/test/.\290.txt,1,3813,False,100,0,False,False,100,False,False,T
 Forsyth,3824,./data/test/.\290.txt,1,3824,False,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
 Charles,3837,./data/test/.\290.txt,1,3837,False,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
 Clark's,3838,./data/test/.\290.txt,1,3838,False,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-Forsyth/,3848,./data/test/.\290.txt,1,3848,False,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+Forsyth,3848,./data/test/.\290.txt,1,3848,False,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
 Forsyth,3853,./data/test/.\290.txt,1,3853,False,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
 Forsyth,3923,./data/test/.\290.txt,1,3923,False,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
 Zimbabwe,3962,./data/test/.\290.txt,1,3962,False,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
@@ -6145,7 +6145,7 @@ Alan Milburn,140,./data/test/.\225.txt,2,139,True,3,100,False,False,100,False,Tr
 Mr Blair,143,./data/test/.\225.txt,2,142,True,100,1,True,False,100,False,False,False,False,False,False,False,False,False,False
 Mr Brown,189,./data/test/.\225.txt,2,188,True,5,1,True,False,100,False,False,False,False,False,False,False,False,False,False
 Tanzania Mozambique,194,./data/test/.\225.txt,2,193,False,2,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-Mr Blair,214,./data/test/.\225.txt,2,213,False,100,0,True,False,100,False,False,False,False,False,False,False,False,False,False
+Mr Blair,214,./data/test/.\225.txt,2,213,True,100,0,True,False,100,False,False,False,False,False,False,False,False,False,False
 Parliamentary Labour,234,./data/test/.\225.txt,2,233,False,100,3,False,False,100,True,False,True,False,False,False,False,False,False,False
 Labour Party,235,./data/test/.\225.txt,2,234,False,100,2,False,False,100,False,False,True,False,True,False,False,False,False,False
 Robert Peston's,242,./data/test/.\225.txt,2,241,True,3,100,False,False,100,True,False,False,True,False,False,False,False,False,False
@@ -6371,7 +6371,7 @@ Mr Brown,416,./data/test/.\256.txt,2,415,True,100,0,True,False,100,False,False,F
 Mr Blair,425,./data/test/.\256.txt,2,424,True,100,3,True,False,100,False,False,False,False,True,False,False,False,False,False
 Mr Peston,435,./data/test/.\256.txt,2,434,True,4,0,True,False,100,False,False,False,False,False,False,True,False,False,False
 Mr Blair,445,./data/test/.\256.txt,2,444,True,5,0,True,False,100,False,False,False,False,False,False,False,False,False,False
-Mr Brown,491,./data/test/.\256.txt,2,490,False,4,1,True,False,100,False,False,False,False,False,False,False,False,False,False
+Mr Brown,491,./data/test/.\256.txt,2,490,True,4,1,True,False,100,False,False,False,False,False,False,False,False,False,False
 Mr Blair,501,./data/test/.\256.txt,2,500,True,5,0,True,False,100,False,False,False,False,False,False,True,False,False,False
 Liam Fox,507,./data/test/.\256.txt,2,506,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
 Liberal Democrat,516,./data/test/.\256.txt,2,515,False,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
@@ -6432,7 +6432,7 @@ Mr Blair,523,./data/test/.\257.txt,2,522,True,100,0,True,False,100,False,False,F
 Mr Brown,536,./data/test/.\257.txt,2,535,True,5,0,True,False,100,False,False,False,False,False,False,True,False,False,False
 Liberal Democrats,565,./data/test/.\257.txt,2,564,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
 Tony Blair's,6,./data/test/.\262.txt,2,5,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-Gordon Brown,10,./data/test/.\262.txt,2,9,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+Gordon Brown,10,./data/test/.\262.txt,2,9,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
 Michael Howard,22,./data/test/.\262.txt,2,21,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
 Mr Howard,32,./data/test/.\262.txt,2,31,True,100,2,True,False,100,True,False,False,False,False,False,False,False,False,False
 Mr Blair,60,./data/test/.\262.txt,2,59,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
@@ -6643,7 +6643,7 @@ Human Rights,3791,./data/test/.\290.txt,2,3790,False,4,100,False,False,100,False
 Burma Like,3813,./data/test/.\290.txt,2,3812,False,100,0,False,False,100,True,False,True,False,False,False,False,False,False,False
 Mr Forsyth,3824,./data/test/.\290.txt,2,3823,True,1,100,True,False,100,False,False,True,False,False,False,False,False,False,False
 Charles Clark's,3838,./data/test/.\290.txt,2,3837,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-Mr Forsyth/,3848,./data/test/.\290.txt,2,3847,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+Mr Forsyth,3848,./data/test/.\290.txt,2,3847,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
 Mr Forsyth,3853,./data/test/.\290.txt,2,3852,True,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
 Mr Forsyth,3923,./data/test/.\290.txt,2,3922,True,100,1,True,False,100,True,False,True,False,False,False,False,False,False,False
 Mr Forsyth,3988,./data/test/.\290.txt,2,3987,True,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
@@ -6786,7 +6786,7 @@ Anne Weyman,506,./data/test/.\405.txt,2,505,True,100,100,False,False,100,False,F
 Family Planning,512,./data/test/.\405.txt,2,511,False,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
 Planning Association,513,./data/test/.\405.txt,2,512,False,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
 Pro-Life Alliance,538,./data/test/.\405.txt,2,537,False,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-Mr Howard,541,./data/test/.\405.txt,2,540,False,100,100,True,False,100,False,False,False,False,True,False,False,False,False,False
+Mr Howard,541,./data/test/.\405.txt,2,540,True,100,100,True,False,100,False,False,False,False,True,False,False,False,False,False
 Paul Boateng,7,./data/test/.\407.txt,2,6,True,5,2,False,False,100,True,False,True,False,False,False,False,False,False,False
 Mr Boateng,27,./data/test/.\407.txt,2,26,True,100,1,True,False,100,True,False,False,False,False,False,False,False,False,False
 South Africa,38,./data/test/.\407.txt,2,37,False,1,1,False,False,100,False,False,True,False,False,False,False,False,False,False
