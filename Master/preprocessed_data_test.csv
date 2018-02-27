@@ -7,7 +7,6 @@ Patricia,27,./data/test/.\001.txt,1,27,False
 Hewitt,28,./data/test/.\001.txt,1,28,False
 Hewitt,43,./data/test/.\001.txt,1,43,False
 GMTV's,45,./data/test/.\001.txt,1,45,False
-Sunday,46,./data/test/.\001.txt,1,46,False
 Tories,67,./data/test/.\001.txt,1,67,False
 Liberal,77,./data/test/.\001.txt,1,77,False
 Democrats,78,./data/test/.\001.txt,1,78,False
@@ -17,10 +16,8 @@ Shadow,240,./data/test/.\001.txt,1,240,False
 State,243,./data/test/.\001.txt,1,243,False
 Family,246,./data/test/.\001.txt,1,246,False
 Theresa,247,./data/test/.\001.txt,1,247,False
-May,248,./data/test/.\001.txt,1,248,False
 Gordon,255,./data/test/.\001.txt,1,255,False
 Brown,256,./data/test/.\001.txt,1,256,False
-December,262,./data/test/.\001.txt,1,262,False
 Tony,264,./data/test/.\001.txt,1,264,False
 Blair,265,./data/test/.\001.txt,1,265,False
 Conservatives,282,./data/test/.\001.txt,1,282,False
@@ -36,7 +33,6 @@ David,356,./data/test/.\001.txt,1,356,False
 Frost,357,./data/test/.\001.txt,1,357,False
 Chambers,363,./data/test/.\001.txt,1,363,False
 Commerce,365,./data/test/.\001.txt,1,365,False
-Monday,419,./data/test/.\001.txt,1,419,False
 New,420,./data/test/.\001.txt,1,420,False
 Hewitt,0,./data/test/.\003.txt,1,0,True
 Plans,4,./data/test/.\003.txt,1,4,False
@@ -86,7 +82,6 @@ Executive,31,./data/test/.\004.txt,1,31,False
 Committee,32,./data/test/.\004.txt,1,32,False
 Manchester,57,./data/test/.\004.txt,1,57,False
 Blackpool,63,./data/test/.\004.txt,1,63,False
-February,69,./data/test/.\004.txt,1,69,False
 Blackpool,91,./data/test/.\004.txt,1,91,False
 Bournemouth,92,./data/test/.\004.txt,1,92,False
 Brighton,94,./data/test/.\004.txt,1,94,False
@@ -113,7 +108,6 @@ Las,32,./data/test/.\010.txt,1,32,False
 Vegas,33,./data/test/.\010.txt,1,33,False
 Glasgow,47,./data/test/.\010.txt,1,47,False
 Scotland,66,./data/test/.\010.txt,1,66,False
-Wednesday,85,./data/test/.\010.txt,1,85,False
 Executive,94,./data/test/.\010.txt,1,94,False
 Westminster,103,./data/test/.\010.txt,1,103,False
 Glasgow,127,./data/test/.\010.txt,1,127,False
@@ -184,8 +178,6 @@ Clarke,518,./data/test/.\013.txt,1,518,False
 Michael,550,./data/test/.\013.txt,1,550,False
 Howard,551,./data/test/.\013.txt,1,551,False
 Nasty,555,./data/test/.\013.txt,1,555,False
-Saturday,562,./data/test/.\013.txt,1,562,False
-February,564,./data/test/.\013.txt,1,564,False
 GMT,567,./data/test/.\013.txt,1,567,False
 Crisis,0,./data/test/.\016.txt,1,0,False
 Commons,42,./data/test/.\016.txt,1,42,False
@@ -203,7 +195,6 @@ Blair,5,./data/test/.\021.txt,1,5,False
 Gordon,9,./data/test/.\021.txt,1,9,False
 Brown's,10,./data/test/.\021.txt,1,10,False
 Edinburgh,31,./data/test/.\021.txt,1,31,False
-Thursday's,36,./data/test/.\021.txt,1,36,False
 Labour's,48,./data/test/.\021.txt,1,48,False
 Brown,60,./data/test/.\021.txt,1,60,False
 BBC,80,./data/test/.\021.txt,1,80,False
@@ -261,7 +252,6 @@ Michael,19,./data/test/.\022.txt,1,19,False
 Howard,20,./data/test/.\022.txt,1,20,False
 Tony,23,./data/test/.\022.txt,1,23,False
 Blair,24,./data/test/.\022.txt,1,24,False
-Wednesday,39,./data/test/.\022.txt,1,39,False
 Labour's,48,./data/test/.\022.txt,1,48,False
 Prime,50,./data/test/.\022.txt,1,50,False
 Blair,56,./data/test/.\022.txt,1,56,False
@@ -276,7 +266,6 @@ Fiscal,130,./data/test/.\022.txt,1,130,False
 Studies',131,./data/test/.\022.txt,1,131,False
 Labour,134,./data/test/.\022.txt,1,134,False
 Blair,176,./data/test/.\022.txt,1,176,False
-Tuesday,194,./data/test/.\022.txt,1,194,False
 Howard,204,./data/test/.\022.txt,1,204,False
 Pointing,205,./data/test/.\022.txt,1,205,False
 Everyone,211,./data/test/.\022.txt,1,211,False
@@ -320,7 +309,6 @@ Africa,70,./data/test/.\024.txt,1,70,False
 Cape,72,./data/test/.\024.txt,1,72,False
 Town,73,./data/test/.\024.txt,1,73,False
 Narobi,77,./data/test/.\024.txt,1,77,False
-Wednesday,79,./data/test/.\024.txt,1,79,False
 Speaking,88,./data/test/.\024.txt,1,88,False
 Olympic,91,./data/test/.\024.txt,1,91,False
 Primary,92,./data/test/.\024.txt,1,92,False
@@ -345,7 +333,6 @@ Conservative,238,./data/test/.\024.txt,1,238,False
 Michael,240,./data/test/.\024.txt,1,240,False
 Howard,241,./data/test/.\024.txt,1,241,False
 GMT,255,./data/test/.\024.txt,1,255,False
-Wednesday,257,./data/test/.\024.txt,1,257,False
 Butler,0,./data/test/.\027.txt,1,0,True
 Blair,4,./data/test/.\027.txt,1,4,True
 Former,5,./data/test/.\027.txt,1,5,False
@@ -376,7 +363,6 @@ Blair,246,./data/test/.\027.txt,1,246,True
 Lord,266,./data/test/.\027.txt,1,266,False
 Butler's,267,./data/test/.\027.txt,1,267,False
 Iraq,273,./data/test/.\027.txt,1,273,False
-September,278,./data/test/.\027.txt,1,278,False
 Saddam,290,./data/test/.\027.txt,1,290,False
 Hussein,291,./data/test/.\027.txt,1,291,False
 Lord,316,./data/test/.\027.txt,1,316,False
@@ -492,7 +478,6 @@ Pyongyang,302,./data/test/.\029.txt,1,302,False
 North,304,./data/test/.\029.txt,1,304,False
 Korea,305,./data/test/.\029.txt,1,305,False
 Since,318,./data/test/.\029.txt,1,318,False
-Wednesday's,328,./data/test/.\029.txt,1,328,False
 Shadow,365,./data/test/.\029.txt,1,365,False
 Michael,368,./data/test/.\029.txt,1,368,False
 Ancram,369,./data/test/.\029.txt,1,369,False
@@ -512,8 +497,6 @@ Truancy,204,./data/test/.\030.txt,1,204,False
 Behaviour,219,./data/test/.\030.txt,1,219,False
 Improvement,220,./data/test/.\030.txt,1,220,False
 Programme,221,./data/test/.\030.txt,1,221,False
-September,233,./data/test/.\030.txt,1,233,False
-Monday,253,./data/test/.\030.txt,1,253,False
 Police,254,./data/test/.\030.txt,1,254,False
 Held,270,./data/test/.\030.txt,1,270,False
 Department,303,./data/test/.\030.txt,1,303,False
@@ -526,18 +509,14 @@ Blunkett,6,./data/test/.\031.txt,1,6,False
 Home,13,./data/test/.\031.txt,1,13,False
 Law,41,./data/test/.\031.txt,1,41,False
 Home,71,./data/test/.\031.txt,1,71,False
-Wednesday,83,./data/test/.\031.txt,1,83,False
 Home,85,./data/test/.\031.txt,1,85,False
 England,107,./data/test/.\031.txt,1,107,False
-Wales,109,./data/test/.\031.txt,1,109,False
 News,110,./data/test/.\031.txt,1,110,False
 Blunkett,121,./data/test/.\031.txt,1,121,False
 Commons,129,./data/test/.\031.txt,1,129,False
-Wednesday,132,./data/test/.\031.txt,1,132,False
 Amid,150,./data/test/.\031.txt,1,150,False
 Blunkett,154,./data/test/.\031.txt,1,154,False
 Parliament,162,./data/test/.\031.txt,1,162,False
-Thursday,164,./data/test/.\031.txt,1,164,False
 Shadow,178,./data/test/.\031.txt,1,178,False
 David,181,./data/test/.\031.txt,1,181,False
 Davis,182,./data/test/.\031.txt,1,182,False
@@ -602,7 +581,6 @@ Gatwick,367,./data/test/.\033.txt,1,367,False
 Edinburgh,368,./data/test/.\033.txt,1,368,False
 Glasgow,370,./data/test/.\033.txt,1,370,False
 BAA,372,./data/test/.\033.txt,1,372,False
-September,387,./data/test/.\033.txt,1,387,False
 BAA,394,./data/test/.\033.txt,1,394,False
 Heathrow,408,./data/test/.\033.txt,1,408,False
 BAA,409,./data/test/.\033.txt,1,409,False
@@ -614,7 +592,6 @@ David,3,./data/test/.\037.txt,1,3,False
 Miliband's,4,./data/test/.\037.txt,1,4,False
 Elected,20,./data/test/.\037.txt,1,20,False
 Labour,24,./data/test/.\037.txt,1,24,False
-May,41,./data/test/.\037.txt,1,41,False
 Prior,43,./data/test/.\037.txt,1,43,False
 New,54,./data/test/.\037.txt,1,54,False
 Labour,55,./data/test/.\037.txt,1,55,False
@@ -649,9 +626,6 @@ Institute,216,./data/test/.\037.txt,1,216,False
 Technology,218,./data/test/.\037.txt,1,218,False
 Strike,0,./data/test/.\042.txt,1,0,False
 Millions,5,./data/test/.\042.txt,1,5,False
-Thursday,87,./data/test/.\042.txt,1,87,False
-May,139,./data/test/.\042.txt,1,139,False
-Sunday,144,./data/test/.\042.txt,1,144,False
 Civil,153,./data/test/.\042.txt,1,153,False
 Service,154,./data/test/.\042.txt,1,154,False
 Pension,155,./data/test/.\042.txt,1,155,False
@@ -661,14 +635,12 @@ Public,173,./data/test/.\042.txt,1,173,False
 People,183,./data/test/.\042.txt,1,183,False
 Green,207,./data/test/.\042.txt,1,207,False
 Paper,208,./data/test/.\042.txt,1,208,False
-Monday,221,./data/test/.\042.txt,1,221,False
 Tony,222,./data/test/.\042.txt,1,222,False
 Blair's,223,./data/test/.\042.txt,1,223,False
 What's,238,./data/test/.\042.txt,1,238,False
 Trades,291,./data/test/.\042.txt,1,291,False
 Union,292,./data/test/.\042.txt,1,292,False
 Congress,293,./data/test/.\042.txt,1,293,False
-Monday,299,./data/test/.\042.txt,1,299,False
 Dave,300,./data/test/.\042.txt,1,300,False
 Prentis,301,./data/test/.\042.txt,1,301,False
 Unison,305,./data/test/.\042.txt,1,305,False
@@ -741,7 +713,6 @@ Creating,343,./data/test/.\052.txt,1,343,False
 Global,346,./data/test/.\052.txt,1,346,False
 Safety,347,./data/test/.\052.txt,1,347,False
 Authority,348,./data/test/.\052.txt,1,348,False
-September,363,./data/test/.\052.txt,1,363,False
 United,368,./data/test/.\052.txt,1,368,False
 Nations',369,./data/test/.\052.txt,1,369,False
 Encouraging,372,./data/test/.\052.txt,1,372,False
@@ -751,10 +722,8 @@ Citizenship,5,./data/test/.\056.txt,1,5,False
 Charles,16,./data/test/.\056.txt,1,16,False
 Clarke,17,./data/test/.\056.txt,1,17,False
 Australia,48,./data/test/.\056.txt,1,48,False
-October,52,./data/test/.\056.txt,1,52,False
 Clarke,54,./data/test/.\056.txt,1,54,False
 Officials,112,./data/test/.\056.txt,1,112,False
-Monday,148,./data/test/.\056.txt,1,148,False
 David,152,./data/test/.\056.txt,1,152,False
 Bell,153,./data/test/.\056.txt,1,153,False
 Islamic,156,./data/test/.\056.txt,1,156,False
@@ -768,7 +737,6 @@ Cohesion,191,./data/test/.\056.txt,1,191,False
 Race,193,./data/test/.\056.txt,1,193,False
 Equality,194,./data/test/.\056.txt,1,194,False
 Strategy,195,./data/test/.\056.txt,1,195,False
-Wednesday,203,./data/test/.\056.txt,1,203,False
 Opportunity,207,./data/test/.\056.txt,1,207,False
 Strengthening,208,./data/test/.\056.txt,1,208,False
 Society',209,./data/test/.\056.txt,1,209,False
@@ -797,7 +765,6 @@ Durham,35,./data/test/.\061.txt,1,35,False
 Officials,41,./data/test/.\061.txt,1,41,False
 Darlington,43,./data/test/.\061.txt,1,43,False
 Council,44,./data/test/.\061.txt,1,44,False
-November,74,./data/test/.\061.txt,1,74,False
 Darlington,78,./data/test/.\061.txt,1,78,False
 Council,79,./data/test/.\061.txt,1,79,False
 Royal,92,./data/test/.\061.txt,1,92,False
@@ -826,7 +793,6 @@ House,9,./data/test/.\066.txt,1,9,False
 Commons,11,./data/test/.\066.txt,1,11,False
 Hunting,18,./data/test/.\066.txt,1,18,False
 Bill,19,./data/test/.\066.txt,1,19,False
-September,31,./data/test/.\066.txt,1,31,False
 Otis,48,./data/test/.\066.txt,1,48,False
 Ferry,49,./data/test/.\066.txt,1,49,False
 Bryan,56,./data/test/.\066.txt,1,56,False
@@ -844,7 +810,6 @@ Charing,94,./data/test/.\066.txt,1,94,False
 Cross,95,./data/test/.\066.txt,1,95,False
 Police,96,./data/test/.\066.txt,1,96,False
 Station,97,./data/test/.\066.txt,1,97,False
-Monday,99,./data/test/.\066.txt,1,99,False
 Matthew,112,./data/test/.\066.txt,1,112,False
 Knight,113,./data/test/.\066.txt,1,113,False
 House,140,./data/test/.\066.txt,1,140,False
@@ -859,7 +824,6 @@ Bow,204,./data/test/.\066.txt,1,204,False
 Street,205,./data/test/.\066.txt,1,205,False
 Magistrates',206,./data/test/.\066.txt,1,206,False
 Court,207,./data/test/.\066.txt,1,207,False
-December,210,./data/test/.\066.txt,1,210,False
 Otis,215,./data/test/.\066.txt,1,215,False
 Ferry,216,./data/test/.\066.txt,1,216,False
 Eton,219,./data/test/.\066.txt,1,219,False
@@ -890,7 +854,6 @@ Wakeham,321,./data/test/.\066.txt,1,321,False
 York,324,./data/test/.\066.txt,1,324,False
 Nick,329,./data/test/.\066.txt,1,329,False
 Wood,330,./data/test/.\066.txt,1,330,False
-September,334,./data/test/.\066.txt,1,334,False
 Parliament,347,./data/test/.\066.txt,1,347,False
 Square,348,./data/test/.\066.txt,1,348,False
 Four,349,./data/test/.\066.txt,1,349,False
@@ -900,15 +863,12 @@ Michael,410,./data/test/.\066.txt,1,410,False
 Martin,411,./data/test/.\066.txt,1,411,False
 House,426,./data/test/.\066.txt,1,426,False
 Commons,428,./data/test/.\066.txt,1,428,False
-November,445,./data/test/.\066.txt,1,445,False
 Parliament,450,./data/test/.\066.txt,1,450,False
 Act,451,./data/test/.\066.txt,1,451,False
 England,461,./data/test/.\066.txt,1,461,False
-Wales,463,./data/test/.\066.txt,1,463,False
 Last,485,./data/test/.\066.txt,1,485,False
 Countryside,488,./data/test/.\066.txt,1,488,False
 Alliance,489,./data/test/.\066.txt,1,489,False
-February,515,./data/test/.\066.txt,1,515,False
 Talks,0,./data/test/.\069.txt,1,0,False
 Talks,6,./data/test/.\069.txt,1,6,False
 Five,23,./data/test/.\069.txt,1,23,False
@@ -917,14 +877,12 @@ John,35,./data/test/.\069.txt,1,35,False
 Prescott,36,./data/test/.\069.txt,1,36,False
 Labour's,38,./data/test/.\069.txt,1,38,False
 Gateshead,42,./data/test/.\069.txt,1,42,False
-March,85,./data/test/.\069.txt,1,85,False
 BBC,105,./data/test/.\069.txt,1,105,False
 Stephen,109,./data/test/.\069.txt,1,109,False
 Cape,110,./data/test/.\069.txt,1,110,False
 Unison,117,./data/test/.\069.txt,1,117,False
 Prescott,158,./data/test/.\069.txt,1,158,False
 Prescott,183,./data/test/.\069.txt,1,183,False
-April,200,./data/test/.\069.txt,1,200,False
 Public,215,./data/test/.\069.txt,1,215,False
 Commercial,217,./data/test/.\069.txt,1,217,False
 Services,218,./data/test/.\069.txt,1,218,False
@@ -937,7 +895,6 @@ Transport,327,./data/test/.\069.txt,1,327,False
 Workers',330,./data/test/.\069.txt,1,330,False
 Union's,331,./data/test/.\069.txt,1,331,False
 Amicus',334,./data/test/.\069.txt,1,334,False
-March,344,./data/test/.\069.txt,1,344,False
 Prescott,347,./data/test/.\069.txt,1,347,False
 Opposition,0,./data/test/.\070.txt,1,0,False
 Conservatives,6,./data/test/.\070.txt,1,6,False
@@ -961,12 +918,10 @@ Crime,212,./data/test/.\070.txt,1,212,False
 Police,214,./data/test/.\070.txt,1,214,False
 Bill,215,./data/test/.\070.txt,1,215,False
 Controversy,257,./data/test/.\070.txt,1,257,False
-December,276,./data/test/.\070.txt,1,276,False
 Home,282,./data/test/.\070.txt,1,282,False
 Charles,284,./data/test/.\070.txt,1,284,False
 Clarke,285,./data/test/.\070.txt,1,285,False
 Egyptian,295,./data/test/.\070.txt,1,295,False
-Monday,307,./data/test/.\070.txt,1,307,False
 Algerian,313,./data/test/.\070.txt,1,313,False
 Belmarsh,344,./data/test/.\070.txt,1,344,False
 Prison,345,./data/test/.\070.txt,1,345,False
@@ -1030,7 +985,6 @@ Labour,244,./data/test/.\075.txt,1,244,False
 Muslim,254,./data/test/.\075.txt,1,254,False
 Ken,263,./data/test/.\075.txt,1,263,True
 Johnson,292,./data/test/.\075.txt,1,292,False
-October,295,./data/test/.\075.txt,1,295,False
 Liverpool,302,./data/test/.\075.txt,1,302,False
 Bigley,312,./data/test/.\075.txt,1,312,False
 Liverpudlians,320,./data/test/.\075.txt,1,320,False
@@ -1066,7 +1020,6 @@ Hague,191,./data/test/.\083.txt,1,191,False
 Hague,198,./data/test/.\083.txt,1,198,False
 Opposition,208,./data/test/.\083.txt,1,208,False
 Hague,257,./data/test/.\083.txt,1,257,False
-Maybe,271,./data/test/.\083.txt,1,271,False
 Job,0,./data/test/.\084.txt,1,0,False
 TUC,5,./data/test/.\084.txt,1,5,False
 Plans,6,./data/test/.\084.txt,1,6,False
@@ -1074,7 +1027,6 @@ TUC,29,./data/test/.\084.txt,1,29,False
 Public,31,./data/test/.\084.txt,1,31,False
 Commercial,33,./data/test/.\084.txt,1,33,False
 Services,34,./data/test/.\084.txt,1,34,False
-November,49,./data/test/.\084.txt,1,49,False
 TUC,51,./data/test/.\084.txt,1,51,False
 Brendan,71,./data/test/.\084.txt,1,71,False
 Barber,72,./data/test/.\084.txt,1,72,False
@@ -1082,12 +1034,10 @@ Barber,94,./data/test/.\084.txt,1,94,False
 Public,95,./data/test/.\084.txt,1,95,False
 Tory,119,./data/test/.\084.txt,1,119,False
 Next,150,./data/test/.\084.txt,1,150,False
-Friday's,151,./data/test/.\084.txt,1,151,False
 PCS,156,./data/test/.\084.txt,1,156,False
 Jobcentres,167,./data/test/.\084.txt,1,167,False
 Last,196,./data/test/.\084.txt,1,196,False
 Jobcentres,210,./data/test/.\084.txt,1,210,False
-April,240,./data/test/.\084.txt,1,240,False
 Essential,32,./data/test/.\085.txt,1,32,False
 Guide,33,./data/test/.\085.txt,1,33,False
 Quangos,36,./data/test/.\085.txt,1,36,False
@@ -1169,7 +1119,6 @@ Iraq,3,./data/test/.\093.txt,1,3,False
 Tony,6,./data/test/.\093.txt,1,6,False
 Blair,7,./data/test/.\093.txt,1,7,False
 Iraq,16,./data/test/.\093.txt,1,16,False
-Sunday's,22,./data/test/.\093.txt,1,22,False
 Lib,27,./data/test/.\093.txt,1,27,False
 Dem,28,./data/test/.\093.txt,1,28,False
 Charles,30,./data/test/.\093.txt,1,30,False
@@ -1245,7 +1194,6 @@ Algeria,79,./data/test/.\097.txt,1,79,False
 Tunisia,80,./data/test/.\097.txt,1,80,False
 Egypt,81,./data/test/.\097.txt,1,81,False
 Jordan,83,./data/test/.\097.txt,1,83,False
-September,96,./data/test/.\097.txt,1,96,False
 Clarke,109,./data/test/.\097.txt,1,109,False
 Times,112,./data/test/.\097.txt,1,112,False
 Foreign,149,./data/test/.\097.txt,1,149,False
@@ -1267,7 +1215,6 @@ Deportation,311,./data/test/.\097.txt,1,311,False
 Unless,338,./data/test/.\097.txt,1,338,False
 Liberal,343,./data/test/.\097.txt,1,343,False
 Democrats,344,./data/test/.\097.txt,1,344,False
-March.,356,./data/test/.\097.txt,1,356,False
 BBC's,358,./data/test/.\097.txt,1,358,False
 Daniel,362,./data/test/.\097.txt,1,362,False
 Sandford,363,./data/test/.\097.txt,1,363,False
@@ -1293,17 +1240,13 @@ Bob,145,./data/test/.\101.txt,1,145,False
 Wellington,146,./data/test/.\101.txt,1,146,False
 Torfaen,148,./data/test/.\101.txt,1,148,False
 Wellington,176,./data/test/.\101.txt,1,176,False
-Monday,203,./data/test/.\101.txt,1,203,False
-Wales,208,./data/test/.\101.txt,1,208,False
 Essex,212,./data/test/.\101.txt,1,212,False
 Essex,219,./data/test/.\101.txt,1,219,False
 Essex,343,./data/test/.\101.txt,1,343,False
-Wales,360,./data/test/.\101.txt,1,360,False
 Plaid,388,./data/test/.\101.txt,1,388,False
 Cymru's,389,./data/test/.\101.txt,1,389,False
 Dai,393,./data/test/.\101.txt,1,393,False
 Lloyd,394,./data/test/.\101.txt,1,394,False
-Wales,402,./data/test/.\101.txt,1,402,False
 Labour,419,./data/test/.\101.txt,1,419,False
 Assembly,420,./data/test/.\101.txt,1,420,False
 Government,421,./data/test/.\101.txt,1,421,False
@@ -1318,7 +1261,6 @@ Democrat,486,./data/test/.\101.txt,1,486,False
 Conservative,515,./data/test/.\101.txt,1,515,False
 Glyn,519,./data/test/.\101.txt,1,519,False
 Davies,520,./data/test/.\101.txt,1,520,False
-Wales,536,./data/test/.\101.txt,1,536,False
 Around,553,./data/test/.\101.txt,1,553,False
 Welsh,557,./data/test/.\101.txt,1,557,False
 Royal,0,./data/test/.\104.txt,1,0,False
@@ -1327,7 +1269,6 @@ Charles,6,./data/test/.\104.txt,1,6,False
 Camilla,8,./data/test/.\104.txt,1,8,False
 Parker,9,./data/test/.\104.txt,1,9,False
 Bowles,10,./data/test/.\104.txt,1,10,False
-April,25,./data/test/.\104.txt,1,25,False
 Mrs,26,./data/test/.\104.txt,1,26,False
 Parker,27,./data/test/.\104.txt,1,27,False
 Bowles,28,./data/test/.\104.txt,1,28,False
@@ -1348,7 +1289,6 @@ Charles,78,./data/test/.\104.txt,1,78,False
 Britons,104,./data/test/.\104.txt,1,104,False
 Prince,122,./data/test/.\104.txt,1,122,False
 William,123,./data/test/.\104.txt,1,123,False
-Thursday,131,./data/test/.\104.txt,1,131,False
 Prince,133,./data/test/.\104.txt,1,133,False
 Charles,134,./data/test/.\104.txt,1,134,False
 Mrs,137,./data/test/.\104.txt,1,137,False
@@ -1386,7 +1326,6 @@ Diana,336,./data/test/.\104.txt,1,336,True
 Ros,350,./data/test/.\104.txt,1,350,False
 Coward,351,./data/test/.\104.txt,1,351,False
 Diana,358,./data/test/.\104.txt,1,358,True
-Wales,361,./data/test/.\104.txt,1,361,False
 Canterbury,365,./data/test/.\104.txt,1,365,False
 Prince,371,./data/test/.\104.txt,1,371,False
 Charles,372,./data/test/.\104.txt,1,372,False
@@ -1447,7 +1386,6 @@ Democrat,425,./data/test/.\106.txt,1,425,False
 Matthew,427,./data/test/.\106.txt,1,427,False
 Taylor,428,./data/test/.\106.txt,1,428,False
 Conservatives,459,./data/test/.\106.txt,1,459,False
-Monday,480,./data/test/.\106.txt,1,480,False
 Howard,482,./data/test/.\106.txt,1,482,False
 Brown,0,./data/test/.\107.txt,1,0,True
 Gordon,5,./data/test/.\107.txt,1,5,False
@@ -1485,7 +1423,6 @@ Brown's,263,./data/test/.\107.txt,1,263,False
 Labour's,277,./data/test/.\107.txt,1,277,False
 New,293,./data/test/.\107.txt,1,293,False
 Labour,294,./data/test/.\107.txt,1,294,False
-May,315,./data/test/.\107.txt,1,315,False
 Blair,317,./data/test/.\107.txt,1,317,False
 Tory,333,./data/test/.\107.txt,1,333,False
 Labour's,350,./data/test/.\107.txt,1,350,False
@@ -1535,8 +1472,6 @@ Tories,309,./data/test/.\110.txt,1,309,False
 Blair,374,./data/test/.\110.txt,1,374,False
 Labour,393,./data/test/.\110.txt,1,393,False
 Kemp,396,./data/test/.\110.txt,1,396,False
-April,411,./data/test/.\110.txt,1,411,False
-January.,414,./data/test/.\110.txt,1,414,False
 Let,415,./data/test/.\110.txt,1,415,False
 Michael,421,./data/test/.\110.txt,1,421,False
 Howard,422,./data/test/.\110.txt,1,422,False
@@ -1560,7 +1495,6 @@ Knapman,74,./data/test/.\111.txt,1,74,False
 Kilroy-Silk,85,./data/test/.\111.txt,1,85,False
 Kilroy-Silk,87,./data/test/.\111.txt,1,87,False
 Veritas,111,./data/test/.\111.txt,1,111,False
-Thursday,141,./data/test/.\111.txt,1,141,False
 Defence,170,./data/test/.\111.txt,1,170,False
 Geoff,172,./data/test/.\111.txt,1,172,False
 Hoon's,173,./data/test/.\111.txt,1,173,False
@@ -1578,7 +1512,6 @@ Kilroy-Silk,220,./data/test/.\111.txt,1,220,False
 Hinckley,232,./data/test/.\111.txt,1,232,False
 Leicestershire,233,./data/test/.\111.txt,1,233,False
 AWOL,268,./data/test/.\111.txt,1,268,False
-June's,280,./data/test/.\111.txt,1,280,False
 Hockney,333,./data/test/.\111.txt,1,333,False
 Kilroy-Silk,339,./data/test/.\111.txt,1,339,False
 Eurosceptic,348,./data/test/.\111.txt,1,348,False
@@ -1667,7 +1600,6 @@ House,271,./data/test/.\117.txt,1,271,False
 Bid,0,./data/test/.\118.txt,1,0,False
 New,6,./data/test/.\118.txt,1,6,False
 England,21,./data/test/.\118.txt,1,21,False
-Wales,23,./data/test/.\118.txt,1,23,False
 Lord,31,./data/test/.\118.txt,1,31,False
 Falconer,32,./data/test/.\118.txt,1,32,False
 Launching,108,./data/test/.\118.txt,1,108,False
@@ -1688,7 +1620,6 @@ Today,206,./data/test/.\118.txt,1,206,False
 Another,312,./data/test/.\118.txt,1,312,False
 House,338,./data/test/.\118.txt,1,338,False
 Lords,340,./data/test/.\118.txt,1,340,False
-Tuesday,342,./data/test/.\118.txt,1,342,False
 Lords,356,./data/test/.\118.txt,1,356,False
 Lord,360,./data/test/.\118.txt,1,360,False
 Falconer,361,./data/test/.\118.txt,1,361,False
@@ -1699,15 +1630,11 @@ House,405,./data/test/.\118.txt,1,405,False
 Parliament,407,./data/test/.\118.txt,1,407,False
 NHS,0,./data/test/.\121.txt,1,0,False
 Hospital,6,./data/test/.\121.txt,1,6,False
-Wales,12,./data/test/.\121.txt,1,12,False
 England,26,./data/test/.\121.txt,1,26,False
 Welsh,27,./data/test/.\121.txt,1,27,False
 Health,28,./data/test/.\121.txt,1,28,False
 Jane,30,./data/test/.\121.txt,1,30,False
 Hutt,31,./data/test/.\121.txt,1,31,False
-March,46,./data/test/.\121.txt,1,46,False
-March,70,./data/test/.\121.txt,1,70,False
-Wales,109,./data/test/.\121.txt,1,109,False
 Details,110,./data/test/.\121.txt,1,110,False
 New,122,./data/test/.\121.txt,1,122,False
 Year,123,./data/test/.\121.txt,1,123,False
@@ -1717,7 +1644,6 @@ Lewis,145,./data/test/.\121.txt,1,145,False
 Welsh,146,./data/test/.\121.txt,1,146,False
 Medical,151,./data/test/.\121.txt,1,151,False
 Association,152,./data/test/.\121.txt,1,152,False
-Wales,180,./data/test/.\121.txt,1,180,False
 Capacity,190,./data/test/.\121.txt,1,190,False
 Welsh,203,./data/test/.\121.txt,1,203,False
 Health,215,./data/test/.\121.txt,1,215,False
@@ -1728,12 +1654,8 @@ Institute,222,./data/test/.\121.txt,1,222,False
 Health,224,./data/test/.\121.txt,1,224,False
 Social,226,./data/test/.\121.txt,1,226,False
 Care,227,./data/test/.\121.txt,1,227,False
-Wednesday,235,./data/test/.\121.txt,1,235,False
 Hutt,237,./data/test/.\121.txt,1,237,False
-Wales,259,./data/test/.\121.txt,1,259,False
 Hutt,261,./data/test/.\121.txt,1,261,False
-Wales,288,./data/test/.\121.txt,1,288,False
-Wales,353,./data/test/.\121.txt,1,353,False
 Rhodri,360,./data/test/.\121.txt,1,360,False
 Glyn,361,./data/test/.\121.txt,1,361,False
 Thomas,362,./data/test/.\121.txt,1,362,False
@@ -1744,17 +1666,13 @@ Liberal,401,./data/test/.\121.txt,1,401,False
 Democrats,402,./data/test/.\121.txt,1,402,False
 Kirsty,403,./data/test/.\121.txt,1,403,False
 Williams,404,./data/test/.\121.txt,1,404,False
-Wales,415,./data/test/.\121.txt,1,415,False
 Conservative,423,./data/test/.\121.txt,1,423,False
 Jonathan,426,./data/test/.\121.txt,1,426,False
 Morgan,427,./data/test/.\121.txt,1,427,False
 We're,429,./data/test/.\121.txt,1,429,False
 Audit,442,./data/test/.\121.txt,1,442,False
 Meanwhile,461,./data/test/.\121.txt,1,461,False
-Wales,483,./data/test/.\121.txt,1,483,False
 Statistics,488,./data/test/.\121.txt,1,488,False
-November,493,./data/test/.\121.txt,1,493,False
-October,498,./data/test/.\121.txt,1,498,False
 Hutt,518,./data/test/.\121.txt,1,518,False
 Tories,0,./data/test/.\122.txt,1,0,False
 Non-European,5,./data/test/.\122.txt,1,5,False
@@ -1861,7 +1779,6 @@ Peter,299,./data/test/.\125.txt,1,299,False
 Nielson,300,./data/test/.\125.txt,1,300,False
 Scotland,304,./data/test/.\125.txt,1,304,False
 Houston,311,./data/test/.\125.txt,1,311,False
-Friday,313,./data/test/.\125.txt,1,313,False
 Houston,349,./data/test/.\125.txt,1,349,False
 Blair,0,./data/test/.\130.txt,1,0,True
 Tony,6,./data/test/.\130.txt,1,6,False
@@ -1894,7 +1811,6 @@ HIV/Aids,427,./data/test/.\130.txt,1,427,False
 Defiant,0,./data/test/.\137.txt,1,0,False
 Thousands,7,./data/test/.\137.txt,1,7,False
 England,21,./data/test/.\137.txt,1,21,False
-Wales,23,./data/test/.\137.txt,1,23,False
 Countryside,35,./data/test/.\137.txt,1,35,False
 Alliance,36,./data/test/.\137.txt,1,36,False
 Although,52,./data/test/.\137.txt,1,52,False
@@ -1906,9 +1822,7 @@ Hunt,110,./data/test/.\137.txt,1,110,False
 Ashford,112,./data/test/.\137.txt,1,112,False
 Wiltshire,114,./data/test/.\137.txt,1,114,False
 South,131,./data/test/.\137.txt,1,131,False
-Wales,132,./data/test/.\137.txt,1,132,False
 Ireland,134,./data/test/.\137.txt,1,134,False
-Saturday,161,./data/test/.\137.txt,1,161,False
 Jeremy,184,./data/test/.\137.txt,1,184,False
 Irons,185,./data/test/.\137.txt,1,185,False
 Kate,189,./data/test/.\137.txt,1,189,False
@@ -1937,7 +1851,6 @@ Gloucestershire,313,./data/test/.\137.txt,1,313,False
 Tom,330,./data/test/.\137.txt,1,330,False
 Heap,331,./data/test/.\137.txt,1,331,False
 BBC,332,./data/test/.\137.txt,1,332,False
-Saturday,362,./data/test/.\137.txt,1,362,False
 Kate,386,./data/test/.\137.txt,1,386,False
 Hoey,387,./data/test/.\137.txt,1,387,False
 Judith,401,./data/test/.\137.txt,1,401,False
@@ -1953,7 +1866,6 @@ England,461,./data/test/.\137.txt,1,461,False
 [ban],466,./data/test/.\137.txt,1,466,False
 Conservative,495,./data/test/.\137.txt,1,495,False
 Theresa,498,./data/test/.\137.txt,1,498,False
-May,499,./data/test/.\137.txt,1,499,False
 Suffolk,516,./data/test/.\137.txt,1,516,False
 Alastair,519,./data/test/.\137.txt,1,519,False
 McWhirter,520,./data/test/.\137.txt,1,520,False
@@ -1975,7 +1887,6 @@ Media,47,./data/test/.\139.txt,1,47,False
 Straw,65,./data/test/.\139.txt,1,65,False
 Kashmiris,76,./data/test/.\139.txt,1,76,False
 Islamabad,96,./data/test/.\139.txt,1,96,False
-Wednesday,98,./data/test/.\139.txt,1,98,False
 Kashmiri,99,./data/test/.\139.txt,1,99,False
 Line,106,./data/test/.\139.txt,1,106,False
 Control,108,./data/test/.\139.txt,1,108,False
@@ -1985,7 +1896,6 @@ Muzaffarabad,128,./data/test/.\139.txt,1,128,False
 Kashmiris,151,./data/test/.\139.txt,1,151,False
 Line,157,./data/test/.\139.txt,1,157,False
 India,169,./data/test/.\139.txt,1,169,False
-Thursday,196,./data/test/.\139.txt,1,196,False
 Straw,198,./data/test/.\139.txt,1,198,False
 India,201,./data/test/.\139.txt,1,201,False
 Sikhism's,203,./data/test/.\139.txt,1,203,False
@@ -1994,7 +1904,6 @@ Temple,208,./data/test/.\139.txt,1,208,False
 Amritsar,210,./data/test/.\139.txt,1,210,False
 Indian,218,./data/test/.\139.txt,1,218,False
 Indian,232,./data/test/.\139.txt,1,232,False
-Friday,235,./data/test/.\139.txt,1,235,False
 Pakistani,242,./data/test/.\139.txt,1,242,False
 Lahore,245,./data/test/.\139.txt,1,245,False
 Amritsar,247,./data/test/.\139.txt,1,247,False
@@ -2040,7 +1949,6 @@ Tony,391,./data/test/.\142.txt,1,391,False
 Blair's,392,./data/test/.\142.txt,1,392,False
 Blair,424,./data/test/.\142.txt,1,424,False
 Rome,432,./data/test/.\142.txt,1,432,False
-November,434,./data/test/.\142.txt,1,434,False
 Jack,460,./data/test/.\142.txt,1,460,False
 Straw,461,./data/test/.\142.txt,1,461,False
 Financial,495,./data/test/.\142.txt,1,495,False
@@ -2054,7 +1962,6 @@ Labour's,35,./data/test/.\143.txt,1,35,False
 NEC,37,./data/test/.\143.txt,1,37,False
 Trevor,72,./data/test/.\143.txt,1,72,False
 Phillips,73,./data/test/.\143.txt,1,73,False
-Sunday,76,./data/test/.\143.txt,1,76,False
 West,97,./data/test/.\143.txt,1,97,False
 Ham,98,./data/test/.\143.txt,1,98,False
 NEC,111,./data/test/.\143.txt,1,111,False
@@ -2085,7 +1992,6 @@ National,357,./data/test/.\143.txt,1,357,False
 Executive,358,./data/test/.\143.txt,1,358,False
 Committee,359,./data/test/.\143.txt,1,359,False
 NEC,372,./data/test/.\143.txt,1,372,False
-Tuesday,415,./data/test/.\143.txt,1,415,False
 Labour,416,./data/test/.\143.txt,1,416,False
 Ian,418,./data/test/.\143.txt,1,418,False
 McCartney,419,./data/test/.\143.txt,1,419,False
@@ -2173,14 +2079,11 @@ Labour,92,./data/test/.\147.txt,1,92,False
 Gateshead,101,./data/test/.\147.txt,1,101,False
 That's,113,./data/test/.\147.txt,1,113,False
 Blair's,158,./data/test/.\147.txt,1,158,False
-Wednesday,162,./data/test/.\147.txt,1,162,False
 [where,201,./data/test/.\147.txt,1,201,False
-Monday,215,./data/test/.\147.txt,1,215,False
 Fox,217,./data/test/.\147.txt,1,217,False
 Labour,244,./data/test/.\147.txt,1,244,False
 Party,245,./data/test/.\147.txt,1,245,False
 Tories,262,./data/test/.\147.txt,1,262,False
-Tuesday,272,./data/test/.\147.txt,1,272,False
 Clarke,286,./data/test/.\147.txt,1,286,False
 Tory,290,./data/test/.\147.txt,1,290,False
 Tories,300,./data/test/.\147.txt,1,300,False
@@ -2216,7 +2119,6 @@ Birmingham,9,./data/test/.\148.txt,1,9,False
 Election,17,./data/test/.\148.txt,1,17,False
 Court,18,./data/test/.\148.txt,1,18,False
 Police,21,./data/test/.\148.txt,1,21,False
-June,41,./data/test/.\148.txt,1,41,False
 English,55,./data/test/.\148.txt,1,55,False
 Aston,63,./data/test/.\148.txt,1,63,False
 High,83,./data/test/.\148.txt,1,83,False
@@ -2238,7 +2140,6 @@ Mohammed,137,./data/test/.\148.txt,1,137,False
 Kazi,138,./data/test/.\148.txt,1,138,False
 Liberal,144,./data/test/.\148.txt,1,144,False
 Democrat,145,./data/test/.\148.txt,1,145,False
-June,162,./data/test/.\148.txt,1,162,False
 Ravi,164,./data/test/.\148.txt,1,164,False
 Sukul,165,./data/test/.\148.txt,1,165,False
 Witnesses,181,./data/test/.\148.txt,1,181,False
@@ -2315,7 +2216,6 @@ Act,397,./data/test/.\151.txt,1,397,False
 RAF,403,./data/test/.\151.txt,1,403,False
 Northolt,404,./data/test/.\151.txt,1,404,False
 London,406,./data/test/.\151.txt,1,406,False
-Tuesday,408,./data/test/.\151.txt,1,408,False
 Massoud,409,./data/test/.\151.txt,1,409,False
 Shadjareh,410,./data/test/.\151.txt,1,410,False
 Muslim,413,./data/test/.\151.txt,1,413,False
@@ -2338,7 +2238,6 @@ Ruth,45,./data/test/.\157.txt,1,45,False
 Kelly,46,./data/test/.\157.txt,1,46,False
 Kilroy-Silk,55,./data/test/.\157.txt,1,55,False
 Islam,71,./data/test/.\157.txt,1,71,False
-January,73,./data/test/.\157.txt,1,73,False
 Kilroy-Silk,75,./data/test/.\157.txt,1,75,False
 BBC,78,./data/test/.\157.txt,1,78,False
 One,79,./data/test/.\157.txt,1,79,False
@@ -2347,7 +2246,6 @@ Kilroy-Silk,93,./data/test/.\157.txt,1,93,False
 BBC,101,./data/test/.\157.txt,1,101,False
 Arabs,111,./data/test/.\157.txt,1,111,False
 Muslim,121,./data/test/.\157.txt,1,121,False
-Friday,129,./data/test/.\157.txt,1,129,False
 Kilroy-Silk,132,./data/test/.\157.txt,1,132,False
 Kelly,135,./data/test/.\157.txt,1,135,False
 Bolton,141,./data/test/.\157.txt,1,141,False
@@ -2388,8 +2286,6 @@ Midlands,421,./data/test/.\157.txt,1,421,False
 Independence,425,./data/test/.\157.txt,1,425,False
 Party,426,./data/test/.\157.txt,1,426,False
 Parliament,431,./data/test/.\157.txt,1,431,False
-October,433,./data/test/.\157.txt,1,433,False
-Friday,455,./data/test/.\157.txt,1,455,False
 Christmas,464,./data/test/.\157.txt,1,464,False
 Election.,494,./data/test/.\157.txt,1,494,False
 Howard,0,./data/test/.\159.txt,1,0,True
@@ -2407,10 +2303,7 @@ Liberal,89,./data/test/.\159.txt,1,89,False
 Democrats,90,./data/test/.\159.txt,1,90,False
 Conservatives,93,./data/test/.\159.txt,1,93,False
 Campaigning,104,./data/test/.\159.txt,1,104,False
-May,118,./data/test/.\159.txt,1,118,False
-June,125,./data/test/.\159.txt,1,125,False
 Labour,127,./data/test/.\159.txt,1,127,False
-Monday,129,./data/test/.\159.txt,1,129,False
 Howard,143,./data/test/.\159.txt,1,143,False
 Tory,149,./data/test/.\159.txt,1,149,False
 Northamptonshire,162,./data/test/.\159.txt,1,162,False
@@ -2446,7 +2339,6 @@ Lib,467,./data/test/.\159.txt,1,467,False
 Dem,468,./data/test/.\159.txt,1,468,False
 Simon,470,./data/test/.\159.txt,1,470,False
 Hughes,471,./data/test/.\159.txt,1,471,False
-September,482,./data/test/.\159.txt,1,482,False
 Liberal,484,./data/test/.\159.txt,1,484,False
 Democrats,485,./data/test/.\159.txt,1,485,False
 Murder,4,./data/test/.\168.txt,1,4,False
@@ -2454,7 +2346,6 @@ Commons,24,./data/test/.\168.txt,1,24,False
 Committee,74,./data/test/.\168.txt,1,74,False
 John,76,./data/test/.\168.txt,1,76,False
 Denham,77,./data/test/.\168.txt,1,77,False
-July,156,./data/test/.\168.txt,1,156,False
 Amanda,159,./data/test/.\168.txt,1,159,False
 Champion's,160,./data/test/.\168.txt,1,160,False
 James,162,./data/test/.\168.txt,1,162,False
@@ -2474,10 +2365,8 @@ Criminal,257,./data/test/.\168.txt,1,257,False
 Justice,258,./data/test/.\168.txt,1,258,False
 Bill,259,./data/test/.\168.txt,1,259,False
 England,290,./data/test/.\168.txt,1,290,False
-Wales,292,./data/test/.\168.txt,1,292,False
 Lord,293,./data/test/.\168.txt,1,293,False
 Woolf,294,./data/test/.\168.txt,1,294,False
-September,302,./data/test/.\168.txt,1,302,False
 Lord,333,./data/test/.\168.txt,1,333,False
 Woolf's,334,./data/test/.\168.txt,1,334,False
 Sentencing,335,./data/test/.\168.txt,1,335,False
@@ -2534,7 +2423,6 @@ Bell,390,./data/test/.\172.txt,1,390,False
 Labour,2,./data/test/.\175.txt,1,2,False
 Gordon,4,./data/test/.\175.txt,1,4,False
 Brown,5,./data/test/.\175.txt,1,5,False
-May,41,./data/test/.\175.txt,1,41,False
 Labour,51,./data/test/.\175.txt,1,51,False
 Conservative,54,./data/test/.\175.txt,1,54,False
 Speaking,56,./data/test/.\175.txt,1,56,False
@@ -2561,7 +2449,6 @@ Labour,204,./data/test/.\175.txt,1,204,False
 Turning,236,./data/test/.\175.txt,1,236,False
 Labour,260,./data/test/.\175.txt,1,260,False
 Brown,311,./data/test/.\175.txt,1,311,False
-Saturday,369,./data/test/.\175.txt,1,369,False
 Labour's,390,./data/test/.\175.txt,1,390,False
 Hatfield,0,./data/test/.\178.txt,1,0,False
 Engineering,5,./data/test/.\178.txt,1,5,False
@@ -2590,7 +2477,6 @@ Balfour,98,./data/test/.\178.txt,1,98,False
 Beatty,99,./data/test/.\178.txt,1,99,False
 Rail,100,./data/test/.\178.txt,1,100,False
 Maintenance,101,./data/test/.\178.txt,1,101,False
-October,123,./data/test/.\178.txt,1,123,False
 London,128,./data/test/.\178.txt,1,128,False
 Leeds,130,./data/test/.\178.txt,1,130,False
 East,153,./data/test/.\178.txt,1,153,False
@@ -2632,14 +2518,12 @@ Dems,32,./data/test/.\182.txt,1,32,False
 Labour,35,./data/test/.\182.txt,1,35,False
 Clarke,45,./data/test/.\182.txt,1,45,False
 Opponents,55,./data/test/.\182.txt,1,55,False
-Wednesday's,76,./data/test/.\182.txt,1,76,False
 Commons,80,./data/test/.\182.txt,1,80,False
 House,87,./data/test/.\182.txt,1,87,False
 Lords,89,./data/test/.\182.txt,1,89,False
 Prevention,91,./data/test/.\182.txt,1,91,False
 Terrorism,93,./data/test/.\182.txt,1,93,False
 Bill,94,./data/test/.\182.txt,1,94,False
-Tuesday,98,./data/test/.\182.txt,1,98,False
 Tory,153,./data/test/.\182.txt,1,153,False
 David,157,./data/test/.\182.txt,1,157,False
 Davis,158,./data/test/.\182.txt,1,158,False
@@ -2655,13 +2539,10 @@ London's,273,./data/test/.\182.txt,1,273,False
 Belmarsh,274,./data/test/.\182.txt,1,274,False
 Law,283,./data/test/.\182.txt,1,283,False
 Lords,284,./data/test/.\182.txt,1,284,False
-March,300,./data/test/.\182.txt,1,300,False
 Law,313,./data/test/.\182.txt,1,313,False
 Lords',314,./data/test/.\182.txt,1,314,False
 Critics,326,./data/test/.\182.txt,1,326,False
 Opposition,350,./data/test/.\182.txt,1,350,False
-Wednesday,362,./data/test/.\182.txt,1,362,False
-Monday,365,./data/test/.\182.txt,1,365,False
 House,377,./data/test/.\182.txt,1,377,False
 Lords,379,./data/test/.\182.txt,1,379,False
 Tories,400,./data/test/.\182.txt,1,400,False
@@ -2785,14 +2666,11 @@ Africa,55,./data/test/.\195.txt,1,55,False
 Questioned,56,./data/test/.\195.txt,1,56,False
 God,65,./data/test/.\195.txt,1,65,False
 Commons,86,./data/test/.\195.txt,1,86,False
-Monday,88,./data/test/.\195.txt,1,88,False
 Foreign,89,./data/test/.\195.txt,1,89,False
 Jack,91,./data/test/.\195.txt,1,91,False
 Straw,92,./data/test/.\195.txt,1,92,False
-Friday,95,./data/test/.\195.txt,1,95,False
 Britons,99,./data/test/.\195.txt,1,99,False
 Blair,109,./data/test/.\195.txt,1,109,False
-Sunday's,111,./data/test/.\195.txt,1,111,False
 Since,113,./data/test/.\195.txt,1,113,False
 Jack,114,./data/test/.\195.txt,1,114,False
 Straw,115,./data/test/.\195.txt,1,115,False
@@ -2805,13 +2683,11 @@ Within,216,./data/test/.\195.txt,1,216,False
 Africa,238,./data/test/.\195.txt,1,238,False
 Blair,273,./data/test/.\195.txt,1,273,False
 Africa,281,./data/test/.\195.txt,1,281,False
-African,307,./data/test/.\195.txt,1,307,False
 Africa,320,./data/test/.\195.txt,1,320,False
 Game,0,./data/test/.\199.txt,1,0,False
 Violent,5,./data/test/.\199.txt,1,5,False
 Patricia,28,./data/test/.\199.txt,1,28,False
 Hewitt,29,./data/test/.\199.txt,1,29,False
-Sunday,55,./data/test/.\199.txt,1,55,False
 Parents,74,./data/test/.\199.txt,1,74,False
 Christmas,84,./data/test/.\199.txt,1,84,False
 Violent,86,./data/test/.\199.txt,1,86,False
@@ -2819,22 +2695,18 @@ Manhunt,96,./data/test/.\199.txt,1,96,False
 Stefan,104,./data/test/.\199.txt,1,104,False
 Pakeerah,105,./data/test/.\199.txt,1,105,False
 Leicester,112,./data/test/.\199.txt,1,112,False
-February,114,./data/test/.\199.txt,1,114,False
 Giselle,117,./data/test/.\199.txt,1,117,True
 Warren,122,./data/test/.\199.txt,1,122,False
 Leblanc,123,./data/test/.\199.txt,1,123,False
-September,132,./data/test/.\199.txt,1,132,False
 Police,140,./data/test/.\199.txt,1,140,False
 Stefan's,143,./data/test/.\199.txt,1,143,True
 Manhunt,149,./data/test/.\199.txt,1,149,False
 Ahead,157,./data/test/.\199.txt,1,157,False
-Sunday's,159,./data/test/.\199.txt,1,159,False
 London,162,./data/test/.\199.txt,1,162,False
 Hewitt,164,./data/test/.\199.txt,1,164,False
 Roger,191,./data/test/.\199.txt,1,191,False
 Bennett,192,./data/test/.\199.txt,1,192,False
 ELSPA,198,./data/test/.\199.txt,1,198,False
-Friday,235,./data/test/.\199.txt,1,235,False
 Board,246,./data/test/.\199.txt,1,246,False
 Film,248,./data/test/.\199.txt,1,248,False
 Classification,249,./data/test/.\199.txt,1,249,False
@@ -2859,11 +2731,9 @@ Blunkett,3,./data/test/.\206.txt,1,3,True
 David,9,./data/test/.\206.txt,1,9,False
 Blunkett's,10,./data/test/.\206.txt,1,10,False
 Tories,19,./data/test/.\206.txt,1,19,False
-Wednesday,23,./data/test/.\206.txt,1,23,False
 Tony,24,./data/test/.\206.txt,1,24,False
 Blair,25,./data/test/.\206.txt,1,25,False
 Blunkett,42,./data/test/.\206.txt,1,42,False
-December,45,./data/test/.\206.txt,1,45,False
 Blair,60,./data/test/.\206.txt,1,60,False
 Tory,71,./data/test/.\206.txt,1,71,False
 Dominic,72,./data/test/.\206.txt,1,72,False
@@ -2934,7 +2804,6 @@ Indonesia,284,./data/test/.\208.txt,1,284,False
 Abbas,0,./data/test/.\209.txt,1,0,True
 Mahmoud,7,./data/test/.\209.txt,1,7,False
 Abbas,8,./data/test/.\209.txt,1,8,False
-Friday's,19,./data/test/.\209.txt,1,19,False
 Israeli,24,./data/test/.\209.txt,1,24,False
 Tel,27,./data/test/.\209.txt,1,27,False
 Aviv,28,./data/test/.\209.txt,1,28,False
@@ -2947,7 +2816,6 @@ Israel,85,./data/test/.\209.txt,1,85,False
 Israeli,101,./data/test/.\209.txt,1,101,False
 Syria's,106,./data/test/.\209.txt,1,106,False
 Israeli,116,./data/test/.\209.txt,1,116,False
-Monday,126,./data/test/.\209.txt,1,126,False
 Syria's,128,./data/test/.\209.txt,1,128,False
 Jack,134,./data/test/.\209.txt,1,134,False
 Straw,135,./data/test/.\209.txt,1,135,False
@@ -2956,7 +2824,6 @@ Independent,163,./data/test/.\209.txt,1,163,False
 Abbas,165,./data/test/.\209.txt,1,165,False
 Israel,180,./data/test/.\209.txt,1,180,False
 Israelis,208,./data/test/.\209.txt,1,208,False
-Tuesday's,217,./data/test/.\209.txt,1,217,False
 Prime,227,./data/test/.\209.txt,1,227,False
 Tony,229,./data/test/.\209.txt,1,229,False
 Blair,230,./data/test/.\209.txt,1,230,False
@@ -2979,7 +2846,6 @@ Conservatives',5,./data/test/.\212.txt,1,5,False
 Michael,15,./data/test/.\212.txt,1,15,False
 Howard,16,./data/test/.\212.txt,1,16,False
 Times,27,./data/test/.\212.txt,1,27,False
-Monday,29,./data/test/.\212.txt,1,29,False
 Australian,31,./data/test/.\212.txt,1,31,False
 Lynton,32,./data/test/.\212.txt,1,32,False
 Crosby,33,./data/test/.\212.txt,1,33,False
@@ -2992,7 +2858,6 @@ John,93,./data/test/.\212.txt,1,93,False
 Howard,94,./data/test/.\212.txt,1,94,False
 Howard,99,./data/test/.\212.txt,1,99,False
 Crosby,102,./data/test/.\212.txt,1,102,False
-October,108,./data/test/.\212.txt,1,108,False
 Crosby's,110,./data/test/.\212.txt,1,110,False
 Conservative,114,./data/test/.\212.txt,1,114,False
 Party,115,./data/test/.\212.txt,1,115,False
@@ -3000,7 +2865,6 @@ Labour,137,./data/test/.\212.txt,1,137,False
 Party,138,./data/test/.\212.txt,1,138,False
 New,0,./data/test/.\215.txt,1,0,False
 New,5,./data/test/.\215.txt,1,5,False
-Tuesday,21,./data/test/.\215.txt,1,21,False
 Home,27,./data/test/.\215.txt,1,27,False
 Home,33,./data/test/.\215.txt,1,33,False
 Joint,64,./data/test/.\215.txt,1,64,False
@@ -3009,14 +2873,12 @@ Welfare,68,./data/test/.\215.txt,1,68,False
 Immigrants,70,./data/test/.\215.txt,1,70,False
 Des,95,./data/test/.\215.txt,1,95,False
 Browne,96,./data/test/.\215.txt,1,96,False
-Tuesday,157,./data/test/.\215.txt,1,157,False
 Switzerland,165,./data/test/.\215.txt,1,165,False
 Liechtenstein,166,./data/test/.\215.txt,1,166,False
 Iceland,167,./data/test/.\215.txt,1,167,False
 Norway,169,./data/test/.\215.txt,1,169,False
 Home,195,./data/test/.\215.txt,1,195,False
 England,264,./data/test/.\215.txt,1,264,False
-Wales,266,./data/test/.\215.txt,1,266,False
 Rhian,293,./data/test/.\215.txt,1,293,False
 Beynon,294,./data/test/.\215.txt,1,294,False
 JCWI,297,./data/test/.\215.txt,1,297,False
@@ -3030,13 +2892,10 @@ Joint,375,./data/test/.\215.txt,1,375,False
 Committee,376,./data/test/.\215.txt,1,376,False
 Human,378,./data/test/.\215.txt,1,378,False
 Rights,379,./data/test/.\215.txt,1,379,False
-July,385,./data/test/.\215.txt,1,385,False
 Human,423,./data/test/.\215.txt,1,423,False
 Rights,424,./data/test/.\215.txt,1,424,False
 Act,425,./data/test/.\215.txt,1,425,False
-January,460,./data/test/.\215.txt,1,460,False
 Leicester,473,./data/test/.\215.txt,1,473,False
-November,484,./data/test/.\215.txt,1,484,False
 Samuel,485,./data/test/.\215.txt,1,485,False
 Amoah,486,./data/test/.\215.txt,1,486,False
 Belgian,488,./data/test/.\215.txt,1,488,False
@@ -3102,17 +2961,14 @@ According,40,./data/test/.\218.txt,1,40,False
 Brown's,45,./data/test/.\218.txt,1,45,True
 Blair,48,./data/test/.\218.txt,1,48,False
 Brown,59,./data/test/.\218.txt,1,59,False
-June,65,./data/test/.\218.txt,1,65,False
 Blair,68,./data/test/.\218.txt,1,68,False
 Blair,88,./data/test/.\218.txt,1,88,False
 I've,90,./data/test/.\218.txt,1,90,False
-Sunday,129,./data/test/.\218.txt,1,129,False
 Telegraph,130,./data/test/.\218.txt,1,130,False
 Robert,132,./data/test/.\218.txt,1,132,False
 Peston,133,./data/test/.\218.txt,1,133,False
 Tony,152,./data/test/.\218.txt,1,152,False
 Blair,153,./data/test/.\218.txt,1,153,False
-November,156,./data/test/.\218.txt,1,156,False
 Iraq,166,./data/test/.\218.txt,1,166,False
 Labour,178,./data/test/.\218.txt,1,178,False
 Party,179,./data/test/.\218.txt,1,179,False
@@ -3123,7 +2979,6 @@ Brown,195,./data/test/.\218.txt,1,195,False
 According,202,./data/test/.\218.txt,1,202,False
 Peston,205,./data/test/.\218.txt,1,205,False
 Help,210,./data/test/.\218.txt,1,210,False
-June,230,./data/test/.\218.txt,1,230,False
 Peston,255,./data/test/.\218.txt,1,255,False
 BBC,257,./data/test/.\218.txt,1,257,False
 News,258,./data/test/.\218.txt,1,258,False
@@ -3150,7 +3005,6 @@ Howard,517,./data/test/.\218.txt,1,517,False
 Brown,524,./data/test/.\218.txt,1,524,False
 Sky,531,./data/test/.\218.txt,1,531,False
 News',532,./data/test/.\218.txt,1,532,False
-Sunday,533,./data/test/.\218.txt,1,533,False
 Adam,535,./data/test/.\218.txt,1,535,False
 Boulton,536,./data/test/.\218.txt,1,536,False
 Liberal,551,./data/test/.\218.txt,1,551,False
@@ -3213,7 +3067,6 @@ Tories,86,./data/test/.\225.txt,1,86,False
 Michael,104,./data/test/.\225.txt,1,104,False
 Howard,105,./data/test/.\225.txt,1,105,False
 Commons,126,./data/test/.\225.txt,1,126,False
-Tuesday,133,./data/test/.\225.txt,1,133,False
 Brown,135,./data/test/.\225.txt,1,135,False
 Alan,139,./data/test/.\225.txt,1,139,False
 Milburn,140,./data/test/.\225.txt,1,140,False
@@ -3226,7 +3079,6 @@ Kenya,196,./data/test/.\225.txt,1,196,False
 Africans,203,./data/test/.\225.txt,1,203,False
 Aids,206,./data/test/.\225.txt,1,206,False
 Blair,214,./data/test/.\225.txt,1,214,False
-Monday's,229,./data/test/.\225.txt,1,229,False
 Parliamentary,233,./data/test/.\225.txt,1,233,False
 Labour,234,./data/test/.\225.txt,1,234,False
 Party,235,./data/test/.\225.txt,1,235,False
@@ -3238,17 +3090,14 @@ Party,272,./data/test/.\225.txt,1,272,False
 Labour's,285,./data/test/.\225.txt,1,285,False
 Paul,286,./data/test/.\225.txt,1,286,False
 Flynn,287,./data/test/.\225.txt,1,287,False
-Tuesday,298,./data/test/.\225.txt,1,298,False
 Prime,300,./data/test/.\225.txt,1,300,False
 Prescott,303,./data/test/.\225.txt,1,303,False
 BBC,305,./data/test/.\225.txt,1,305,False
 News,306,./data/test/.\225.txt,1,306,False
 Prescott,327,./data/test/.\225.txt,1,327,False
-November,332,./data/test/.\225.txt,1,332,False
 Brown,340,./data/test/.\225.txt,1,340,False
 Iraq,356,./data/test/.\225.txt,1,356,False
 Blair,359,./data/test/.\225.txt,1,359,False
-June,365,./data/test/.\225.txt,1,365,False
 Peston,382,./data/test/.\225.txt,1,382,False
 Peston's,385,./data/test/.\225.txt,1,385,False
 Brown,388,./data/test/.\225.txt,1,388,False
@@ -3287,10 +3136,8 @@ Constitutional,72,./data/test/.\233.txt,1,72,False
 Affairs,73,./data/test/.\233.txt,1,73,False
 Act,81,./data/test/.\233.txt,1,81,False
 England,86,./data/test/.\233.txt,1,86,False
-Wales,87,./data/test/.\233.txt,1,87,False
 Northern,89,./data/test/.\233.txt,1,89,False
 Ireland,90,./data/test/.\233.txt,1,90,False
-January,93,./data/test/.\233.txt,1,93,False
 Scotland,106,./data/test/.\233.txt,1,106,False
 Constitutional,157,./data/test/.\233.txt,1,157,False
 Affairs,158,./data/test/.\233.txt,1,158,False
@@ -3410,7 +3257,6 @@ Scotland,9,./data/test/.\241.txt,1,9,False
 BBC,24,./data/test/.\241.txt,1,24,False
 Scotland,25,./data/test/.\241.txt,1,25,False
 Authorities,28,./data/test/.\241.txt,1,28,False
-Thursday,34,./data/test/.\241.txt,1,34,False
 Finance,86,./data/test/.\241.txt,1,86,False
 Tom,88,./data/test/.\241.txt,1,88,False
 McCabe,89,./data/test/.\241.txt,1,89,False
@@ -3422,7 +3268,6 @@ McCabe,146,./data/test/.\241.txt,1,146,False
 BBC,165,./data/test/.\241.txt,1,165,False
 Radio,166,./data/test/.\241.txt,1,166,False
 Scotland's,167,./data/test/.\241.txt,1,167,False
-Sunday,168,./data/test/.\241.txt,1,168,False
 Live,169,./data/test/.\241.txt,1,169,False
 Scotland,173,./data/test/.\241.txt,1,173,False
 Cosla,225,./data/test/.\241.txt,1,225,False
@@ -3456,7 +3301,6 @@ Tories,20,./data/test/.\242.txt,1,20,False
 Freedom,36,./data/test/.\242.txt,1,36,False
 Information,38,./data/test/.\242.txt,1,38,False
 Act's,39,./data/test/.\242.txt,1,39,False
-January,43,./data/test/.\242.txt,1,43,False
 Departments,44,./data/test/.\242.txt,1,44,False
 Tories,66,./data/test/.\242.txt,1,66,False
 Freedom,74,./data/test/.\242.txt,1,74,False
@@ -3502,14 +3346,12 @@ Richard,300,./data/test/.\242.txt,1,300,False
 Thomas,301,./data/test/.\242.txt,1,301,False
 Earlier,302,./data/test/.\242.txt,1,302,False
 Thomas,306,./data/test/.\242.txt,1,306,False
-January,348,./data/test/.\242.txt,1,348,False
 Government,349,./data/test/.\242.txt,1,349,False
 Thomas,364,./data/test/.\242.txt,1,364,False
 Freedom,386,./data/test/.\242.txt,1,386,False
 Information,388,./data/test/.\242.txt,1,388,False
 Act,389,./data/test/.\242.txt,1,389,False
 England,392,./data/test/.\242.txt,1,392,False
-Wales,393,./data/test/.\242.txt,1,393,False
 Northern,395,./data/test/.\242.txt,1,395,False
 Ireland,396,./data/test/.\242.txt,1,396,False
 Similar,400,./data/test/.\242.txt,1,400,False
@@ -3546,7 +3388,6 @@ Downing,428,./data/test/.\251.txt,1,428,False
 Street,429,./data/test/.\251.txt,1,429,False
 Either,437,./data/test/.\251.txt,1,437,False
 Firstly,481,./data/test/.\251.txt,1,481,False
-Wednesday,487,./data/test/.\251.txt,1,487,False
 Gordon,523,./data/test/.\251.txt,1,523,False
 Brown,524,./data/test/.\251.txt,1,524,False
 Blair,540,./data/test/.\251.txt,1,540,False
@@ -3575,7 +3416,6 @@ Gibson,81,./data/test/.\254.txt,1,81,False
 Tony,132,./data/test/.\254.txt,1,132,False
 Blair,133,./data/test/.\254.txt,1,133,False
 Labour,138,./data/test/.\254.txt,1,138,False
-Monday,141,./data/test/.\254.txt,1,141,False
 Westminster,152,./data/test/.\254.txt,1,152,False
 Gordon,159,./data/test/.\254.txt,1,159,False
 Brown,160,./data/test/.\254.txt,1,160,False
@@ -3626,13 +3466,11 @@ Gordon,84,./data/test/.\255.txt,1,84,False
 Brown,85,./data/test/.\255.txt,1,85,False
 According,89,./data/test/.\255.txt,1,89,False
 Brown's,94,./data/test/.\255.txt,1,94,True
-Sunday,97,./data/test/.\255.txt,1,97,False
 Telegraph,98,./data/test/.\255.txt,1,98,False
 Robert,100,./data/test/.\255.txt,1,100,False
 Peston,101,./data/test/.\255.txt,1,101,False
 Blair,103,./data/test/.\255.txt,1,103,False
 Brown,114,./data/test/.\255.txt,1,114,False
-June,120,./data/test/.\255.txt,1,120,False
 BBC,126,./data/test/.\255.txt,1,126,False
 One's,127,./data/test/.\255.txt,1,127,False
 Breakfast,128,./data/test/.\255.txt,1,128,False
@@ -3647,12 +3485,9 @@ Labour,203,./data/test/.\255.txt,1,203,False
 Tony,249,./data/test/.\255.txt,1,249,False
 Blair,250,./data/test/.\255.txt,1,250,False
 Brown,288,./data/test/.\255.txt,1,288,False
-Saturday,303,./data/test/.\255.txt,1,303,False
 Peston,319,./data/test/.\255.txt,1,319,False
 Blair,334,./data/test/.\255.txt,1,334,False
-November,338,./data/test/.\255.txt,1,338,False
 Iraq,354,./data/test/.\255.txt,1,354,False
-June,362,./data/test/.\255.txt,1,362,False
 Andrew,386,./data/test/.\255.txt,1,386,False
 Marr,387,./data/test/.\255.txt,1,387,False
 Gordon,393,./data/test/.\255.txt,1,393,False
@@ -3669,7 +3504,6 @@ Treasury,433,./data/test/.\255.txt,1,433,False
 Labour,444,./data/test/.\255.txt,1,444,False
 Senior,449,./data/test/.\255.txt,1,449,False
 Labour,467,./data/test/.\255.txt,1,467,False
-Monday,470,./data/test/.\255.txt,1,470,False
 Health,471,./data/test/.\255.txt,1,471,False
 John,473,./data/test/.\255.txt,1,473,False
 Reid,474,./data/test/.\255.txt,1,474,False
@@ -3708,19 +3542,15 @@ Blair,97,./data/test/.\256.txt,1,97,False
 Parliamentary,100,./data/test/.\256.txt,1,100,False
 Labour,101,./data/test/.\256.txt,1,101,False
 Party,102,./data/test/.\256.txt,1,102,False
-Monday,105,./data/test/.\256.txt,1,105,False
 Labour,126,./data/test/.\256.txt,1,126,False
 Party,127,./data/test/.\256.txt,1,127,False
 Brown's,171,./data/test/.\256.txt,1,171,True
-Sunday,174,./data/test/.\256.txt,1,174,False
 Telegraph,175,./data/test/.\256.txt,1,175,False
 Robert,177,./data/test/.\256.txt,1,177,False
 Peston,178,./data/test/.\256.txt,1,178,False
 Blair,181,./data/test/.\256.txt,1,181,False
 Brown,192,./data/test/.\256.txt,1,192,False
-June,198,./data/test/.\256.txt,1,198,False
 Labour,209,./data/test/.\256.txt,1,209,False
-May,226,./data/test/.\256.txt,1,226,False
 PLP,242,./data/test/.\256.txt,1,242,False
 Health,244,./data/test/.\256.txt,1,244,False
 John,246,./data/test/.\256.txt,1,246,False
@@ -3731,21 +3561,16 @@ News,264,./data/test/.\256.txt,1,264,False
 Labour,308,./data/test/.\256.txt,1,308,False
 Party,309,./data/test/.\256.txt,1,309,False
 Blair,314,./data/test/.\256.txt,1,314,False
-Sunday,316,./data/test/.\256.txt,1,316,False
 I've,323,./data/test/.\256.txt,1,323,False
 BBC,347,./data/test/.\256.txt,1,347,False
 Brown,350,./data/test/.\256.txt,1,350,False
 Labour,383,./data/test/.\256.txt,1,383,False
-Monday,388,./data/test/.\256.txt,1,388,False
 Blair's,390,./data/test/.\256.txt,1,390,False
 Brown,416,./data/test/.\256.txt,1,416,False
 Blair,425,./data/test/.\256.txt,1,425,False
-Saturday,427,./data/test/.\256.txt,1,427,False
 Peston,435,./data/test/.\256.txt,1,435,False
 Blair,445,./data/test/.\256.txt,1,445,False
-November,449,./data/test/.\256.txt,1,449,False
 Iraq,465,./data/test/.\256.txt,1,465,False
-June,474,./data/test/.\256.txt,1,474,False
 Brown,491,./data/test/.\256.txt,1,491,False
 Blair,501,./data/test/.\256.txt,1,501,False
 Conservative,504,./data/test/.\256.txt,1,504,False
@@ -3784,7 +3609,6 @@ Milburn,112,./data/test/.\257.txt,1,112,False
 John,127,./data/test/.\257.txt,1,127,False
 Prescott,128,./data/test/.\257.txt,1,128,False
 London,133,./data/test/.\257.txt,1,133,False
-Tuesday,135,./data/test/.\257.txt,1,135,False
 Relations,136,./data/test/.\257.txt,1,136,False
 Brown,139,./data/test/.\257.txt,1,139,False
 Milburn,142,./data/test/.\257.txt,1,142,False
@@ -3795,13 +3619,11 @@ Blair,179,./data/test/.\257.txt,1,179,False
 Parliamentary,182,./data/test/.\257.txt,1,182,False
 Labour,183,./data/test/.\257.txt,1,183,False
 Party,184,./data/test/.\257.txt,1,184,False
-Monday,186,./data/test/.\257.txt,1,186,False
 Labour,207,./data/test/.\257.txt,1,207,False
 Party,208,./data/test/.\257.txt,1,208,False
 PLP,238,./data/test/.\257.txt,1,238,False
 New,248,./data/test/.\257.txt,1,248,False
 Brown's,261,./data/test/.\257.txt,1,261,True
-Sunday,264,./data/test/.\257.txt,1,264,False
 Telegraph,265,./data/test/.\257.txt,1,265,False
 Robert,267,./data/test/.\257.txt,1,267,False
 Peston,268,./data/test/.\257.txt,1,268,False
@@ -3827,15 +3649,12 @@ Prescott,363,./data/test/.\257.txt,1,363,False
 BBC,394,./data/test/.\257.txt,1,394,False
 Radio,395,./data/test/.\257.txt,1,395,False
 Today,397,./data/test/.\257.txt,1,397,False
-Tuesday,399,./data/test/.\257.txt,1,399,False
 Prescott,401,./data/test/.\257.txt,1,401,False
 Blair,414,./data/test/.\257.txt,1,414,False
 Brown,417,./data/test/.\257.txt,1,417,False
 Prescott,437,./data/test/.\257.txt,1,437,False
-November,442,./data/test/.\257.txt,1,442,False
 Brown,450,./data/test/.\257.txt,1,450,False
 Iraq,466,./data/test/.\257.txt,1,466,False
-June,475,./data/test/.\257.txt,1,475,False
 Peston,493,./data/test/.\257.txt,1,493,False
 Prescott,495,./data/test/.\257.txt,1,495,False
 Blair,523,./data/test/.\257.txt,1,523,False
@@ -3862,13 +3681,11 @@ Brown's,157,./data/test/.\262.txt,1,157,True
 Robert,160,./data/test/.\262.txt,1,160,False
 Peston,161,./data/test/.\262.txt,1,161,False
 Blair,174,./data/test/.\262.txt,1,174,False
-November,177,./data/test/.\262.txt,1,177,False
 Brown,206,./data/test/.\262.txt,1,206,False
 Peston's,214,./data/test/.\262.txt,1,214,False
 Brown,219,./data/test/.\262.txt,1,219,False
 Blair,222,./data/test/.\262.txt,1,222,False
 Blair,239,./data/test/.\262.txt,1,239,False
-Wednesday,245,./data/test/.\262.txt,1,245,False
 Tory,272,./data/test/.\262.txt,1,272,False
 Blair,337,./data/test/.\262.txt,1,337,False
 Labour's,352,./data/test/.\262.txt,1,352,False
@@ -3877,7 +3694,6 @@ Tory,373,./data/test/.\262.txt,1,373,False
 Liam,375,./data/test/.\262.txt,1,375,False
 Fox,376,./data/test/.\262.txt,1,376,False
 Labour,393,./data/test/.\262.txt,1,393,False
-Tuesday,405,./data/test/.\262.txt,1,405,False
 Brown,408,./data/test/.\262.txt,1,408,False
 Alan,412,./data/test/.\262.txt,1,412,False
 Milburn,413,./data/test/.\262.txt,1,413,False
@@ -3890,7 +3706,6 @@ BBC,436,./data/test/.\262.txt,1,436,False
 News,437,./data/test/.\262.txt,1,437,False
 Later,455,./data/test/.\262.txt,1,455,False
 Blair,459,./data/test/.\262.txt,1,459,False
-Monday's,481,./data/test/.\262.txt,1,481,False
 Parliamentary,485,./data/test/.\262.txt,1,485,False
 Labour,486,./data/test/.\262.txt,1,486,False
 Party,487,./data/test/.\262.txt,1,487,False
@@ -3997,13 +3812,11 @@ Kennedy,200,./data/test/.\278.txt,1,200,False
 Tory,209,./data/test/.\278.txt,1,209,False
 New,214,./data/test/.\278.txt,1,214,False
 Deal,215,./data/test/.\278.txt,1,215,False
-Monday,238,./data/test/.\278.txt,1,238,False
 Michael,240,./data/test/.\278.txt,1,240,False
 Howard,241,./data/test/.\278.txt,1,241,False
 Labour,249,./data/test/.\278.txt,1,249,False
 Labour,266,./data/test/.\278.txt,1,266,False
 Howard,285,./data/test/.\278.txt,1,285,False
-Wednesday,319,./data/test/.\278.txt,1,319,False
 Blair,0,./data/test/.\280.txt,1,0,True
 Bush,3,./data/test/.\280.txt,1,3,True
 George,5,./data/test/.\280.txt,1,5,False
@@ -4015,7 +3828,6 @@ Blair,67,./data/test/.\280.txt,1,67,False
 Guardian,70,./data/test/.\280.txt,1,70,False
 Bush,73,./data/test/.\280.txt,1,73,False
 Washington,81,./data/test/.\280.txt,1,81,False
-Thursday,84,./data/test/.\280.txt,1,84,False
 Echoing,85,./data/test/.\280.txt,1,85,False
 State,91,./data/test/.\280.txt,1,91,False
 Condoleezza,92,./data/test/.\280.txt,1,92,False
@@ -4038,7 +3850,6 @@ Blair,275,./data/test/.\280.txt,1,275,False
 Blair,315,./data/test/.\280.txt,1,315,False
 Following,316,./data/test/.\280.txt,1,316,False
 Bush,320,./data/test/.\280.txt,1,320,False
-January,329,./data/test/.\280.txt,1,329,False
 Kilroy-Silk,0,./data/test/.\281.txt,1,0,True
 Ex-chat,4,./data/test/.\281.txt,1,4,False
 Robert,7,./data/test/.\281.txt,1,7,False
@@ -4066,7 +3877,6 @@ Midlands,181,./data/test/.\281.txt,1,181,False
 Hinckley,187,./data/test/.\281.txt,1,187,False
 Leicestershire,188,./data/test/.\281.txt,1,188,False
 Kilroy-Silk's,203,./data/test/.\281.txt,1,203,False
-June's,233,./data/test/.\281.txt,1,233,False
 Kilroy-Silk,251,./data/test/.\281.txt,1,251,False
 Brussels,268,./data/test/.\281.txt,1,268,False
 BBC,271,./data/test/.\281.txt,1,271,False
@@ -4084,7 +3894,6 @@ East,452,./data/test/.\281.txt,1,452,False
 Midlands,453,./data/test/.\281.txt,1,453,False
 Reports,455,./data/test/.\281.txt,1,455,False
 UKIP's,467,./data/test/.\281.txt,1,467,False
-Thursday,477,./data/test/.\281.txt,1,477,False
 Kilroy-Silk,482,./data/test/.\281.txt,1,482,False
 Lib,0,./data/test/.\283.txt,1,0,False
 Dems',1,./data/test/.\283.txt,1,1,False
@@ -4149,7 +3958,6 @@ Peter,301,./data/test/.\286.txt,1,301,False
 Nielson,302,./data/test/.\286.txt,1,302,False
 Scotland,306,./data/test/.\286.txt,1,306,False
 Houston,313,./data/test/.\286.txt,1,313,False
-Friday,315,./data/test/.\286.txt,1,315,False
 Houston,351,./data/test/.\286.txt,1,351,False
 Terror,0,./data/test/.\290.txt,1,0,False
 Lord,5,./data/test/.\290.txt,1,5,False
@@ -4163,7 +3971,6 @@ Home,94,./data/test/.\290.txt,1,94,False
 Charles,96,./data/test/.\290.txt,1,96,False
 Clarke,97,./data/test/.\290.txt,1,97,False
 Blair,200,./data/test/.\290.txt,1,200,True
-August,222,./data/test/.\290.txt,1,222,False
 Austrian,233,./data/test/.\290.txt,1,233,False
 Adolf,235,./data/test/.\290.txt,1,235,False
 Hitler,236,./data/test/.\290.txt,1,236,False
@@ -4185,7 +3992,6 @@ Cold,366,./data/test/.\290.txt,1,366,False
 War,367,./data/test/.\290.txt,1,367,False
 Fatah,387,./data/test/.\290.txt,1,387,False
 Black,388,./data/test/.\290.txt,1,388,False
-September,389,./data/test/.\290.txt,1,389,False
 Red,390,./data/test/.\290.txt,1,390,False
 Brigades,391,./data/test/.\290.txt,1,391,False
 IRA,399,./data/test/.\290.txt,1,399,False
@@ -4217,7 +4023,6 @@ Protection,959,./data/test/.\290.txt,1,959,False
 Act,960,./data/test/.\290.txt,1,960,False
 GCHQ,969,./data/test/.\290.txt,1,969,False
 Forsyth,996,./data/test/.\290.txt,1,996,True
-September,1014,./data/test/.\290.txt,1,1014,False
 Kilo,1030,./data/test/.\290.txt,1,1030,False
 Semtex,1032,./data/test/.\290.txt,1,1032,False
 Kilo,1038,./data/test/.\290.txt,1,1038,False
@@ -4477,7 +4282,6 @@ Fox,312,./data/test/.\297.txt,1,312,False
 Campbell's,315,./data/test/.\297.txt,1,315,False
 Labour,318,./data/test/.\297.txt,1,318,False
 Howard,323,./data/test/.\297.txt,1,323,False
-Sunday,374,./data/test/.\297.txt,1,374,False
 Labour,375,./data/test/.\297.txt,1,375,False
 Baroness,377,./data/test/.\297.txt,1,377,False
 Kennedy,378,./data/test/.\297.txt,1,378,False
@@ -4622,7 +4426,6 @@ Work,23,./data/test/.\402.txt,1,23,False
 Alan,27,./data/test/.\402.txt,1,27,False
 Johnson,28,./data/test/.\402.txt,1,28,False
 Milburn,40,./data/test/.\402.txt,1,40,False
-Sunday,52,./data/test/.\402.txt,1,52,False
 Business,53,./data/test/.\402.txt,1,53,False
 Brown,56,./data/test/.\402.txt,1,56,False
 Milburn,68,./data/test/.\402.txt,1,68,False
@@ -4637,7 +4440,6 @@ Labour,152,./data/test/.\402.txt,1,152,False
 Party,153,./data/test/.\402.txt,1,153,False
 Brown,162,./data/test/.\402.txt,1,162,False
 Budget,174,./data/test/.\402.txt,1,174,False
-Sunday,182,./data/test/.\402.txt,1,182,False
 Telegraph,183,./data/test/.\402.txt,1,183,False
 Milburn,186,./data/test/.\402.txt,1,186,False
 Johnson,203,./data/test/.\402.txt,1,203,False
@@ -4662,7 +4464,6 @@ Blair,8,./data/test/.\405.txt,1,8,False
 Blair's,33,./data/test/.\405.txt,1,33,False
 Catholic,38,./data/test/.\405.txt,1,38,False
 England,40,./data/test/.\405.txt,1,40,False
-Wales,42,./data/test/.\405.txt,1,42,False
 Michael,44,./data/test/.\405.txt,1,44,False
 Howard's,45,./data/test/.\405.txt,1,45,False
 Tory,50,./data/test/.\405.txt,1,50,False
@@ -4685,7 +4486,6 @@ Family,209,./data/test/.\405.txt,1,209,False
 Planning,210,./data/test/.\405.txt,1,210,False
 Association,211,./data/test/.\405.txt,1,211,False
 England,230,./data/test/.\405.txt,1,230,False
-Wales,232,./data/test/.\405.txt,1,232,False
 Cosmopolitan,252,./data/test/.\405.txt,1,252,False
 Howard,255,./data/test/.\405.txt,1,255,False
 Howard,315,./data/test/.\405.txt,1,315,False
@@ -4744,7 +4544,6 @@ Soweto,85,./data/test/.\407.txt,1,85,False
 High,91,./data/test/.\407.txt,1,91,False
 Ann,93,./data/test/.\407.txt,1,93,False
 Grant,94,./data/test/.\407.txt,1,94,False
-May,109,./data/test/.\407.txt,1,109,False
 Labour's,115,./data/test/.\407.txt,1,115,False
 Prime,117,./data/test/.\407.txt,1,117,False
 Tony,119,./data/test/.\407.txt,1,119,False
@@ -4758,14 +4557,11 @@ Paul's,181,./data/test/.\407.txt,1,181,True
 Treasury,185,./data/test/.\407.txt,1,185,False
 Treasury,208,./data/test/.\407.txt,1,208,False
 Paul,211,./data/test/.\407.txt,1,211,True
-African,225,./data/test/.\407.txt,1,225,False
-African,244,./data/test/.\407.txt,1,244,False
 Paul,246,./data/test/.\407.txt,1,246,True
 Paul,269,./data/test/.\407.txt,1,269,True
 Boateng,275,./data/test/.\407.txt,1,275,False
 South,301,./data/test/.\407.txt,1,301,False
 Africa,302,./data/test/.\407.txt,1,302,False
-African,305,./data/test/.\407.txt,1,305,False
 Asked,326,./data/test/.\407.txt,1,326,False
 Labour,357,./data/test/.\407.txt,1,357,False
 Conservative,359,./data/test/.\407.txt,1,359,False
@@ -4786,11 +4582,9 @@ Boateng,436,./data/test/.\407.txt,1,436,False
 Tony's,447,./data/test/.\407.txt,1,447,True
 Patricia Hewitt,28,./data/test/.\001.txt,2,27,True
 Ms Hewitt,43,./data/test/.\001.txt,2,42,True
-GMTV's Sunday,46,./data/test/.\001.txt,2,45,False
 Liberal Democrats,78,./data/test/.\001.txt,2,77,False
 Ms Hewitt,84,./data/test/.\001.txt,2,83,True
 Family Theresa,247,./data/test/.\001.txt,2,246,False
-Theresa May,248,./data/test/.\001.txt,2,247,True
 Gordon Brown,256,./data/test/.\001.txt,2,255,True
 Tony Blair,265,./data/test/.\001.txt,2,264,True
 Election Liberal,292,./data/test/.\001.txt,2,291,False
@@ -4799,7 +4593,6 @@ Sandra Gidley,298,./data/test/.\001.txt,2,297,True
 Liberal Democrats,310,./data/test/.\001.txt,2,309,False
 Ms Hewitt,342,./data/test/.\001.txt,2,341,True
 David Frost,357,./data/test/.\001.txt,2,356,True
-Monday New,420,./data/test/.\001.txt,2,419,False
 Patricia Hewitt,28,./data/test/.\003.txt,2,27,True
 Ms Hewitt,52,./data/test/.\003.txt,2,51,True
 Equal Opportunities,65,./data/test/.\003.txt,2,64,False
@@ -4918,7 +4711,6 @@ War Two,220,./data/test/.\024.txt,2,219,False
 Mr Brown,229,./data/test/.\024.txt,2,228,True
 Tony Blair,232,./data/test/.\024.txt,2,231,True
 Michael Howard,241,./data/test/.\024.txt,2,240,True
-Wednesday Butler,258,./data/test/.\024.txt,2,257,False
 Blair Former,5,./data/test/.\027.txt,2,4,False
 Lord Butler,10,./data/test/.\027.txt,2,9,True
 Tony Blair's,16,./data/test/.\027.txt,2,15,True
@@ -4983,9 +4775,7 @@ Ruth Kelly,19,./data/test/.\030.txt,2,18,True
 Kelly Serial,20,./data/test/.\030.txt,2,19,False
 Behaviour Improvement,220,./data/test/.\030.txt,2,219,False
 Improvement Programme,221,./data/test/.\030.txt,2,220,False
-Monday Police,254,./data/test/.\030.txt,2,253,False
 David Blunkett,6,./data/test/.\031.txt,2,5,True
-Wales News,110,./data/test/.\031.txt,2,109,False
 Mr Blunkett,121,./data/test/.\031.txt,2,120,True
 Mr Blunkett,154,./data/test/.\031.txt,2,153,True
 David Davis,182,./data/test/.\031.txt,2,181,True
@@ -5033,11 +4823,9 @@ Civil Service,154,./data/test/.\042.txt,2,153,False
 Service Pension,155,./data/test/.\042.txt,2,154,False
 Pension Scheme,156,./data/test/.\042.txt,2,155,False
 Green Paper,208,./data/test/.\042.txt,2,207,False
-Monday Tony,222,./data/test/.\042.txt,2,221,False
 Tony Blair's,223,./data/test/.\042.txt,2,222,True
 Trades Union,292,./data/test/.\042.txt,2,291,False
 Union Congress,293,./data/test/.\042.txt,2,292,False
-Monday Dave,300,./data/test/.\042.txt,2,299,False
 Dave Prentis,301,./data/test/.\042.txt,2,300,True
 Mr Prentis,425,./data/test/.\042.txt,2,424,True
 Mark Serwotka,448,./data/test/.\042.txt,2,447,True
@@ -5068,12 +4856,10 @@ Bin Laden,313,./data/test/.\052.txt,2,312,False
 - Creating,343,./data/test/.\052.txt,2,342,False
 Global Safety,347,./data/test/.\052.txt,2,346,False
 Safety Authority,348,./data/test/.\052.txt,2,347,False
-September -,364,./data/test/.\052.txt,2,363,False
 United Nations',369,./data/test/.\052.txt,2,368,False
 - Encouraging,372,./data/test/.\052.txt,2,371,False
 - Compelling,414,./data/test/.\052.txt,2,413,False
 Charles Clarke,17,./data/test/.\056.txt,2,16,True
-October Mr,53,./data/test/.\056.txt,2,52,False
 Mr Clarke,54,./data/test/.\056.txt,2,53,True
 David Bell,153,./data/test/.\056.txt,2,152,True
 Muslim Council,171,./data/test/.\056.txt,2,170,False
@@ -5211,7 +4997,6 @@ Commercial Services,34,./data/test/.\084.txt,2,33,False
 Brendan Barber,72,./data/test/.\084.txt,2,71,True
 Mr Barber,94,./data/test/.\084.txt,2,93,True
 Barber Public,95,./data/test/.\084.txt,2,94,False
-Next Friday's,151,./data/test/.\084.txt,2,150,False
 Essential Guide,33,./data/test/.\085.txt,2,32,False
 Dan Lewis,40,./data/test/.\085.txt,2,39,True
 Lib Dems,81,./data/test/.\085.txt,2,80,False
@@ -5325,7 +5110,6 @@ Glyn Davies,520,./data/test/.\101.txt,2,519,True
 Prince Charles,6,./data/test/.\104.txt,2,5,True
 Camilla Parker,9,./data/test/.\104.txt,2,8,False
 Parker Bowles,10,./data/test/.\104.txt,2,9,False
-April Mrs,26,./data/test/.\104.txt,2,25,False
 Mrs Parker,27,./data/test/.\104.txt,2,26,False
 Parker Bowles,28,./data/test/.\104.txt,2,27,False
 HRH Duchess,34,./data/test/.\104.txt,2,33,False
@@ -5381,7 +5165,6 @@ Mr Blair,423,./data/test/.\106.txt,2,422,True
 Blair Liberal,424,./data/test/.\106.txt,2,423,False
 Liberal Democrat,425,./data/test/.\106.txt,2,424,False
 Matthew Taylor,428,./data/test/.\106.txt,2,427,True
-Monday Mr,481,./data/test/.\106.txt,2,480,False
 Mr Howard,482,./data/test/.\106.txt,2,481,True
 Gordon Brown,6,./data/test/.\107.txt,2,5,True
 New Labour's,19,./data/test/.\107.txt,2,18,False
@@ -5402,7 +5185,6 @@ Mr Blair,242,./data/test/.\107.txt,2,241,True
 New Labour,247,./data/test/.\107.txt,2,246,False
 Mr Brown's,263,./data/test/.\107.txt,2,262,True
 New Labour,294,./data/test/.\107.txt,2,293,False
-May Mr,316,./data/test/.\107.txt,2,315,False
 Mr Blair,317,./data/test/.\107.txt,2,316,True
 Mike O'Brien,17,./data/test/.\109.txt,2,16,True
 Mr O'Brien,59,./data/test/.\109.txt,2,58,True
@@ -5425,7 +5207,6 @@ Boxing Day,137,./data/test/.\110.txt,2,136,False
 Mr Blair,254,./data/test/.\110.txt,2,253,True
 Mr Blair,374,./data/test/.\110.txt,2,373,True
 Mr Kemp,396,./data/test/.\110.txt,2,395,True
-January. Let,415,./data/test/.\110.txt,2,414,False
 Michael Howard,422,./data/test/.\110.txt,2,421,True
 Michael Howard,455,./data/test/.\110.txt,2,454,True
 East Midlands,10,./data/test/.\111.txt,2,9,False
@@ -5473,7 +5254,6 @@ Lord Falconer,361,./data/test/.\118.txt,2,360,True
 England Welsh,27,./data/test/.\121.txt,2,26,False
 Welsh Health,28,./data/test/.\121.txt,2,27,False
 Jane Hutt,31,./data/test/.\121.txt,2,30,True
-Wales Details,110,./data/test/.\121.txt,2,109,False
 New Year,123,./data/test/.\121.txt,2,122,False
 Dr Richard,144,./data/test/.\121.txt,2,143,False
 Richard Lewis,145,./data/test/.\121.txt,2,144,False
@@ -5482,9 +5262,7 @@ Medical Association,152,./data/test/.\121.txt,2,151,False
 Tony Beddow,218,./data/test/.\121.txt,2,217,True
 Welsh Institute,222,./data/test/.\121.txt,2,221,False
 Social Care,227,./data/test/.\121.txt,2,226,False
-Wednesday Ms,236,./data/test/.\121.txt,2,235,False
 Ms Hutt,237,./data/test/.\121.txt,2,236,True
-Wales Ms,260,./data/test/.\121.txt,2,259,False
 Ms Hutt,261,./data/test/.\121.txt,2,260,True
 Rhodri Glyn,361,./data/test/.\121.txt,2,360,False
 Glyn Thomas,362,./data/test/.\121.txt,2,361,False
@@ -5555,7 +5333,6 @@ Finance Facility,387,./data/test/.\130.txt,2,386,False
 Countryside Alliance,36,./data/test/.\137.txt,2,35,False
 East Kent,109,./data/test/.\137.txt,2,108,False
 Kent Hunt,110,./data/test/.\137.txt,2,109,False
-South Wales,132,./data/test/.\137.txt,2,131,False
 Jeremy Irons,185,./data/test/.\137.txt,2,184,True
 Kate Hoey,190,./data/test/.\137.txt,2,189,True
 Cruel Sports,203,./data/test/.\137.txt,2,202,False
@@ -5575,16 +5352,13 @@ Judith Moritz,402,./data/test/.\137.txt,2,401,True
 Melton Mowbray,405,./data/test/.\137.txt,2,404,False
 Countryside Alliance,432,./data/test/.\137.txt,2,431,False
 Simon Hart,454,./data/test/.\137.txt,2,453,True
-Theresa May,499,./data/test/.\137.txt,2,498,True
 Alastair McWhirter,520,./data/test/.\137.txt,2,519,True
 Lord Goldsmith,551,./data/test/.\137.txt,2,550,True
 Kashmir Foreign,29,./data/test/.\139.txt,2,28,False
 Jack Straw,32,./data/test/.\139.txt,2,31,True
 South East,35,./data/test/.\139.txt,2,34,False
 Mr Straw,65,./data/test/.\139.txt,2,64,True
-Wednesday Kashmiri,99,./data/test/.\139.txt,2,98,False
 Mr Straw,120,./data/test/.\139.txt,2,119,True
-Thursday Mr,197,./data/test/.\139.txt,2,196,False
 Mr Straw,198,./data/test/.\139.txt,2,197,True
 Golden Temple,208,./data/test/.\139.txt,2,207,False
 EU Constitution,15,./data/test/.\142.txt,2,14,False
@@ -5625,7 +5399,6 @@ Ms Abbott,342,./data/test/.\143.txt,2,341,True
 National Executive,358,./data/test/.\143.txt,2,357,False
 Executive Committee,359,./data/test/.\143.txt,2,358,False
 NEC ..,373,./data/test/.\143.txt,2,372,False
-Tuesday Labour,416,./data/test/.\143.txt,2,415,False
 Ian McCartney,419,./data/test/.\143.txt,2,418,True
 Independence Party,12,./data/test/.\145.txt,2,11,False
 Nicholas Betts-Green,27,./data/test/.\145.txt,2,26,True
@@ -5663,7 +5436,6 @@ London's Evening,86,./data/test/.\147.txt,2,85,False
 Evening Standard,87,./data/test/.\147.txt,2,86,False
 Mr Clarke,90,./data/test/.\147.txt,2,89,True
 Mr Blair's,158,./data/test/.\147.txt,2,157,True
-Monday Dr,216,./data/test/.\147.txt,2,215,False
 Dr Fox,217,./data/test/.\147.txt,2,216,True
 Labour Party,245,./data/test/.\147.txt,2,244,False
 Mr Clarke,286,./data/test/.\147.txt,2,285,True
@@ -5737,7 +5509,6 @@ Gareth Peirce,316,./data/test/.\151.txt,2,315,True
 Mr Begg,320,./data/test/.\151.txt,2,319,True
 Terrorism Act,397,./data/test/.\151.txt,2,396,False
 RAF Northolt,404,./data/test/.\151.txt,2,403,False
-Tuesday Massoud,409,./data/test/.\151.txt,2,408,False
 Massoud Shadjareh,410,./data/test/.\151.txt,2,409,True
 Muslim Safety,414,./data/test/.\151.txt,2,413,False
 Safety Forum,415,./data/test/.\151.txt,2,414,False
@@ -5747,7 +5518,6 @@ Robert Kilroy-Silk,7,./data/test/.\157.txt,2,6,True
 Independence Party,26,./data/test/.\157.txt,2,25,False
 Ruth Kelly,46,./data/test/.\157.txt,2,45,True
 Mr Kilroy-Silk,55,./data/test/.\157.txt,2,54,True
-January Mr,74,./data/test/.\157.txt,2,73,False
 Mr Kilroy-Silk,75,./data/test/.\157.txt,2,74,True
 BBC One,79,./data/test/.\157.txt,2,78,False
 Mr Kilroy-Silk,93,./data/test/.\157.txt,2,92,True
@@ -5797,7 +5567,6 @@ David Blunkett,224,./data/test/.\168.txt,2,223,True
 Mr Blunkett,248,./data/test/.\168.txt,2,247,True
 Criminal Justice,258,./data/test/.\168.txt,2,257,False
 Justice Bill,259,./data/test/.\168.txt,2,258,False
-Wales Lord,293,./data/test/.\168.txt,2,292,False
 Lord Woolf,294,./data/test/.\168.txt,2,293,True
 Lord Woolf's,334,./data/test/.\168.txt,2,333,True
 Woolf's Sentencing,335,./data/test/.\168.txt,2,334,False
@@ -5826,7 +5595,6 @@ Mr Bell,231,./data/test/.\172.txt,2,230,True
 Mr Bell,292,./data/test/.\172.txt,2,291,True
 Mr Bell,390,./data/test/.\172.txt,2,389,True
 Gordon Brown,5,./data/test/.\175.txt,2,4,True
-May -,42,./data/test/.\175.txt,2,41,False
 Gateshead Mr,63,./data/test/.\175.txt,2,62,False
 Mr Brown,64,./data/test/.\175.txt,2,63,True
 Gateshead's Sage,94,./data/test/.\175.txt,2,93,False
@@ -5884,8 +5652,6 @@ Mr Clarke,225,./data/test/.\182.txt,2,224,True
 London's Belmarsh,274,./data/test/.\182.txt,2,273,False
 Law Lords,284,./data/test/.\182.txt,2,283,False
 Law Lords',314,./data/test/.\182.txt,2,313,False
-- Wednesday,362,./data/test/.\182.txt,2,361,False
-Monday -,366,./data/test/.\182.txt,2,365,False
 Lib Dems,403,./data/test/.\182.txt,2,402,False
 Mr Davis,453,./data/test/.\182.txt,2,452,True
 Mr Clarke,503,./data/test/.\182.txt,2,502,True
@@ -5951,7 +5717,6 @@ Tony Blair,27,./data/test/.\195.txt,2,26,True
 Mr Blair,31,./data/test/.\195.txt,2,30,True
 BBC's Breakfast,35,./data/test/.\195.txt,2,34,False
 Africa Questioned,56,./data/test/.\195.txt,2,55,False
-Monday Foreign,89,./data/test/.\195.txt,2,88,False
 Jack Straw,92,./data/test/.\195.txt,2,91,True
 Mr Blair,109,./data/test/.\195.txt,2,108,True
 Since Jack,114,./data/test/.\195.txt,2,113,False
@@ -5963,7 +5728,6 @@ Mr Blair,273,./data/test/.\195.txt,2,272,True
 Patricia Hewitt,29,./data/test/.\199.txt,2,28,True
 Stefan Pakeerah,105,./data/test/.\199.txt,2,104,True
 Warren Leblanc,123,./data/test/.\199.txt,2,122,True
-September -,133,./data/test/.\199.txt,2,132,False
 London Ms,163,./data/test/.\199.txt,2,162,False
 Ms Hewitt,164,./data/test/.\199.txt,2,163,True
 Roger Bennett,192,./data/test/.\199.txt,2,191,True
@@ -5975,7 +5739,6 @@ Texas Chainsaw,364,./data/test/.\199.txt,2,363,False
 Chainsaw Massacre,365,./data/test/.\199.txt,2,364,False
 Rockstar Games,427,./data/test/.\199.txt,2,426,False
 David Blunkett's,10,./data/test/.\206.txt,2,9,True
-Wednesday Tony,24,./data/test/.\206.txt,2,23,False
 Tony Blair,25,./data/test/.\206.txt,2,24,True
 Mr Blunkett,42,./data/test/.\206.txt,2,41,True
 Mr Blair,60,./data/test/.\206.txt,2,59,True
@@ -6038,7 +5801,6 @@ PM John,93,./data/test/.\212.txt,2,92,False
 John Howard,94,./data/test/.\212.txt,2,93,True
 Mr Howard,99,./data/test/.\212.txt,2,98,True
 Mr Crosby,102,./data/test/.\212.txt,2,101,True
-October Mr,109,./data/test/.\212.txt,2,108,False
 Mr Crosby's,110,./data/test/.\212.txt,2,109,True
 Conservative Party,115,./data/test/.\212.txt,2,114,False
 Labour Party,138,./data/test/.\212.txt,2,137,False
@@ -6053,7 +5815,6 @@ Joint Committee,376,./data/test/.\215.txt,2,375,False
 Human Rights,379,./data/test/.\215.txt,2,378,False
 Human Rights,424,./data/test/.\215.txt,2,423,False
 Rights Act,425,./data/test/.\215.txt,2,424,False
-November Samuel,485,./data/test/.\215.txt,2,484,False
 Samuel Amoah,486,./data/test/.\215.txt,2,485,False
 Immigration Act,529,./data/test/.\215.txt,2,528,False
 Mark Rimmer,551,./data/test/.\215.txt,2,550,True
@@ -6086,7 +5847,6 @@ Mr Blair,48,./data/test/.\218.txt,2,47,True
 Mr Brown,59,./data/test/.\218.txt,2,58,True
 Mr Blair,68,./data/test/.\218.txt,2,67,True
 Mr Blair,88,./data/test/.\218.txt,2,87,True
-Sunday Telegraph,130,./data/test/.\218.txt,2,129,False
 Robert Peston,133,./data/test/.\218.txt,2,132,False
 Tony Blair,153,./data/test/.\218.txt,2,152,True
 Labour Party,179,./data/test/.\218.txt,2,178,False
@@ -6108,7 +5868,6 @@ Mr Blair,507,./data/test/.\218.txt,2,506,True
 Michael Howard,517,./data/test/.\218.txt,2,516,True
 Mr Brown,524,./data/test/.\218.txt,2,523,True
 Sky News',532,./data/test/.\218.txt,2,531,False
-News' Sunday,533,./data/test/.\218.txt,2,532,False
 Adam Boulton,536,./data/test/.\218.txt,2,535,True
 Liberal Democrat,552,./data/test/.\218.txt,2,551,False
 Matthew Taylor,556,./data/test/.\218.txt,2,555,True
@@ -6139,7 +5898,6 @@ Brown Meanwhile,29,./data/test/.\225.txt,2,28,False
 Mr Blair,55,./data/test/.\225.txt,2,54,True
 Michael Howard,75,./data/test/.\225.txt,2,74,True
 Michael Howard,105,./data/test/.\225.txt,2,104,True
-Tuesday Mr,134,./data/test/.\225.txt,2,133,False
 Mr Brown,135,./data/test/.\225.txt,2,134,True
 Alan Milburn,140,./data/test/.\225.txt,2,139,True
 Mr Blair,143,./data/test/.\225.txt,2,142,True
@@ -6169,7 +5927,6 @@ Two Britains,197,./data/test/.\226.txt,2,196,False
 Liberal Democrats,262,./data/test/.\226.txt,2,261,False
 Information Act,16,./data/test/.\233.txt,2,15,False
 Constitutional Affairs,73,./data/test/.\233.txt,2,72,False
-England Wales,87,./data/test/.\233.txt,2,86,False
 Northern Ireland,90,./data/test/.\233.txt,2,89,False
 Constitutional Affairs,158,./data/test/.\233.txt,2,157,False
 Affairs Select,159,./data/test/.\233.txt,2,158,False
@@ -6223,8 +5980,6 @@ Scotland That's,109,./data/test/.\241.txt,2,108,False
 Mr McCabe,146,./data/test/.\241.txt,2,145,True
 BBC Radio,166,./data/test/.\241.txt,2,165,False
 Radio Scotland's,167,./data/test/.\241.txt,2,166,False
-Scotland's Sunday,168,./data/test/.\241.txt,2,167,False
-Sunday Live,169,./data/test/.\241.txt,2,168,False
 BBC Scotland,229,./data/test/.\241.txt,2,228,False
 Mr McCabe,249,./data/test/.\241.txt,2,248,True
 Brian Monteith,354,./data/test/.\241.txt,2,353,False
@@ -6238,7 +5993,6 @@ Linda Knox,517,./data/test/.\241.txt,2,516,True
 - Tories,4,./data/test/.\242.txt,2,3,False
 Tories Civil,5,./data/test/.\242.txt,2,4,False
 Information Act's,39,./data/test/.\242.txt,2,38,False
-January Departments,44,./data/test/.\242.txt,2,43,False
 Information Act,77,./data/test/.\242.txt,2,76,False
 BBC Political,100,./data/test/.\242.txt,2,99,False
 Political Correspondent,101,./data/test/.\242.txt,2,100,False
@@ -6262,10 +6016,8 @@ Dr Lewis,290,./data/test/.\242.txt,2,289,True
 Richard Thomas,301,./data/test/.\242.txt,2,300,True
 Thomas Earlier,302,./data/test/.\242.txt,2,301,False
 Mr Thomas,306,./data/test/.\242.txt,2,305,True
-January Government,349,./data/test/.\242.txt,2,348,False
 Mr Thomas,364,./data/test/.\242.txt,2,363,True
 Information Act,389,./data/test/.\242.txt,2,388,False
-England Wales,393,./data/test/.\242.txt,2,392,False
 Northern Ireland,396,./data/test/.\242.txt,2,395,False
 David Blunkett,1,./data/test/.\248.txt,2,0,True
 David Blunkett,5,./data/test/.\248.txt,2,4,True
@@ -6313,7 +6065,6 @@ Gordon Brown,7,./data/test/.\255.txt,2,6,True
 Mr Blair,18,./data/test/.\255.txt,2,17,True
 Mr Blair,69,./data/test/.\255.txt,2,68,True
 Gordon Brown,85,./data/test/.\255.txt,2,84,True
-Sunday Telegraph,98,./data/test/.\255.txt,2,97,False
 Robert Peston,101,./data/test/.\255.txt,2,100,True
 Peston Mr,102,./data/test/.\255.txt,2,101,False
 Mr Blair,103,./data/test/.\255.txt,2,102,True
@@ -6334,7 +6085,6 @@ Gordon Brown,394,./data/test/.\255.txt,2,393,True
 Tony Blair,401,./data/test/.\255.txt,2,400,True
 Tony Blair,423,./data/test/.\255.txt,2,422,True
 Gordon Brown,429,./data/test/.\255.txt,2,428,False
-Monday Health,471,./data/test/.\255.txt,2,470,False
 John Reid,474,./data/test/.\255.txt,2,473,True
 Mr Blair,499,./data/test/.\255.txt,2,498,True
 Mr Brown's,502,./data/test/.\255.txt,2,501,True
@@ -6356,7 +6106,6 @@ Mr Blair,97,./data/test/.\256.txt,2,96,True
 Parliamentary Labour,101,./data/test/.\256.txt,2,100,False
 Labour Party,102,./data/test/.\256.txt,2,101,False
 Labour Party,127,./data/test/.\256.txt,2,126,False
-Sunday Telegraph,175,./data/test/.\256.txt,2,174,False
 Robert Peston,178,./data/test/.\256.txt,2,177,True
 Mr Blair,181,./data/test/.\256.txt,2,180,True
 Mr Brown,192,./data/test/.\256.txt,2,191,True
@@ -6365,7 +6114,6 @@ BBC News,264,./data/test/.\256.txt,2,263,False
 Labour Party,309,./data/test/.\256.txt,2,308,False
 Mr Blair,314,./data/test/.\256.txt,2,313,True
 Mr Brown,350,./data/test/.\256.txt,2,349,True
-Monday Mr,389,./data/test/.\256.txt,2,388,False
 Mr Blair's,390,./data/test/.\256.txt,2,389,True
 Mr Brown,416,./data/test/.\256.txt,2,415,True
 Mr Blair,425,./data/test/.\256.txt,2,424,True
@@ -6391,7 +6139,6 @@ Mr Brown,76,./data/test/.\257.txt,2,75,True
 Alan Milburn,112,./data/test/.\257.txt,2,111,True
 Milburn -,113,./data/test/.\257.txt,2,112,False
 John Prescott,128,./data/test/.\257.txt,2,127,True
-Tuesday Relations,136,./data/test/.\257.txt,2,135,False
 Mr Brown,139,./data/test/.\257.txt,2,138,True
 Mr Milburn,142,./data/test/.\257.txt,2,141,True
 Mr Blair,152,./data/test/.\257.txt,2,151,True
@@ -6400,7 +6147,6 @@ Mr Blair,179,./data/test/.\257.txt,2,178,True
 Parliamentary Labour,183,./data/test/.\257.txt,2,182,False
 Labour Party,184,./data/test/.\257.txt,2,183,False
 Labour Party,208,./data/test/.\257.txt,2,207,False
-Sunday Telegraph,265,./data/test/.\257.txt,2,264,False
 Robert Peston,268,./data/test/.\257.txt,2,267,True
 Mr Blair,272,./data/test/.\257.txt,2,271,True
 Mr Brown,283,./data/test/.\257.txt,2,282,True
@@ -6419,7 +6165,6 @@ Lord Campbell-Savours,338,./data/test/.\257.txt,2,337,True
 Mr Brown,344,./data/test/.\257.txt,2,343,True
 Mr Prescott,363,./data/test/.\257.txt,2,362,True
 BBC Radio,395,./data/test/.\257.txt,2,394,False
-Tuesday Mr,400,./data/test/.\257.txt,2,399,False
 Mr Prescott,401,./data/test/.\257.txt,2,400,True
 Mr Blair,414,./data/test/.\257.txt,2,413,True
 Mr Brown,417,./data/test/.\257.txt,2,416,True
@@ -6497,7 +6242,6 @@ Mr Bush,35,./data/test/.\280.txt,2,34,True
 Mr Blair,67,./data/test/.\280.txt,2,66,True
 Mr Bush,73,./data/test/.\280.txt,2,72,True
 Washington DC,82,./data/test/.\280.txt,2,81,False
-Thursday Echoing,85,./data/test/.\280.txt,2,84,False
 State Condoleezza,92,./data/test/.\280.txt,2,91,False
 Condoleezza Rice,93,./data/test/.\280.txt,2,92,True
 Mr Blair,115,./data/test/.\280.txt,2,114,True
@@ -6510,7 +6254,6 @@ Mr Blair,275,./data/test/.\280.txt,2,274,True
 Mr Blair,315,./data/test/.\280.txt,2,314,True
 Blair Following,316,./data/test/.\280.txt,2,315,False
 Mr Bush,320,./data/test/.\280.txt,2,319,True
-January Kilroy-Silk,330,./data/test/.\280.txt,2,329,False
 Robert Kilroy-Silk,8,./data/test/.\281.txt,2,7,True
 Independence Party,14,./data/test/.\281.txt,2,13,False
 Veritas -,62,./data/test/.\281.txt,2,61,False
@@ -6577,8 +6320,6 @@ Cold War,303,./data/test/.\290.txt,2,302,False
 Cold War,367,./data/test/.\290.txt,2,366,False
 Al Fatah,387,./data/test/.\290.txt,2,386,False
 Fatah Black,388,./data/test/.\290.txt,2,387,False
-Black September,389,./data/test/.\290.txt,2,388,False
-September Red,390,./data/test/.\290.txt,2,389,False
 Red Brigades,391,./data/test/.\290.txt,2,390,False
 INLA Thirty,403,./data/test/.\290.txt,2,402,False
 Frederick Forsyth,746,./data/test/.\290.txt,2,745,True
@@ -6681,7 +6422,6 @@ Liam Fox,312,./data/test/.\297.txt,2,311,True
 Mr Campbell's,315,./data/test/.\297.txt,2,314,True
 Mr Howard,323,./data/test/.\297.txt,2,322,True
 Howard -,324,./data/test/.\297.txt,2,323,False
-Sunday Labour,375,./data/test/.\297.txt,2,374,False
 Baroness Kennedy,378,./data/test/.\297.txt,2,377,True
 Power Inquiry,384,./data/test/.\297.txt,2,383,False
 Liberal Democrats,76,./data/test/.\299.txt,2,75,False
@@ -6693,7 +6433,7 @@ Mark Oaten,245,./data/test/.\299.txt,2,244,True
 Michael Howard,254,./data/test/.\299.txt,2,253,True
 Bar Council,282,./data/test/.\299.txt,2,281,False
 Council Guy,283,./data/test/.\299.txt,2,282,False
-Guy Mansfield,284,./data/test/.\299.txt,2,283,False
+Guy Mansfield,284,./data/test/.\299.txt,2,283,True
 Mansfield QC,285,./data/test/.\299.txt,2,284,False
 Ex-PM Lord,1,./data/test/.\400.txt,2,0,False
 Lord Callaghan,2,./data/test/.\400.txt,2,1,True
@@ -6738,13 +6478,11 @@ Gordon Brown,12,./data/test/.\402.txt,2,11,True
 Alan Milburn,18,./data/test/.\402.txt,2,17,True
 Alan Johnson,28,./data/test/.\402.txt,2,27,True
 Mr Milburn,40,./data/test/.\402.txt,2,39,True
-Sunday Business,53,./data/test/.\402.txt,2,52,False
 Mr Brown,56,./data/test/.\402.txt,2,55,True
 Mr Milburn,68,./data/test/.\402.txt,2,67,True
 Mr Brown,80,./data/test/.\402.txt,2,79,True
 Labour Party,153,./data/test/.\402.txt,2,152,False
 Mr Brown,162,./data/test/.\402.txt,2,161,True
-Sunday Telegraph,183,./data/test/.\402.txt,2,182,False
 Mr Milburn,186,./data/test/.\402.txt,2,185,True
 Mr Johnson,203,./data/test/.\402.txt,2,202,True
 BBC News,206,./data/test/.\402.txt,2,205,False
@@ -6808,7 +6546,6 @@ Helen Liddell,425,./data/test/.\407.txt,2,424,True
 Australia Mr,431,./data/test/.\407.txt,2,430,False
 Mr Blair's,432,./data/test/.\407.txt,2,431,True
 Paul Boateng,436,./data/test/.\407.txt,2,435,True
-Family Theresa May,248,./data/test/.\001.txt,3,246,False
 Election Liberal Democrat,293,./data/test/.\001.txt,3,291,False
 National Executive Committee,32,./data/test/.\004.txt,3,30,False
 Colin Asplin Blackpool,159,./data/test/.\004.txt,3,157,False
@@ -6853,9 +6590,7 @@ Blair David Miliband,166,./data/test/.\037.txt,3,164,False
 Public Policy Research,176,./data/test/.\037.txt,3,174,False
 Civil Service Pension,155,./data/test/.\042.txt,3,153,False
 Service Pension Scheme,156,./data/test/.\042.txt,3,154,False
-Monday Tony Blair's,223,./data/test/.\042.txt,3,221,False
 Trades Union Congress,293,./data/test/.\042.txt,3,291,False
-Monday Dave Prentis,301,./data/test/.\042.txt,3,299,False
 Fire Brigades Union,474,./data/test/.\042.txt,3,472,False
 Carter's White House,95,./data/test/.\052.txt,3,93,False
 Blairite Third Way,110,./data/test/.\052.txt,3,108,False
@@ -6863,7 +6598,6 @@ Foreign Policy Centre,119,./data/test/.\052.txt,3,117,False
 Abdul Qadeer Khan,286,./data/test/.\052.txt,3,284,False
 Osama Bin Laden,313,./data/test/.\052.txt,3,311,True
 Global Safety Authority,348,./data/test/.\052.txt,3,346,False
-October Mr Clarke,54,./data/test/.\056.txt,3,52,False
 Race Equality Strategy,195,./data/test/.\056.txt,3,193,False
 Opportunity Strengthening Society',209,./data/test/.\056.txt,3,207,False
 Downing Street Strategy,404,./data/test/.\056.txt,3,402,False
@@ -6925,7 +6659,6 @@ Local Government Association,119,./data/test/.\101.txt,3,117,False
 Labour Assembly Government,421,./data/test/.\101.txt,3,419,False
 Welsh Liberal Democrat,486,./data/test/.\101.txt,3,484,False
 Camilla Parker Bowles,10,./data/test/.\104.txt,3,8,True
-April Mrs Parker,27,./data/test/.\104.txt,3,25,False
 Mrs Parker Bowles,28,./data/test/.\104.txt,3,26,True
 Mrs Parker Bowles,70,./data/test/.\104.txt,3,68,True
 Mrs Parker Bowles,139,./data/test/.\104.txt,3,137,True
@@ -6943,9 +6676,7 @@ Prince's Trust Clarence,454,./data/test/.\104.txt,3,452,False
 Trust Clarence House,455,./data/test/.\104.txt,3,453,False
 Mr Blair Liberal,424,./data/test/.\106.txt,3,422,False
 Blair Liberal Democrat,425,./data/test/.\106.txt,3,423,False
-Monday Mr Howard,482,./data/test/.\106.txt,3,480,False
 Alan Milburn -,66,./data/test/.\107.txt,3,64,False
-May Mr Blair,317,./data/test/.\107.txt,3,315,False
 Booz Allen Hamilton,85,./data/test/.\109.txt,3,83,True
 International Benchmarking Study,261,./data/test/.\109.txt,3,259,False
 - Howard Tony,6,./data/test/.\110.txt,3,4,False
@@ -6958,8 +6689,6 @@ Robert Kilroy-Silk Party,422,./data/test/.\111.txt,3,420,False
 England Welsh Health,28,./data/test/.\121.txt,3,26,False
 Dr Richard Lewis,145,./data/test/.\121.txt,3,143,True
 Richard Lewis Welsh,146,./data/test/.\121.txt,3,144,False
-Wednesday Ms Hutt,237,./data/test/.\121.txt,3,235,False
-Wales Ms Hutt,261,./data/test/.\121.txt,3,259,False
 Rhodri Glyn Thomas,362,./data/test/.\121.txt,3,360,True
 Glyn Thomas Plaid,363,./data/test/.\121.txt,3,361,False
 Thomas Plaid Cymru,364,./data/test/.\121.txt,3,362,False
@@ -6984,7 +6713,6 @@ East Kent Hunt,110,./data/test/.\137.txt,3,108,False
 Cruel Sports -,204,./data/test/.\137.txt,3,202,False
 BBC's Sarah Mukherjee,306,./data/test/.\137.txt,3,304,False
 Tom Heap BBC,332,./data/test/.\137.txt,3,330,False
-Thursday Mr Straw,198,./data/test/.\139.txt,3,196,False
 Financial Times Mr,497,./data/test/.\142.txt,3,495,False
 Times Mr Blair,498,./data/test/.\142.txt,3,496,False
 - Keith Vaz,310,./data/test/.\143.txt,3,308,False
@@ -7003,7 +6731,6 @@ Nuclear Decommissioning Agency,243,./data/test/.\146.txt,3,241,False
 Liberal Democrats Mr,257,./data/test/.\146.txt,3,255,False
 Democrats Mr Baker,258,./data/test/.\146.txt,3,256,False
 London's Evening Standard,87,./data/test/.\147.txt,3,85,False
-Monday Dr Fox,217,./data/test/.\147.txt,3,215,False
 Earlier Dr Fox,371,./data/test/.\147.txt,3,369,False
 Manchester Liverpool Leicester,458,./data/test/.\147.txt,3,456,False
 Liverpool Leicester Somerset,459,./data/test/.\147.txt,3,457,False
@@ -7025,16 +6752,13 @@ London's Paddington Green,73,./data/test/.\151.txt,3,71,False
 London Azmat Begg,121,./data/test/.\151.txt,3,119,False
 Sir John Stevens,187,./data/test/.\151.txt,3,185,True
 Independent Sir John,212,./data/test/.\151.txt,3,210,False
-Tuesday Massoud Shadjareh,410,./data/test/.\151.txt,3,408,False
 Muslim Safety Forum,415,./data/test/.\151.txt,3,413,False
-January Mr Kilroy-Silk,75,./data/test/.\157.txt,3,73,False
 Manchester High School,148,./data/test/.\157.txt,3,146,False
 Greater Manchester Police,339,./data/test/.\157.txt,3,337,False
 Mr Blair. Saying,211,./data/test/.\159.txt,3,209,False
 BBC News I'm,331,./data/test/.\159.txt,3,329,False
 Labour Mr Howard,402,./data/test/.\159.txt,3,400,False
 Criminal Justice Bill,259,./data/test/.\168.txt,3,257,False
-Wales Lord Woolf,294,./data/test/.\168.txt,3,292,False
 Lord Woolf's Sentencing,335,./data/test/.\168.txt,3,333,False
 Woolf's Sentencing Guidelines,336,./data/test/.\168.txt,3,334,False
 Sentencing Guidelines Council,337,./data/test/.\168.txt,3,335,False
@@ -7081,7 +6805,6 @@ US Supreme Court,119,./data/test/.\194.txt,3,117,False
 Since Jack Straw,115,./data/test/.\195.txt,3,113,False
 London Ms Hewitt,164,./data/test/.\199.txt,3,162,False
 Texas Chainsaw Massacre,365,./data/test/.\199.txt,3,363,False
-Wednesday Tony Blair,25,./data/test/.\206.txt,3,23,False
 Tory Dominic Grieve,73,./data/test/.\206.txt,3,71,False
 Indonesia Downing Street,25,./data/test/.\208.txt,3,23,False
 Battalion Royal Gurkha,37,./data/test/.\208.txt,3,35,False
@@ -7098,21 +6821,17 @@ Annan World Bank,248,./data/test/.\209.txt,3,246,False
 Australian Lynton Crosby,33,./data/test/.\212.txt,3,31,False
 Australia's PM John,93,./data/test/.\212.txt,3,91,False
 PM John Howard,94,./data/test/.\212.txt,3,92,False
-October Mr Crosby's,110,./data/test/.\212.txt,3,108,False
 Switzerland Liechtenstein Iceland,167,./data/test/.\215.txt,3,165,False
 Human Rights Act,425,./data/test/.\215.txt,3,423,False
-November Samuel Amoah,486,./data/test/.\215.txt,3,484,False
 Javier Solana EU,24,./data/test/.\216.txt,3,22,False
 Sir Ian Blair,130,./data/test/.\216.txt,3,128,True
 BBC One's Breakfast,36,./data/test/.\218.txt,3,34,False
 Northern Ireland Mr,349,./data/test/.\218.txt,3,347,False
 Ireland Mr Blair,350,./data/test/.\218.txt,3,348,False
-Sky News' Sunday,533,./data/test/.\218.txt,3,531,False
 Blair Lib Dem,6,./data/test/.\223.txt,3,4,False
 Tony Blair Michael,133,./data/test/.\223.txt,3,131,False
 Blair Michael Howard,134,./data/test/.\223.txt,3,132,False
 Gordon Brown Meanwhile,29,./data/test/.\225.txt,3,27,False
-Tuesday Mr Brown,135,./data/test/.\225.txt,3,133,False
 Parliamentary Labour Party,235,./data/test/.\225.txt,3,233,False
 Labour's Paul Flynn,287,./data/test/.\225.txt,3,285,False
 Constitutional Affairs Select,159,./data/test/.\233.txt,3,157,False
@@ -7132,8 +6851,6 @@ Scots Guardsman Allan,98,./data/test/.\238.txt,3,96,False
 Guardsman Allan Hendry,99,./data/test/.\238.txt,3,97,False
 Tom McCabe MSP,90,./data/test/.\241.txt,3,88,True
 BBC Radio Scotland's,167,./data/test/.\241.txt,3,165,False
-Radio Scotland's Sunday,168,./data/test/.\241.txt,3,166,False
-Scotland's Sunday Live,169,./data/test/.\241.txt,3,167,False
 Brian Monteith MSP,355,./data/test/.\241.txt,3,353,True
 Local Authority Management,451,./data/test/.\241.txt,3,449,False
 Authority Management Centre,452,./data/test/.\241.txt,3,450,False
@@ -7160,7 +6877,6 @@ Frost Mr Blair,132,./data/test/.\255.txt,3,130,False
 Andrew Marr Mr,180,./data/test/.\255.txt,3,178,False
 Marr Mr Brown,181,./data/test/.\255.txt,3,179,False
 Parliamentary Labour Party,102,./data/test/.\256.txt,3,100,False
-Monday Mr Blair's,390,./data/test/.\256.txt,3,388,False
 BBC Radio Five,570,./data/test/.\256.txt,3,568,False
 Radio Five Live,571,./data/test/.\256.txt,3,569,False
 Parliamentary Labour Party,32,./data/test/.\257.txt,3,30,False
@@ -7171,7 +6887,6 @@ Brown Labour's Paul,285,./data/test/.\257.txt,3,283,False
 Labour's Paul Flynn,286,./data/test/.\257.txt,3,284,False
 Parliamentary Labour Party,304,./data/test/.\257.txt,3,302,False
 Backbencher Stephen Pound,311,./data/test/.\257.txt,3,309,False
-Tuesday Mr Prescott,401,./data/test/.\257.txt,3,399,False
 Mr Peston Mr,494,./data/test/.\257.txt,3,492,False
 Peston Mr Prescott,495,./data/test/.\257.txt,3,493,False
 Parliamentary Labour Party,487,./data/test/.\262.txt,3,485,False
@@ -7190,9 +6905,6 @@ Robert Kilroy-Silk Party,123,./data/test/.\281.txt,3,121,False
 Robert Kilroy-Silk Mr,93,./data/test/.\286.txt,3,91,False
 Kilroy-Silk Mr Houston,94,./data/test/.\286.txt,3,92,False
 Al Fatah Black,388,./data/test/.\290.txt,3,386,False
-Fatah Black September,389,./data/test/.\290.txt,3,387,False
-Black September Red,390,./data/test/.\290.txt,3,388,False
-September Red Brigades,391,./data/test/.\290.txt,3,389,False
 Data Protection Act,960,./data/test/.\290.txt,3,958,False
 Frederick Forsyth Yes,1376,./data/test/.\290.txt,3,1374,False
 Mutually Assured Destruction,1706,./data/test/.\290.txt,3,1704,False
@@ -7209,7 +6921,7 @@ Mr Howard -,324,./data/test/.\297.txt,3,322,False
 BBC Michael Howard,99,./data/test/.\299.txt,3,97,False
 Bar Council Guy,283,./data/test/.\299.txt,3,281,False
 Council Guy Mansfield,284,./data/test/.\299.txt,3,282,False
-Guy Mansfield QC,285,./data/test/.\299.txt,3,283,True
+Guy Mansfield QC,285,./data/test/.\299.txt,3,283,False
 Ex-PM Lord Callaghan,2,./data/test/.\400.txt,3,0,False
 Harold Wilson Prime,69,./data/test/.\400.txt,3,67,False
 Portsmouth Northern Secondary,340,./data/test/.\400.txt,3,338,False

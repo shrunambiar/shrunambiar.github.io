@@ -10,427 +10,500 @@
 8,Blair,246,./data/test/.\027.txt,1,246,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
 9,Blunkett,0,./data/test/.\031.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
 10,Ralph,124,./data/test/.\037.txt,1,124,True,4,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-11,Etzioni,214,./data/test/.\052.txt,1,214,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-12,Etzioni,292,./data/test/.\052.txt,1,292,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-13,William,67,./data/test/.\066.txt,1,67,True,100,3,False,False,100,True,False,False,False,False,False,False,False,False,False
-14,Harry,69,./data/test/.\066.txt,1,69,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-15,Boris,0,./data/test/.\075.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-16,Ken,263,./data/test/.\075.txt,1,263,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-17,Ken,395,./data/test/.\075.txt,1,395,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-18,Ffion,90,./data/test/.\083.txt,1,90,True,100,100,False,False,100,True,True,True,False,False,False,False,False,False,False
-19,Kennedy,0,./data/test/.\093.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-20,McConnell,0,./data/test/.\094.txt,1,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-21,Harry,231,./data/test/.\104.txt,1,231,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-22,Charles,303,./data/test/.\104.txt,1,303,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-23,Diana,327,./data/test/.\104.txt,1,327,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-24,Diana,336,./data/test/.\104.txt,1,336,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-25,Diana,358,./data/test/.\104.txt,1,358,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-26,Howard,0,./data/test/.\106.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-27,Hannah,283,./data/test/.\106.txt,1,283,True,1,100,False,False,100,True,False,True,False,False,False,False,True,False,False
-28,Brown,0,./data/test/.\107.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-29,Howard,5,./data/test/.\110.txt,1,5,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-30,Kilroy,0,./data/test/.\111.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-31,Kilroy,478,./data/test/.\111.txt,1,478,True,4,0,False,False,100,False,False,False,False,True,False,False,False,False,False
-32,Kilroy-Silk,511,./data/test/.\111.txt,1,511,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-33,Kilroy-Silk,595,./data/test/.\111.txt,1,595,True,1,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-34,Kilroy-Silk,621,./data/test/.\111.txt,1,621,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-35,Kilroy-Silk,664,./data/test/.\111.txt,1,664,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-36,Kilroy-Silk,749,./data/test/.\111.txt,1,749,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-37,Kilroy-Silk,816,./data/test/.\111.txt,1,816,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-38,Robert,827,./data/test/.\111.txt,1,827,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-39,Kilroy-Silk,872,./data/test/.\111.txt,1,872,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-40,Boothroyd,0,./data/test/.\117.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-41,Blair,0,./data/test/.\130.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-42,Straw,0,./data/test/.\139.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-43,Malik,0,./data/test/.\143.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-44,Shahid,352,./data/test/.\143.txt,1,352,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False,False
-45,Kilroy-Silk,0,./data/test/.\157.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-46,Howard,0,./data/test/.\159.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-47,Howard,0,./data/test/.\190.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-48,Jimmy,164,./data/test/.\190.txt,1,164,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-49,White,167,./data/test/.\190.txt,1,167,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-50,Dracula,236,./data/test/.\190.txt,1,236,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-51,Jack's,281,./data/test/.\190.txt,1,281,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-52,Bush,26,./data/test/.\191.txt,1,26,True,4,0,False,False,1,False,False,True,False,False,False,False,False,False,False
-53,Cherie,0,./data/test/.\194.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-54,Bush,4,./data/test/.\194.txt,1,4,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-55,Giselle,117,./data/test/.\199.txt,1,117,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
-56,Stefan's,143,./data/test/.\199.txt,1,143,True,100,0,False,False,100,False,False,False,True,False,False,False,False,False,False
-57,Blair's,0,./data/test/.\206.txt,1,0,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-58,Blunkett,3,./data/test/.\206.txt,1,3,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-59,David,93,./data/test/.\206.txt,1,93,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-60,Abbas,0,./data/test/.\209.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-61,Blair,0,./data/test/.\218.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-62,Frost,38,./data/test/.\218.txt,1,38,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-63,Kennedy,0,./data/test/.\223.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-64,Blair,4,./data/test/.\223.txt,1,4,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-65,Blair,0,./data/test/.\225.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
-66,Kilroy,0,./data/test/.\237.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-67,Brown,0,./data/test/.\251.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-68,Blair,2,./data/test/.\251.txt,1,2,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-69,Gordon,234,./data/test/.\251.txt,1,234,True,1,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-70,Brown,0,./data/test/.\255.txt,1,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-71,Brown's,94,./data/test/.\255.txt,1,94,True,4,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-72,Blair,0,./data/test/.\256.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-73,Brown's,171,./data/test/.\256.txt,1,171,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
-74,Blair,0,./data/test/.\257.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-75,Brown,2,./data/test/.\257.txt,1,2,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-76,Brown's,261,./data/test/.\257.txt,1,261,True,5,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-77,Howard,0,./data/test/.\262.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-78,Blair,2,./data/test/.\262.txt,1,2,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-79,Brown's,157,./data/test/.\262.txt,1,157,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-80,Blair,10,./data/test/.\263.txt,1,10,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-81,Brown,12,./data/test/.\263.txt,1,12,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-82,Blair,680,./data/test/.\263.txt,1,680,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-83,Brown,682,./data/test/.\263.txt,1,682,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-84,Solomon's,691,./data/test/.\263.txt,1,691,True,100,2,False,False,100,False,False,False,True,False,False,False,False,False,False
-85,Brown's,3,./data/test/.\274.txt,1,3,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-86,Blair,0,./data/test/.\280.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-87,Bush,3,./data/test/.\280.txt,1,3,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-88,Kilroy-Silk,0,./data/test/.\281.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-89,Blair,200,./data/test/.\290.txt,1,200,True,3,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-90,Forsyth,996,./data/test/.\290.txt,1,996,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-91,Bush,1498,./data/test/.\290.txt,1,1498,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-92,Blair,1500,./data/test/.\290.txt,1,1500,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-93,Forsyth,2155,./data/test/.\290.txt,1,2155,True,2,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-94,Forsyth,2298,./data/test/.\290.txt,1,2298,True,5,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-95,Forsyth,2803,./data/test/.\290.txt,1,2803,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-96,Churchill,2863,./data/test/.\290.txt,1,2863,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-97,Forsythe,3221,./data/test/.\290.txt,1,3221,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-98,Hobbes,3225,./data/test/.\290.txt,1,3225,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-99,Hobbes,3280,./data/test/.\290.txt,1,3280,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-100,Frederick,3327,./data/test/.\290.txt,1,3327,True,5,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-101,Freddie's,3372,./data/test/.\290.txt,1,3372,True,3,100,False,False,100,False,False,True,True,False,False,False,False,False,False
-102,Stalin's,3510,./data/test/.\290.txt,1,3510,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
-103,Ceausescu's,3512,./data/test/.\290.txt,1,3512,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
-104,Muhammad,4031,./data/test/.\290.txt,1,4031,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-105,Thatcher,4268,./data/test/.\290.txt,1,4268,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-106,Mandelson,0,./data/test/.\297.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-107,Campbell,4,./data/test/.\297.txt,1,4,True,3,2,False,False,100,True,False,True,False,False,False,False,False,False,False
-108,Audrey,35,./data/test/.\400.txt,1,35,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-109,Jim,138,./data/test/.\400.txt,1,138,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-110,Audrey,181,./data/test/.\400.txt,1,181,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-111,Brown's,0,./data/test/.\402.txt,1,0,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-112,Milburn,224,./data/test/.\402.txt,1,224,True,1,0,False,False,100,False,False,False,False,False,False,False,True,False,False
-113,Brown,227,./data/test/.\402.txt,1,227,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-114,Brown,236,./data/test/.\402.txt,1,236,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-115,Milburn,239,./data/test/.\402.txt,1,239,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-116,Blair,6,./data/test/.\405.txt,1,6,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
-117,Boateng,0,./data/test/.\407.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
-118,Paul,122,./data/test/.\407.txt,1,122,True,100,0,False,False,4,False,False,False,False,False,False,False,False,False,False
-119,Paul's,181,./data/test/.\407.txt,1,181,True,100,1,False,False,100,False,False,False,True,False,False,False,False,False,False
-120,Paul,211,./data/test/.\407.txt,1,211,True,100,100,False,False,100,True,False,False,False,True,False,False,False,False,False
-121,Paul,246,./data/test/.\407.txt,1,246,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-122,Paul,269,./data/test/.\407.txt,1,269,True,5,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-123,Tony's,447,./data/test/.\407.txt,1,447,True,100,3,False,False,100,True,False,False,True,False,False,False,False,False,False
-124,Patricia Hewitt,28,./data/test/.\001.txt,2,27,True,100,1,False,False,1,False,False,True,False,False,False,False,False,False,False
-125,Theresa May,248,./data/test/.\001.txt,2,247,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-126,Gordon Brown,256,./data/test/.\001.txt,2,255,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-127,Tony Blair,265,./data/test/.\001.txt,2,264,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-128,Sandra Gidley,298,./data/test/.\001.txt,2,297,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-129,David Frost,357,./data/test/.\001.txt,2,356,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-130,Patricia Hewitt,28,./data/test/.\003.txt,2,27,True,2,0,False,False,3,False,False,False,False,False,False,True,False,False,False
-131,Colin Asplin,158,./data/test/.\004.txt,2,157,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-132,Alastair Campbell,418,./data/test/.\013.txt,2,417,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-133,Mr Howard,433,./data/test/.\013.txt,2,432,True,1,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-134,Michael Howard,551,./data/test/.\013.txt,2,550,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-135,Gordon Brown's,10,./data/test/.\021.txt,2,9,True,3,1,False,False,1,False,False,True,True,False,False,False,False,False,False
-136,Carl Emmerson,298,./data/test/.\021.txt,2,297,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-137,David Page,329,./data/test/.\021.txt,2,328,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-138,Oliver Letwin,370,./data/test/.\021.txt,2,369,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-139,Vincent Cable,435,./data/test/.\021.txt,2,434,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-140,Tony Blair,24,./data/test/.\022.txt,2,23,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-141,Mr Howard,204,./data/test/.\022.txt,2,203,True,1,1,True,False,100,False,False,True,False,False,False,False,True,False,False
-142,John Beaumont,40,./data/test/.\023.txt,2,39,True,5,0,False,False,2,False,False,False,False,False,False,False,False,False,False
-143,Barry Sheerman,253,./data/test/.\023.txt,2,252,True,4,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-144,Tony Blair,232,./data/test/.\024.txt,2,231,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-145,Michael Howard,241,./data/test/.\024.txt,2,240,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-146,Tony Blair's,16,./data/test/.\027.txt,2,15,True,4,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-147,Jack Cunningham,610,./data/test/.\027.txt,2,609,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-148,David Blunkett,12,./data/test/.\028.txt,2,11,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-149,Mr Straw,173,./data/test/.\029.txt,2,172,True,2,3,True,False,100,True,False,False,False,False,False,False,False,False,False
-150,David Blunkett,6,./data/test/.\031.txt,2,5,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-151,David Davis,182,./data/test/.\031.txt,2,181,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-152,Baroness Scotland,401,./data/test/.\031.txt,2,400,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-153,David Miliband,2,./data/test/.\037.txt,2,1,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-154,Tony Blair,93,./data/test/.\037.txt,2,92,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-155,Mr Blair,164,./data/test/.\037.txt,2,163,True,3,2,True,False,100,False,False,True,False,False,False,False,False,False,False
-156,David Miliband,166,./data/test/.\037.txt,2,165,True,5,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-157,Tony Blair's,223,./data/test/.\042.txt,2,222,True,4,3,False,False,100,False,False,True,True,False,False,False,False,False,False
-158,Dave Prentis,301,./data/test/.\042.txt,2,300,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-159,Mark Serwotka,448,./data/test/.\042.txt,2,447,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-160,Paul Woolstenholmes,499,./data/test/.\042.txt,2,498,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-161,Amitai Etzioni,33,./data/test/.\052.txt,2,32,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
-162,David Bell,153,./data/test/.\056.txt,2,152,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-163,Bryan Ferry,57,./data/test/.\066.txt,2,56,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-164,Otis Ferry,216,./data/test/.\066.txt,2,215,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-165,David Redvers,267,./data/test/.\066.txt,2,266,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-166,John Holliday,291,./data/test/.\066.txt,2,290,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-167,Robert Thame,299,./data/test/.\066.txt,2,298,True,100,100,False,False,100,True,True,True,False,False,False,False,False,False,False
-168,Princes Charles,306,./data/test/.\066.txt,2,305,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-169,Andrew Elliot,312,./data/test/.\066.txt,2,311,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-170,Richard Wakeham,321,./data/test/.\066.txt,2,320,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-171,Nick Wood,330,./data/test/.\066.txt,2,329,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-172,Michael Martin,411,./data/test/.\066.txt,2,410,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
-173,Stephen Cape,110,./data/test/.\069.txt,2,109,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-174,Mark Serwotka,237,./data/test/.\069.txt,2,236,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-175,Mr Clarke,474,./data/test/.\070.txt,2,473,True,3,0,True,False,100,False,False,True,False,False,False,False,False,False,False
-176,Mr Livingstone,83,./data/test/.\075.txt,2,82,True,3,0,True,False,100,False,False,True,False,False,False,False,False,False,False
-177,Ken Livingstone,212,./data/test/.\075.txt,2,211,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-178,William Pitt,101,./data/test/.\083.txt,2,100,True,5,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-179,Ed Davey,136,./data/test/.\085.txt,2,135,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-180,Wayne Rooney,409,./data/test/.\085.txt,2,408,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-181,Jack McConnell,28,./data/test/.\094.txt,2,27,True,5,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-182,Mr McConnell,126,./data/test/.\094.txt,2,125,True,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-183,Margaret Davidson,128,./data/test/.\094.txt,2,127,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-184,Jack McConnell,410,./data/test/.\094.txt,2,409,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-185,Jack Straw,152,./data/test/.\097.txt,2,151,True,100,100,False,False,1,True,False,True,False,False,False,False,False,False,False
-186,Mark Oaten,228,./data/test/.\097.txt,2,227,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-187,David Blunkett,382,./data/test/.\097.txt,2,381,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-188,Bob Wellington,146,./data/test/.\101.txt,2,145,True,2,2,False,False,100,False,False,False,False,True,False,False,False,False,False
-189,Dai Lloyd,394,./data/test/.\101.txt,2,393,True,100,100,False,False,100,False,False,False,False,False,False,True,False,False,False
-190,Mike German,449,./data/test/.\101.txt,2,448,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-191,Princes William,229,./data/test/.\104.txt,2,228,True,4,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-192,St George's,264,./data/test/.\104.txt,2,263,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-193,Ros Coward,351,./data/test/.\104.txt,2,350,True,1,1,False,False,100,False,True,False,False,False,False,False,True,False,False
-194,Michael Howard,403,./data/test/.\104.txt,2,402,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-195,Charles Kennedy,409,./data/test/.\104.txt,2,408,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-196,Michael Howard,6,./data/test/.\106.txt,2,5,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-197,Tony Blair,21,./data/test/.\106.txt,2,20,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-198,Michael Howard's,305,./data/test/.\106.txt,2,304,True,3,2,False,False,100,False,False,False,True,False,False,False,False,False,False
-199,Alan Milburn,65,./data/test/.\107.txt,2,64,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-200,Tony Blair,72,./data/test/.\107.txt,2,71,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-201,Mike O'Brien,17,./data/test/.\109.txt,2,16,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-202,Tony Blair,7,./data/test/.\110.txt,2,6,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-203,Michael Howard,22,./data/test/.\110.txt,2,21,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-204,Michael Howard,422,./data/test/.\110.txt,2,421,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-205,Michael Howard,455,./data/test/.\110.txt,2,454,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-206,Roger Knapman,384,./data/test/.\111.txt,2,383,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-207,Robert Kilroy-Silk,421,./data/test/.\111.txt,2,420,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-208,Robert Kilroy-Silk,548,./data/test/.\111.txt,2,547,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-209,Tony Blair,44,./data/test/.\117.txt,2,43,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-210,Tony Beddow,218,./data/test/.\121.txt,2,217,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-211,Ms Hutt,237,./data/test/.\121.txt,2,236,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-212,Kirsty Williams,404,./data/test/.\121.txt,2,403,True,100,3,False,False,100,False,False,True,False,False,False,True,False,False,False
-213,Jonathan Morgan,427,./data/test/.\121.txt,2,426,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-214,Michael Howard,511,./data/test/.\122.txt,2,510,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-215,Lisa Power,531,./data/test/.\122.txt,2,530,True,5,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-216,Terrence Higgins,540,./data/test/.\122.txt,2,539,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
-217,Michael Martin,22,./data/test/.\123.txt,2,21,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False,False
-218,John Houston,20,./data/test/.\125.txt,2,19,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-219,Tony Blair,7,./data/test/.\130.txt,2,6,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-220,Barbara Stocking,85,./data/test/.\130.txt,2,84,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-221,Mr Blair,301,./data/test/.\130.txt,2,300,True,3,1,True,False,100,False,True,False,False,False,False,False,False,False,False
-222,Jeremy Irons,185,./data/test/.\137.txt,2,184,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-223,Kate Hoey,190,./data/test/.\137.txt,2,189,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-224,Mike Hobday,216,./data/test/.\137.txt,2,215,True,5,3,False,False,100,False,False,False,False,True,False,False,False,False,False
-225,Sarah Mukherjee,306,./data/test/.\137.txt,2,305,True,100,3,False,False,100,False,False,True,False,True,False,False,False,False,False
-226,Tom Heap,331,./data/test/.\137.txt,2,330,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-227,Judith Moritz,402,./data/test/.\137.txt,2,401,True,2,3,False,False,100,False,False,False,False,True,False,False,False,False,False
-228,Simon Hart,454,./data/test/.\137.txt,2,453,True,5,2,False,False,2,False,False,False,False,False,False,False,False,False,False
-229,Alastair McWhirter,520,./data/test/.\137.txt,2,519,True,5,100,False,False,2,False,False,True,False,False,False,False,False,False,False
-230,Tony Blair's,218,./data/test/.\142.txt,2,217,True,1,2,False,False,100,False,False,False,True,False,False,False,False,False,False
-231,Neil O'Brien,240,./data/test/.\142.txt,2,239,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-232,Shahid Malik,31,./data/test/.\143.txt,2,30,True,100,1,False,False,100,False,True,True,False,False,False,False,False,False,False
-233,Keith Vaz,310,./data/test/.\143.txt,2,309,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-234,Paul Boateng,312,./data/test/.\143.txt,2,311,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-235,Bernie Grant,315,./data/test/.\143.txt,2,314,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-236,Ms Abbott,342,./data/test/.\143.txt,2,341,True,1,100,True,False,100,True,False,False,False,False,False,False,False,False,False
-237,Nicholas Betts-Green,27,./data/test/.\145.txt,2,26,True,5,1,False,False,100,False,True,True,False,False,False,False,False,False,False
-238,Norman Baker,67,./data/test/.\146.txt,2,66,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-239,Charles Kennedy,445,./data/test/.\147.txt,2,444,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-240,Richard Mawrey,87,./data/test/.\148.txt,2,86,True,100,1,False,False,4,False,False,True,False,False,False,False,False,False,False
-241,Muhammad Afzal,133,./data/test/.\148.txt,2,132,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-242,Mohammed Islam,135,./data/test/.\148.txt,2,134,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-243,Moazzam Begg,24,./data/test/.\151.txt,2,23,True,4,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-244,Martin Mubanga,26,./data/test/.\151.txt,2,25,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-245,Feroz Abbasi,28,./data/test/.\151.txt,2,27,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-246,Louise Christian,89,./data/test/.\151.txt,2,88,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-247,Azmat Begg,121,./data/test/.\151.txt,2,120,True,2,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-248,Azmat Begg,143,./data/test/.\151.txt,2,142,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-249,Gareth Peirce,316,./data/test/.\151.txt,2,315,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-250,Massoud Shadjareh,410,./data/test/.\151.txt,2,409,True,100,100,False,False,100,True,False,True,False,True,False,False,False,False,False
-251,Iqbal Sacranie,458,./data/test/.\151.txt,2,457,True,1,100,False,False,100,False,False,False,False,False,False,False,True,False,False
-252,Ruth Kelly,46,./data/test/.\157.txt,2,45,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
-253,Jonathan Dimbleby,185,./data/test/.\157.txt,2,184,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-254,Jonathan Dimbleby,318,./data/test/.\157.txt,2,317,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-255,David Davis,515,./data/test/.\168.txt,2,514,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-256,Mark Oaten,567,./data/test/.\168.txt,2,566,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-257,David Bell,34,./data/test/.\172.txt,2,33,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-258,Gordon Brown,5,./data/test/.\175.txt,2,4,True,100,0,False,False,4,False,False,False,False,False,False,False,False,False,False
-259,Oliver Letwin,106,./data/test/.\175.txt,2,105,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-260,Balfour Beatty,8,./data/test/.\178.txt,2,7,True,5,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-261,Balfour Beatty,60,./data/test/.\178.txt,2,59,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-262,Anthony Walker,63,./data/test/.\178.txt,2,62,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-263,Nicholas Jeffries,66,./data/test/.\178.txt,2,65,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-264,Alistair Cook,71,./data/test/.\178.txt,2,70,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-265,Sean Fugill,73,./data/test/.\178.txt,2,72,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-266,Keith Lea,76,./data/test/.\178.txt,2,75,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-267,Balfour Beatty,99,./data/test/.\178.txt,2,98,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-268,Steve Arthur,185,./data/test/.\178.txt,2,184,True,1,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-269,Peter Monkhouse,193,./data/test/.\178.txt,2,192,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-270,Charles Clarke,11,./data/test/.\182.txt,2,10,True,3,0,False,False,1,False,False,True,False,True,False,False,False,False,False
-271,David Davis,158,./data/test/.\182.txt,2,157,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-272,Tony Blair,175,./data/test/.\182.txt,2,174,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-273,Mark Oaten,524,./data/test/.\182.txt,2,523,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-274,Michael Howard,8,./data/test/.\190.txt,2,7,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-275,Tony Meo,182,./data/test/.\190.txt,2,181,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-276,Mr White,197,./data/test/.\190.txt,2,196,True,1,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-277,Ray Reardon,228,./data/test/.\190.txt,2,227,True,5,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-278,Terry Griffiths,257,./data/test/.\190.txt,2,256,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-279,Mr Howard,260,./data/test/.\190.txt,2,259,True,100,3,True,False,100,True,False,True,False,False,False,False,False,False,False
-280,Cherie Blair,6,./data/test/.\194.txt,2,5,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-281,Jack Straw,115,./data/test/.\195.txt,2,114,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-282,Patricia Hewitt,29,./data/test/.\199.txt,2,28,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-283,Warren Leblanc,123,./data/test/.\199.txt,2,122,True,4,3,False,False,100,False,True,False,False,False,False,False,False,False,False
-284,Roger Bennett,192,./data/test/.\199.txt,2,191,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-285,Tony Blair,25,./data/test/.\206.txt,2,24,True,4,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-286,Dominic Grieve,73,./data/test/.\206.txt,2,72,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-287,Condoleezza Rice,241,./data/test/.\209.txt,2,240,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
-288,Kofi Annan,246,./data/test/.\209.txt,2,245,True,100,100,False,False,2,False,False,True,False,False,False,False,False,False,False
-289,Michael Howard,16,./data/test/.\212.txt,2,15,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
-290,Lynton Crosby,33,./data/test/.\212.txt,2,32,True,2,0,False,False,100,True,False,True,False,False,False,True,False,False,False
-291,John Howard,94,./data/test/.\212.txt,2,93,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-292,Des Browne,96,./data/test/.\215.txt,2,95,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-293,Rhian Beynon,294,./data/test/.\215.txt,2,293,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False,False
-294,Javier Solana,23,./data/test/.\216.txt,2,22,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-295,Jonathan Dimbleby,83,./data/test/.\216.txt,2,82,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-296,Mr Solana's,122,./data/test/.\216.txt,2,121,True,4,1,True,False,100,True,False,False,True,False,False,False,False,False,False
-297,Gordon Brown,13,./data/test/.\218.txt,2,12,True,1,1,False,False,100,False,False,False,False,False,False,False,True,False,False
-298,John Prescott,191,./data/test/.\218.txt,2,190,True,100,1,False,False,3,False,False,True,False,False,False,False,False,False,False
-299,Mr Brown,501,./data/test/.\218.txt,2,500,True,1,1,True,False,100,False,False,False,False,True,False,False,False,False,False
-300,Michael Howard,517,./data/test/.\218.txt,2,516,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-301,Adam Boulton,536,./data/test/.\218.txt,2,535,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-302,David Blunkett,615,./data/test/.\218.txt,2,614,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-303,Tony Blair,22,./data/test/.\223.txt,2,21,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-304,Tony Blair,132,./data/test/.\223.txt,2,131,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
-305,Tony Blair,228,./data/test/.\223.txt,2,227,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False,False
-306,Michael Howard,351,./data/test/.\223.txt,2,350,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-307,Gordon Brown,28,./data/test/.\225.txt,2,27,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-308,Michael Howard,105,./data/test/.\225.txt,2,104,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-309,Paul Flynn,287,./data/test/.\225.txt,2,286,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-310,Mr Peston,382,./data/test/.\225.txt,2,381,True,1,3,True,False,100,False,False,True,False,False,False,False,False,False,False
-311,Alan Beith,205,./data/test/.\233.txt,2,204,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-312,Jack Cunningham,1,./data/test/.\236.txt,2,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
-313,Jack Cunningham,13,./data/test/.\236.txt,2,12,True,100,0,False,False,5,False,False,False,False,False,False,False,False,False,False
-314,Jim Callaghan,34,./data/test/.\236.txt,2,33,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-315,Linda Knox,444,./data/test/.\241.txt,2,443,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-316,James Hardy,103,./data/test/.\242.txt,2,102,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-317,Alan Beith,129,./data/test/.\242.txt,2,128,True,100,100,False,False,100,False,True,True,False,False,False,False,False,False,False
-318,Norman Baker,183,./data/test/.\242.txt,2,182,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-319,Richard Thomas,301,./data/test/.\242.txt,2,300,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-320,David Blunkett,1,./data/test/.\248.txt,2,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-321,David Blunkett,5,./data/test/.\248.txt,2,4,True,100,2,False,False,100,True,True,False,False,False,False,False,False,False,False
-322,Tony Blair,12,./data/test/.\251.txt,2,11,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-323,Gordon Brown,15,./data/test/.\251.txt,2,14,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-324,Hilary Benn,581,./data/test/.\251.txt,2,580,True,100,100,False,False,5,False,False,False,False,False,False,False,False,False,False
-325,John Prescott,587,./data/test/.\251.txt,2,586,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
-326,Tony Blair,5,./data/test/.\254.txt,2,4,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-327,Gordon Brown,8,./data/test/.\254.txt,2,7,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-328,Ian Gibson,81,./data/test/.\254.txt,2,80,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-329,Tony Blair,133,./data/test/.\254.txt,2,132,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-330,Gordon Brown,160,./data/test/.\254.txt,2,159,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-331,Mr Brown,386,./data/test/.\254.txt,2,385,True,5,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-332,Charlie Whelan,523,./data/test/.\254.txt,2,522,True,2,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-333,Gordon Brown,7,./data/test/.\255.txt,2,6,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-334,Gordon Brown,85,./data/test/.\255.txt,2,84,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-335,Robert Peston,101,./data/test/.\255.txt,2,100,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-336,Andrew Marr,179,./data/test/.\255.txt,2,178,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-337,Tony Blair,250,./data/test/.\255.txt,2,249,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-338,Andrew Marr,387,./data/test/.\255.txt,2,386,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-339,Gordon Brown,394,./data/test/.\255.txt,2,393,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-340,Tony Blair,401,./data/test/.\255.txt,2,400,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-341,Michael Howard,587,./data/test/.\255.txt,2,586,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-342,Tony Blair,7,./data/test/.\256.txt,2,6,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-343,Gordon Brown,45,./data/test/.\256.txt,2,44,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
-344,Alan Milburn,88,./data/test/.\256.txt,2,87,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-345,Liam Fox,507,./data/test/.\256.txt,2,506,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-346,Tony Blair,12,./data/test/.\257.txt,2,11,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-347,Gordon Brown,15,./data/test/.\257.txt,2,14,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-348,Alan Milburn,112,./data/test/.\257.txt,2,111,True,4,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-349,John Prescott,128,./data/test/.\257.txt,2,127,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-350,Robert Peston,268,./data/test/.\257.txt,2,267,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-351,Mr Brown,283,./data/test/.\257.txt,2,282,True,3,3,True,False,100,False,False,True,False,False,False,False,False,False,False
-352,Paul Flynn,286,./data/test/.\257.txt,2,285,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-353,Stephen Pound,311,./data/test/.\257.txt,2,310,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-354,Michael Howard,22,./data/test/.\262.txt,2,21,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-355,Sundar Katwala,69,./data/test/.\266.txt,2,68,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
-356,Ann Taylor,282,./data/test/.\266.txt,2,281,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-357,Gordon Brown,192,./data/test/.\274.txt,2,191,True,3,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-358,Alan Milburn,132,./data/test/.\278.txt,2,131,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-359,Gordon Brown,186,./data/test/.\278.txt,2,185,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-360,Jane Kennedy,200,./data/test/.\278.txt,2,199,True,1,2,False,False,3,False,False,True,False,False,False,False,False,False,False
-361,Michael Howard,241,./data/test/.\278.txt,2,240,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
-362,Tony Blair,27,./data/test/.\280.txt,2,26,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-363,Condoleezza Rice,93,./data/test/.\280.txt,2,92,True,100,3,False,False,3,False,False,True,False,False,False,False,False,False,False
-364,Robert Kilroy-Silk,8,./data/test/.\281.txt,2,7,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-365,Robert Kilroy-Silk,122,./data/test/.\281.txt,2,121,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-366,Mr Kilroy-Silk,423,./data/test/.\281.txt,2,422,True,1,1,True,False,100,False,False,True,False,False,False,False,True,False,False
-367,Tony Blair's,451,./data/test/.\283.txt,2,450,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
-368,John Houston,22,./data/test/.\286.txt,2,21,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-369,Adolf Hitler,236,./data/test/.\290.txt,2,235,True,100,100,False,False,100,True,False,True,False,False,False,False,True,False,False
-370,Josef Stalin,299,./data/test/.\290.txt,2,298,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-371,Frederick Forsyth,746,./data/test/.\290.txt,2,745,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-372,Mr Forsyth,867,./data/test/.\290.txt,2,866,True,2,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-373,Frederick Forsyth,1375,./data/test/.\290.txt,2,1374,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
-374,Mr Blair,1441,./data/test/.\290.txt,2,1440,True,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-375,Frederick Forsyth,1608,./data/test/.\290.txt,2,1607,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-376,Freddie Forsyth,2282,./data/test/.\290.txt,2,2281,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-377,Frederic Forsythe's,2619,./data/test/.\290.txt,2,2618,True,100,3,False,False,100,False,False,True,True,False,False,False,False,False,False
-378,Thomas Jefferson,2683,./data/test/.\290.txt,2,2682,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-379,Frederick Forsyth,2782,./data/test/.\290.txt,2,2781,True,100,2,False,False,100,False,True,True,False,False,False,False,False,False,False
-380,Frederick Forsyth,2971,./data/test/.\290.txt,2,2970,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
-381,Mr Forsyth,3086,./data/test/.\290.txt,2,3085,True,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-382,Tony Blair,3169,./data/test/.\290.txt,2,3168,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-383,Thomas Hobbes,3189,./data/test/.\290.txt,2,3188,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-384,Frederick Forsyth,3690,./data/test/.\290.txt,2,3689,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
-385,Mr Forsyth,3824,./data/test/.\290.txt,2,3823,True,1,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-386,Charles Clark's,3838,./data/test/.\290.txt,2,3837,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
-387,Frederick Forsyth,4205,./data/test/.\290.txt,2,4204,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-388,Winston Churchill,4336,./data/test/.\290.txt,2,4335,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-389,Alastair Campbell,17,./data/test/.\297.txt,2,16,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-390,Peter Mandelson,19,./data/test/.\297.txt,2,18,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-391,Mr Mandelson,50,./data/test/.\297.txt,2,49,True,3,1,True,False,100,False,True,False,False,False,False,False,False,False,False
-392,Gavyn Davies,107,./data/test/.\297.txt,2,106,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-393,Greg Dyke,110,./data/test/.\297.txt,2,109,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-394,Andrew Gilligan,114,./data/test/.\297.txt,2,113,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
-395,Alastair Campbell,160,./data/test/.\297.txt,2,159,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-396,Alastair Campbell,285,./data/test/.\297.txt,2,284,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-397,Michael Howard,99,./data/test/.\299.txt,2,98,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-398,Harold Wilson,68,./data/test/.\400.txt,2,67,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-399,Jim Callaghan,131,./data/test/.\400.txt,2,130,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
-400,Jim Callaghan,254,./data/test/.\400.txt,2,253,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-401,Charles Kennedy,290,./data/test/.\400.txt,2,289,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-402,Harold Wilson,440,./data/test/.\400.txt,2,439,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-403,Idi Amin's,538,./data/test/.\400.txt,2,537,True,1,3,False,False,100,False,False,True,True,False,False,False,False,False,False
-404,Margaret Thatcher,653,./data/test/.\400.txt,2,652,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-405,Gordon Brown,12,./data/test/.\402.txt,2,11,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-406,Alan Milburn,18,./data/test/.\402.txt,2,17,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-407,Gordon Brown,208,./data/test/.\402.txt,2,207,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
-408,Tony Blair,8,./data/test/.\405.txt,2,7,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False,False
-409,Michael Howard's,45,./data/test/.\405.txt,2,44,True,100,100,False,False,100,True,False,False,True,False,False,False,False,False,False
-410,Cardinal O'Connor,179,./data/test/.\405.txt,2,178,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-411,Charles Kennedy,355,./data/test/.\405.txt,2,354,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
-412,Anne Weyman,506,./data/test/.\405.txt,2,505,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-413,Paul Boateng,7,./data/test/.\407.txt,2,6,True,5,2,False,False,100,True,False,True,False,False,False,False,False,False,False
-414,Ann Grant,94,./data/test/.\407.txt,2,93,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-415,Tony Blair,120,./data/test/.\407.txt,2,119,True,100,2,False,False,1,True,False,True,False,False,False,False,False,False,False
-416,Gordon Brown,174,./data/test/.\407.txt,2,173,True,100,100,False,False,1,True,False,True,False,False,False,False,False,False,False
-417,Helen Liddell,425,./data/test/.\407.txt,2,424,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-418,Osama Bin Laden,313,./data/test/.\052.txt,3,311,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False,False
-419,George W Bush,47,./data/test/.\093.txt,3,45,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-420,Camilla Parker Bowles,10,./data/test/.\104.txt,3,8,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-421,Mrs Parker Bowles,28,./data/test/.\104.txt,3,26,True,5,0,True,False,100,True,False,True,False,False,False,False,False,False,False
-422,Mrs Parker Bowles,70,./data/test/.\104.txt,3,68,True,1,0,True,False,100,False,False,False,False,False,False,False,False,False,False
-423,Mrs Parker Bowles,139,./data/test/.\104.txt,3,137,True,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-424,Mrs Parker Bowles,289,./data/test/.\104.txt,3,287,True,5,0,True,False,100,True,False,False,False,False,False,False,False,False,False
-425,Booz Allen Hamilton,85,./data/test/.\109.txt,3,83,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-426,Rhodri Glyn Thomas,362,./data/test/.\121.txt,3,360,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-427,Robert James Alcorn,207,./data/test/.\178.txt,3,205,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-428,George W Bush's,14,./data/test/.\194.txt,3,12,True,4,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-429,Sir Ian Blair,130,./data/test/.\216.txt,3,128,True,4,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-430,Tom McCabe MSP,90,./data/test/.\241.txt,3,88,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
-431,Brian Monteith MSP,355,./data/test/.\241.txt,3,353,True,2,3,False,False,100,False,False,False,False,False,False,False,False,False,False
-432,George W Bush,7,./data/test/.\280.txt,3,5,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-433,Guy Mansfield QC,285,./data/test/.\299.txt,3,283,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
-434,Dame Barbara Castle,444,./data/test/.\400.txt,3,442,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False,False
+11,Etzioni,86,./data/test/.\052.txt,1,86,True,100,0,False,False,1,True,False,True,False,False,False,False,False,False,False
+12,Carter's,93,./data/test/.\052.txt,1,93,True,2,3,False,False,1,True,False,True,True,False,False,False,False,False,False
+13,Etzioni,214,./data/test/.\052.txt,1,214,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+14,Etzioni,292,./data/test/.\052.txt,1,292,True,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+15,William,67,./data/test/.\066.txt,1,67,True,100,3,False,False,100,True,False,False,False,False,False,False,False,False,False
+16,Harry,69,./data/test/.\066.txt,1,69,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+17,Boris,0,./data/test/.\075.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+18,Ken,263,./data/test/.\075.txt,1,263,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+19,Ken,395,./data/test/.\075.txt,1,395,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+20,Ffion,90,./data/test/.\083.txt,1,90,True,100,100,False,False,100,True,True,True,False,False,False,False,False,False,False
+21,Kennedy,0,./data/test/.\093.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+22,McConnell,0,./data/test/.\094.txt,1,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+23,Harry,231,./data/test/.\104.txt,1,231,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+24,Charles,303,./data/test/.\104.txt,1,303,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+25,Diana,327,./data/test/.\104.txt,1,327,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+26,Diana,336,./data/test/.\104.txt,1,336,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+27,Diana,358,./data/test/.\104.txt,1,358,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+28,Howard,0,./data/test/.\106.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+29,Hannah,283,./data/test/.\106.txt,1,283,True,1,100,False,False,100,True,False,True,False,False,False,False,True,False,False
+30,Brown,0,./data/test/.\107.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+31,Howard,5,./data/test/.\110.txt,1,5,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+32,Kilroy,0,./data/test/.\111.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+33,Kilroy,478,./data/test/.\111.txt,1,478,True,4,0,False,False,100,False,False,False,False,True,False,False,False,False,False
+34,Kilroy-Silk,511,./data/test/.\111.txt,1,511,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+35,Kilroy-Silk,595,./data/test/.\111.txt,1,595,True,1,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+36,Kilroy-Silk,621,./data/test/.\111.txt,1,621,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+37,Kilroy-Silk,664,./data/test/.\111.txt,1,664,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+38,Kilroy-Silk,749,./data/test/.\111.txt,1,749,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+39,Kilroy-Silk,816,./data/test/.\111.txt,1,816,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+40,Robert,827,./data/test/.\111.txt,1,827,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+41,Kilroy-Silk,872,./data/test/.\111.txt,1,872,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+42,Boothroyd,0,./data/test/.\117.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+43,Blair,0,./data/test/.\130.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+44,Straw,0,./data/test/.\139.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+45,Malik,0,./data/test/.\143.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+46,Shahid,352,./data/test/.\143.txt,1,352,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False,False
+47,Kilroy-Silk,0,./data/test/.\157.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+48,Howard,0,./data/test/.\159.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+49,Howard,0,./data/test/.\190.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+50,Jimmy,164,./data/test/.\190.txt,1,164,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+51,White,167,./data/test/.\190.txt,1,167,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+52,Dracula,236,./data/test/.\190.txt,1,236,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+53,Jack's,281,./data/test/.\190.txt,1,281,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+54,Bush,26,./data/test/.\191.txt,1,26,True,4,0,False,False,1,False,False,True,False,False,False,False,False,False,False
+55,Cherie,0,./data/test/.\194.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+56,Bush,4,./data/test/.\194.txt,1,4,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+57,Giselle,117,./data/test/.\199.txt,1,117,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+58,Stefan's,143,./data/test/.\199.txt,1,143,True,100,0,False,False,100,False,False,False,True,False,False,False,False,False,False
+59,Blair's,0,./data/test/.\206.txt,1,0,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+60,Blunkett,3,./data/test/.\206.txt,1,3,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+61,David,93,./data/test/.\206.txt,1,93,True,1,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+62,Abbas,0,./data/test/.\209.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+63,Blair,0,./data/test/.\218.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+64,Frost,38,./data/test/.\218.txt,1,38,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+65,Brown's,45,./data/test/.\218.txt,1,45,True,4,3,False,False,100,True,False,True,True,False,False,False,False,False,False
+66,Kennedy,0,./data/test/.\223.txt,1,0,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+67,Blair,4,./data/test/.\223.txt,1,4,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+68,Blair,0,./data/test/.\225.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
+69,Kilroy,0,./data/test/.\237.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+70,Brown,0,./data/test/.\251.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+71,Blair,2,./data/test/.\251.txt,1,2,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+72,Gordon,234,./data/test/.\251.txt,1,234,True,1,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+73,Brown,0,./data/test/.\255.txt,1,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+74,Brown's,94,./data/test/.\255.txt,1,94,True,4,100,False,False,100,True,False,True,True,False,False,False,False,False,False
+75,Blair,0,./data/test/.\256.txt,1,0,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+76,Brown's,171,./data/test/.\256.txt,1,171,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
+77,Blair,0,./data/test/.\257.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+78,Brown,2,./data/test/.\257.txt,1,2,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+79,Brown's,261,./data/test/.\257.txt,1,261,True,5,100,False,False,100,True,False,True,True,False,False,False,False,False,False
+80,Howard,0,./data/test/.\262.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+81,Blair,2,./data/test/.\262.txt,1,2,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+82,Brown's,157,./data/test/.\262.txt,1,157,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
+83,Blair,10,./data/test/.\263.txt,1,10,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+84,Brown,12,./data/test/.\263.txt,1,12,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+85,Blair,680,./data/test/.\263.txt,1,680,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+86,Brown,682,./data/test/.\263.txt,1,682,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+87,Solomon's,691,./data/test/.\263.txt,1,691,True,100,2,False,False,100,False,False,False,True,False,False,False,False,False,False
+88,Brown's,3,./data/test/.\274.txt,1,3,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+89,Blair,0,./data/test/.\280.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+90,Bush,3,./data/test/.\280.txt,1,3,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+91,Kilroy-Silk,0,./data/test/.\281.txt,1,0,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+92,Blair,200,./data/test/.\290.txt,1,200,True,3,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+93,Forsyth,996,./data/test/.\290.txt,1,996,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+94,Bush,1498,./data/test/.\290.txt,1,1498,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+95,Blair,1500,./data/test/.\290.txt,1,1500,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+96,Forsyth,2155,./data/test/.\290.txt,1,2155,True,2,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+97,Forsyth,2298,./data/test/.\290.txt,1,2298,True,5,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+98,Forsyth,2803,./data/test/.\290.txt,1,2803,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+99,Churchill,2863,./data/test/.\290.txt,1,2863,True,4,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+100,Forsythe,3221,./data/test/.\290.txt,1,3221,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+101,Hobbes,3225,./data/test/.\290.txt,1,3225,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+102,Hobbes,3280,./data/test/.\290.txt,1,3280,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+103,Frederick,3327,./data/test/.\290.txt,1,3327,True,5,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+104,Freddie's,3372,./data/test/.\290.txt,1,3372,True,3,100,False,False,100,False,False,True,True,False,False,False,False,False,False
+105,Stalin's,3510,./data/test/.\290.txt,1,3510,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
+106,Ceausescu's,3512,./data/test/.\290.txt,1,3512,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
+107,Muhammad,4031,./data/test/.\290.txt,1,4031,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+108,Thatcher,4268,./data/test/.\290.txt,1,4268,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+109,Mandelson,0,./data/test/.\297.txt,1,0,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+110,Campbell,4,./data/test/.\297.txt,1,4,True,3,2,False,False,100,True,False,True,False,False,False,False,False,False,False
+111,Audrey,35,./data/test/.\400.txt,1,35,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+112,Jim,138,./data/test/.\400.txt,1,138,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+113,Audrey,181,./data/test/.\400.txt,1,181,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+114,Brown's,0,./data/test/.\402.txt,1,0,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+115,Milburn,224,./data/test/.\402.txt,1,224,True,1,0,False,False,100,False,False,False,False,False,False,False,True,False,False
+116,Brown,227,./data/test/.\402.txt,1,227,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+117,Brown,236,./data/test/.\402.txt,1,236,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+118,Milburn,239,./data/test/.\402.txt,1,239,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+119,Blair,6,./data/test/.\405.txt,1,6,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
+120,Boateng,0,./data/test/.\407.txt,1,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
+121,Paul,122,./data/test/.\407.txt,1,122,True,100,0,False,False,4,False,False,False,False,False,False,False,False,False,False
+122,Paul's,181,./data/test/.\407.txt,1,181,True,100,1,False,False,100,False,False,False,True,False,False,False,False,False,False
+123,Paul,211,./data/test/.\407.txt,1,211,True,100,100,False,False,100,True,False,False,False,True,False,False,False,False,False
+124,Paul,246,./data/test/.\407.txt,1,246,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+125,Paul,269,./data/test/.\407.txt,1,269,True,5,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+126,Tony's,447,./data/test/.\407.txt,1,447,True,100,3,False,False,100,True,False,False,True,False,False,False,False,False,False
+127,Gordon Brown,256,./data/test/.\001.txt,2,255,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+128,Tony Blair,265,./data/test/.\001.txt,2,264,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+129,Sandra Gidley,298,./data/test/.\001.txt,2,297,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+130,David Frost,357,./data/test/.\001.txt,2,356,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+131,Patricia Hewitt,28,./data/test/.\003.txt,2,27,True,2,0,False,False,3,False,False,False,False,False,False,True,False,False,False
+132,Colin Asplin,158,./data/test/.\004.txt,2,157,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+133,Michael Howard,7,./data/test/.\013.txt,2,6,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+134,Michael Cockerell,144,./data/test/.\013.txt,2,143,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+135,Rory Bremner's,333,./data/test/.\013.txt,2,332,True,5,100,False,False,100,True,False,False,True,False,False,False,False,False,False
+136,Alastair Campbell,418,./data/test/.\013.txt,2,417,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+137,Tony Blair,437,./data/test/.\013.txt,2,436,True,1,0,False,False,100,False,False,False,False,False,False,False,True,False,False
+138,Ken Clarke,499,./data/test/.\013.txt,2,498,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+139,Michael Howard,551,./data/test/.\013.txt,2,550,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+140,Tony Blair,5,./data/test/.\021.txt,2,4,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+141,Carl Emmerson,298,./data/test/.\021.txt,2,297,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+142,David Page,329,./data/test/.\021.txt,2,328,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+143,Oliver Letwin,370,./data/test/.\021.txt,2,369,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+144,Vincent Cable,435,./data/test/.\021.txt,2,434,True,2,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+145,Michael Howard,20,./data/test/.\022.txt,2,19,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+146,Tony Blair,24,./data/test/.\022.txt,2,23,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+147,John Beaumont,40,./data/test/.\023.txt,2,39,True,5,0,False,False,2,False,False,False,False,False,False,False,False,False,False
+148,Barry Sheerman,253,./data/test/.\023.txt,2,252,True,4,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+149,Tony Blair,232,./data/test/.\024.txt,2,231,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+150,Michael Howard,241,./data/test/.\024.txt,2,240,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+151,Tony Blair's,16,./data/test/.\027.txt,2,15,True,4,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+152,Michael Howard,53,./data/test/.\027.txt,2,52,True,4,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+153,Saddam Hussein,291,./data/test/.\027.txt,2,290,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+154,Jack Cunningham,610,./data/test/.\027.txt,2,609,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+155,Robin Butler's,644,./data/test/.\027.txt,2,643,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+156,David Blunkett,12,./data/test/.\028.txt,2,11,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+157,Ruth Kelly,19,./data/test/.\030.txt,2,18,True,5,2,False,False,1,False,False,True,False,False,False,False,False,False,False
+158,David Blunkett,6,./data/test/.\031.txt,2,5,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+159,David Davis,182,./data/test/.\031.txt,2,181,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+160,Baroness Scotland,401,./data/test/.\031.txt,2,400,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+161,David Miliband,2,./data/test/.\037.txt,2,1,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+162,David Miliband's,4,./data/test/.\037.txt,2,3,True,100,1,False,False,100,False,False,True,True,False,False,False,False,False,False
+163,Tony Blair,93,./data/test/.\037.txt,2,92,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+164,David Miliband,140,./data/test/.\037.txt,2,139,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+165,Gordon Brown,158,./data/test/.\037.txt,2,157,True,2,1,False,False,1,True,False,True,False,False,False,False,False,False,False
+166,David Miliband,166,./data/test/.\037.txt,2,165,True,5,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+167,Tony Blair's,223,./data/test/.\042.txt,2,222,True,4,3,False,False,100,False,False,True,True,False,False,False,False,False,False
+168,Dave Prentis,301,./data/test/.\042.txt,2,300,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+169,Mark Serwotka,448,./data/test/.\042.txt,2,447,True,3,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+170,Paul Woolstenholmes,499,./data/test/.\042.txt,2,498,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+171,Amitai Etzioni,33,./data/test/.\052.txt,2,32,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
+172,Charles Clarke,17,./data/test/.\056.txt,2,16,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+173,David Bell,153,./data/test/.\056.txt,2,152,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+174,Bryan Ferry,57,./data/test/.\066.txt,2,56,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+175,Matthew Knight,113,./data/test/.\066.txt,2,112,True,5,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+176,Otis Ferry,216,./data/test/.\066.txt,2,215,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+177,David Redvers,267,./data/test/.\066.txt,2,266,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+178,John Holliday,291,./data/test/.\066.txt,2,290,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+179,Robert Thame,299,./data/test/.\066.txt,2,298,True,100,100,False,False,100,True,True,True,False,False,False,False,False,False,False
+180,Princes Charles,306,./data/test/.\066.txt,2,305,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+181,Andrew Elliot,312,./data/test/.\066.txt,2,311,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+182,Richard Wakeham,321,./data/test/.\066.txt,2,320,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+183,Nick Wood,330,./data/test/.\066.txt,2,329,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+184,Michael Martin,411,./data/test/.\066.txt,2,410,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
+185,John Prescott,36,./data/test/.\069.txt,2,35,True,100,100,False,False,3,False,False,True,False,True,False,False,False,False,False
+186,Stephen Cape,110,./data/test/.\069.txt,2,109,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+187,Mark Serwotka,237,./data/test/.\069.txt,2,236,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+188,Ken Livingstone,5,./data/test/.\075.txt,2,4,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+189,Mr Johnson,29,./data/test/.\075.txt,2,28,True,2,1,True,False,5,False,False,False,False,False,False,False,False,False,False
+190,Tony Blair's,33,./data/test/.\075.txt,2,32,True,1,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+191,Ken Livingstone,212,./data/test/.\075.txt,2,211,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+192,William Pitt,101,./data/test/.\083.txt,2,100,True,5,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+193,Tim Collins,172,./data/test/.\083.txt,2,171,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+194,Brendan Barber,72,./data/test/.\084.txt,2,71,True,100,3,False,False,2,False,False,False,False,False,False,False,False,False,False
+195,Dan Lewis,40,./data/test/.\085.txt,2,39,True,5,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+196,John Redwood,95,./data/test/.\085.txt,2,94,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+197,Ed Davey,136,./data/test/.\085.txt,2,135,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+198,Wayne Rooney,409,./data/test/.\085.txt,2,408,True,3,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+199,Tony Blair,7,./data/test/.\093.txt,2,6,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+200,Charles Kennedy,31,./data/test/.\093.txt,2,30,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+201,Jack McConnell,28,./data/test/.\094.txt,2,27,True,5,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+202,Margaret Davidson,128,./data/test/.\094.txt,2,127,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+203,Nicola Sturgeon,401,./data/test/.\094.txt,2,400,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+204,Jack McConnell,410,./data/test/.\094.txt,2,409,True,5,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+205,Jack Straw,152,./data/test/.\097.txt,2,151,True,100,100,False,False,1,True,False,True,False,False,False,False,False,False,False
+206,Mark Oaten,228,./data/test/.\097.txt,2,227,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+207,David Blunkett,382,./data/test/.\097.txt,2,381,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+208,Daniel Sandford,436,./data/test/.\097.txt,2,435,True,3,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+209,Gordon Brown,54,./data/test/.\101.txt,2,53,True,3,3,False,False,1,False,False,True,False,False,False,False,False,False,False
+210,Bob Wellington,146,./data/test/.\101.txt,2,145,True,2,2,False,False,100,False,False,False,False,True,False,False,False,False,False
+211,Dai Lloyd,394,./data/test/.\101.txt,2,393,True,100,100,False,False,100,False,False,False,False,False,False,True,False,False,False
+212,Mike German,449,./data/test/.\101.txt,2,448,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+213,Princes William,229,./data/test/.\104.txt,2,228,True,4,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+214,St George's,264,./data/test/.\104.txt,2,263,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
+215,Ros Coward,351,./data/test/.\104.txt,2,350,True,1,1,False,False,100,False,True,False,False,False,False,False,True,False,False
+216,Tony Blair,386,./data/test/.\104.txt,2,385,True,4,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+217,Michael Howard,403,./data/test/.\104.txt,2,402,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+218,Charles Kennedy,409,./data/test/.\104.txt,2,408,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+219,Michael Howard,6,./data/test/.\106.txt,2,5,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+220,Tony Blair,21,./data/test/.\106.txt,2,20,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+221,Michael Howard's,305,./data/test/.\106.txt,2,304,True,3,2,False,False,100,False,False,False,True,False,False,False,False,False,False
+222,Tony Blair,381,./data/test/.\106.txt,2,380,True,3,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+223,Gordon Brown,6,./data/test/.\107.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+224,Alan Milburn,65,./data/test/.\107.txt,2,64,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+225,Tony Blair,72,./data/test/.\107.txt,2,71,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+226,Mike O'Brien,17,./data/test/.\109.txt,2,16,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+227,Tony Blair,7,./data/test/.\110.txt,2,6,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+228,Michael Howard,22,./data/test/.\110.txt,2,21,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+229,Fraser Kemp,65,./data/test/.\110.txt,2,64,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+230,Michael Howard,422,./data/test/.\110.txt,2,421,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+231,Michael Howard,455,./data/test/.\110.txt,2,454,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+232,Geoff Hoon's,173,./data/test/.\111.txt,2,172,True,4,3,False,False,1,True,False,True,True,False,False,False,False,False,False
+233,Damien Hockney,192,./data/test/.\111.txt,2,191,True,100,1,False,False,100,False,True,False,False,False,False,False,False,False,False
+234,Petrina Holdsworth,202,./data/test/.\111.txt,2,201,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+235,Roger Knapman,384,./data/test/.\111.txt,2,383,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+236,Robert Kilroy-Silk,421,./data/test/.\111.txt,2,420,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+237,Robert Kilroy-Silk,548,./data/test/.\111.txt,2,547,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+238,Betty Boothroyd,6,./data/test/.\117.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+239,Baroness Boothroyd,30,./data/test/.\117.txt,2,29,True,100,1,False,False,100,True,True,False,False,False,False,False,False,False,False
+240,Tony Blair,44,./data/test/.\117.txt,2,43,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+241,Tony Beddow,218,./data/test/.\121.txt,2,217,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+242,Kirsty Williams,404,./data/test/.\121.txt,2,403,True,100,3,False,False,100,False,False,True,False,False,False,True,False,False,False
+243,Jonathan Morgan,427,./data/test/.\121.txt,2,426,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+244,Des Browne,432,./data/test/.\122.txt,2,431,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+245,Michael Howard,511,./data/test/.\122.txt,2,510,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+246,Lisa Power,531,./data/test/.\122.txt,2,530,True,5,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+247,Terrence Higgins,540,./data/test/.\122.txt,2,539,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
+248,Michael Martin,22,./data/test/.\123.txt,2,21,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False,False
+249,Alastair Campbell,49,./data/test/.\123.txt,2,48,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+250,John Houston,20,./data/test/.\125.txt,2,19,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+251,Robert Kilroy-Silk,90,./data/test/.\125.txt,2,89,True,100,2,False,False,1,False,False,True,False,False,False,False,False,False,False
+252,Peter Nielson,300,./data/test/.\125.txt,2,299,True,100,1,False,False,100,False,True,False,False,False,False,False,False,False,False
+253,Tony Blair,7,./data/test/.\130.txt,2,6,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+254,Barbara Stocking,85,./data/test/.\130.txt,2,84,True,3,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+255,Jeremy Irons,185,./data/test/.\137.txt,2,184,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+256,Kate Hoey,190,./data/test/.\137.txt,2,189,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+257,Mike Hobday,216,./data/test/.\137.txt,2,215,True,5,3,False,False,100,False,False,False,False,True,False,False,False,False,False
+258,Sarah Mukherjee,306,./data/test/.\137.txt,2,305,True,100,3,False,False,100,False,False,True,False,True,False,False,False,False,False
+259,Tom Heap,331,./data/test/.\137.txt,2,330,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+260,Judith Moritz,402,./data/test/.\137.txt,2,401,True,2,3,False,False,100,False,False,False,False,True,False,False,False,False,False
+261,Simon Hart,454,./data/test/.\137.txt,2,453,True,5,2,False,False,2,False,False,False,False,False,False,False,False,False,False
+262,Alastair McWhirter,520,./data/test/.\137.txt,2,519,True,5,100,False,False,2,False,False,True,False,False,False,False,False,False,False
+263,Jack Straw,100,./data/test/.\142.txt,2,99,True,3,100,False,False,1,True,True,True,False,False,False,False,False,False,False
+264,Tony Blair's,218,./data/test/.\142.txt,2,217,True,1,2,False,False,100,False,False,False,True,False,False,False,False,False,False
+265,Neil O'Brien,240,./data/test/.\142.txt,2,239,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+266,Charles Kennedy,327,./data/test/.\142.txt,2,326,True,100,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+267,Tony Blair's,392,./data/test/.\142.txt,2,391,True,100,100,False,False,4,False,False,False,True,False,False,False,False,False,False
+268,Jack Straw,461,./data/test/.\142.txt,2,460,True,100,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+269,Shahid Malik,31,./data/test/.\143.txt,2,30,True,100,1,False,False,100,False,True,True,False,False,False,False,False,False,False
+270,Mr Phillips',292,./data/test/.\143.txt,2,291,True,100,3,True,False,5,False,False,False,True,False,False,False,False,False,False
+271,Keith Vaz,310,./data/test/.\143.txt,2,309,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+272,Paul Boateng,312,./data/test/.\143.txt,2,311,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+273,Bernie Grant,315,./data/test/.\143.txt,2,314,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+274,Nicholas Betts-Green,27,./data/test/.\145.txt,2,26,True,5,1,False,False,100,False,True,True,False,False,False,False,False,False,False
+275,Norman Baker,67,./data/test/.\146.txt,2,66,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+276,Liam Fox,51,./data/test/.\147.txt,2,50,True,5,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+277,Tony Blair's,60,./data/test/.\147.txt,2,59,True,4,100,False,False,100,True,False,False,True,False,False,False,False,False,False
+278,Charles Kennedy,445,./data/test/.\147.txt,2,444,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+279,Richard Mawrey,87,./data/test/.\148.txt,2,86,True,100,1,False,False,4,False,False,True,False,False,False,False,False,False,False
+280,Muhammad Afzal,133,./data/test/.\148.txt,2,132,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+281,Mohammed Islam,135,./data/test/.\148.txt,2,134,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+282,Mohammed Kazi,138,./data/test/.\148.txt,2,137,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+283,Ravi Sukul,165,./data/test/.\148.txt,2,164,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+284,Moazzam Begg,24,./data/test/.\151.txt,2,23,True,4,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+285,Martin Mubanga,26,./data/test/.\151.txt,2,25,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+286,Feroz Abbasi,28,./data/test/.\151.txt,2,27,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+287,Richard Belmar,31,./data/test/.\151.txt,2,30,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+288,Louise Christian,89,./data/test/.\151.txt,2,88,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+289,Azmat Begg,121,./data/test/.\151.txt,2,120,True,2,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+290,Azmat Begg,143,./data/test/.\151.txt,2,142,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+291,Louise Christian,285,./data/test/.\151.txt,2,284,True,3,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+292,Gareth Peirce,316,./data/test/.\151.txt,2,315,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+293,Massoud Shadjareh,410,./data/test/.\151.txt,2,409,True,100,100,False,False,100,True,False,True,False,True,False,False,False,False,False
+294,Iqbal Sacranie,458,./data/test/.\151.txt,2,457,True,1,100,False,False,100,False,False,False,False,False,False,False,True,False,False
+295,Ruth Kelly,46,./data/test/.\157.txt,2,45,True,100,1,False,False,100,True,False,True,False,False,False,False,False,False,False
+296,Jonathan Dimbleby,185,./data/test/.\157.txt,2,184,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+297,Jonathan Dimbleby,318,./data/test/.\157.txt,2,317,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+298,Tony Blair,45,./data/test/.\159.txt,2,44,True,3,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+299,Alan Milburn,449,./data/test/.\159.txt,2,448,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+300,James Ford,163,./data/test/.\168.txt,2,162,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+301,David Davis,515,./data/test/.\168.txt,2,514,True,100,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+302,Mark Oaten,567,./data/test/.\168.txt,2,566,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+303,David Bell,34,./data/test/.\172.txt,2,33,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+304,Gordon Brown,5,./data/test/.\175.txt,2,4,True,100,0,False,False,4,False,False,False,False,False,False,False,False,False,False
+305,Oliver Letwin,106,./data/test/.\175.txt,2,105,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+306,Balfour Beatty,8,./data/test/.\178.txt,2,7,True,5,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+307,Balfour Beatty's,43,./data/test/.\178.txt,2,42,True,2,3,False,False,100,True,False,False,True,False,False,False,False,False,False
+308,Balfour Beatty,60,./data/test/.\178.txt,2,59,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+309,Anthony Walker,63,./data/test/.\178.txt,2,62,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+310,Nicholas Jeffries,66,./data/test/.\178.txt,2,65,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+311,Alistair Cook,71,./data/test/.\178.txt,2,70,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+312,Sean Fugill,73,./data/test/.\178.txt,2,72,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+313,Keith Lea,76,./data/test/.\178.txt,2,75,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+314,Balfour Beatty,99,./data/test/.\178.txt,2,98,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+315,Steve Arthur,185,./data/test/.\178.txt,2,184,True,1,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+316,Peter Monkhouse,193,./data/test/.\178.txt,2,192,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+317,David Davis,158,./data/test/.\182.txt,2,157,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+318,Tony Blair,175,./data/test/.\182.txt,2,174,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+319,Mark Oaten,524,./data/test/.\182.txt,2,523,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+320,Michael Howard,8,./data/test/.\190.txt,2,7,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+321,Tony Meo,182,./data/test/.\190.txt,2,181,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+322,Ray Reardon,228,./data/test/.\190.txt,2,227,True,5,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+323,Terry Griffiths,257,./data/test/.\190.txt,2,256,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+324,Clare Short,10,./data/test/.\191.txt,2,9,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+325,Cherie Blair,6,./data/test/.\194.txt,2,5,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+326,Gary O'Donoghue,178,./data/test/.\194.txt,2,177,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+327,Mr Blair,31,./data/test/.\195.txt,2,30,True,2,0,True,False,5,False,False,False,False,False,False,True,False,False,False
+328,Jack Straw,115,./data/test/.\195.txt,2,114,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+329,Patricia Hewitt,29,./data/test/.\199.txt,2,28,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+330,Stefan Pakeerah,105,./data/test/.\199.txt,2,104,True,100,1,False,False,100,False,True,False,False,False,False,False,False,False,False
+331,Warren Leblanc,123,./data/test/.\199.txt,2,122,True,4,3,False,False,100,False,True,False,False,False,False,False,False,False,False
+332,Roger Bennett,192,./data/test/.\199.txt,2,191,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+333,David Blunkett's,10,./data/test/.\206.txt,2,9,True,1,1,False,False,100,False,False,False,True,False,False,False,False,False,False
+334,Tony Blair,25,./data/test/.\206.txt,2,24,True,4,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+335,Dominic Grieve,73,./data/test/.\206.txt,2,72,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+336,Martin O'Neill,186,./data/test/.\206.txt,2,185,True,100,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+337,Ian Gibson,224,./data/test/.\206.txt,2,223,True,5,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+338,Mahmoud Abbas,8,./data/test/.\209.txt,2,7,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+339,Tony Blair,230,./data/test/.\209.txt,2,229,True,100,2,False,False,1,False,False,True,False,False,False,False,False,False,False
+340,Condoleezza Rice,241,./data/test/.\209.txt,2,240,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
+341,Kofi Annan,246,./data/test/.\209.txt,2,245,True,100,100,False,False,2,False,False,True,False,False,False,False,False,False,False
+342,Michael Howard,16,./data/test/.\212.txt,2,15,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
+343,Lynton Crosby,33,./data/test/.\212.txt,2,32,True,2,0,False,False,100,True,False,True,False,False,False,True,False,False,False
+344,John Howard,94,./data/test/.\212.txt,2,93,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+345,Des Browne,96,./data/test/.\215.txt,2,95,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+346,Rhian Beynon,294,./data/test/.\215.txt,2,293,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False,False
+347,Mark Rimmer,551,./data/test/.\215.txt,2,550,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+348,Javier Solana,23,./data/test/.\216.txt,2,22,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+349,Jonathan Dimbleby,83,./data/test/.\216.txt,2,82,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+350,Tony Blair,6,./data/test/.\218.txt,2,5,True,1,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+351,Gordon Brown,13,./data/test/.\218.txt,2,12,True,1,1,False,False,100,False,False,False,False,False,False,False,True,False,False
+352,Tony Blair,153,./data/test/.\218.txt,2,152,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+353,John Prescott,191,./data/test/.\218.txt,2,190,True,100,1,False,False,3,False,False,True,False,False,False,False,False,False,False
+354,Mr Brown,195,./data/test/.\218.txt,2,194,True,1,3,True,False,5,False,False,False,False,True,False,False,True,False,False
+355,Michael Howard,517,./data/test/.\218.txt,2,516,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+356,Adam Boulton,536,./data/test/.\218.txt,2,535,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+357,David Blunkett,615,./data/test/.\218.txt,2,614,True,5,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+358,Charles Kennedy,9,./data/test/.\223.txt,2,8,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+359,Tony Blair,22,./data/test/.\223.txt,2,21,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+360,Tony Blair,132,./data/test/.\223.txt,2,131,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
+361,Michael Howard,134,./data/test/.\223.txt,2,133,True,100,2,False,False,5,False,False,True,False,False,False,False,False,False,False
+362,Tony Blair,228,./data/test/.\223.txt,2,227,True,2,100,False,False,100,True,False,False,False,False,False,False,False,False,False
+363,Michael Howard,351,./data/test/.\223.txt,2,350,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+364,Tony Blair,8,./data/test/.\225.txt,2,7,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+365,Gordon Brown,28,./data/test/.\225.txt,2,27,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+366,Michael Howard,75,./data/test/.\225.txt,2,74,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+367,Michael Howard,105,./data/test/.\225.txt,2,104,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+368,Alan Milburn,140,./data/test/.\225.txt,2,139,True,3,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+369,Robert Peston's,242,./data/test/.\225.txt,2,241,True,3,100,False,False,100,True,False,False,True,False,False,False,False,False,False
+370,Paul Flynn,287,./data/test/.\225.txt,2,286,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+371,Alan Beith,205,./data/test/.\233.txt,2,204,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+372,Jack Cunningham,1,./data/test/.\236.txt,2,0,True,100,0,False,False,100,False,False,False,False,True,False,False,False,False,False
+373,Jack Cunningham,13,./data/test/.\236.txt,2,12,True,100,0,False,False,5,False,False,False,False,False,False,False,False,False,False
+374,Jim Callaghan,34,./data/test/.\236.txt,2,33,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+375,Tony Blair's,54,./data/test/.\236.txt,2,53,True,1,3,False,False,100,True,False,False,True,False,False,False,False,False,False
+376,Robert Kilroy-Silk,7,./data/test/.\237.txt,2,6,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+377,Linda Knox,444,./data/test/.\241.txt,2,443,True,2,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+378,Linda Knox,517,./data/test/.\241.txt,2,516,True,2,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+379,James Hardy,103,./data/test/.\242.txt,2,102,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+380,Alan Beith,129,./data/test/.\242.txt,2,128,True,100,100,False,False,100,False,True,True,False,False,False,False,False,False,False
+381,Norman Baker,183,./data/test/.\242.txt,2,182,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+382,Richard Thomas,301,./data/test/.\242.txt,2,300,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+383,David Blunkett,1,./data/test/.\248.txt,2,0,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+384,David Blunkett,5,./data/test/.\248.txt,2,4,True,100,2,False,False,100,True,True,False,False,False,False,False,False,False,False
+385,Tony Blair,12,./data/test/.\251.txt,2,11,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+386,Gordon Brown,15,./data/test/.\251.txt,2,14,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+387,Hilary Benn,581,./data/test/.\251.txt,2,580,True,100,100,False,False,5,False,False,False,False,False,False,False,False,False,False
+388,John Prescott,587,./data/test/.\251.txt,2,586,True,100,100,False,False,3,False,False,True,False,False,False,False,False,False,False
+389,Tony Blair,5,./data/test/.\254.txt,2,4,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+390,Gordon Brown,8,./data/test/.\254.txt,2,7,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+391,Ian Gibson,81,./data/test/.\254.txt,2,80,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+392,Tony Blair,133,./data/test/.\254.txt,2,132,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+393,Gordon Brown,160,./data/test/.\254.txt,2,159,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+394,Robert Peston's,413,./data/test/.\254.txt,2,412,True,3,2,False,False,100,True,False,False,True,False,False,False,False,False,False
+395,Charlie Whelan,523,./data/test/.\254.txt,2,522,True,2,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+396,Gordon Brown,607,./data/test/.\254.txt,2,606,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+397,Gordon Brown,7,./data/test/.\255.txt,2,6,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+398,Gordon Brown,85,./data/test/.\255.txt,2,84,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+399,Robert Peston,101,./data/test/.\255.txt,2,100,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+400,Andrew Marr,179,./data/test/.\255.txt,2,178,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+401,Tony Blair,250,./data/test/.\255.txt,2,249,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+402,Andrew Marr,387,./data/test/.\255.txt,2,386,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+403,Gordon Brown,394,./data/test/.\255.txt,2,393,True,3,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+404,Tony Blair,401,./data/test/.\255.txt,2,400,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+405,Tony Blair,423,./data/test/.\255.txt,2,422,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+406,Michael Howard,587,./data/test/.\255.txt,2,586,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+407,Tony Blair,7,./data/test/.\256.txt,2,6,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+408,Gordon Brown,45,./data/test/.\256.txt,2,44,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
+409,Alan Milburn,88,./data/test/.\256.txt,2,87,True,4,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+410,Liam Fox,507,./data/test/.\256.txt,2,506,True,4,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+411,Tony Blair,12,./data/test/.\257.txt,2,11,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+412,Gordon Brown,15,./data/test/.\257.txt,2,14,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+413,Alan Milburn,112,./data/test/.\257.txt,2,111,True,4,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+414,John Prescott,128,./data/test/.\257.txt,2,127,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+415,Robert Peston,268,./data/test/.\257.txt,2,267,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+416,Paul Flynn,286,./data/test/.\257.txt,2,285,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+417,Stephen Pound,311,./data/test/.\257.txt,2,310,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+418,Tony Blair's,6,./data/test/.\262.txt,2,5,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+419,Gordon Brown,10,./data/test/.\262.txt,2,9,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+420,Michael Howard,22,./data/test/.\262.txt,2,21,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+421,Liam Fox,376,./data/test/.\262.txt,2,375,True,3,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+422,Alan Milburn,413,./data/test/.\262.txt,2,412,True,3,100,False,False,100,False,True,False,False,False,False,False,False,False,False
+423,Sundar Katwala,69,./data/test/.\266.txt,2,68,True,100,0,False,False,100,False,False,True,False,False,False,True,False,False,False
+424,Ann Taylor,282,./data/test/.\266.txt,2,281,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+425,Gordon Brown,192,./data/test/.\274.txt,2,191,True,3,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+426,Alan Milburn,132,./data/test/.\278.txt,2,131,True,100,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+427,Gordon Brown,186,./data/test/.\278.txt,2,185,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+428,Alan Johnson,194,./data/test/.\278.txt,2,193,True,4,3,False,False,1,False,False,True,False,False,False,False,False,False,False
+429,Jane Kennedy,200,./data/test/.\278.txt,2,199,True,1,2,False,False,3,False,False,True,False,False,False,False,False,False,False
+430,Michael Howard,241,./data/test/.\278.txt,2,240,True,4,2,False,False,100,True,False,False,False,False,False,False,False,False,False
+431,Tony Blair,27,./data/test/.\280.txt,2,26,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+432,Condoleezza Rice,93,./data/test/.\280.txt,2,92,True,100,3,False,False,3,False,False,True,False,False,False,False,False,False,False
+433,Robert Kilroy-Silk,8,./data/test/.\281.txt,2,7,True,2,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+434,Robert Kilroy-Silk,122,./data/test/.\281.txt,2,121,True,5,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+435,Charles Kennedy,6,./data/test/.\283.txt,2,5,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+436,Michael Howard's,355,./data/test/.\283.txt,2,354,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+437,Tony Blair's,451,./data/test/.\283.txt,2,450,True,100,100,False,False,100,False,False,True,True,False,False,False,False,False,False
+438,John Houston,22,./data/test/.\286.txt,2,21,True,2,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+439,Robert Kilroy-Silk,92,./data/test/.\286.txt,2,91,True,100,2,False,False,1,False,False,True,False,False,False,False,False,False,False
+440,Peter Nielson,302,./data/test/.\286.txt,2,301,True,100,1,False,False,100,False,True,False,False,False,False,False,False,False,False
+441,Adolf Hitler,236,./data/test/.\290.txt,2,235,True,100,100,False,False,100,True,False,True,False,False,False,False,True,False,False
+442,Winston Churchill,272,./data/test/.\290.txt,2,271,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+443,Josef Stalin,299,./data/test/.\290.txt,2,298,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+444,Frederick Forsyth,746,./data/test/.\290.txt,2,745,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+445,Frederick Forsyth,1375,./data/test/.\290.txt,2,1374,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+446,Frederick Forsyth,1608,./data/test/.\290.txt,2,1607,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+447,Freddie Forsyth,2282,./data/test/.\290.txt,2,2281,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+448,Frederic Forsythe's,2619,./data/test/.\290.txt,2,2618,True,100,3,False,False,100,False,False,True,True,False,False,False,False,False,False
+449,Thomas Jefferson,2683,./data/test/.\290.txt,2,2682,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+450,Frederick Forsyth's,2745,./data/test/.\290.txt,2,2744,True,2,2,False,False,100,False,False,True,True,False,False,False,False,False,False
+451,Frederick Forsyth,2782,./data/test/.\290.txt,2,2781,True,100,2,False,False,100,False,True,True,False,False,False,False,False,False,False
+452,Frederick Forsyth,2971,./data/test/.\290.txt,2,2970,True,100,2,False,False,100,True,False,True,False,False,False,False,False,False,False
+453,Tony Blair,3169,./data/test/.\290.txt,2,3168,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+454,Thomas Hobbes,3189,./data/test/.\290.txt,2,3188,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+455,Frederick Forsyth,3690,./data/test/.\290.txt,2,3689,True,100,100,False,False,100,True,False,True,False,False,False,False,False,False,False
+456,Charles Clark's,3838,./data/test/.\290.txt,2,3837,True,100,100,False,False,100,True,False,True,True,False,False,False,False,False,False
+457,Frederick Forsyth,4205,./data/test/.\290.txt,2,4204,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+458,Winston Churchill,4336,./data/test/.\290.txt,2,4335,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+459,Alastair Campbell,17,./data/test/.\297.txt,2,16,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+460,Peter Mandelson,19,./data/test/.\297.txt,2,18,True,100,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+461,Gavyn Davies,107,./data/test/.\297.txt,2,106,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+462,Greg Dyke,110,./data/test/.\297.txt,2,109,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+463,Andrew Gilligan,114,./data/test/.\297.txt,2,113,True,100,1,False,False,100,False,False,True,False,False,False,False,False,False,False
+464,Michael Howard's,135,./data/test/.\297.txt,2,134,True,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+465,Alastair Campbell,160,./data/test/.\297.txt,2,159,True,3,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+466,Alastair Campbell,285,./data/test/.\297.txt,2,284,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+467,Liam Fox,312,./data/test/.\297.txt,2,311,True,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
+468,Baroness Kennedy,378,./data/test/.\297.txt,2,377,True,5,1,False,False,100,True,True,False,False,False,False,False,False,False,False
+469,Michael Howard,99,./data/test/.\299.txt,2,98,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+470,Mark Oaten,245,./data/test/.\299.txt,2,244,True,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
+471,Michael Howard,254,./data/test/.\299.txt,2,253,True,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+472,Guy Mansfield,284,./data/test/.\299.txt,2,283,True,100,3,False,False,100,False,False,True,False,False,False,False,False,False,False
+473,Harold Wilson,68,./data/test/.\400.txt,2,67,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+474,Jim Callaghan,131,./data/test/.\400.txt,2,130,True,1,100,False,False,100,False,False,False,False,True,False,False,False,False,False
+475,Jim Callaghan,254,./data/test/.\400.txt,2,253,True,5,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+476,Charles Kennedy,290,./data/test/.\400.txt,2,289,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+477,Harold Wilson,440,./data/test/.\400.txt,2,439,True,3,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+478,Idi Amin's,538,./data/test/.\400.txt,2,537,True,1,3,False,False,100,False,False,True,True,False,False,False,False,False,False
+479,Dennis Hills,552,./data/test/.\400.txt,2,551,True,100,1,False,False,100,True,True,False,False,False,False,False,False,False,False
+480,Margaret Thatcher,653,./data/test/.\400.txt,2,652,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+481,Gordon Brown,12,./data/test/.\402.txt,2,11,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+482,Alan Milburn,18,./data/test/.\402.txt,2,17,True,2,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+483,Alan Johnson,28,./data/test/.\402.txt,2,27,True,4,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+484,Gordon Brown,208,./data/test/.\402.txt,2,207,True,3,0,False,False,100,False,False,True,False,False,False,False,False,False,False
+485,Tony Blair,8,./data/test/.\405.txt,2,7,True,100,0,False,False,100,True,False,True,False,False,False,False,False,False,False
+486,Michael Howard's,45,./data/test/.\405.txt,2,44,True,100,100,False,False,100,True,False,False,True,False,False,False,False,False,False
+487,Mr Howard's,138,./data/test/.\405.txt,2,137,True,100,100,True,False,4,False,True,False,True,False,False,False,False,False,False
+488,Cardinal O'Connor,179,./data/test/.\405.txt,2,178,True,100,0,False,False,100,True,False,False,False,False,False,False,False,False,False
+489,Charles Kennedy,355,./data/test/.\405.txt,2,354,True,100,1,False,False,100,False,False,False,False,False,False,False,False,False,False
+490,Anne Weyman,506,./data/test/.\405.txt,2,505,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+491,Paul Boateng,7,./data/test/.\407.txt,2,6,True,5,2,False,False,100,True,False,True,False,False,False,False,False,False,False
+492,Ann Grant,94,./data/test/.\407.txt,2,93,True,5,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+493,Tony Blair,120,./data/test/.\407.txt,2,119,True,100,2,False,False,1,True,False,True,False,False,False,False,False,False,False
+494,Gordon Brown,174,./data/test/.\407.txt,2,173,True,100,100,False,False,1,True,False,True,False,False,False,False,False,False,False
+495,Helen Liddell,425,./data/test/.\407.txt,2,424,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+496,Paul Boateng,436,./data/test/.\407.txt,2,435,True,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+497,Osama Bin Laden,313,./data/test/.\052.txt,3,311,True,100,1,False,False,100,True,False,False,False,False,False,False,False,False,False
+498,George W Bush,47,./data/test/.\093.txt,3,45,True,100,2,False,False,100,False,False,True,False,False,False,False,False,False,False
+499,Camilla Parker Bowles,10,./data/test/.\104.txt,3,8,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+500,Booz Allen Hamilton,85,./data/test/.\109.txt,3,83,True,100,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+501,Rhodri Glyn Thomas,362,./data/test/.\121.txt,3,360,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+502,Robert James Alcorn,207,./data/test/.\178.txt,3,205,True,100,100,False,False,100,False,False,False,False,False,False,False,False,False,False
+503,George W Bush's,14,./data/test/.\194.txt,3,12,True,4,100,False,False,100,False,False,False,True,False,False,False,False,False,False
+504,Tom McCabe MSP,90,./data/test/.\241.txt,3,88,True,100,100,False,False,100,False,False,True,False,False,False,False,False,False,False
+505,Brian Monteith MSP,355,./data/test/.\241.txt,3,353,True,2,3,False,False,100,False,False,False,False,False,False,False,False,False,False
+506,George W Bush,7,./data/test/.\280.txt,3,5,True,4,0,False,False,100,False,False,False,False,False,False,False,False,False,False
+507,Dame Barbara Castle,444,./data/test/.\400.txt,3,442,True,100,3,False,False,100,False,False,False,False,True,False,False,False,False,False

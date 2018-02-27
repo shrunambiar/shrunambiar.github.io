@@ -46,7 +46,7 @@ fpl = []
 fnl = []
 
 # X_train, X_test, y_train, y_test = train_test_split(data, target, test_size=0.1)
-model = DecisionTreeClassifier()
+model = SVC()
 
 model.fit(data, target)
 print(model)
@@ -72,9 +72,9 @@ df.to_csv("fpl2.csv")
 df = pd.DataFrame(np.array(fnl))
 df.to_csv("fnl2.csv")
 
-l = zip(features, model.feature_importances_)
-l.sort(key = lambda x:x[1], reverse=True)
-print l
+# l = zip(features, model.feature_importances_)
+# l.sort(key = lambda x:x[1], reverse=True)
+# print l
 whitelist = ['Tony Blair', 'Alan Milburn', 'Charles Kennedy', 'David Blunkett', 'George Bush', 'Gordon Brown'] # 64
 
 whitelist = ['Tony Blair', 'Alan Milburn', 'Charles Kennedy', 'David Blunkett', 'George Bush', 'Gordon Brown',

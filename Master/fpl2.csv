@@ -1,111 +1,73 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-0,Boothroyd,200,./data/test/.\117.txt,1,200,False,100,0,False,False,1,False,False,True,False,False,False,True,False,False,False
-1,Booth,235,./data/test/.\194.txt,1,235,False,5,0,False,False,100,False,True,False,False,False,False,False,False,False,False
-2,Election,19,./data/test/.\238.txt,1,19,False,100,0,False,False,1,True,False,True,False,False,False,False,False,False,False
-3,Liberal Democrats,78,./data/test/.\001.txt,2,77,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-4,Family Theresa,247,./data/test/.\001.txt,2,246,False,100,100,False,False,5,False,False,True,False,False,False,False,False,False,False
-5,Election Liberal,292,./data/test/.\001.txt,2,291,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-6,Mr Nasty',64,./data/test/.\013.txt,2,63,False,100,100,True,False,100,False,False,True,True,False,False,False,False,False,False
-7,Mr Nasty,555,./data/test/.\013.txt,2,554,False,100,0,True,False,100,False,False,True,False,False,False,False,False,False,False
-8,Fiscal Studies,304,./data/test/.\021.txt,2,303,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-9,Investec Securities,332,./data/test/.\021.txt,2,331,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-10,Fiscal Studies,387,./data/test/.\021.txt,2,386,False,4,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-11,Fiscal Studies',131,./data/test/.\022.txt,2,130,False,4,3,False,False,100,False,False,False,True,False,False,False,False,False,False
-12,Kenyan Government's,178,./data/test/.\024.txt,2,177,False,5,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-13,Sir Alan,24,./data/test/.\028.txt,2,23,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-14,White Paper,189,./data/test/.\033.txt,2,188,False,1,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-15,Age Concern,214,./data/test/.\043.txt,2,213,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-16,Carter's White,94,./data/test/.\052.txt,2,93,False,2,2,False,False,1,True,False,True,False,False,False,False,False,False,False
-17,- Upgrading,332,./data/test/.\052.txt,2,331,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-18,United Nations',369,./data/test/.\052.txt,2,368,False,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-19,- Compelling,414,./data/test/.\052.txt,2,413,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-20,Royal Mail,20,./data/test/.\061.txt,2,19,False,2,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-21,Darlington Council,79,./data/test/.\061.txt,2,78,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-22,Luke Tomlinson,60,./data/test/.\066.txt,2,59,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-23,Magistrates' Court,207,./data/test/.\066.txt,2,206,False,5,100,False,False,100,True,False,True,False,True,False,False,False,False,False
-24,Hartpury Gloucestershire,271,./data/test/.\066.txt,2,270,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-25,Parliament Act,451,./data/test/.\066.txt,2,450,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-26,Countryside Alliance,489,./data/test/.\066.txt,2,488,False,3,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-27,Workers' Union's,331,./data/test/.\069.txt,2,330,False,100,100,False,False,1,False,False,True,True,False,False,False,False,False,False
-28,Lib Dems,81,./data/test/.\085.txt,2,80,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-29,New Labour,146,./data/test/.\085.txt,2,145,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-30,Potato Council,319,./data/test/.\085.txt,2,318,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-31,Czech Republic,157,./data/test/.\093.txt,2,156,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-32,Law Lords',199,./data/test/.\097.txt,2,198,False,2,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-33,Liberal Democrat's,223,./data/test/.\097.txt,2,222,False,4,3,False,False,100,False,False,False,True,False,False,False,False,False,False
-34,Mrs Parker,27,./data/test/.\104.txt,2,26,False,5,1,True,False,100,True,False,True,False,False,False,False,False,False,False
-35,Princess Consort,74,./data/test/.\104.txt,2,73,False,1,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-36,Mrs Parker,138,./data/test/.\104.txt,2,137,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-37,Mrs Parker,288,./data/test/.\104.txt,2,287,False,5,1,True,False,100,True,False,True,False,False,False,False,False,False,False
-38,Mrs Camilla,375,./data/test/.\104.txt,2,374,False,100,2,True,False,100,False,False,True,False,False,False,False,False,False,False
-39,Mrs Parker,433,./data/test/.\104.txt,2,432,False,100,1,True,False,100,True,False,True,False,False,False,False,False,False,False
-40,Refugee Council,288,./data/test/.\106.txt,2,287,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-41,New Labour's,19,./data/test/.\107.txt,2,18,False,5,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-42,New Labour,107,./data/test/.\107.txt,2,106,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-43,London Assembly,189,./data/test/.\111.txt,2,188,False,100,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-44,New Party,641,./data/test/.\111.txt,2,640,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-45,Constitutional Affairs',113,./data/test/.\118.txt,2,112,False,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-46,Non-European Union,6,./data/test/.\122.txt,2,5,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-47,NHS Labour,67,./data/test/.\122.txt,2,66,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-48,South Wales,132,./data/test/.\137.txt,2,131,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-49,West Country,291,./data/test/.\137.txt,2,290,False,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
-50,Melton Mowbray,405,./data/test/.\137.txt,2,404,False,5,0,False,False,100,True,False,False,False,False,False,True,False,False,False
-51,Michael Ancram,154,./data/test/.\142.txt,2,153,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-52,Liberal Democrat,324,./data/test/.\142.txt,2,323,False,100,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-53,West Ham,98,./data/test/.\143.txt,2,97,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-54,Mr Betts-Green's,86,./data/test/.\145.txt,2,85,False,1,100,True,False,100,False,False,False,True,False,False,False,True,False,False
-55,Energy Act,327,./data/test/.\146.txt,2,326,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-56,High Court,84,./data/test/.\148.txt,2,83,False,4,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-57,Mr Blair.,210,./data/test/.\159.txt,2,209,False,4,2,True,False,100,False,False,True,False,False,False,False,False,False,False
-58,Mr Howard,327,./data/test/.\159.txt,2,326,False,100,0,True,False,100,False,False,False,False,False,False,True,False,False,False
-59,Amanda Champion's,160,./data/test/.\168.txt,2,159,False,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-60,Terrorism Bill,94,./data/test/.\182.txt,2,93,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-61,Lib Dems,403,./data/test/.\182.txt,2,402,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-62,Radio Four's,138,./data/test/.\191.txt,2,137,False,2,3,False,False,100,False,False,True,True,False,False,False,False,False,False
-63,Guantanamo Bay,130,./data/test/.\194.txt,2,129,False,2,0,False,False,100,True,False,False,False,False,False,False,False,False,False
-64,International Development,183,./data/test/.\195.txt,2,182,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-65,Mr Blunkett,124,./data/test/.\206.txt,2,123,False,1,1,True,False,100,False,False,False,False,False,False,False,True,False,False
-66,Senior Labour,183,./data/test/.\206.txt,2,182,False,5,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-67,Downing St,69,./data/test/.\208.txt,2,68,False,100,0,False,False,100,True,False,False,False,False,False,True,False,False,False
-68,Conservative Party,115,./data/test/.\212.txt,2,114,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-69,Labour Party,138,./data/test/.\212.txt,2,137,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-70,Sir Ian,129,./data/test/.\216.txt,2,128,False,4,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-71,Anti-Terrorism Crimes,147,./data/test/.\216.txt,2,146,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-72,Law Lords,274,./data/test/.\216.txt,2,273,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-73,Lib Dems,41,./data/test/.\223.txt,2,40,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-74,Mr Blair,214,./data/test/.\225.txt,2,213,False,100,0,True,False,100,False,False,False,False,False,False,False,False,False,False
-75,Scotland That's,109,./data/test/.\241.txt,2,108,False,4,100,False,False,100,True,False,False,True,False,False,False,False,False,False
-76,Authority Management,451,./data/test/.\241.txt,2,450,False,100,100,False,False,5,False,False,True,False,False,False,False,False,False,False
-77,Information Act's,39,./data/test/.\242.txt,2,38,False,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-78,Information Act,389,./data/test/.\242.txt,2,388,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-79,England Wales,393,./data/test/.\242.txt,2,392,False,1,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-80,- Shipman's,269,./data/test/.\248.txt,2,268,False,2,3,False,False,100,True,False,False,True,False,False,False,False,False,False
-81,Downing Street,429,./data/test/.\251.txt,2,428,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-82,Downing Street,423,./data/test/.\254.txt,2,422,False,100,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-83,Mr Brown,491,./data/test/.\256.txt,2,490,False,4,1,True,False,100,False,False,False,False,False,False,False,False,False,False
-84,Liberal Democrats,565,./data/test/.\257.txt,2,564,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-85,Gordon Brown,10,./data/test/.\262.txt,2,9,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-86,Labour Party,215,./data/test/.\274.txt,2,214,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-87,Lib Dems',1,./data/test/.\283.txt,2,0,False,100,100,False,False,100,False,False,False,True,False,False,False,False,False,False
-88,Lib Dems,65,./data/test/.\283.txt,2,64,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-89,Mr Forsyth/,3848,./data/test/.\290.txt,2,3847,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-90,Conservative Party,94,./data/test/.\299.txt,2,93,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
-91,Lord Callaghan,664,./data/test/.\400.txt,2,663,False,100,100,True,False,100,True,False,False,False,False,False,False,False,False,False
-92,Labour Party,269,./data/test/.\402.txt,2,268,False,100,0,False,False,100,False,False,False,False,False,False,False,False,False,False
-93,Cormac Murphy,130,./data/test/.\405.txt,2,129,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-94,Heeled Vote,370,./data/test/.\405.txt,2,369,False,5,100,False,False,100,False,True,False,False,False,False,False,False,False,False
-95,Mr Howard,541,./data/test/.\405.txt,2,540,False,100,100,True,False,100,False,False,False,False,True,False,False,False,False,False
-96,South Africa,302,./data/test/.\407.txt,2,301,False,5,100,False,False,100,False,False,False,False,False,False,False,False,False,False
-97,Election Liberal Democrat,293,./data/test/.\001.txt,3,291,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-98,Mr Nasty' TV,65,./data/test/.\013.txt,3,63,False,100,3,True,False,100,False,False,True,False,False,False,False,False,False,False
-99,Gordon Brown Prior,159,./data/test/.\037.txt,3,157,False,2,0,False,False,1,True,False,True,False,True,False,False,False,False,False
-100,Carter's White House,95,./data/test/.\052.txt,3,93,False,2,1,False,False,1,True,False,True,False,False,False,False,False,False,False
-101,Global Safety Authority,348,./data/test/.\052.txt,3,346,False,100,0,False,False,100,True,False,False,False,True,False,False,False,False,False
-102,Mr McConnell Margaret,127,./data/test/.\094.txt,3,125,False,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-103,Mr Afzal Mr,413,./data/test/.\148.txt,3,411,False,2,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-104,Wales Lord Woolf,294,./data/test/.\168.txt,3,292,False,4,0,False,False,100,True,False,False,False,True,False,False,False,False,False
-105,Times Educational Supplement,54,./data/test/.\190.txt,3,52,False,2,2,False,False,100,False,False,False,False,False,False,False,False,False,False
-106,Jack Straw Aid,578,./data/test/.\251.txt,3,576,False,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-107,Mr Brown Labour's,284,./data/test/.\257.txt,3,282,False,3,2,True,False,100,False,False,True,True,False,False,False,False,False,False
-108,Idi Amin's Uganda,539,./data/test/.\400.txt,3,537,False,1,2,False,False,100,False,False,False,False,True,False,False,False,False,False
-109,Cormac Murphy O'Connor,131,./data/test/.\405.txt,3,129,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+0,Liberal Democrats,78,./data/test/.\001.txt,2,77,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+1,Election Liberal,292,./data/test/.\001.txt,2,291,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+2,Mr Nasty',64,./data/test/.\013.txt,2,63,False,100,100,True,False,100,False,False,True,True,False,False,False,False,False,False
+3,Mr Nasty,555,./data/test/.\013.txt,2,554,False,100,0,True,False,100,False,False,True,False,False,False,False,False,False,False
+4,Fiscal Studies,304,./data/test/.\021.txt,2,303,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+5,Sir Alan,24,./data/test/.\028.txt,2,23,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+6,Brown Prior,159,./data/test/.\037.txt,2,158,False,3,0,False,False,2,False,False,True,False,True,False,False,False,False,False
+7,Age Concern,214,./data/test/.\043.txt,2,213,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+8,Hartpury Gloucestershire,271,./data/test/.\066.txt,2,270,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+9,Workers' Union's,331,./data/test/.\069.txt,2,330,False,100,100,False,False,1,False,False,True,True,False,False,False,False,False,False
+10,Sir Ian,110,./data/test/.\070.txt,2,109,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+11,Henley-on-Thames Oxfordshire,225,./data/test/.\075.txt,2,224,False,100,0,False,False,2,False,False,False,False,False,False,True,False,False,False
+12,Mrs Parker,27,./data/test/.\104.txt,2,26,False,5,1,True,False,100,True,False,True,False,False,False,False,False,False,False
+13,Mrs Parker,69,./data/test/.\104.txt,2,68,False,1,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+14,Princess Consort,74,./data/test/.\104.txt,2,73,False,1,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+15,Mrs Parker,138,./data/test/.\104.txt,2,137,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+16,Mrs Parker,156,./data/test/.\104.txt,2,155,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+17,Mrs Parker,288,./data/test/.\104.txt,2,287,False,5,1,True,False,100,True,False,True,False,False,False,False,False,False,False
+18,Mrs Camilla,375,./data/test/.\104.txt,2,374,False,100,2,True,False,100,False,False,True,False,False,False,False,False,False,False
+19,Mrs Parker,433,./data/test/.\104.txt,2,432,False,100,1,True,False,100,True,False,True,False,False,False,False,False,False,False
+20,Dr Richard,144,./data/test/.\121.txt,2,143,False,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+21,NHS Labour,67,./data/test/.\122.txt,2,66,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+22,Dr John,390,./data/test/.\122.txt,2,389,False,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+23,Michael Ancram,154,./data/test/.\142.txt,2,153,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+24,Mr Betts-Green's,86,./data/test/.\145.txt,2,85,False,1,100,True,False,100,False,False,False,True,False,False,False,True,False,False
+25,High Court,84,./data/test/.\148.txt,2,83,False,4,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+26,Mr Afzal,412,./data/test/.\148.txt,2,411,False,2,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+27,Sir John,186,./data/test/.\151.txt,2,185,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+28,Mr Blair.,210,./data/test/.\159.txt,2,209,False,4,2,True,False,100,False,False,True,False,False,False,False,False,False,False
+29,Mr Howard,327,./data/test/.\159.txt,2,326,False,100,0,True,False,100,False,False,False,False,False,False,True,False,False,False
+30,Mr Blunkett,124,./data/test/.\206.txt,2,123,False,1,1,True,False,100,False,False,False,False,False,False,False,True,False,False
+31,Sir Ian,129,./data/test/.\216.txt,2,128,False,4,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+32,Dr Julian,214,./data/test/.\242.txt,2,213,False,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+33,Conservative Party,94,./data/test/.\299.txt,2,93,False,100,0,False,False,100,False,False,False,False,False,False,True,False,False,False
+34,Lord Callaghan,664,./data/test/.\400.txt,2,663,False,100,100,True,False,100,True,False,False,False,False,False,False,False,False,False
+35,Cormac Murphy,130,./data/test/.\405.txt,2,129,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+36,Election Liberal Democrat,293,./data/test/.\001.txt,3,291,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+37,Mr Nasty' TV,65,./data/test/.\013.txt,3,63,False,100,3,True,False,100,False,False,True,False,False,False,False,False,False,False
+38,Mr Howard Pointing,205,./data/test/.\022.txt,3,203,False,1,0,True,False,100,False,False,False,False,True,False,False,True,False,False
+39,Lord Armstrong Lord,541,./data/test/.\027.txt,3,539,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+40,Ruth Kelly Serial,20,./data/test/.\030.txt,3,18,False,5,1,False,False,1,False,False,True,False,False,False,False,False,False,False
+41,Gordon Brown Prior,159,./data/test/.\037.txt,3,157,False,2,0,False,False,1,True,False,True,False,True,False,False,False,False,False
+42,Mr Blair David,165,./data/test/.\037.txt,3,163,False,3,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+43,Carter's White House,95,./data/test/.\052.txt,3,93,False,2,1,False,False,1,True,False,True,False,False,False,False,False,False,False
+44,Mr Oaten Mr,473,./data/test/.\070.txt,3,471,False,1,1,True,False,100,True,False,True,False,False,False,False,True,False,False
+45,Mr Barber Public,95,./data/test/.\084.txt,3,93,False,1,100,True,False,100,False,False,False,False,False,False,False,True,False,False
+46,Mr McConnell Margaret,127,./data/test/.\094.txt,3,125,False,3,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+47,Canterbury Dr Rowan,273,./data/test/.\104.txt,3,271,False,100,1,False,False,2,True,False,True,False,False,False,False,False,False,False
+48,Mrs Camilla Parker,376,./data/test/.\104.txt,3,374,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+49,Mr Blair Liberal,424,./data/test/.\106.txt,3,422,False,1,100,True,False,100,False,False,True,False,False,False,False,True,False,False
+50,Mr Kilroy-Silk Mr,86,./data/test/.\111.txt,3,84,False,2,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+51,Geoff Hoon's Ashfield,174,./data/test/.\111.txt,3,172,False,4,2,False,False,1,True,False,True,False,False,False,False,False,False,False
+52,Robert Kilroy-Silk Mr,91,./data/test/.\125.txt,3,89,False,100,1,False,False,1,False,False,True,False,False,False,False,False,False,False
+53,Kilroy-Silk Mr Houston,92,./data/test/.\125.txt,3,90,False,100,0,False,False,2,False,False,True,False,False,False,False,False,False,False
+54,Richard Mawrey QC,88,./data/test/.\148.txt,3,86,False,100,0,False,False,4,False,False,True,False,False,False,True,False,False,False
+55,Mr Afzal Mr,413,./data/test/.\148.txt,3,411,False,2,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+56,Mr Blair. Saying,211,./data/test/.\159.txt,3,209,False,4,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+57,Lord Woolf's Sentencing,335,./data/test/.\168.txt,3,333,False,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+58,Mr Brown -,312,./data/test/.\175.txt,3,310,False,1,2,True,False,100,False,False,False,False,False,False,False,False,False,False
+59,Tony Blair Also,231,./data/test/.\209.txt,3,229,False,100,1,False,False,1,False,False,True,False,False,False,False,False,False,False
+60,State Condoleezza Rice,241,./data/test/.\209.txt,3,239,False,5,100,False,False,2,False,False,True,False,False,False,False,False,False,False
+61,Kofi Annan World,247,./data/test/.\209.txt,3,245,False,100,100,False,False,2,False,False,True,False,False,False,False,False,False,False
+62,Jack Straw Aid,578,./data/test/.\251.txt,3,576,False,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+63,Mr Brown Labour's,284,./data/test/.\257.txt,3,282,False,3,2,True,False,100,False,False,True,True,False,False,False,False,False,False
+64,Mr Peston Mr,494,./data/test/.\257.txt,3,492,False,1,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+65,Lord Dubs' Succession,23,./data/test/.\266.txt,3,21,False,5,0,True,False,100,False,False,False,False,True,False,False,False,False,False
+66,Mr Blair Mr,274,./data/test/.\280.txt,3,272,False,1,1,True,False,100,False,False,True,False,False,False,False,True,False,False
+67,Mr Blair Following,316,./data/test/.\280.txt,3,314,False,1,100,True,False,100,False,False,False,False,False,False,False,True,False,False
+68,Robert Kilroy-Silk Mr,93,./data/test/.\286.txt,3,91,False,100,1,False,False,1,False,False,True,False,False,False,False,False,False,False
+69,Kilroy-Silk Mr Houston,94,./data/test/.\286.txt,3,92,False,100,0,False,False,2,False,False,True,False,False,False,False,False,False,False
+70,Mr Howard -,324,./data/test/.\297.txt,3,322,False,100,1,True,False,100,False,False,False,False,False,False,False,False,False,False
+71,Cormac Murphy O'Connor,131,./data/test/.\405.txt,3,129,False,3,100,False,False,1,False,False,True,False,False,False,False,False,False,False
