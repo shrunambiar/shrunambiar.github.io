@@ -1,7 +1,14 @@
-Patricia Hewitt
+Etzioni
+Torfaen
+Boothroyd
+Booth
+ELSPA
+Brown's
+Election
 Ms Hewitt
 Liberal Democrats
 Ms Hewitt
+Family Theresa
 Gordon Brown
 Tony Blair
 Election Liberal
@@ -15,16 +22,17 @@ Mr Nasty'
 Anne Robinson
 Ms Robinson
 Mr Howard
+Michael Cockerell
 Mr Howard
 Ms Robinson
 Mr Howard
-Mr Howard
+Rory Bremner's
 Tony Blair
 Mr Howard
 Mr Blair's
+Ken Clarke
 Mr Howard
 Mr Clarke
-Michael Howard
 Mr Nasty
 Tony Blair
 Gordon Brown's
@@ -34,6 +42,9 @@ Mr Blair
 Mr Blair
 Mr Brown
 Fiscal Studies
+David Page
+Investec Securities
+Fiscal Studies
 Mr Letwin
 Mr Brown
 Mr Cable
@@ -42,6 +53,7 @@ Tony Blair
 Mr Blair
 Mr Howard
 Mr Howard
+Fiscal Studies'
 Mr Blair
 Mr Howard
 Mr Blair
@@ -53,9 +65,9 @@ Gordon Brown
 Mr Brown's
 Mr Brown
 Mr Brown's
+Kenyan Government's
 Mr Brown
 Tony Blair
-Michael Howard
 Lord Butler
 Tony Blair's
 Michael Howard
@@ -67,6 +79,7 @@ Lord Butler
 Mr Howard
 Lord Butler's
 Lord Butler's
+Saddam Hussein
 Lord Butler
 Boris Johnson
 Lord Butler
@@ -78,7 +91,7 @@ Lord Butler's
 Mr Blair's
 Lord Butler
 Mr Cunningham
-David Blunkett
+Robin Butler's
 Sir Alan
 Mr Blunkett
 Mark Oaten
@@ -91,38 +104,58 @@ Jack Straw
 Mr Straw
 Mr Straw
 Michael Ancram
-David Blunkett
+Ruth Kelly
 Mr Blunkett
 Mr Blunkett
+Baroness Scotland
+Stansted Airport
+White Paper
 Lord Hanningfield
+Green Paper
+David Miliband's
 Tony Blair
 Mr Miliband's
+David Miliband
 Gordon Brown
-Brown Prior
 Mr Blair
+Haverstock Comprehensive
 Tony Blair's
 Mr Prentis
 Gordon Lishman
 Mr Lishman
 Mr Lishman
 Age Concern
+- Upgrading
+United Nations'
+- Compelling
+Charles Clarke
 Mr Clarke
 Mr Bell's
 Mr Clarke
+Royal Mail
+Darlington Council
+Luke Tomlinson
+Matthew Knight
+Magistrates' Court
 Hartpury Gloucestershire
+Princes Charles
+Parliament Act
+Countryside Alliance
+John Prescott
 Mr Prescott
 Mr Prescott
 Workers' Union's
 Mr Prescott
 Michael Howard
-Sir Ian
 Mr Howard
 Mr Howard
 Charles Clarke
 Mark Oaten
 Mr Oaten
 Mr Clarke
+Ken Livingstone
 Boris Johnson
+Mr Johnson
 Tony Blair's
 Mr Livingstone
 Mr Livingstone
@@ -132,7 +165,6 @@ Mr Johnson
 Ken Bigley
 Mr Blair
 Mr Johnson
-Henley-on-Thames Oxfordshire
 Mr Johnson
 Mr Bigley
 Mr Johnson
@@ -141,72 +173,87 @@ Mr Hague
 Mr Hague
 Mr Hague
 Mr Hague
+Tim Collins
 Mr Hague
 Mr Hague
 Mr Hague
+Brendan Barber
 Mr Barber
+Essential Guide
+Dan Lewis
+Lib Dems
+John Redwood
+New Labour
 Mr Lewis
+Westminster Foundation
 Mr Lewis
+Potato Council
 Mr Lewis
 Tony Blair
 Charles Kennedy
 Mr Kennedy
 Mr Kennedy
+Czech Republic
 Mr Blair's
 Mr Kennedy
 Mr Kennedy
+Jack McConnell
 Mr McConnell
 Mr McConnell
 Mr McConnell
 Mr McConnell
+Nicola Sturgeon
+Jack McConnell
 Mr McConnell
 Charles Clarke
 Mr Clarke
 Mr Clarke
+Law Lords'
+Liberal Democrat's
 Mr Clarke
 Mr Oaten
 Daniel Sandford
 Mr Clarke
-David Blunkett
+Daniel Sandford
 Sue Essex
 Gordon Brown
 Mr Wellington
 Ms Essex
 Ms Essex
 Ms Essex
+Liberal Democrats
 Mr German
 Glyn Davies
 Prince Charles
-Mrs Parker
 Mrs Parker
 Princess Consort
 Prince William
 Prince Charles
 Mrs Parker
+Princes William
+Rowan Williams
 Mrs Parker
-Mrs Parker
+Ros Coward
 Prince Charles
 Mrs Camilla
 Tony Blair
-Michael Howard
-Charles Kennedy
 John Howard
 Mrs Parker
-Michael Howard
 Tony Blair
 Mr Howard
 Mr Howard
 Mr Howard
-Michael Howard's
+Refugee Council
 Tony Blair
 Mr Blair
 Matthew Taylor
 Mr Howard
 Gordon Brown
-Alan Milburn
+New Labour's
 Tony Blair
 Mr Brown
 Mr Brown
+New Labour
 Andrew Marr
 Mr Brown's
 Mr Blair
@@ -214,26 +261,29 @@ Mr Marr's
 Mr Brown's
 Mr Blair
 Mr Blair
+New Labour
 Mr Brown's
 Mr Blair
 Mr O'Brien
 Mr O'Brien
 Mr O'Brien
 Tony Blair
-Michael Howard
 Mr Blair's
+Fraser Kemp
 Mr Howard
 Mr Howard
 Mr Blair
 Mr Blair
 Mr Kemp
-Michael Howard
-Michael Howard
 Robert Kilroy-Silk
 Mr Kilroy-Silk
 Roger Knapman
 Mr Kilroy-Silk
 Mr Kilroy-Silk
+Geoff Hoon's
+London Assembly
+Damien Hockney
+Petrina Holdsworth
 Mr Kilroy-Silk
 Mr Hockney
 Mr Kilroy-Silk
@@ -241,32 +291,43 @@ Mr Hockney
 Mr Hockney
 Mr Kilroy-Silk.
 Mr Kilroy-Silk
+New Party
+Betty Boothroyd
+Baroness Boothroyd
+Commons Speaker
 Tony Blair
 Lord Falconer
 Lord Falconer
+Constitutional Affairs'
 Lord Falconer
 Lord Falconer
 Lord Falconer
 Jane Hutt
 Dr Richard
+Tony Beddow
+Welsh Institute
 Ms Hutt
 Ms Hutt
-Ms Hutt
+Non-European Union
 Michael Howard
 NHS Labour
 Mr Howard
 Mr Howard
 Mr Howard
 Dr John
-Michael Howard
+Des Browne
+Lisa Power
+Alastair Campbell
 Mr Martin
 Mark Croucher
 Mr Houston
+Robert Kilroy-Silk
 Mr Houston
 Mr Croucher
 Mr Houston's
 Mr Houston
 Mr Houston
+Peter Nielson
 Mr Houston
 Mr Houston
 Tony Blair
@@ -274,30 +335,43 @@ Gordon Brown
 Mr Blair
 Mr Brown
 Kate Hoey
+Simon Hall
+West Country
+Beaufort Hunt
+Badminton Gloucestershire
+Kate Hoey
+Melton Mowbray
 Lord Goldsmith
 Jack Straw
 Mr Straw
 Mr Straw
 Mr Straw
+Golden Temple
+Jack Straw
 Mr Straw
 Michael Ancram
 Tony Blair's
+Liberal Democrat
 Charles Kennedy
 Tony Blair's
 Mr Blair
+Jack Straw
 Mr Blair
 Trevor Phillips
+West Ham
 Mr Phillips
 Mr Malik
 Diane Abbot
-Ms Abbott
+Mr Phillips'
 Ian McCartney
 Mr Betts-Green
 Mr Betts-Green's
 Mr Betts-Green
 Patricia Hewitt
 Mr Baker
+Energy Act
 Charles Clarke
+Liam Fox
 Tony Blair's
 Mr Clarke
 Mr Clarke
@@ -308,21 +382,24 @@ Mr Clarke
 Dr Fox
 Mr Blair
 Mr Blair
-Charles Kennedy
 High Court
+Mawrey QC
+Mohammed Kazi
+Liberal Democrat
+Ravi Sukul
 Mr Sukul
 Mr Sukul
 Mr Sukul
 Mr Mawrey
 Mr Mawrey
-Mr Afzal
 Mr Islam
 Mr Kazi
+Richard Belmar
 Mr Begg's
 Mr Abbasi
 Mr Mubanga
 Sir John
-Sir John
+Louise Christian
 Mr Begg
 Robert Kilroy-Silk
 Mr Kilroy-Silk
@@ -334,7 +411,6 @@ Mr Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
-Michael Howard
 Tony Blair
 Mr Howard
 Mr Blair.
@@ -345,6 +421,8 @@ Mr Howard
 Alan Milburn
 Simon Hughes
 John Denham
+Amanda Champion's
+James Ford
 Lewis Champion
 David Blunkett
 Mr Blunkett
@@ -352,6 +430,7 @@ Lord Woolf
 Lord Woolf's
 Mr Denham
 Mr Blunkett
+David Bell
 Mr Bell
 Mr Bell's
 Mr Bell
@@ -364,33 +443,40 @@ Mr Brown
 Mr Brown
 Charles Clarke
 Mr Clarke
+Terrorism Bill
 Tony Blair
 Mr Clarke
+Lib Dems
 Mr Davis
 Mr Clarke
 Mr Clarke
-Michael Howard
 Mr Howard
 Mr Howard
 Mr Howard
-Mr White
 Mr Howard's
-Mr Howard
+Clare Short
 Ms Short
 Ms Short
+Radio Four's
 Ms Short
 Ms Short
+White House
 Mrs Blair's
+Guantanamo Bay
 Mr Bush
+Gary O'Donoghue
 Mrs Blair
+Cherie Booth
 Tony Blair
+Mr Blair
 Jack Straw
 Mr Blair
+International Development
 Mr Blair
+Stefan Pakeerah
 Ms Hewitt
 Ms Hewitt
 Tessa Jowell
-David Blunkett's
 Tony Blair
 Mr Blunkett
 Mr Blair
@@ -399,24 +485,36 @@ Mr Blair
 Mr Blunkett
 Mr Grieve
 Mr Blunkett
+Senior Labour
+Martin O'Neill
+Ian Gibson
 Mr Blunkett
+Downing St
 Gareth Thomas
 Jack Straw
+Mahmoud Abbas
 Mr Abbas
 Mr Abbas
 Mr Abbas
 Jack Straw
 Mr Abbas
 Tony Blair
+Condoleezza Rice
+Annan World
 Mr Straw
 Mr Blair
-Michael Howard
+Lynton Crosby
 Mr Crosby
 Mr Howard
 Mr Howard
 Mr Crosby
 Mr Crosby's
+Conservative Party
+Labour Party
+Joint Council
+Rhian Beynon
 Ms Beynon
+Mark Rimmer
 Mr Rimmer
 Mr Rimmer
 Mr Rimmer
@@ -424,7 +522,9 @@ Charles Clarke
 Mr Solana
 Mr Solana's
 Sir Ian
+Anti-Terrorism Crimes
 Mr Clarke
+Law Lords
 Mr Solana
 Tony Blair
 Gordon Brown
@@ -433,6 +533,7 @@ Mr Brown
 Mr Blair
 Mr Blair
 Tony Blair
+Mr Brown
 Mr Peston
 Mr Peston
 Mr Blair
@@ -440,33 +541,30 @@ Mr Blair's
 Mr Brown
 Mr Brown
 Mr Blair
-Michael Howard
 Mr Brown
 Matthew Taylor
 Mr Blair
 Mr Brown
 Mr Blair
-David Blunkett
 Charles Kennedy
 Tony Blair
+Lib Dems
 Mr Kennedy
 Tony Blair
-Michael Howard
 Mr Blair
 Tony Blair
 Mr Kennedy
 Mr Blair
-Michael Howard
 Tony Blair
 Gordon Brown
 Mr Blair
-Michael Howard
 Michael Howard
 Mr Brown
 Alan Milburn
 Mr Blair
 Mr Brown
 Mr Blair
+Robert Peston's
 Mr Blair
 Mr Prescott
 Mr Prescott
@@ -479,10 +577,12 @@ John Redwood
 Mr Redwood
 Mr Blair
 Michael Howard
+Constitutional Affairs
 Mr Cunningham
 Tony Blair's
 Mr Blair
 Mr Cunningham
+Robert Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
 Adam Ingram
@@ -491,13 +591,18 @@ Peter Duncan
 Alex Salmond
 George Foulkes
 Geoff Hoon
+Scotland That's
 Mr McCabe
+BBC Scotland
 Mr McCabe
+Authority Management
+Linda Knox
+Information Act's
 Dr Julian
 Dr Lewis
 Mr Thomas
 Mr Thomas
-David Blunkett
+Information Act
 David Blunkett
 Mr Blunkett
 Tony Blair
@@ -507,12 +612,16 @@ Mr Brown
 Mr Brown
 Mr Brown's
 Mr Blair
+Downing Street
 Gordon Brown
 Mr Blair
 Jack Straw
+John Prescott
+Prescott -
 Mr Brown
 Tony Blair
 Gordon Brown
+Ian Gibson
 Tony Blair
 Gordon Brown
 John Reid
@@ -521,7 +630,8 @@ Lord Haskins
 Mr Blair
 Mr Brown
 Mr Blair
-Mr Brown
+Robert Peston's
+Downing Street
 Mr Brown
 Mr Brown's
 Gordon Brown
@@ -537,6 +647,7 @@ Tony Blair
 Mr Brown
 Mr Peston
 Mr Blair
+Andrew Marr
 Gordon Brown
 Tony Blair
 Tony Blair
@@ -546,7 +657,6 @@ Mr Blair
 Mr Brown's
 Mr Blair's
 Mr Brown
-Michael Howard
 Mr Brown
 Matthew Taylor
 Mr Blair
@@ -555,12 +665,12 @@ Tony Blair
 Mr Blair
 Gordon Brown
 Mr Brown
-Alan Milburn
 Mr Blair
 Robert Peston
 Mr Blair
 Mr Brown
 John Reid
+BBC News
 Mr Blair
 Mr Brown
 Mr Blair's
@@ -579,13 +689,13 @@ Tony Blair
 Gordon Brown
 Mr Brown
 Alan Milburn
+John Prescott
 Mr Brown
 Mr Milburn
 Mr Blair
 Mr Brown
 Mr Blair
 Mr Blair
-Mr Brown
 Mr Blair
 Mr Brown
 Mr Blair
@@ -602,9 +712,9 @@ Mr Peston
 Mr Prescott
 Mr Blair
 Mr Brown
+Liberal Democrats
 Tony Blair's
 Gordon Brown
-Michael Howard
 Mr Howard
 Mr Blair
 Mr Blair
@@ -616,6 +726,7 @@ Mr Brown
 Mr Blair
 Mr Blair
 Mr Blair
+Liam Fox
 Mr Brown
 Alan Milburn
 Mr Blair
@@ -630,10 +741,11 @@ Gordon Brown
 Mr Brown
 Mr Brown's
 Gordon Brown
+Labour Party
 Mr Blair
 Alan Milburn
 Gordon Brown
-Michael Howard
+Alan Johnson
 Mr Howard
 Tony Blair
 Mr Bush
@@ -658,8 +770,10 @@ Mr Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
+Lib Dems'
 Charles Kennedy
 Mr Kennedy
+Lib Dems
 Mr Kennedy
 Michael Howard's
 Mr Kennedy
@@ -668,17 +782,20 @@ Mr Kennedy
 Tony Blair's
 Mark Croucher
 Mr Houston
+Robert Kilroy-Silk
 Mr Houston
 Mr Croucher
 Mr Houston's
 Mr Houston
 Mr Houston
+Peter Nielson
 Mr Houston
 Mr Houston
 Lord Falconer
 Frederick Forsyth
 Charles Clarke
-Mr Forsyth
+Winston Churchill
+Cold War
 Mr Forsyth
 Mr Blair
 Mr Forsyth
@@ -691,15 +808,14 @@ Mr Forsyth
 Mr Forsyth
 Mr Forsythe's
 Mr Forsythe
+Frederick Forsyth
 Mr Forsyth
 Mr Forsyth's
-Mr Forsyth
 Mr Forsyth
 Tony Blair
 Mr Forsyth
 Mr Forsyth's
 Mr Forsyth's
-Mr Forsyth
 Mr Forsyth
 Mr Forsyth
 Mr Forsyth
@@ -712,11 +828,14 @@ Mr Campbell's
 Mr Campbell
 Michael Howard's
 Mr Mandelson
+Alastair Campbell
 Mr Campbell
+Liam Fox
 Mr Campbell's
 Mr Howard
+Baroness Kennedy
 Conservative Party
-Michael Howard
+Mark Oaten
 Michael Howard
 Lord Callaghan
 Lord Callaghan
@@ -728,14 +847,14 @@ Lord Hattersley
 Lord Heseltine
 Lord Callaghan
 Michael Howard
-Charles Kennedy
 Lord Callaghan
 Lord Callaghan
+Dennis Hills
 Lord Callaghan
 Lord Callaghan
 Lord Callaghan
 Gordon Brown
-Alan Milburn
+Alan Johnson
 Mr Milburn
 Mr Brown
 Mr Milburn
@@ -745,18 +864,19 @@ Mr Milburn
 Mr Johnson
 Gordon Brown
 Mr Milburn
+Labour Party
 Tony Blair
 Mr Blair's
-Michael Howard's
 Mr Blair's
 Cormac Murphy
+Mr Howard's
 Mr Howard
 Mr Howard
 Mr Howard
 David Davis
 Mr Howard
 Mr Blair
-Charles Kennedy
+Heeled Vote
 Mr Blair
 Mr Kennedy
 Peter Smith
@@ -766,57 +886,24 @@ Mr Boateng
 Tony Blair
 Gordon Brown
 Mr Boateng
+South Africa
 Mr Boateng
 Michael Ancram
 Mr Boateng's
 Mr Blair's
-Election Liberal Democrat
-Mr Nasty' TV
-Mr Howard Pointing
-Lord Armstrong Lord
+Paul Boateng
 Sir Alan Budd's
-Ruth Kelly Serial
 Gordon Brown Prior
-Mr Blair David
-Carter's White House
+Global Safety Authority
 Sir Ian Blair
-Mr Oaten Mr
-Mr Barber Public
 Mr McConnell Margaret
 Mrs Parker Bowles
 Mrs Parker Bowles
-Mrs Parker Bowles
-Mrs Parker Bowles
-Canterbury Dr Rowan
 Dr Rowan Williams
-Mrs Parker Bowles
-Mrs Camilla Parker
-Mrs Parker Bowles
-Mr Blair Liberal
-Mr Kilroy-Silk Mr
-Geoff Hoon's Ashfield
 Dr Richard Lewis
 Dr John Moore-Gillon
-Robert Kilroy-Silk Mr
-Kilroy-Silk Mr Houston
-Richard Mawrey QC
 Mr Afzal Mr
 Sir John Stevens
-Mr Blair. Saying
-Lord Woolf's Sentencing
 Mr Brown -
-Tony Blair Also
-State Condoleezza Rice
-Kofi Annan World
-Sir Ian Blair
-Dr Julian Lewis
 Jack Straw Aid
 Mr Brown Labour's
-Mr Peston Mr
-Lord Dubs' Succession
-Mr Blair Mr
-Mr Blair Following
-Robert Kilroy-Silk Mr
-Kilroy-Silk Mr Houston
-Mr Howard -
-Cormac Murphy O'Connor
