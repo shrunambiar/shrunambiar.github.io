@@ -97,7 +97,19 @@ for i in range(n):
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
 
+extracted_entities = []
 
+for i in range(n):
+    if predicted[i] == True:
+        extracted_entities.append(dftest.iloc[i]['All-Words'])
+
+
+f = open("extracted_entities.txt", "w")
+for ele in extracted_entities:
+    f.write(ele)
+    f.write("\n")
+
+f.close()
 
 
 
