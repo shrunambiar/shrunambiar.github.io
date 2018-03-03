@@ -63,9 +63,9 @@ for train_index, test_index in skf.split(data, target):
     X_train, X_test = data[train_index], data[test_index]
     y_train, y_test = target[train_index], target[test_index]
 
-    model = SVC()
+    # model = SVC()
 
-    # model = DecisionTreeClassifier()
+    model = DecisionTreeClassifier()
     #GaussianNB()#DecisionTreeClassifier()#SVC()
     #LogisticRegression()
     model.fit(X_train, y_train)
@@ -76,11 +76,11 @@ for train_index, test_index in skf.split(data, target):
 
     n = len(expected)
 
-    for i in range(n):
-        if expected[i] == False and predicted[i] == True:
-            fpl.append(X_test[i])
-        elif expected[i] == True and predicted[i] == False:
-            fnl.append(X_test[i])
+    # for i in range(n):
+    #     if expected[i] == False and predicted[i] == True:
+    #         fpl.append(X_test[i])
+    #     elif expected[i] == True and predicted[i] == False:
+    #         fnl.append(X_test[i])
 
     print(metrics.classification_report(expected, predicted))
     print(metrics.confusion_matrix(expected, predicted))
@@ -111,6 +111,12 @@ for train_index, test_index in skf.split(data, target):
     precwl += precision_score(expected, predicted)
     recallwl += recall_score(expected, predicted)
 
+    for i in range(n):
+        if expected[i] == False and predicted[i] == True:
+            fpl.append(dataAll[i])
+        elif expected[i] == True and predicted[i] == False:
+            fnl.append(dataAll[i])
+
 
 
 
@@ -119,3 +125,9 @@ print "avg recall", recall / nsplits
 
 print "avg prec wl", precwl / nsplits
 print "avg recall wl", recallwl / nsplits
+
+df = pd.DataFrame(np.array(fpl))
+df.to_csv("fpl2.csv")
+
+df = pd.DataFrame(np.array(fnl))
+df.to_csv("fnl2.csv")
