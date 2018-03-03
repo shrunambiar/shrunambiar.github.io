@@ -29,6 +29,7 @@ Gordon Brown
 Mr Wellington
 Ms Essex
 Ms Essex
+Ms Essex
 Mr German
 Glyn Davies
 Ken Livingstone
@@ -242,6 +243,7 @@ Lord Callaghan
 Michael Howard
 Lord Callaghan
 Lord Callaghan
+Idi Amin's
 Dennis Hills
 Lord Callaghan
 Lord Callaghan
@@ -658,6 +660,7 @@ Mr Kilroy-Silk's
 Mr Kilroy-Silk
 Mr Kilroy-Silk
 Mr Kilroy-Silk
+Mr Kilroy-Silk
 Mr Campbell
 Mr Campbell's
 Mr Campbell
@@ -769,6 +772,7 @@ Mr Houston
 Tony Blair
 Gordon Brown
 Mr Blair
+Mr Brown
 Mr Brown
 Mr Brown's
 Mr Blair

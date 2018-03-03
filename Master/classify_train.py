@@ -24,6 +24,7 @@ from sklearn.feature_selection import SelectFromModel
 from sklearn.pipeline import Pipeline
 
 from sklearn.model_selection import StratifiedKFold
+from sklearn.metrics import precision_score, recall_score
 
 import scipy
 import pandas as pd
@@ -34,29 +35,37 @@ import numpy as np
 
 dftrain = pd.read_csv('classifier_input_train.csv')
 
-features = ['n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB']
+features = ['All-Words', 'n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB']
 
 
-data = dftrain[features].as_matrix()
+dataAll = dftrain[features].as_matrix()
 target = dftrain['classtype'].as_matrix()
-
+data = np.delete(dataAll, 0, 1)
 # data, target = shuffle_in_unison(data, target)
 
 fpl = []
 fnl = []
 data, target = shuffle_in_unison(data, target)
 
-
-skf = StratifiedKFold(n_splits=10)
+nsplits = 2
+skf = StratifiedKFold(n_splits=nsplits)
 skf.get_n_splits(data, target)
 print(skf)
+
+prec = 0
+recall = 0
+
+precwl = 0
+recallwl = 0
 
 for train_index, test_index in skf.split(data, target):
     print("TRAIN:", train_index, "TEST:", test_index)
     X_train, X_test = data[train_index], data[test_index]
     y_train, y_test = target[train_index], target[test_index]
 
-    model = DecisionTreeClassifier()
+    model = SVC()
+
+    # model = DecisionTreeClassifier()
     #GaussianNB()#DecisionTreeClassifier()#SVC()
     #LogisticRegression()
     model.fit(X_train, y_train)
@@ -75,3 +84,38 @@ for train_index, test_index in skf.split(data, target):
 
     print(metrics.classification_report(expected, predicted))
     print(metrics.confusion_matrix(expected, predicted))
+
+    prec += precision_score(expected, predicted)
+    recall += recall_score(expected, predicted)
+
+    # using whitelist
+    whitelist = ['Tony Blair', 'Alan Milburn', 'Charles Kennedy', 'David Blunkett', 'George Bush', 'Gordon Brown',
+    'Michael Howard']
+    whitelist = ['Tony Blair','Gordon Brown'] # 66
+
+
+    whitelist2 = [w + "'s" for w in whitelist]
+
+    blacklist = ['BBC']
+
+    for i in range(n):
+        # print dataAll[i][0]
+        if predicted[i] == False and (dataAll[i][0] in whitelist or dataAll[i][0] in whitelist2):
+            predicted[i] = True
+        elif predicted[i] == True and dataAll[i][0] in blacklist:
+            predicted[i] = False
+
+    print(metrics.classification_report(expected, predicted))
+    print(metrics.confusion_matrix(expected, predicted))
+
+    precwl += precision_score(expected, predicted)
+    recallwl += recall_score(expected, predicted)
+
+
+
+
+print "avg prec", prec / nsplits
+print "avg recall", recall / nsplits
+
+print "avg prec wl", precwl / nsplits
+print "avg recall wl", recallwl / nsplits
