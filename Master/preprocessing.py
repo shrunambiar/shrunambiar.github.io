@@ -93,12 +93,12 @@ di = di.reset_index(drop=True)
 #print "Removing lowercase"
 #di.to_csv("preprocessed_data_"+var+".csv", sep=',', index=False)
 
-Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Chancellor','Minister','MEP',
-               'Office','Spokesperson', 'Sheriff', 'Reporter', 'Sergent', 'General','Queen','Lieutenant','Colonel',
+Positions=['Leader','Secretary','Prime Minister','Officer','Archbishop','Major','Minister','MEP',
+               'Spokesperson', 'Sheriff', 'Reporter', 'Sergeant', 'General','Queen','Lieutenant','Colonel',
                'Commander','Captain','Private','Specialist','Staff','Master','Brigadier','Airman','Seaman','Minister',
                'Admiral','Deputy','MP', 'President', 'Vice president','Governor', 'Chair','Director','Controller',
-               'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar', 'Spokesman',
-               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Chief', 'Gen', 'Chairman', 'Judge','Prof', 'Commission', 'Cabinet',
+               'Inspector','Assistant','Priest','Professor','Principal','Lady','Viceroy','Vicar',
+               'Spokeswoman', 'Attorney', 'Pope', 'Reverend', 'Chief', 'Judge',
                'Constable'
                ]
 remove_list = []

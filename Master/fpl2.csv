@@ -1,51 +1,51 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-0,Robin,52,./data/test/./276.txt,1,52,False,4,0,False,False,1,False,False,True,False,False,False,False,False,False,False
-1,Musharraf,155,./data/test/./188.txt,1,155,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
-2,Bush,162,./data/test/./189.txt,1,162,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
-3,Justice,88,./data/test/./231.txt,1,88,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
-4,Mr Prescott,493,./data/test/./261.txt,2,492,False,100,100,True,False,100,False,True,False,False,False,False,False,False,False,False
-5,Sir Archy,66,./data/test/./116.txt,2,65,False,4,100,True,False,1,False,False,True,False,False,False,False,False,False,False
-6,Sir John,117,./data/test/./076.txt,2,116,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-7,Mr Griffin,197,./data/test/./201.txt,2,196,False,2,0,True,False,100,False,False,False,False,False,False,True,False,False,False
-8,Mr Mousa,114,./data/test/./229.txt,2,113,False,100,100,True,False,100,True,False,True,False,False,False,False,False,False,False
-9,Lord Justice,184,./data/test/./229.txt,2,183,False,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-10,Mr Justice,188,./data/test/./229.txt,2,187,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-11,Mr Mousa,215,./data/test/./229.txt,2,214,False,2,0,True,False,100,False,False,False,False,False,False,False,False,False,False
-12,George W,181,./data/test/./188.txt,2,180,False,2,2,False,False,1,False,False,True,False,False,False,False,False,False,False
-13,Mr Brown,868,./data/test/./406.txt,2,867,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-14,Mr Kennedy,298,./data/test/./189.txt,2,297,False,100,3,True,False,100,False,False,False,False,False,False,False,False,False,False
-15,Mr Kerry,342,./data/test/./189.txt,2,341,False,2,0,True,False,100,True,False,False,False,False,False,False,False,False,False
-16,Mr Bush,367,./data/test/./189.txt,2,366,False,5,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-17,Sir Stanley,173,./data/test/./410.txt,2,172,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-18,Mr Leigh,177,./data/test/./203.txt,2,176,False,5,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-19,Sir John,287,./data/test/./203.txt,2,286,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-20,Mr Marrsaid,181,./data/test/./401.txt,2,180,False,100,0,True,False,100,False,False,True,False,False,False,True,False,False,False
-21,Mr Howard,168,./data/test/./141.txt,2,167,False,3,0,True,False,100,False,False,False,False,False,False,True,False,False,False
-22,Mr Howard,287,./data/test/./141.txt,2,286,False,3,0,True,False,100,False,False,True,False,False,False,False,False,False,False
-23,Sir John,75,./data/test/./034.txt,2,74,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-24,Sir John,344,./data/test/./034.txt,2,343,False,1,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-25,Mr Davis,150,./data/test/./193.txt,2,149,False,100,2,True,False,100,False,False,False,False,False,False,False,False,False,False
-26,Mrs Hassan,201,./data/test/./150.txt,2,200,False,1,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-27,Mr Straw,123,./data/test/./192.txt,2,122,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-28,Sir Menzies,201,./data/test/./192.txt,2,200,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-29,Mr Begg,362,./data/test/./192.txt,2,361,False,4,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-30,Mr Blunkett,374,./data/test/./227.txt,2,373,False,100,2,True,False,100,False,False,False,False,False,False,False,False,False,False
-31,Sir Menzies,444,./data/test/./082.txt,2,443,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-32,Lord John,171,./data/test/./295.txt,2,170,False,1,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-33,Sir John,129,./data/test/./080.txt,2,128,False,5,100,True,False,1,False,False,True,False,False,False,False,False,False,False
-34,Dr Liam,29,./data/test/./296.txt,2,28,False,2,1,True,False,100,False,False,True,False,False,False,False,False,False,False
-35,Lord Archer,47,./data/test/./296.txt,2,46,False,5,0,True,False,100,True,False,False,False,False,False,False,False,False,False
-36,Sir Teddy,220,./data/test/./296.txt,2,219,False,100,100,True,False,1,False,False,True,False,False,False,False,False,False,False
-37,Teddy Taylor,221,./data/test/./296.txt,2,220,False,100,3,False,False,2,False,False,True,False,False,False,False,False,False,False
-38,Executive Maeve,524,./data/test/./087.txt,2,523,False,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
-39,Mr Brown Sir,78,./data/test/./128.txt,3,76,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-40,Lord Justice Rix,185,./data/test/./229.txt,3,183,False,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
-41,Mr Justice Forbes,189,./data/test/./229.txt,3,187,False,100,0,True,False,100,False,False,False,False,False,False,False,False,False,False
-42,Mr Brown -,869,./data/test/./406.txt,3,867,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-43,Mr Milburn -,920,./data/test/./406.txt,3,918,False,100,2,True,False,100,False,False,False,False,True,False,False,False,False,False
-44,Mr Davis Earlier,272,./data/test/./234.txt,3,270,False,1,100,True,False,100,False,False,True,False,False,False,False,True,False,False
-45,Lord Woolf -,35,./data/test/./231.txt,3,33,False,2,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-46,Mr Brown Tory,407,./data/test/./095.txt,3,405,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
-47,Mr Straw's China,454,./data/test/./136.txt,3,452,False,2,0,True,False,100,True,False,False,False,False,False,False,False,False,False
-48,Mr Blair Liberal,128,./data/test/./087.txt,3,126,False,1,100,True,False,100,False,False,True,False,False,False,False,True,False,False
-49,Executive Maeve Sherlock,525,./data/test/./087.txt,3,523,False,100,100,False,False,1,False,False,True,False,False,False,True,False,False,False
+0,Musharraf,155,./data/test/.\188.txt,1,155,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
+1,Bush,162,./data/test/.\189.txt,1,162,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
+2,Justice,88,./data/test/.\231.txt,1,88,False,100,0,False,False,1,False,False,True,False,False,False,False,False,False,False
+3,Robin,52,./data/test/.\276.txt,1,52,False,4,0,False,False,1,False,False,True,False,False,False,False,False,False,False
+4,Sir John,75,./data/test/.\034.txt,2,74,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+5,Sir John,344,./data/test/.\034.txt,2,343,False,1,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+6,Sir John,117,./data/test/.\076.txt,2,116,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+7,Sir John,129,./data/test/.\080.txt,2,128,False,5,100,True,False,1,False,False,True,False,False,False,False,False,False,False
+8,Sir Menzies,444,./data/test/.\082.txt,2,443,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+9,Executive Maeve,524,./data/test/.\087.txt,2,523,False,100,100,False,False,1,False,False,True,False,False,False,False,False,False,False
+10,Sir Archy,66,./data/test/.\116.txt,2,65,False,4,100,True,False,1,False,False,True,False,False,False,False,False,False,False
+11,Mr Howard,168,./data/test/.\141.txt,2,167,False,3,0,True,False,100,False,False,False,False,False,False,True,False,False,False
+12,Mr Howard,287,./data/test/.\141.txt,2,286,False,3,0,True,False,100,False,False,True,False,False,False,False,False,False,False
+13,Mrs Hassan,201,./data/test/.\150.txt,2,200,False,1,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+14,George W,181,./data/test/.\188.txt,2,180,False,2,2,False,False,1,False,False,True,False,False,False,False,False,False,False
+15,Mr Kennedy,298,./data/test/.\189.txt,2,297,False,100,3,True,False,100,False,False,False,False,False,False,False,False,False,False
+16,Mr Kerry,342,./data/test/.\189.txt,2,341,False,2,0,True,False,100,True,False,False,False,False,False,False,False,False,False
+17,Mr Bush,367,./data/test/.\189.txt,2,366,False,5,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+18,Mr Straw,123,./data/test/.\192.txt,2,122,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+19,Sir Menzies,201,./data/test/.\192.txt,2,200,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+20,Mr Begg,362,./data/test/.\192.txt,2,361,False,4,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+21,Mr Davis,150,./data/test/.\193.txt,2,149,False,100,2,True,False,100,False,False,False,False,False,False,False,False,False,False
+22,Mr Griffin,197,./data/test/.\201.txt,2,196,False,2,0,True,False,100,False,False,False,False,False,False,True,False,False,False
+23,Mr Leigh,177,./data/test/.\203.txt,2,176,False,5,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+24,Sir John,287,./data/test/.\203.txt,2,286,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+25,Mr Blunkett,374,./data/test/.\227.txt,2,373,False,100,2,True,False,100,False,False,False,False,False,False,False,False,False,False
+26,Mr Mousa,114,./data/test/.\229.txt,2,113,False,100,100,True,False,100,True,False,True,False,False,False,False,False,False,False
+27,Lord Justice,184,./data/test/.\229.txt,2,183,False,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+28,Mr Justice,188,./data/test/.\229.txt,2,187,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+29,Mr Mousa,215,./data/test/.\229.txt,2,214,False,2,0,True,False,100,False,False,False,False,False,False,False,False,False,False
+30,Mr Prescott,493,./data/test/.\261.txt,2,492,False,100,100,True,False,100,False,True,False,False,False,False,False,False,False,False
+31,Lord John,171,./data/test/.\295.txt,2,170,False,1,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+32,Dr Liam,29,./data/test/.\296.txt,2,28,False,2,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+33,Lord Archer,47,./data/test/.\296.txt,2,46,False,5,0,True,False,100,True,False,False,False,False,False,False,False,False,False
+34,Sir Teddy,220,./data/test/.\296.txt,2,219,False,100,100,True,False,1,False,False,True,False,False,False,False,False,False,False
+35,Teddy Taylor,221,./data/test/.\296.txt,2,220,False,100,3,False,False,2,False,False,True,False,False,False,False,False,False,False
+36,Mr Marrsaid,181,./data/test/.\401.txt,2,180,False,100,0,True,False,100,False,False,True,False,False,False,True,False,False,False
+37,Mr Brown,868,./data/test/.\406.txt,2,867,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+38,Sir Stanley,173,./data/test/.\410.txt,2,172,False,100,1,True,False,100,False,False,True,False,False,False,False,False,False,False
+39,Mr Blair Liberal,128,./data/test/.\087.txt,3,126,False,1,100,True,False,100,False,False,True,False,False,False,False,True,False,False
+40,Executive Maeve Sherlock,525,./data/test/.\087.txt,3,523,False,100,100,False,False,1,False,False,True,False,False,False,True,False,False,False
+41,Mr Brown Tory,407,./data/test/.\095.txt,3,405,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+42,Mr Brown Sir,78,./data/test/.\128.txt,3,76,False,100,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+43,Mr Straw's China,454,./data/test/.\136.txt,3,452,False,2,0,True,False,100,True,False,False,False,False,False,False,False,False,False
+44,Lord Justice Rix,185,./data/test/.\229.txt,3,183,False,5,100,True,False,100,False,False,True,False,False,False,False,False,False,False
+45,Mr Justice Forbes,189,./data/test/.\229.txt,3,187,False,100,0,True,False,100,False,False,False,False,False,False,False,False,False,False
+46,Lord Woolf -,35,./data/test/.\231.txt,3,33,False,2,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+47,Mr Davis Earlier,272,./data/test/.\234.txt,3,270,False,1,100,True,False,100,False,False,True,False,False,False,False,True,False,False
+48,Mr Brown -,869,./data/test/.\406.txt,3,867,False,100,100,True,False,100,False,False,False,False,False,False,False,False,False,False
+49,Mr Milburn -,920,./data/test/.\406.txt,3,918,False,100,2,True,False,100,False,False,False,False,True,False,False,False,False,False
