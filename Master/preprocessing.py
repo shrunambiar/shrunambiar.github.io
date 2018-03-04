@@ -114,8 +114,7 @@ dj = di.drop(di.index[remove_list])
 del di
 dj = dj.reset_index(drop=True)
 
-Countries = ['United States', 'British', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia','American', 'Europe', 'European', 'Pakistan', 'Palestinian', 'Scottish','Taiwan'
-'London', 'Asian', 'Asia', 'African', 'Wales']
+Countries = ['United States', 'Britain', 'UK', 'USA', 'United Kingdom', 'Russia', 'Europe', 'Pakistan','Taiwan', 'Asia', 'Africa', 'Wales', 'Italy']
 
 Days_n_months = ['Sunday', 'Monday', 'Wednesday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'January', 'February',
 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']

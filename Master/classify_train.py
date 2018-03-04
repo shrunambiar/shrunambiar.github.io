@@ -35,8 +35,8 @@ import numpy as np
 
 dftrain = pd.read_csv('classifier_input_train.csv')
 
-# features = ['All-Words', 'n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB']
-features = ['All-Words', 'n-gram', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE']
+features = ['All-Words', 'n-gram', 'PRE_DIST_VERB', 'POST_DIST_VERB', 'PrecedingTitle', 'PRE_DIST_FROM_THE', 'PRE_DIST_FROM_POSITION', 'NEGATIVE_FEATURE', 'POSITIVE_FEATURE', 'Surrounding_Caps','Apostrophe', 'POST_IS_PREPOSITION', 'RELATIONSHIP', 'POST_IS_SPEAK_VERB', 'PRE_IS_SPEAK_VERB']
+
 
 dataAll = dftrain[features].as_matrix()
 target = dftrain['classtype'].as_matrix()
@@ -47,7 +47,7 @@ fpl = []
 fnl = []
 data, target = shuffle_in_unison(data, target)
 
-nsplits = 5
+nsplits = 2
 skf = StratifiedKFold(n_splits=nsplits)
 skf.get_n_splits(data, target)
 print(skf)
