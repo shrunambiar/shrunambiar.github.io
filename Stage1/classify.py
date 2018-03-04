@@ -59,11 +59,6 @@ n = len(expected)
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
 
-df = pd.DataFrame(np.array(fpl))
-df.to_csv("fpl2.csv")
-
-df = pd.DataFrame(np.array(fnl))
-df.to_csv("fnl2.csv")
 #
 # l = zip(features, model.feature_importances_)
 # l.sort(key = lambda x:x[1], reverse=True)
