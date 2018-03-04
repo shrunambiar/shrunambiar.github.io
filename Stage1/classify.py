@@ -44,9 +44,6 @@ target = dftrain['classtype'].as_matrix()
 
 # data, target = shuffle_in_unison(data, target)
 
-fpl = []
-fnl = []
-
 # X_train, X_test, y_train, y_test = train_test_split(data, target, test_size=0.1)
 model = DecisionTreeClassifier()
 
@@ -58,12 +55,6 @@ expected = dftest['classtype'].as_matrix()
 predicted = model.predict(dftest[features].as_matrix())
 
 n = len(expected)
-
-for i in range(n):
-    if expected[i] == False and predicted[i] == True:
-        fpl.append(dftest.iloc[i])
-    elif expected[i] == True and predicted[i] == False:
-        fnl.append(dftest.iloc[i])
 
 print(metrics.classification_report(expected, predicted))
 print(metrics.confusion_matrix(expected, predicted))
@@ -113,23 +104,3 @@ for ele in extracted_entities:
 
 f.close()
 
-
-
-
-# newmodel = SelectFromModel(model)
-#
-# clf = Pipeline([
-#   ('feature_selection', newmodel),
-#   ('classification', DecisionTreeClassifier())
-#   ])
-# clf.fit(data, target)
-#
-#
-#
-#
-# expected = dftest['classtype'].as_matrix()
-#
-# predicted = clf.predict(dftest[features].as_matrix())
-# # summarize the fit of the model
-# print(metrics.classification_report(expected, predicted))
-# print(metrics.confusion_matrix(expected, predicted))
