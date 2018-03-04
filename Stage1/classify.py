@@ -90,8 +90,6 @@ for i in range(n):
     if predicted[i] == True:
         extracted_entities.append(dftest.iloc[i]['All-Words'])
 
-print precision_score(expected, predicted)
-
 f = open("extracted_entities.txt", "w")
 for ele in extracted_entities:
     f.write(ele)
