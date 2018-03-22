@@ -25,11 +25,15 @@ def lookup(driver, url):
             links = driver.find_elements_by_css_selector(selector)    
             print links     
             for i in range(0,5):
+                tempdriver = init_driver()
                 #links = driver.find_elements_by_css_selector(selector)
                 #print links.get_attribute("href")
                 links[i].click()
+                url1=driver.current_url
+                tempdriver.get(url1)
+                time.sleep(1)
                 string=""
-                string=driver.page_source
+                string=tempdriver.page_source
                 string=string.encode('utf-8')
                 f = open("output_%i.txt" %i,'w')
                 f.write(string)
@@ -37,7 +41,8 @@ def lookup(driver, url):
                 # sourcecode.append(string)
                 #driver.get(url)
                 driver.execute_script("window.history.go(-1)")
-                time.sleep(1)
+                tempdriver.quit()
+                
             driver.find_element_by_xpath("//span[contains(text(), 'Next')]").click()
             time.sleep(2)
             url=driver.current_url
