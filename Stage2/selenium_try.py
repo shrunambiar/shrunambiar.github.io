@@ -4,7 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
- 
+from selenium.webdriver.support.ui import WebDriverWait
+
  
 def init_driver():
     driver = webdriver.Firefox()
@@ -16,32 +17,41 @@ def init_driver():
 def lookup(driver, url):
     
     try:
-        
+        timeout = 5
         j=0
-        while(j<4):
+        while(j<175):
             # driver.get(url)
             url=driver.current_url
             selector = "div[class=\"_3wU53n\"]"
             links = driver.find_elements_by_css_selector(selector)    
             print links     
-            for i in range(0,5):
-                tempdriver = init_driver()
+            for i in range(0,23):
                 #links = driver.find_elements_by_css_selector(selector)
                 #print links.get_attribute("href")
-                links[i].click()
-                url1=driver.current_url
-                tempdriver.get(url1)
-                time.sleep(1)
+                try:
+                    links[i].click()
+                except Exception:
+                    pass
+                time.sleep(5)
+                driver.switch_to_window(driver.window_handles[1])
+                # try:
+                #     element_present = EC.presence_of_element_located((By.ID, 'vmXPri col col-3-12'))
+                #     WebDriverWait(driver, timeout).until(element_present)
+                # except TimeoutException:
+                #     print "Timed out waiting for page to load"
+                time.sleep(5)
                 string=""
-                string=tempdriver.page_source
+                string=driver.page_source
+                driver.close()
                 string=string.encode('utf-8')
-                f = open("output_%i.txt" %i,'w')
+                f = open("output_%i_%j.txt" %i%j,'w')
                 f.write(string)
                 f.close()
                 # sourcecode.append(string)
                 #driver.get(url)
-                driver.execute_script("window.history.go(-1)")
-                tempdriver.quit()
+                driver.switch_to_window(driver.window_handles[0])
+                #driver.execute_script("window.history.go(-1)")
+
                 
             driver.find_element_by_xpath("//span[contains(text(), 'Next')]").click()
             time.sleep(2)
