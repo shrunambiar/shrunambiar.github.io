@@ -5,9 +5,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
+from pyvirtualdisplay import Display
 
  
 def init_driver():
+    #display = Display(visible=0, size=(800, 600))
+    #display.start()
+    #driver = webdriver.Chrome()
     driver = webdriver.Firefox()
     driver.wait = WebDriverWait(driver, 5)
     return driver
@@ -19,44 +23,40 @@ def lookup(driver, url):
         timeout = 5
         j=61
         while(j<175):
-            # driver.get(url)
+            driver.get(url)
             url=driver.current_url
             selector = "//div[@class='makers']//ul//li"
-            links = driver.find_elements_by_xpath(selector)  
-            print len(links)     
+            links = driver.find_elements_by_xpath(selector)
+            while(len(links)==0):
+                links = driver.find_elements_by_xpath(selector)
+
             for i in range(0,len(links)):
                 print i
                 links = driver.find_elements_by_xpath(selector)
+                while (len(links) == 0):
+                    links = driver.find_elements_by_xpath(selector)
+
                 #links = driver.find_elements_by_css_selector(selector)
                 #print links.get_attribute("href")
-                print links[i]
-                try:
-                    links[i].click()
-                except Exception:
-                    pass
-                time.sleep(1)
-                while len(driver.window_handles)==1:
-                    links = driver.find_elements_by_xpath(selector)
-                    links[i].click()
-                    print "I'm waiting for the window"
-                driver.switch_to_window(driver.window_handles[1])
+                links[i].click()
+
                 # try:
                 #     element_present = EC.presence_of_element_located((By.ID, 'vmXPri col col-3-12'))
                 #     WebDriverWait(driver, timeout).until(element_present)
                 # except TimeoutException:
                 #     print "Timed out waiting for page to load"
-                time.sleep(5)
+                time.sleep(2)
                 string=""
                 string=driver.page_source
-                driver.close()
                 string=string.encode('utf-8')
-                f = open("./flipkart/output_" +str(i)+"_"+ str(j)+".html",'w')
+                f = open("./gsm/output_" +str(i)+"_"+ str(j)+".html",'w')
                 f.write(string)
                 f.close()
                 # sourcecode.append(string)
                 #driver.get(url)
-                driver.switch_to_window(driver.window_handles[0])
-                #driver.execute_script("window.history.go(-1)")
+                #driver.switch_to_window(driver.window_handles[0])
+                driver.get(url)
+                time.sleep(5)
 
             try:
                 driver.find_element_by_xpath("//div[@class='pages-next']").click()

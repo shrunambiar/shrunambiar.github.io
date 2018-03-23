@@ -17,12 +17,15 @@ def lookup(driver, url):
 
     try:
         timeout = 5
-        j=61
+        j=83
         while(j<175):
             # driver.get(url)
             url=driver.current_url
             selector = "div[class=\"_3wU53n\"]"
-            links = driver.find_elements_by_css_selector(selector)    
+            links = driver.find_elements_by_css_selector(selector)
+            while (len(links)==0):
+                driver.find_element_by_class("_2AkmmA _2QL3XM _3W4trT _1eFTEo").click()
+                links = driver.find_elements_by_css_selector(selector)
             print links     
             for i in range(0,len(links)):
                 links = driver.find_elements_by_css_selector(selector)
@@ -72,10 +75,10 @@ def lookup(driver, url):
  
 if __name__ == "__main__":
     driver = init_driver()
-    url="https://www.flipkart.com/search?as=off&as-show=on&otracker=start&page=62&q=cellphone&viewType=list"
+    url="https://www.flipkart.com/search?as=off&as-show=on&otracker=start&page=84&q=cellphone&viewType=list"
     driver.get(url)
-    # selector = "div[class=\"_3wU53n\"]"
-    # links=driver.find_elements_by_css_selector(selector)
+    selector = "div[class=\"_3wU53n\"]"
+    links=driver.find_elements_by_css_selector(selector)
     # print links
     # time.sleep(5) 
     #sourcecode=[]
