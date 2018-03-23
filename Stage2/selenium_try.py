@@ -12,13 +12,12 @@ def init_driver():
     driver.wait = WebDriverWait(driver, 5)
     return driver
  
- 
 
 def lookup(driver, url):
-    
+
     try:
         timeout = 5
-        j=0
+        j=61
         while(j<175):
             # driver.get(url)
             url=driver.current_url
@@ -26,6 +25,7 @@ def lookup(driver, url):
             links = driver.find_elements_by_css_selector(selector)    
             print links     
             for i in range(0,len(links)):
+                links = driver.find_elements_by_css_selector(selector)
                 #links = driver.find_elements_by_css_selector(selector)
                 #print links.get_attribute("href")
                 try:
@@ -34,6 +34,8 @@ def lookup(driver, url):
                     pass
                 time.sleep(1)
                 while len(driver.window_handles)==1:
+                    links = driver.find_elements_by_css_selector(selector)
+                    links[i].click()
                     print "I'm waiting for the window"
                 driver.switch_to_window(driver.window_handles[1])
                 # try:
@@ -70,7 +72,7 @@ def lookup(driver, url):
  
 if __name__ == "__main__":
     driver = init_driver()
-    url="https://www.flipkart.com/search?q=cellphone&otracker=start&as-show=on&as=off"
+    url="https://www.flipkart.com/search?as=off&as-show=on&otracker=start&page=62&q=cellphone&viewType=list"
     driver.get(url)
     # selector = "div[class=\"_3wU53n\"]"
     # links=driver.find_elements_by_css_selector(selector)
