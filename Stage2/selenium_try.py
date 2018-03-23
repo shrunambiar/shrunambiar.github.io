@@ -25,14 +25,16 @@ def lookup(driver, url):
             selector = "div[class=\"_3wU53n\"]"
             links = driver.find_elements_by_css_selector(selector)    
             print links     
-            for i in range(0,23):
+            for i in range(0,len(links)):
                 #links = driver.find_elements_by_css_selector(selector)
                 #print links.get_attribute("href")
                 try:
                     links[i].click()
                 except Exception:
                     pass
-                time.sleep(5)
+                time.sleep(1)
+                while len(driver.window_handles)==1:
+                    print "I'm waiting for the window"
                 driver.switch_to_window(driver.window_handles[1])
                 # try:
                 #     element_present = EC.presence_of_element_located((By.ID, 'vmXPri col col-3-12'))
@@ -44,7 +46,7 @@ def lookup(driver, url):
                 string=driver.page_source
                 driver.close()
                 string=string.encode('utf-8')
-                f = open("output_%i_%j.txt" %i%j,'w')
+                f = open("./flipkart/output_" +str(i)+"_"+ str(j)+".html",'w')
                 f.write(string)
                 f.close()
                 # sourcecode.append(string)
@@ -52,8 +54,11 @@ def lookup(driver, url):
                 driver.switch_to_window(driver.window_handles[0])
                 #driver.execute_script("window.history.go(-1)")
 
-                
-            driver.find_element_by_xpath("//span[contains(text(), 'Next')]").click()
+            try:
+                driver.find_element_by_xpath("//span[contains(text(), 'Next')]").click()
+            except Exception:
+                pass
+
             time.sleep(2)
             url=driver.current_url
             j=j+1
