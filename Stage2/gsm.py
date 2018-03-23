@@ -56,7 +56,7 @@ def lookup(driver, url):
                 #driver.get(url)
                 #driver.switch_to_window(driver.window_handles[0])
                 driver.get(url)
-                time.sleep(5)
+                time.sleep(2)
 
             try:
                 driver.find_element_by_xpath("//div[@class='pages-next']").click()
@@ -74,7 +74,7 @@ def lookup(driver, url):
  
 if __name__ == "__main__":
     driver = init_driver()
-    url="https://www.gsmarena.com/samsung-phones-9.php"
+    url="https://www.gsmarena.com/motorola-phones-4.php"
     driver.get(url)
     # selector = "div[class=\"_3wU53n\"]"
     # links=driver.find_elements_by_css_selector(selector)
