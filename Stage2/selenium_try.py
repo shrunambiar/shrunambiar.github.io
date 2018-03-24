@@ -17,8 +17,8 @@ def lookup(driver, url):
 
     try:
         timeout = 5
-        j=0
-        while(j<41):
+        j=69
+        while(j<83):
             url=driver.current_url
             driver.get(url)
             selector = "div[class=\"_3wU53n\"]"
@@ -52,7 +52,7 @@ def lookup(driver, url):
                 string=driver.page_source
                 driver.close()
                 string=string.encode('utf-8')
-                f = open("./flipkart/smartwatches_" +str(i)+"_"+ str(j)+".html",'w')
+                f = open("./flipkart/smartwatch" +str(j)+"_"+ str(i)+".html",'w')
                 f.write(string)
                 f.close()
                 # sourcecode.append(string)
@@ -76,7 +76,7 @@ def lookup(driver, url):
  
 if __name__ == "__main__":
     driver = init_driver()
-    url="https://www.flipkart.com/search?as=off&as-show=on&otracker=start&page=1&q=smartwatches&viewType=list"
+    url="https://www.flipkart.com/search?as=off&as-show=on&otracker=start&page=70&q=smartwatches&viewType=list"
     driver.get(url)
     selector = "div[class=\"_3wU53n\"]"
     links=driver.find_elements_by_css_selector(selector)
