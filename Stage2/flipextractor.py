@@ -52,7 +52,7 @@ def start_extract(ls):
     dk = df[original_columns]
     dk.to_csv("Extracted.csv", columns = original_columns, index = False)
     
-file_list = glob.glob("./test/*.html")
+file_list = glob.glob("./flipkart/*.html")
 #ls = ['flipkartpage.html','flipkartpage2.html','flipkartpage3.html','flipkartpage4.html','flipkartpage5.html']
 start_extract(file_list)
 
