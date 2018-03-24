@@ -15,14 +15,19 @@ def extract_flip(html):
 
     data = pd.DataFrame(columns = headers)
     values = []
+
     for x in d:
         values.append(x.get_text().encode('utf-8'))
     for x in c:
         values.append(x.get_text().encode('utf-8')[1:])
     for x in b:
         values.append(x.get_text().encode('utf-8'))
-
-    data.loc[0] = values
+    if len(values)==0:
+        return None
+    try:
+        data.loc[0] = values
+    except Exception:
+        pass
 
     return data
 
@@ -36,14 +41,18 @@ def start_extract(ls):
 
     df = pd.DataFrame(columns = original_columns)
     for i in ls:
-        df= pd.concat([df, extract_flip(i)], ignore_index=True)
+        temp = extract_flip(i)
+        if temp is None:
+            print "Skipped " + str(i)
+            continue
+        df= pd.concat([df,temp], ignore_index=True)
     column_list = df.columns
     new_columns = list(set(column_list)-set(original_columns))
     original_columns.extend(new_columns)
     dk = df[original_columns]
     dk.to_csv("Extracted.csv", columns = original_columns, index = False)
     
-file_list = glob.glob("./flipkart/*.html")
+file_list = glob.glob("./test/*.html")
 #ls = ['flipkartpage.html','flipkartpage2.html','flipkartpage3.html','flipkartpage4.html','flipkartpage5.html']
 start_extract(file_list)
 
