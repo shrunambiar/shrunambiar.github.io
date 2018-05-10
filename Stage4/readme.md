@@ -1,0 +1,10 @@
+The following is the description of each file:
+
+1. new1_1.csv and new2_1.csv: These files contains data extracted from flipkart.com and gsmarena.com. There are 3273 tuples in this file.The meaning of the table attributes are straightforward and is a direct interpretation of the column header. In these files, based on the cross validation results we have cleaned the 'Name' attribute to achieve better blocking. Here is a comprehensive list of table attributes : 2G bands, 3.5mm jack, 3G bands, 4G bands, Alert types, Announced ,Audio Jack, Audio quality, Battery, Battery life, Bluetooth, Bluetooth Support, Browser, Browser, Build , CPU, Camera Card slot, Chipset, Colors ,Dimensions, Display EDGE, Expandable Storage, Features, GPRS, GPRS Features, GPS, GPS Support, GPU, Instant Message, Internal, Internal Storage, Internet Connectivity, Loudspeaker Messaging, Multitouch, Music play, NFC, Name, OS, Performance, Price, Primary, Primary Camera, Available, Primary Camera, Features, Primary Clock Speed ,Protection, RAM, Radio, Resolution, SAR SAR EU, SIM , SMS, Secondary, Secondary Camera Available, Secondary Camera Features, Sensors Size, Speed, Stand-by, Status ,Talk time, Technology Type, USB Video, WLAN, Weight Wi-Fi Version.
+2. tuples_after_blocking.csv : This file consists of tuples that survive the blocking step.There are 830 tuples in this file
+3. sampled.csv : This file consists of 300 tuples sampled from the above tuples surviving the blocking step.
+4. labeled_data.csv: This file contains the labeled data corresponding to the 300 tuples sampled from the blocked tuples.
+5. training_split_after_cleaning.csv:This file contains the training set split of the features extracted from the labeled data.
+6. test_split_after_cleaning.csv:This file contains the test set split of the features extracted from the labeled data.
+7. sampledcross.csv: This file contains sampled data from the blocking step before the name attribute was cleaned. This blocking step had generated 1034 tuples.
+8. labeled_data1.csv: This file contains labeled data corresponding to the tuples in sampledcross.csv
